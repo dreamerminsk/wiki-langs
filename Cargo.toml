@@ -7,4 +7,5 @@ edition = "2018"
 
 [dependencies]
 html5ever = "*"
+reqwest = "*"
 scraper = "*"
