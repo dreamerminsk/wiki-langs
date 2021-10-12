@@ -1,11 +1,11 @@
-struct Z;
-struct S<T>(T);
+pub struct Z;
+pub struct S<T>(T);
 
-trait Add<Rhs> {
+pub trait Add<Rhs> {
     type Sum;
 }
 
-type SumOf<N, M> = <N as Add<M>>::Sum;
+pub type SumOf<N, M> = <N as Add<M>>::Sum;
 
 impl<N> Add<N> for Z {
     type Sum = N;
