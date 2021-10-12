@@ -18,7 +18,7 @@ where
     type Sum = SumOf<N, S<M>>;
 }
 
-type One = S<Z>;
+pub type One = S<Z>;
 type Two = SumOf<One, One>;
 type Three = SumOf<One, Two>;
 type Five = SumOf<Two, Three>;
