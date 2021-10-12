@@ -40,3 +40,7 @@ type Fifty = SumOf<TwentyFive, TwentyFive>;
 type OneHundred = SumOf<Fifty, Fifty>;
 
 type N = OneHundred;
+
+
+struct Nil;
+struct Cons<H, T>(H, T);
