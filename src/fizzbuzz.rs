@@ -44,3 +44,20 @@ type N = OneHundred;
 
 struct Nil;
 struct Cons<H, T>(H, T);
+
+trait RangeDownFrom {
+    type Output;
+}
+
+impl RangeDownFrom for Z {
+    type Output = Cons<Z, Nil>;
+}
+
+impl<N> RangeDownFrom for S<N>
+where
+    N: RangeDownFrom,
+{
+    type Output = Cons<S<N>, N::Output>;
+}
+
+type MakeRangeDownFrom<N> = <N as RangeDownFrom>::Output;
