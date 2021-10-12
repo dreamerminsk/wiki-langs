@@ -1,7 +1,6 @@
 extern crate reqwest;
 extern crate select;
 
-
 mod fizzbuzz;
 
 fn main() {
