@@ -10,4 +10,4 @@ html5ever = "*"
 reqwest = "*"
 scraper = "*"
 select = "*"
-tokio = "*"
+tokio = { version = "1", features = ["full"] }
