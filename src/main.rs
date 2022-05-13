@@ -1,6 +1,6 @@
 extern crate reqwest;
 extern crate select;
-#[tokio:main]
+#[tokio::main]
 fn main() {
     let content = reqwest::get("http://httpbin.org/range/26")
     .await?
