@@ -6,6 +6,7 @@ const SEEDINGS: &str = "http://www.snooker.org/res/index.asp?template=32&season=
 const SEASONPOINTS: &str = "http://www.snooker.org/res/index.asp?template=33&season=2021";
 
 const PLAYER: &str = "http://www.snooker.org/res/index.asp?player=";
+const EVENT : &str  =  "http://www.snooker.org/res/index.asp?event=";
 
 #[tokio::main]
 async fn main() -> Result<(), reqwest::Error> {
