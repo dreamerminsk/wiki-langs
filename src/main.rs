@@ -10,10 +10,7 @@ const EVENT: &str = "http://www.snooker.org/res/index.asp?event=";
 
 #[tokio::main]
 async fn main() -> Result<(), reqwest::Error> {
-    let content = reqwest::get(SEASONPOINTS)
-        .await?
-        .text()
-        .await?;
+    let content = reqwest::get(SEASONPOINTS).await?.text().await?;
     println!("{:?}", content);
     Ok(())
 }
