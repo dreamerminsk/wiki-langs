@@ -15,10 +15,6 @@ jobs:
           profile: minimal
           toolchain: stable
           components: rustfmt, clippy
-      - name: update
-        uses: actions-rs/cargo@v1
-        with:
-          command: update
       - name: build
         uses: actions-rs/cargo@v1
         with:
