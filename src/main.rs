@@ -1,14 +1,7 @@
 extern crate reqwest;
 extern crate select;
 
-
-
-
 mod snooker;
-
-
-
-
 
 #[tokio::main]
 async fn main() -> Result<(), reqwest::Error> {
