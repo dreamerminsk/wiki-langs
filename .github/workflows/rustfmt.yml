@@ -1,7 +1,7 @@
-on: 
+on:
   push:
     paths:
-      - **.rs
+      - '**.rs'
 
 name: Rustfmt
 
