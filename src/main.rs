@@ -9,7 +9,7 @@ const PLAYER: &str = "http://www.snooker.org/res/index.asp?player=";
 const EVENT: &str = "http://www.snooker.org/res/index.asp?event=";
 
 const RESULTS: &str = "http://www.snooker.org/res/index.asp?template=22&season=2021";
-const UPCOMINGMATCHES:    &str   =   "http://www.snooker.org/res/index.asp?template=24";
+const UPCOMINGMATCHES: &str = "http://www.snooker.org/res/index.asp?template=24";
 
 #[tokio::main]
 async fn main() -> Result<(), reqwest::Error> {
