@@ -8,13 +8,24 @@ use std::collections::HashSet;
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
-    let resp = reqwest::get("https://www.wireshark.org/download/").await?;
+    let resp = reqwest::get(snooker::UPCOMINGMATCHES).await?;
     println!("{}", resp.url().to_string());
 
+    let text = resp.text().await?;
 
-#[tokio::main]
-async fn main() -> Result<(), reqwest::Error> {
-    let content = reqwest::get(snooker::UPCOMINGMATCHES).await?.text().await?;
-    println!("{:?}", content);
+    let mut urls:HashSet<String> = HashSet::new();
+    let document = Html::parse_document(&text);
+    let selector = Selector::parse(r#"a"#).unwrap();
+    for title in document.select(&selector) {
+        let url = title.value().attr("href").expect("href not found").to_string();
+        if url != "/" || url != "." || url != ".." {
+            urls.insert(url);
+        }
+    }
+
+    for url in urls{
+        println!("{}", url);
+    }
+
     Ok(())
 }
