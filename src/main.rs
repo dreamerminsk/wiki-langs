@@ -13,17 +13,21 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
     let text = resp.text().await?;
 
-    let mut urls:HashSet<String> = HashSet::new();
+    let mut urls: HashSet<String> = HashSet::new();
     let document = Html::parse_document(&text);
     let selector = Selector::parse(r#"a"#).unwrap();
     for title in document.select(&selector) {
-        let url = title.value().attr("href").expect("href not found").to_string();
+        let url = title
+            .value()
+            .attr("href")
+            .expect("href not found")
+            .to_string();
         if url != "/" || url != "." || url != ".." {
             urls.insert(url);
         }
     }
 
-    for url in urls{
+    for url in urls {
         println!("{}", url);
     }
 
