@@ -1,7 +1,5 @@
 pub const HOST: &str = "http://www.snooker.org";
 
-
-
 pub const RESULTS: &str = "/res/index.asp?template=22&season={}";
 pub const UPCOMINGMATCHES: &str = "/res/index.asp?template=24";
 
