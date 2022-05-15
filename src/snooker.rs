@@ -1,9 +1,13 @@
-pub const RESULTS: &str = "http://www.snooker.org/res/index.asp?template=22&season=2021";
-pub const UPCOMINGMATCHES: &str = "http://www.snooker.org/res/index.asp?template=24";
+pub const HOST: &str = "http://www.snooker.org";
 
-pub const RANKINGS: &str = "http://www.snooker.org/res/index.asp?template=31&season=2021";
-pub const SEEDINGS: &str = "http://www.snooker.org/res/index.asp?template=32&season=2021";
-pub const SEASONPOINTS: &str = "http://www.snooker.org/res/index.asp?template=33&season=2021";
 
-pub const PLAYER: &str = "http://www.snooker.org/res/index.asp?player=";
-pub const EVENT: &str = "http://www.snooker.org/res/index.asp?event=";
+
+pub const RESULTS: &str = "/res/index.asp?template=22&season={}";
+pub const UPCOMINGMATCHES: &str = "/res/index.asp?template=24";
+
+pub const RANKINGS: &str = "/res/index.asp?template=31&season={}";
+pub const SEEDINGS: &str = "/res/index.asp?template=32&season={}";
+pub const SEASONPOINTS: &str = "/res/index.asp?template=33&season={}";
+
+pub const PLAYER: &str = "/res/index.asp?player={}";
+pub const EVENT: &str = "/res/index.asp?event={}";
