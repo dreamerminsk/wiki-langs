@@ -20,7 +20,7 @@ fn parse_links(text: &str) -> HashSet<String> {
             urls.insert(url);
         }
     }
-    urls;
+    urls
 }
 
 #[tokio::main]
