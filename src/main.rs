@@ -30,7 +30,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
     let text = resp.text().await?;
 
-    let mut urls: HashSet<String> = parse_links(&text);
+    let urls = parse_links(&text);
 
     for url in urls {
         println!("{}", url);
