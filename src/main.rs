@@ -6,6 +6,13 @@ mod snooker;
 use scraper::{Html, Selector};
 use std::collections::HashSet;
 
+
+fn parse_links(text: &str) -> HashSet<String> {
+
+}
+
+
+
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let resp = reqwest::get(snooker::UPCOMINGMATCHES).await?;
