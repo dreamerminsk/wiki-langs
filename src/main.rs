@@ -7,7 +7,7 @@ use scraper::{Html, Selector};
 use std::collections::HashSet;
 
 fn parse_links(text: &str) -> HashSet<String> {
-   let mut urls: HashSet<String> = HashSet::new();
+    let mut urls: HashSet<String> = HashSet::new();
     let document = Html::parse_document(&text);
     let selector = Selector::parse(r#"a"#).unwrap();
     for title in document.select(&selector) {
@@ -20,7 +20,7 @@ fn parse_links(text: &str) -> HashSet<String> {
             urls.insert(url);
         }
     }
-urls;
+    urls;
 }
 
 #[tokio::main]
