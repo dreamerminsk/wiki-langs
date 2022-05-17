@@ -1,6 +1,5 @@
 extern crate reqwest;
 
-
 mod snooker;
 
 use scraper::{Html, Selector};
