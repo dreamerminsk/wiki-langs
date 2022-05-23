@@ -1,8 +1,5 @@
 extern crate reqwest;
 
-
-
-
 extern crate scraper;
 
 mod snooker;
