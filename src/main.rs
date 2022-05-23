@@ -1,5 +1,10 @@
 extern crate reqwest;
 
+
+
+
+extern crate scraper;
+
 mod snooker;
 
 use scraper::{Html, Selector};
@@ -24,7 +29,7 @@ fn parse_links(text: &str) -> HashSet<String> {
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
-    let resp = reqwest::get(snooker::UPCOMINGMATCHES).await?;
+    let resp = reqwest::get(snooker::UPCOMING_MATCHES).await?;
     println!("{}", resp.url().to_string());
 
     let text = resp.text().await?;
