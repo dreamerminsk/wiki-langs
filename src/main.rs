@@ -12,11 +12,7 @@ fn parse_links(text: &str) -> HashSet<String> {
     let document = Html::parse_document(&text);
     let selector = Selector::parse(r#"a"#).unwrap();
     for a in document.select(&selector) {
-        let url = a
-            .value()
-            .attr("href")
-            .expect("href not found")
-            .to_string();
+        let url = a.value().attr("href").expect("href not found").to_string();
         let title = a.text().nth(0).unwrap();
         if url != "/" || url != "." || url != ".." {
             urls.insert(url);
