@@ -10,8 +10,8 @@ pub struct Link {
     title: String,
 }
 
-impl From<ElementRef<'_>> for Link {
-    fn from(item: ElementRef) -> Self {
+impl<'a> From<ElementRef<'a>> for Link {
+    fn from(item: ElementRef<'a>) -> Self {
         Link {
             url: item.value().attr("href").unwrap().to_string(),
             title: item.text().nth(0).unwrap().to_string(),
