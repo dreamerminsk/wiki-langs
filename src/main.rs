@@ -25,7 +25,7 @@ fn parse_links(text: &str) -> HashSet<String> {
     let document = Html::parse_document(&text);
     let selector = Selector::parse(r#"a"#).unwrap();
     for a in document.select(&selector) {
-            urls.insert(Link::from(&a));
+        urls.insert(Link::from(&a));
     }
     urls
 }
