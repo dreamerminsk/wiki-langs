@@ -11,7 +11,7 @@ pub struct Link {
     title: String,
 }
 
-impl From<ElementRef> for Link {
+impl From<ElementRef<'_>> for Link {
     fn from(item: ElementRef) -> Self {
         Link {
             url: item.value().attr("href").unwrap().to_string(),
