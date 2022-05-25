@@ -7,12 +7,9 @@ mod snooker;
 use scraper::{Html, Selector};
 use std::collections::HashSet;
 
-
-
-
 pub struct Link {
-url:String,
-title:String,
+    url: String,
+    title: String,
 }
 
 fn parse_links(text: &str) -> HashSet<String> {
