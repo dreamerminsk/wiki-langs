@@ -1,6 +1,6 @@
 mod snooker;
 
-use scraper::{Html, Selector};
+use scraper::{Html, Selector,ElementRef};
 use std::collections::HashSet;
 
 use std::convert::From;
@@ -11,14 +11,21 @@ pub struct Link {
     title: String,
 }
 
-impl From<String> for Link {
-    fn from(item: String) -> Self {
+
+
+
+
+impl From<ElementRef> for Link {
+    fn from(item: &ElementRef) -> Self {
         Link {
-            url: item.clone(),
-            title: item.clone(),
+            url: item.value().attr("href").unwrap().to_string(),
+            title: item.text().nth(0).unwrap().to_string(),
         }
     }
 }
+
+
+
 
 fn parse_links(text: &str) -> HashSet<String> {
     let mut urls: HashSet<String> = HashSet::new();
