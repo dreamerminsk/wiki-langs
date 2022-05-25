@@ -3,10 +3,29 @@ mod snooker;
 use scraper::{Html, Selector};
 use std::collections::HashSet;
 
+
+
+use std::convert::From;
+
+
+#[derive(Debug)]
 pub struct Link {
     url: String,
     title: String,
 }
+
+
+
+
+
+
+impl From<String> for Link {
+    fn from(item: &String) -> Self {
+        Link { url: item }
+    }
+}
+
+
 
 fn parse_links(text: &str) -> HashSet<String> {
     let mut urls: HashSet<String> = HashSet::new();
