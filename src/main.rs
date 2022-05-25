@@ -13,7 +13,10 @@ pub struct Link {
 
 impl From<String> for Link {
     fn from(item: String) -> Self {
-        Link { url: item.clone(), title: item.clone(), }
+        Link {
+            url: item.clone(),
+            title: item.clone(),
+        }
     }
 }
 
