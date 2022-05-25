@@ -5,14 +5,14 @@ use std::collections::HashSet;
 
 use std::convert::From;
 
-#[derive(Debug)]
+#[derive(Debug, Eq, PartialEq, Hash)]
 pub struct Link {
     url: String,
     title: String,
 }
 
-impl From<ElementRef> for Link {
-    fn from(item: &ElementRef) -> Self {
+impl From<ElementRef<'_>> for Link {
+    fn from(item: ElementRef) -> Self {
         Link {
             url: item.value().attr("href").unwrap().to_string(),
             title: item.text().nth(0).unwrap().to_string(),
@@ -20,16 +20,12 @@ impl From<ElementRef> for Link {
     }
 }
 
-fn parse_links(text: &str) -> HashSet<String> {
-    let mut urls: HashSet<String> = HashSet::new();
+fn parse_links(text: &str) -> HashSet<Link> {
+    let mut urls: HashSet<Link> = HashSet::new();
     let document = Html::parse_document(&text);
     let selector = Selector::parse(r#"a"#).unwrap();
     for a in document.select(&selector) {
-        let url = a.value().attr("href").expect("href not found").to_string();
-        let title = a.text().nth(0).unwrap();
-        if url != "/" || url != "." || url != ".." {
-            urls.insert(url);
-        }
+        urls.insert(Link::from(a));
     }
     urls
 }
@@ -37,14 +33,14 @@ fn parse_links(text: &str) -> HashSet<String> {
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let resp = reqwest::get(snooker::UPCOMING_MATCHES).await?;
-    println!("{}", resp.url().to_string());
+    println!("{:#?}", resp.url().to_string());
 
     let text = resp.text().await?;
 
     let urls = parse_links(&text);
 
     for url in urls {
-        println!("{}", url);
+        println!("{:#?}", url);
     }
 
     Ok(())
