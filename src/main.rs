@@ -5,14 +5,14 @@ use std::collections::HashSet;
 
 use std::convert::From;
 
-#[derive(Debug)]
+#[derive(Debug,Eq,PartialEq,Hash)]
 pub struct Link {
     url: String,
     title: String,
 }
 
 impl From<ElementRef> for Link {
-    fn from(item: &ElementRef) -> Self {
+    fn from(item: ElementRef) -> Self {
         Link {
             url: item.value().attr("href").unwrap().to_string(),
             title: item.text().nth(0).unwrap().to_string(),
@@ -20,7 +20,7 @@ impl From<ElementRef> for Link {
     }
 }
 
-fn parse_links(text: &str) -> HashSet<String> {
+fn parse_links(text: &str) -> HashSet<Link> {
     let mut urls: HashSet<Link> = HashSet::new();
     let document = Html::parse_document(&text);
     let selector = Selector::parse(r#"a"#).unwrap();
