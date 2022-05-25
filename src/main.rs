@@ -1,5 +1,3 @@
-
-
 mod snooker;
 
 use scraper::{Html, Selector};
