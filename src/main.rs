@@ -25,7 +25,7 @@ fn parse_links(text: &str) -> HashSet<Link> {
     let document = Html::parse_document(&text);
     let selector = Selector::parse(r#"a"#).unwrap();
     for a in document.select(&selector) {
-        urls.insert(Link::from(&a));
+        urls.insert(Link::from(a));
     }
     urls
 }
@@ -33,14 +33,14 @@ fn parse_links(text: &str) -> HashSet<Link> {
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let resp = reqwest::get(snooker::UPCOMING_MATCHES).await?;
-    println!("{}", resp.url().to_string());
+    println!("{:#?}", resp.url().to_string());
 
     let text = resp.text().await?;
 
     let urls = parse_links(&text);
 
     for url in urls {
-        println!("{}", url);
+        println!("{:#?}", url);
     }
 
     Ok(())
