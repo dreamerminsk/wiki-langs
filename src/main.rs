@@ -2,7 +2,6 @@ use html::Link;
 use scraper::{ElementRef, Html, Selector};
 use std::collections::BTreeSet;
 
-
 mod html;
 
 mod snooker;
