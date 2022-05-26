@@ -23,7 +23,7 @@ fn parse_links(text: &str) -> HashSet<Link> {
     let mut urls: HashSet<Link> = HashSet::new();
     let document = Html::parse_document(&text);
     let selector = Selector::parse(r#"a"#).unwrap();
-    document.select(&selector).map().collect::<BTreeSet>();
+    let urls2=document.select(&selector).map(|x| Link::from(x)).collect::<BTreeSet>();
     for a in document.select(&selector) {
         urls.insert(Link::from(a));
     }
