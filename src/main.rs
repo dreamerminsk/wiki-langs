@@ -1,7 +1,7 @@
-use std::error::Error;
 use html::Link;
 use scraper::{ElementRef, Html, Selector};
 use std::collections::BTreeSet;
+use std::error::Error;
 
 mod html;
 
