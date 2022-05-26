@@ -10,6 +10,15 @@ pub struct Link {
     title: String,
 }
 
+
+
+impl PartialEq for Link {
+    fn eq(&self, other: &Self) -> bool {
+        self.url == other.url
+    }
+}
+impl Eq for Link {}
+
 impl<'a> From<ElementRef<'a>> for Link {
     fn from(item: ElementRef<'a>) -> Self {
         Link {
