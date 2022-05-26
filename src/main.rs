@@ -1,12 +1,20 @@
-mod snooker;
-
 use scraper::{ElementRef, Html, Selector};
 use std::cmp::Ordering;
 use std::collections::BTreeSet;
 use std::convert::From;
 use std::hash::{Hash, Hasher};
+use html::Link;
+
+
+
+
+
+
 
 mod html;
+
+
+mod snooker;
 
 fn parse_links(text: &str) -> BTreeSet<Link> {
     let document = Html::parse_document(text);
