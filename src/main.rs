@@ -1,7 +1,7 @@
 mod snooker;
 
 use scraper::{ElementRef, Html, Selector};
-use std::collections::{HashSet,BTreeSet};
+use std::collections::{BTreeSet, HashSet};
 use std::convert::From;
 
 #[derive(Debug, Ord, PartialOrd, Eq, PartialEq, Hash)]
