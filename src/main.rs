@@ -17,7 +17,7 @@ fn parse_links(text: &str) -> BTreeSet<Link> {
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
-    let resp = reqwest::get(snooker::UPCOMING_MATCHES).await?;
+    let resp = reqwest::get(format!("{}{}", snooker::HOST,snooker::UPCOMING_MATCHES)).await?;
     println!("{:#?}", resp.url().to_string());
 
     let text = resp.text().await?;
