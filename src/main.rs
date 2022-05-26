@@ -1,3 +1,4 @@
+use std::error::Error;
 use html::Link;
 use scraper::{ElementRef, Html, Selector};
 use std::collections::BTreeSet;
@@ -16,7 +17,7 @@ fn parse_links(text: &str) -> BTreeSet<Link> {
 }
 
 #[tokio::main]
-async fn main() -> Result<(), Box<dyn std::error::Error>> {
+async fn main() -> Result<(), Box<dyn Error>> {
     let resp = reqwest::get(format!("{}{}", snooker::HOST, snooker::UPCOMING_MATCHES)).await?;
     println!("{:#?}", resp.url().to_string());
 
