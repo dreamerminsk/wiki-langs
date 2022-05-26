@@ -25,7 +25,7 @@ fn parse_links(text: &str) -> BTreeSet<Link> {
     document
         .select(&selector)
         .map(|x| Link::from(x))
-        .collect::<BTreeSet>()
+        .collect::<BTreeSet<Link>>()
 }
 
 #[tokio::main]
