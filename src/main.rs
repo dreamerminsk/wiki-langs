@@ -1,7 +1,7 @@
 mod snooker;
 
 use scraper::{ElementRef, Html, Selector};
-use std::collections::HashSet;
+use std::collections::{HashSet,BTreeSet};
 use std::convert::From;
 
 #[derive(Debug, Ord, PartialOrd, Eq, PartialEq, Hash)]
@@ -23,6 +23,7 @@ fn parse_links(text: &str) -> HashSet<Link> {
     let mut urls: HashSet<Link> = HashSet::new();
     let document = Html::parse_document(&text);
     let selector = Selector::parse(r#"a"#).unwrap();
+    document.select(&selector).map().collect::<BTreeSet>();
     for a in document.select(&selector) {
         urls.insert(Link::from(a));
     }
