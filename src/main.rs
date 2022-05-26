@@ -1,7 +1,7 @@
 mod snooker;
 
-use std::cmp::Ordering;
 use scraper::{ElementRef, Html, Selector};
+use std::cmp::Ordering;
 use std::collections::BTreeSet;
 use std::convert::From;
 
@@ -11,16 +11,11 @@ pub struct Link {
     title: String,
 }
 
-
-
 impl Ord for Link {
     fn cmp(&self, other: &Self) -> Ordering {
         self.url.cmp(&other.url)
     }
 }
-
-
-
 
 impl PartialOrd for Link {
     fn partial_cmp(&self, other: &Self) -> Option<Ordering> {
@@ -28,22 +23,13 @@ impl PartialOrd for Link {
     }
 }
 
-
-
-
 impl PartialEq for Link {
     fn eq(&self, other: &Self) -> bool {
         self.url == other.url
     }
 }
 
-
-
-
 impl Eq for Link {}
-
-
-
 
 impl<'a> From<ElementRef<'a>> for Link {
     fn from(item: ElementRef<'a>) -> Self {
@@ -54,15 +40,12 @@ impl<'a> From<ElementRef<'a>> for Link {
     }
 }
 
-
-
-
 fn parse_links(text: &str) -> BTreeSet<Link> {
     let document = Html::parse_document(&text);
     let selector = Selector::parse(r#"a"#).unwrap();
     document
         .select(&selector)
-        .map( Link::from )
+        .map(Link::from)
         .collect::<BTreeSet<Link>>()
 }
 
