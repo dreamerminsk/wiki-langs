@@ -4,8 +4,11 @@ use scraper::{ElementRef, Html, Selector};
 use std::cmp::Ordering;
 use std::collections::BTreeSet;
 use std::convert::From;
+use std::hash::{Hash, Hasher};
 
-#[derive(Debug, Hash)]
+
+
+#[derive(Debug)]
 pub struct Link {
     url: String,
     title: String,
@@ -30,6 +33,19 @@ impl PartialEq for Link {
 }
 
 impl Eq for Link {}
+
+
+
+
+
+impl Hash for Link {
+    fn hash<H: Hasher>(&self, state: &mut H) {
+        self.url.hash(state);
+    }
+}
+
+
+
 
 impl<'a> From<ElementRef<'a>> for Link {
     fn from(item: ElementRef<'a>) -> Self {
