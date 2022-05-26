@@ -1,12 +1,7 @@
-
-use scraper::{ElementRef};
+use scraper::ElementRef;
 use std::cmp::Ordering;
 use std::convert::From;
 use std::hash::{Hash, Hasher};
-
-
-
-
 
 #[derive(Debug)]
 pub struct Link {
