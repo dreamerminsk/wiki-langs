@@ -1,10 +1,10 @@
 mod snooker;
 
 use scraper::{ElementRef, Html, Selector};
-use std::collections::{BTreeSet, HashSet};
+use std::collections::BTreeSet;
 use std::convert::From;
 
-#[derive(Debug, Ord, PartialOrd, Eq, PartialEq, Hash)]
+#[derive(Debug, Ord, PartialOrd, Hash)]
 pub struct Link {
     url: String,
     title: String,
