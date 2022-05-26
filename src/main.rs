@@ -1,18 +1,11 @@
+use html::Link;
 use scraper::{ElementRef, Html, Selector};
 use std::cmp::Ordering;
 use std::collections::BTreeSet;
 use std::convert::From;
 use std::hash::{Hash, Hasher};
-use html::Link;
-
-
-
-
-
-
 
 mod html;
-
 
 mod snooker;
 
