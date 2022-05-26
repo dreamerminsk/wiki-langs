@@ -10,8 +10,6 @@ pub struct Link {
     title: String,
 }
 
-
-
 impl PartialEq for Link {
     fn eq(&self, other: &Self) -> bool {
         self.url == other.url
