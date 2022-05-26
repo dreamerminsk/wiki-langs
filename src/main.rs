@@ -19,18 +19,13 @@ impl<'a> From<ElementRef<'a>> for Link {
     }
 }
 
-fn parse_links(text: &str) -> HashSet<Link> {
-    let mut urls: HashSet<Link> = HashSet::new();
+fn parse_links(text: &str) -> BTreeSet<Link> {
     let document = Html::parse_document(&text);
     let selector = Selector::parse(r#"a"#).unwrap();
-    let urls2 = document
+    document
         .select(&selector)
         .map(|x| Link::from(x))
-        .collect::<BTreeSet>();
-    for a in document.select(&selector) {
-        urls.insert(Link::from(a));
-    }
-    urls
+        .collect::<BTreeSet<Link>>()
 }
 
 #[tokio::main]
