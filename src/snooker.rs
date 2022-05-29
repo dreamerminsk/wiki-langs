@@ -1,3 +1,12 @@
+
+use std::cmp::Ordering;
+use std::convert::From;
+use std::hash::{Hash, Hasher};
+
+
+
+
+
 pub const HOST: &str = "http://www.snooker.org";
 
 pub const RESULTS: &str = "/res/index.asp?template=22&season={}";
@@ -10,10 +19,56 @@ pub const POINTS: &str = "/res/index.asp?template=33&season={}";
 pub const PLAYER: &str = "/res/index.asp?player={}";
 pub const EVENT: &str = "/res/index.asp?event={}";
 
+
+
+#[derive(Debug)]
 pub struct PlayerLink {
-    id: u32,
-    name: String,
+    snooker_id: u32,
+    full_name: String,
 }
+
+
+
+
+
+impl Ord for PlayerLink {
+    fn cmp(&self, other: &Self) -> Ordering {
+        self.snooker_id.cmp(&other.snooker_id)
+    }
+}
+
+impl PartialOrd for PlayerLink {
+    fn partial_cmp(&self, other: &Self) -> Option<Ordering> {
+        Some(self.cmp(other))
+    }
+}
+
+impl PartialEq for PlayerLink {
+    fn eq(&self, other: &Self) -> bool {
+        self.snooker_id == other.snooker_id
+    }
+}
+
+impl Eq for PlayerLink {}
+
+impl Hash for PlayerLink {
+    fn hash<H: Hasher>(&self, state: &mut H) {
+        self.snooker_id.hash(state);
+    }
+}
+
+impl<'a> From<Link> for PlayerLink {
+    fn from(item: Link) -> Self {
+        PlayerLink {
+            snooker_id: 0,
+            full_name: "".to_string(),
+        }
+    }
+}
+
+
+
+
 
 pub struct EventLink {
     id: u32,
