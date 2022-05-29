@@ -1,5 +1,5 @@
 use html::Link;
-use scraper::{ElementRef, Html, Selector};
+use scraper::{Html, Selector};
 use std::collections::BTreeSet;
 use std::error::Error;
 
