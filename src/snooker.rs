@@ -1,7 +1,7 @@
+use html::Link;
 use std::cmp::Ordering;
 use std::convert::From;
 use std::hash::{Hash, Hasher};
-use html::Link;
 
 pub const HOST: &str = "http://www.snooker.org";
 
@@ -56,16 +56,11 @@ impl<'a> From<Link> for PlayerLink {
     }
 }
 
-
-
 #[derive(Debug)]
 pub struct EventLink {
     snooker_id: u32,
     title: String,
 }
-
-
-
 
 impl Ord for EventLink {
     fn cmp(&self, other: &Self) -> Ordering {
