@@ -1,4 +1,4 @@
-use html::Link;
+use crate::html::Link;
 use std::cmp::Ordering;
 use std::convert::From;
 use std::hash::{Hash, Hasher};
