@@ -1,11 +1,6 @@
-
 use std::cmp::Ordering;
 use std::convert::From;
 use std::hash::{Hash, Hasher};
-
-
-
-
 
 pub const HOST: &str = "http://www.snooker.org";
 
@@ -19,17 +14,11 @@ pub const POINTS: &str = "/res/index.asp?template=33&season={}";
 pub const PLAYER: &str = "/res/index.asp?player={}";
 pub const EVENT: &str = "/res/index.asp?event={}";
 
-
-
 #[derive(Debug)]
 pub struct PlayerLink {
     snooker_id: u32,
     full_name: String,
 }
-
-
-
-
 
 impl Ord for PlayerLink {
     fn cmp(&self, other: &Self) -> Ordering {
@@ -65,10 +54,6 @@ impl<'a> From<Link> for PlayerLink {
         }
     }
 }
-
-
-
-
 
 pub struct EventLink {
     id: u32,
