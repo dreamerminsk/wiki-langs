@@ -1,3 +1,4 @@
+use html::Link;
 use std::cmp::Ordering;
 use std::convert::From;
 use std::hash::{Hash, Hasher};
@@ -55,7 +56,43 @@ impl<'a> From<Link> for PlayerLink {
     }
 }
 
+#[derive(Debug)]
 pub struct EventLink {
-    id: u32,
+    snooker_id: u32,
     title: String,
+}
+
+impl Ord for EventLink {
+    fn cmp(&self, other: &Self) -> Ordering {
+        self.snooker_id.cmp(&other.snooker_id)
+    }
+}
+
+impl PartialOrd for EventLink {
+    fn partial_cmp(&self, other: &Self) -> Option<Ordering> {
+        Some(self.cmp(other))
+    }
+}
+
+impl PartialEq for EventLink {
+    fn eq(&self, other: &Self) -> bool {
+        self.snooker_id == other.snooker_id
+    }
+}
+
+impl Eq for EventLink {}
+
+impl Hash for EventLink {
+    fn hash<H: Hasher>(&self, state: &mut H) {
+        self.snooker_id.hash(state);
+    }
+}
+
+impl<'a> From<Link> for EventLink {
+    fn from(item: Link) -> Self {
+        EventLink {
+            snooker_id: 0,
+            title: "".to_string(),
+        }
+    }
 }
