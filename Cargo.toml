@@ -12,3 +12,4 @@ reqwest = "*"
 scraper = "*"
 select = "*"
 tokio = { version = "1", features = ["full"] }
+url = "*"
