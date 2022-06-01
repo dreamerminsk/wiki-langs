@@ -1,9 +1,9 @@
 use crate::html::Link;
 use std::cmp::Ordering;
+use std::collections::HashMap;
 use std::convert::From;
 use std::hash::{Hash, Hasher};
 use url::Url;
-use std::collections::HashMap;
 
 pub const HOST: &str = "http://www.snooker.org";
 
@@ -17,11 +17,9 @@ pub const POINTS: &str = "/res/index.asp?template=33&season={}";
 pub const PLAYER: &str = "/res/index.asp?player={}";
 pub const EVENT: &str = "/res/index.asp?event={}";
 
-
 fn query(u: Url) -> HashMap<String, String> {
-   u.query_pairs().into_owned().collect()
+    u.query_pairs().into_owned().collect()
 }
-
 
 #[derive(Debug)]
 pub struct PlayerLink {
