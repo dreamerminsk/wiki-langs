@@ -15,7 +15,7 @@ pub const SEEDINGS: &str = "/res/index.asp?template=32&season={}";
 pub const POINTS: &str = "/res/index.asp?template=33&season={}";
 
 pub const PLAYER: &str = "/res/index.asp?player=";
-pub const EVENT: &str = "/res/index.asp?event={}";
+pub const EVENT: &str = "/res/index.asp?event=";
 
 fn query(u: Url) -> HashMap<String, String> {
     u.query_pairs().into_owned().collect()
@@ -107,11 +107,29 @@ impl Hash for EventLink {
     }
 }
 
-impl<'a> From<Link> for EventLink {
-    fn from(item: Link) -> Self {
-        EventLink {
-            snooker_id: 0,
-            title: "".to_string(),
+
+
+
+
+
+impl TryFrom<Link> for EventLink {
+    type Error = &'static str;
+
+    fn try_from(value: Link) -> Result<Self, Self::Error> {
+        if value.url.starts_with(EVENT) {
+            let snooker_id = value
+                .url
+                .chars()
+                .filter(|c| c.is_digit(10))
+                .collect::<String>()
+                .parse::<u32>()
+                .unwrap_or(0);
+            Ok(EventLink {
+                snooker_id: snooker_id,
+                title: value.title,
+            })
+        } else {
+            Err("GreaterThanZero only accepts value superior than zero!")
         }
     }
 }
