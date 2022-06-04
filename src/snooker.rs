@@ -63,7 +63,7 @@ impl TryFrom<Link> for PlayerLink {
                 .chars()
                 .filter(|c| c.is_digit(10))
                 .collect::<String>()
-                .parse::<usize>()
+                .parse::<u32>()
                 .unwrap_or(0);
             Ok(PlayerLink {
                 snooker_id: snooker_id,
