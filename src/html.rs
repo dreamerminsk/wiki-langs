@@ -5,8 +5,8 @@ use std::hash::{Hash, Hasher};
 
 #[derive(Debug)]
 pub struct Link {
-    url: String,
-    title: String,
+    pub url: String,
+    pub title: String,
 }
 
 impl Ord for Link {

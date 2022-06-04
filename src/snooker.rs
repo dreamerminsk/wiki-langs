@@ -1,7 +1,7 @@
 use crate::html::Link;
 use std::cmp::Ordering;
 use std::collections::HashMap;
-use std::convert::From;
+use std::convert::{From, TryFrom};
 use std::hash::{Hash, Hasher};
 use url::Url;
 
@@ -14,7 +14,7 @@ pub const RANKINGS: &str = "/res/index.asp?template=31&season={}";
 pub const SEEDINGS: &str = "/res/index.asp?template=32&season={}";
 pub const POINTS: &str = "/res/index.asp?template=33&season={}";
 
-pub const PLAYER: &str = "/res/index.asp?player={}";
+pub const PLAYER: &str = "/res/index.asp?player=";
 pub const EVENT: &str = "/res/index.asp?event={}";
 
 fn query(u: Url) -> HashMap<String, String> {
@@ -53,11 +53,17 @@ impl Hash for PlayerLink {
     }
 }
 
-impl<'a> From<Link> for PlayerLink {
-    fn from(item: Link) -> Self {
-        PlayerLink {
-            snooker_id: 0,
-            full_name: "".to_string(),
+impl TryFrom<Link> for PlayerLink {
+    type Error = &'static str;
+
+    fn try_from(value: Link) -> Result<Self, Self::Error> {
+        if value.url.starts_with(PLAYER) {
+            Ok(PlayerLink {
+                snooker_id: 0,
+                full_name: value.title,
+            })
+        } else {
+            Err("GreaterThanZero only accepts value superior than zero!")
         }
     }
 }
