@@ -62,7 +62,11 @@ impl<'a> From<Link> for PlayerLink {
     }
 }
 
-struct GreaterThanZero(i32);
+
+
+
+
+
 
 impl TryFrom<Link> for PlayerLink {
     type Error = &'static str;
@@ -71,7 +75,7 @@ impl TryFrom<Link> for PlayerLink {
         if value.url.starts_with(PLAYER) {
             Ok(PlayerLink {
                 snooker_id: 0,
-                full_name: "".to_string(),
+                full_name:     value.title,
             })
         } else {
             Err("GreaterThanZero only accepts value superior than zero!")
