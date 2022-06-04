@@ -1,7 +1,7 @@
 use crate::html::Link;
 use std::cmp::Ordering;
 use std::collections::HashMap;
-use std::convert::{TryFrom,From};
+use std::convert::{From, TryFrom};
 use std::hash::{Hash, Hasher};
 use url::Url;
 
@@ -62,7 +62,6 @@ impl<'a> From<Link> for PlayerLink {
     }
 }
 
-
 struct GreaterThanZero(i32);
 
 impl TryFrom<Link> for PlayerLink {
@@ -73,9 +72,9 @@ impl TryFrom<Link> for PlayerLink {
             Err("GreaterThanZero only accepts value superior than zero!")
         } else {
             Ok(PlayerLink {
-            snooker_id: 0,
-            full_name: "".to_string(),
-        })
+                snooker_id: 0,
+                full_name: "".to_string(),
+            })
         }
     }
 }
