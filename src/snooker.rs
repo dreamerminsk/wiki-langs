@@ -53,14 +53,7 @@ impl Hash for PlayerLink {
     }
 }
 
-impl<'a> From<Link> for PlayerLink {
-    fn from(item: Link) -> Self {
-        PlayerLink {
-            snooker_id: 0,
-            full_name: "".to_string(),
-        }
-    }
-}
+
 
 impl TryFrom<Link> for PlayerLink {
     type Error = &'static str;
