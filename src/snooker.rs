@@ -107,11 +107,6 @@ impl Hash for EventLink {
     }
 }
 
-
-
-
-
-
 impl TryFrom<Link> for EventLink {
     type Error = &'static str;
 
