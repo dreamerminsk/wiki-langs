@@ -74,8 +74,7 @@ impl TryFrom<Link> for PlayerLink {
                 full_name: "".to_string(),
             })
         } else {
-Err("GreaterThanZero only accepts value superior than zero!")
-            
+            Err("GreaterThanZero only accepts value superior than zero!")
         }
     }
 }
