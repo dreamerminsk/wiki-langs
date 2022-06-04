@@ -58,9 +58,9 @@ impl TryFrom<Link> for PlayerLink {
 
     fn try_from(value: Link) -> Result<Self, Self::Error> {
         if value.url.starts_with(PLAYER) {
-            snooker_id = value.url.chars().filter(Char::is_digit).collect::<String>();
+            let snooker_id = value.url.chars().filter(|c| c.is_digit(10)).collect::<String>().parse::<usize>().unwrap_or(0);
             Ok(PlayerLink {
-                snooker_id: 0,
+                snooker_id: snooker_id,
                 full_name: value.title,
             })
         } else {
