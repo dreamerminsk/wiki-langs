@@ -68,13 +68,14 @@ impl TryFrom<Link> for PlayerLink {
     type Error = &'static str;
 
     fn try_from(value: Link) -> Result<Self, Self::Error> {
-        if value <= 0 {
-            Err("GreaterThanZero only accepts value superior than zero!")
-        } else {
+        if value.url.starts_with(PLAYER) {
             Ok(PlayerLink {
                 snooker_id: 0,
                 full_name: "".to_string(),
             })
+        } else {
+Err("GreaterThanZero only accepts value superior than zero!")
+            
         }
     }
 }
