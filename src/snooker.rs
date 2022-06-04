@@ -53,8 +53,6 @@ impl Hash for PlayerLink {
     }
 }
 
-
-
 impl TryFrom<Link> for PlayerLink {
     type Error = &'static str;
 
