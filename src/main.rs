@@ -1,3 +1,4 @@
+use crate::snooker::EventLink;
 use html::Link;
 use scraper::{Html, Selector};
 use snooker::PlayerLink;
@@ -31,8 +32,17 @@ async fn main() -> Result<(), Box<dyn Error>> {
         .filter_map(|u| PlayerLink::try_from(u).ok())
         .collect::<BTreeSet<PlayerLink>>();
 
-    for url in urls {
-        println!("{:#?}", url);
+    for purl in purls {
+        println!("{:#?}", purl);
+    }
+
+    let eurls = urls
+        .iter()
+        .filter_map(|u| EventLink::try_from(u).ok())
+        .collect::<BTreeSet<EventLink>>();
+
+    for eurl in eurls {
+        println!("{:#?}", eurl);
     }
 
     Ok(())
