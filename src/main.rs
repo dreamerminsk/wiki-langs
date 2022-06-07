@@ -36,9 +36,9 @@ async fn main() -> Result<(), Box<dyn Error>> {
         .filter_map(|u| PlayerLink::try_from(u).ok())
         .collect::<BTreeSet<PlayerLink>>();
 
-    for purl in purls {
-        println!("{:#?}", purl);
-    }
+    purls.iter().for_each(|p| {
+        add_player(p);
+    });
 
     let eurls = urls
         .iter()
