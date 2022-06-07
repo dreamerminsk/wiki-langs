@@ -1,7 +1,7 @@
 use crate::html::Link;
 use std::cmp::Ordering;
 use std::collections::HashMap;
-use std::convert::{From, TryFrom};
+use std::convert::{ TryFrom};
 use std::hash::{Hash, Hasher};
 use url::Url;
 
