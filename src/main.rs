@@ -18,7 +18,7 @@ fn parse_links(text: &str) -> BTreeSet<Link> {
         .collect::<BTreeSet<Link>>()
 }
 
-fn add_player(plink: &PlayerLink) -> Result<usize, E> {
+fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
     Ok(())
 }
 
