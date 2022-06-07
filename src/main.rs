@@ -26,7 +26,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
     let urls = parse_links(&text);
 
-    let purls = urls
+    let purls = urls.into_iter()
         .filter_map(|u| PlayerLink::try_from(u).ok())
         .collect::<BTreeSet<PlayerLink>>();
 
