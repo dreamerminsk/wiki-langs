@@ -115,8 +115,6 @@ impl TryFrom<Link> for EventLink {
     }
 }
 
-
-
 fn extract_number(text: &String) -> u32 {
     text.chars()
         .filter(|c| c.is_digit(10))
