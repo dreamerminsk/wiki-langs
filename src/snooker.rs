@@ -100,14 +100,14 @@ impl Hash for EventLink {
     }
 }
 
-impl TryFrom<Link> for EventLink {
+impl TryFrom<&Link> for EventLink {
     type Error = &'static str;
 
     fn try_from(value: Link) -> Result<Self, Self::Error> {
         if value.url.starts_with(EVENT) {
             Ok(EventLink {
-                snooker_id: extract_number(value.url),
-                title: value.title,
+                snooker_id: extract_number(&value.url),
+                title: value.title.clone(),
             })
         } else {
             Err("GreaterThanZero only accepts value superior than zero!")
