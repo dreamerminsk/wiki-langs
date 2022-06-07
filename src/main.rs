@@ -1,7 +1,6 @@
-use crate::snooker::EventLink;
+use crate::snooker::{EventLink, PlayerLink};
 use html::Link;
 use scraper::{Html, Selector};
-use snooker::PlayerLink;
 use std::collections::BTreeSet;
 use std::error::Error;
 
@@ -19,6 +18,10 @@ fn parse_links(text: &str) -> BTreeSet<Link> {
 }
 
 fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
+    Ok(())
+}
+
+fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
     Ok(())
 }
 
@@ -45,9 +48,9 @@ async fn main() -> Result<(), Box<dyn Error>> {
         .filter_map(|u| EventLink::try_from(u).ok())
         .collect::<BTreeSet<EventLink>>();
 
-    for eurl in eurls {
-        println!("{:#?}", eurl);
-    }
+    eurls.iter().for_each(|e| {
+        add_event(e);
+    });
 
     Ok(())
 }
