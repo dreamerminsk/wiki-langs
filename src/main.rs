@@ -18,6 +18,10 @@ fn parse_links(text: &str) -> BTreeSet<Link> {
         .collect::<BTreeSet<Link>>()
 }
 
+fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
+    Ok(())
+}
+
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
     let resp = reqwest::get(format!("{}{}", snooker::HOST, snooker::UPCOMING_MATCHES)).await?;
