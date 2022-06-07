@@ -53,14 +53,14 @@ impl Hash for PlayerLink {
     }
 }
 
-impl TryFrom<Link> for PlayerLink {
+impl TryFrom<&Link> for PlayerLink {
     type Error = &'static str;
 
-    fn try_from(value: Link) -> Result<Self, Self::Error> {
+    fn try_from(value: &Link) -> Result<Self, Self::Error> {
         if value.url.starts_with(PLAYER) {
             Ok(PlayerLink {
-                snooker_id: extract_number(value.url),
-                full_name: value.title,
+                snooker_id: extract_number(&value.url),
+                full_name: value.title.clone(),
             })
         } else {
             Err("GreaterThanZero only accepts value superior than zero!")
@@ -100,21 +100,22 @@ impl Hash for EventLink {
     }
 }
 
-impl TryFrom<Link> for EventLink {
+impl TryFrom<&Link> for EventLink {
     type Error = &'static str;
 
-    fn try_from(value: Link) -> Result<Self, Self::Error> {
+    fn try_from(value: &Link) -> Result<Self, Self::Error> {
         if value.url.starts_with(EVENT) {
             Ok(EventLink {
-                snooker_id: extract_number(value.url),
-                title: value.title,
+                snooker_id: extract_number(&value.url),
+                title: value.title.clone(),
             })
         } else {
             Err("GreaterThanZero only accepts value superior than zero!")
         }
     }
 }
-fn extract_number(text: String) -> u32 {
+
+fn extract_number(text: &String) -> u32 {
     text.chars()
         .filter(|c| c.is_digit(10))
         .collect::<String>()
