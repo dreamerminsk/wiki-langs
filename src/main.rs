@@ -3,6 +3,7 @@ use scraper::{Html, Selector};
 use snooker::PlayerLink;
 use std::collections::BTreeSet;
 use std::error::Error;
+use crate::snooker::EventLink;
 
 mod html;
 
