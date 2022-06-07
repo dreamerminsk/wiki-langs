@@ -40,7 +40,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
         .filter_map(|u| EventLink::try_from(u).ok())
         .collect::<BTreeSet<EventLink>>();
 
-for eurl in eurls {
+    for eurl in eurls {
         println!("{:#?}", eurl);
     }
 
