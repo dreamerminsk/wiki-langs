@@ -1,8 +1,8 @@
 use html::Link;
 use scraper::{Html, Selector};
+use snooker::PlayerLink;
 use std::collections::BTreeSet;
 use std::error::Error;
-use snooker::PlayerLink;
 
 mod html;
 
@@ -26,7 +26,9 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
     let urls = parse_links(&text);
 
-let purls   =     urls.filter_map(|u|   PlayerLink::try_from(u).ok()).collect::<BTreeSet<PlayerLink>>();
+    let purls = urls
+        .filter_map(|u| PlayerLink::try_from(u).ok())
+        .collect::<BTreeSet<PlayerLink>>();
 
     for url in urls {
         println!("{:#?}", url);
