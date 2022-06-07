@@ -59,8 +59,8 @@ impl TryFrom<&Link> for PlayerLink {
     fn try_from(value: &Link) -> Result<Self, Self::Error> {
         if value.url.starts_with(PLAYER) {
             Ok(PlayerLink {
-                snooker_id: extract_number(value.url),
-                full_name: value.title,
+                snooker_id: extract_number(&value.url),
+                full_name: &value.title,
             })
         } else {
             Err("GreaterThanZero only accepts value superior than zero!")
