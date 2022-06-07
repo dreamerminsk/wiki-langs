@@ -1,7 +1,7 @@
 use crate::html::Link;
 use std::cmp::Ordering;
 use std::collections::HashMap;
-use std::convert::{From, TryFrom};
+use std::convert::TryFrom;
 use std::hash::{Hash, Hasher};
 use url::Url;
 
@@ -53,10 +53,10 @@ impl Hash for PlayerLink {
     }
 }
 
-impl TryFrom<Link> for PlayerLink {
+impl TryFrom<&Link> for PlayerLink {
     type Error = &'static str;
 
-    fn try_from(value: Link) -> Result<Self, Self::Error> {
+    fn try_from(value: &Link) -> Result<Self, Self::Error> {
         if value.url.starts_with(PLAYER) {
             Ok(PlayerLink {
                 snooker_id: extract_number(value.url),
