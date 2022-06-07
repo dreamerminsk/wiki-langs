@@ -1,4 +1,4 @@
-use crate::snooker::{PlayerLink , EventLink  };
+use crate::snooker::{EventLink, PlayerLink};
 use html::Link;
 use scraper::{Html, Selector};
 use std::collections::BTreeSet;
@@ -21,14 +21,9 @@ fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
     Ok(())
 }
 
-
-
 fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
     Ok(())
 }
-
-
-
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
