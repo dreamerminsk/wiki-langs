@@ -60,7 +60,7 @@ impl TryFrom<&Link> for PlayerLink {
         if value.url.starts_with(PLAYER) {
             Ok(PlayerLink {
                 snooker_id: extract_number(&value.url),
-                full_name: &value.title,
+                full_name: value.title.clone(),
             })
         } else {
             Err("GreaterThanZero only accepts value superior than zero!")
@@ -114,7 +114,10 @@ impl TryFrom<Link> for EventLink {
         }
     }
 }
-fn extract_number(text: String) -> u32 {
+
+
+
+fn extract_number(text: &String) -> u32 {
     text.chars()
         .filter(|c| c.is_digit(10))
         .collect::<String>()
