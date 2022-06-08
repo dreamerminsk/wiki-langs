@@ -45,7 +45,7 @@ impl<'a> From<ElementRef<'a>> for Link {
     }
 }
 
-fn parse_links(text: &str) -> BTreeSet<Link> {
+pub fn parse_links(text: &str) -> BTreeSet<Link> {
     let document = Html::parse_document(text);
     let selector = Selector::parse(r#"a"#).unwrap();
     document
