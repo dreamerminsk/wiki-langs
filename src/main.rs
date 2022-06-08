@@ -1,9 +1,11 @@
+use crate::html::Link;
 use crate::snooker::{EventLink, PlayerLink};
-use html::Link;
 use scraper::{Html, Selector};
 use std::collections::BTreeSet;
 use std::error::Error;
-use std::fs;
+use std::fs::{self, File, OpenOptions};
+use std::io::BufReader;
+use std::path::Path;
 
 mod html;
 
@@ -22,8 +24,22 @@ fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./players/")?;
     let source_file = format!(
         "./players/ids.{:0>4}.csv",
-        (plink.snooker_id / 1000).to_string()
+        (100 * (plink.snooker_id / 100) + 99).to_string()
     );
+    if Path::new(&source_file).exists() {
+        {
+            let sfile = OpenOptions::new().read(true).open(&source_file);
+            let tfile = OpenOptions::new()
+                .write(true)
+                .create(true)
+                .open(format!("{}.temp", &source_file));
+        }
+        fs::remove_file(&source_file)?;
+        fs::rename(format!("{}.temp", &source_file), &source_file)?;
+    } else {
+        let f = File::create(&source_file)?;
+        let buf_reader = BufReader::new(f);
+    }
     Ok(())
 }
 
@@ -31,7 +47,7 @@ fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./events/")?;
     let source_file = format!(
         "./events/ids.{:0>4}.csv",
-        (elink.snooker_id / 1000).to_string()
+        (100 * (elink.snooker_id / 100) + 99).to_string()
     );
     Ok(())
 }
