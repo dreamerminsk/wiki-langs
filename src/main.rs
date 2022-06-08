@@ -1,4 +1,4 @@
-use crate::html::{self,Link};
+use crate::html::{self, Link};
 use crate::snooker::{EventLink, PlayerLink};
 use std::collections::BTreeSet;
 use std::error::Error;
@@ -9,12 +9,6 @@ use std::path::Path;
 mod html;
 
 mod snooker;
-
-
-
-
-
-
 
 fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./players/")?;
