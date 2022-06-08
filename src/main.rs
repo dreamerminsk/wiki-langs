@@ -1,5 +1,5 @@
 use crate::html;
-use crate::snooker::{self,EventLink, PlayerLink};
+use crate::snooker::{self, EventLink, PlayerLink};
 use std::collections::BTreeSet;
 use std::error::Error;
 use std::fs::{self, File, OpenOptions};
