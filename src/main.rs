@@ -3,6 +3,7 @@ use html::Link;
 use scraper::{Html, Selector};
 use std::collections::BTreeSet;
 use std::error::Error;
+use std::fs;
 
 mod html;
 
@@ -18,10 +19,12 @@ fn parse_links(text: &str) -> BTreeSet<Link> {
 }
 
 fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
+fs::create_dir_all("./events/")?;
     Ok(())
 }
 
 fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
+fs::create_dir_all("./events/")?;
     Ok(())
 }
 
