@@ -23,8 +23,8 @@ fn query(u: Url) -> HashMap<String, String> {
 
 #[derive(Debug)]
 pub struct PlayerLink {
-    snooker_id: u32,
-    full_name: String,
+    pub snooker_id: u32,
+    pub full_name: String,
 }
 
 impl Ord for PlayerLink {
@@ -70,8 +70,8 @@ impl TryFrom<&Link> for PlayerLink {
 
 #[derive(Debug)]
 pub struct EventLink {
-    snooker_id: u32,
-    title: String,
+    pub snooker_id: u32,
+    pub title: String,
 }
 
 impl Ord for EventLink {
