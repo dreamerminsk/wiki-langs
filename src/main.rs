@@ -4,8 +4,8 @@ use scraper::{Html, Selector};
 use std::collections::BTreeSet;
 use std::error::Error;
 use std::fs::{self, File, OpenOptions};
-use std::path::Path;
 use std::io::BufReader;
+use std::path::Path;
 
 mod html;
 
