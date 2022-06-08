@@ -1,5 +1,5 @@
-use crate::snooker::{EventLink, PlayerLink};
 use crate::html::Link;
+use crate::snooker::{EventLink, PlayerLink};
 use scraper::{Html, Selector};
 use std::collections::BTreeSet;
 use std::error::Error;
@@ -25,9 +25,9 @@ fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
         "./players/ids.{:0>4}.csv",
         (100 * (plink.snooker_id / 100) + 99).to_string()
     );
-if Path::new(source_file).exists() {
-} else {
-}
+    if Path::new(source_file).exists() {
+    } else {
+    }
     Ok(())
 }
 
