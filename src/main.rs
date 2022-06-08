@@ -5,6 +5,7 @@ use std::collections::BTreeSet;
 use std::error::Error;
 use std::fs::{self, File, OpenOptions};
 use std::path::Path;
+use std::io::BufReader;
 
 mod html;
 
@@ -25,7 +26,7 @@ fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
         "./players/ids.{:0>4}.csv",
         (100 * (plink.snooker_id / 100) + 99).to_string()
     );
-    if Path::new(source_file).exists() {
+    if Path::new(&source_file).exists() {
         {
             let sfile = OpenOptions::new().read(true).open(source_file);
             let tfile = OpenOptions::new()
@@ -33,8 +34,8 @@ fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
                 .create(true)
                 .open(format!("{}.temp", source_file));
         }
-        fs.remove_file(source_file)?;
-        fs.rename(format!("{}.temp", source_file), source_file)?;
+        fs::remove_file(source_file)?;
+        fs::rename(format!("{}.temp", source_file), source_file)?;
     } else {
         let f = File::create(source_file)?;
         let mut buf_reader = BufReader::new(f);
