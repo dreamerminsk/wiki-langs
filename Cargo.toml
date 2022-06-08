@@ -12,4 +12,5 @@ reqwest = "*"
 scraper = "*"
 select = "*"
 tokio = { version = "1", features = ["full"] }
+uuid = { version = "*", features = ["v4"] }
 url = "*"
