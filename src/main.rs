@@ -6,8 +6,6 @@ use std::fs::{self, File, OpenOptions};
 use std::io::BufReader;
 use std::path::Path;
 
-
-
 fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./players/")?;
     let source_file = format!(
