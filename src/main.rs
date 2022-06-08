@@ -1,6 +1,5 @@
-use crate::html::Link;
+use crate::html::{self,Link};
 use crate::snooker::{EventLink, PlayerLink};
-use scraper::{Html, Selector};
 use std::collections::BTreeSet;
 use std::error::Error;
 use std::fs::{self, File, OpenOptions};
@@ -11,14 +10,11 @@ mod html;
 
 mod snooker;
 
-fn parse_links(text: &str) -> BTreeSet<Link> {
-    let document = Html::parse_document(text);
-    let selector = Selector::parse(r#"a"#).unwrap();
-    document
-        .select(&selector)
-        .map(Link::from)
-        .collect::<BTreeSet<Link>>()
-}
+
+
+
+
+
 
 fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./players/")?;
@@ -59,7 +55,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
     let text = resp.text().await?;
 
-    let urls = parse_links(&text);
+    let urls = html::parse_links(&text);
 
     let purls = urls
         .iter()
