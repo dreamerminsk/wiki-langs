@@ -3,7 +3,7 @@ use crate::snooker::{EventLink, PlayerLink};
 use scraper::{Html, Selector};
 use std::collections::BTreeSet;
 use std::error::Error;
-use std::fs::{self, File};
+use std::fs::{self, OpenOptions,File};
 use std::path::Path;
 
 mod html;
@@ -26,6 +26,7 @@ fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
         (100 * (plink.snooker_id / 100) + 99).to_string()
     );
     if Path::new(source_file).exists() {
+let file = OpenOptions::new().read(true).open(source_file);
     } else {
         let f = File::create(source_file)?;
         let mut buf_reader = BufReader::new(f);
