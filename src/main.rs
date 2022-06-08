@@ -20,12 +20,13 @@ fn parse_links(text: &str) -> BTreeSet<Link> {
 
 fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./players/")?;
-    let source_file = format!("./players/ids.{:0>4}.csv", (plink.snooker_id).to_string());
+    let source_file = format!("./players/ids.{:0>4}.csv", (plink.snooker_id  /  1000).to_string());
     Ok(())
 }
 
 fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./events/")?;
+      let source_file = format!("./events/ids.{:0>4}.csv", (elink.snooker_id  /  1000).to_string());
     Ok(())
 }
 
