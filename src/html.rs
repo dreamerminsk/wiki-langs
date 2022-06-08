@@ -1,7 +1,8 @@
-use scraper::ElementRef;
 use std::cmp::Ordering;
 use std::convert::From;
 use std::hash::{Hash, Hasher};
+use scraper::{Html, Selector,   ElementRef};
+use std::collections::BTreeSet;
 
 #[derive(Debug)]
 pub struct Link {
