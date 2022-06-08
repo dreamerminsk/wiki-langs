@@ -22,7 +22,7 @@ fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./players/")?;
     let source_file = format!(
         "./players/ids.{:0>4}.csv",
-        (100*(plink.snooker_id / 100)+99).to_string()
+        (100 * (plink.snooker_id / 100) + 99).to_string()
     );
     Ok(())
 }
@@ -31,7 +31,7 @@ fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./events/")?;
     let source_file = format!(
         "./events/ids.{:0>4}.csv",
-        (100*(elink.snooker_id / 100)+99).to_string()
+        (100 * (elink.snooker_id / 100) + 99).to_string()
     );
     Ok(())
 }
