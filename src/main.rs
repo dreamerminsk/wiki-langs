@@ -1,4 +1,3 @@
-
 use crate::snooker::{EventLink, PlayerLink};
 use std::collections::BTreeSet;
 use std::error::Error;
