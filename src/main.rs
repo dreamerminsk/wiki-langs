@@ -1,10 +1,10 @@
 use crate::snooker::{EventLink, PlayerLink};
+use std::cmp::Ordering;
 use std::collections::BTreeSet;
 use std::error::Error;
 use std::fs;
 use std::path::Path;
 use uuid::Uuid;
-use std::cmp::Ordering;
 
 mod html;
 mod snooker;
@@ -26,15 +26,19 @@ fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
                 if saved {
                     temp_writer.serialize(link)?;
                 } else {
-match link.cmp(plink) {
-         Ordering::Greater => {temp_writer.serialize(plink)?;
-                    temp_writer.serialize(link)?;
-                    saved = true;}
-         Ordering::Less => temp_writer.serialize(link)?,
-         Ordering::Equal => {temp_writer.serialize(plink)?;
-                    saved = true;}
-     }
-}
+                    match link.cmp(plink) {
+                        Ordering::Greater => {
+                            temp_writer.serialize(plink)?;
+                            temp_writer.serialize(link)?;
+                            saved = true;
+                        }
+                        Ordering::Less => temp_writer.serialize(link)?,
+                        Ordering::Equal => {
+                            temp_writer.serialize(plink)?;
+                            saved = true;
+                        }
+                    }
+                }
             }
             temp_writer.flush()?;
         }
