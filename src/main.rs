@@ -26,6 +26,10 @@ fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
                 if saved {
                     temp_writer.serialize(link)?;
                 } else {
+if link < plink {
+} else if link == plink {
+} else {
+}
                 }
             }
             temp_writer.flush()?;
