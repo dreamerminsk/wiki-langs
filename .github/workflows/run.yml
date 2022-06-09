@@ -1,7 +1,6 @@
 on:
-  pull_request:
-    paths:
-      - '**.rs'
+  schedule:
+    - cron: "0 0 * * *"
 
 name: run
 
