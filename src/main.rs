@@ -1,10 +1,10 @@
 use crate::snooker::{EventLink, PlayerLink};
+use csv;
 use std::collections::BTreeSet;
 use std::error::Error;
 use std::fs::{self, File, OpenOptions};
 use std::io::BufReader;
 use std::path::Path;
-use csv;
 
 mod html;
 mod snooker;
@@ -28,9 +28,9 @@ fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
     } else {
         let f = File::create(&source_file)?;
         let buf_reader = BufReader::new(f);
-let mut wtr = csv::Writer::from_writer(buf_reader);
-    wtr.serialize(plink)?;
-    wtr.flush()?;
+        let mut wtr = csv::Writer::from_writer(buf_reader);
+        wtr.serialize(plink)?;
+        wtr.flush()?;
     }
     Ok(())
 }
