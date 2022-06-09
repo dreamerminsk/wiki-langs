@@ -1,4 +1,5 @@
 use crate::snooker::{EventLink, PlayerLink};
+use reqwest::Client;
 use std::cmp::Ordering;
 use std::collections::BTreeSet;
 use std::error::Error;
@@ -8,6 +9,8 @@ use uuid::Uuid;
 
 mod html;
 mod snooker;
+
+static APP_USER_AGENT : &str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33";
 
 fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./players/")?;
@@ -64,7 +67,13 @@ fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
-    let resp = reqwest::get(format!("{}{}", snooker::HOST, snooker::UPCOMING_MATCHES)).await?;
+    let client = Client::builder().user_agent(APP_USER_AGENT).build()?;
+
+    let resp = client
+        .get(format!("{}{}", snooker::HOST, snooker::UPCOMING_MATCHES))
+        .send()
+        .await?;
+
     println!("{:#?}", resp.url().to_string());
 
     let text = resp.text().await?;
