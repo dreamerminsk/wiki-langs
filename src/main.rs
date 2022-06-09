@@ -69,7 +69,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
     let resp = client
         .get(format!("{}{}", snooker::HOST, snooker::UPCOMING_MATCHES))
         .header(UserAgent::new("foo"))
-        .send()?;
+        .send().await?;
 
     println!("{:#?}", resp.url().to_string());
 
