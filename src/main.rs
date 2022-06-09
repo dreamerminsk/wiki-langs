@@ -15,7 +15,7 @@ fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
         "./players/ids.{:0>4}.csv",
         (100 * (plink.snooker_id / 100) + 99).to_string()
     );
-let temp_name = format!("{}.csv", Uuid::new_v4().to_string());
+    let temp_name = format!("{}.csv", Uuid::new_v4().to_string());
     if Path::new(&source_name).exists() {
         {
             let sfile = OpenOptions::new().read(true).open(&source_file);
@@ -40,7 +40,7 @@ fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
         "./events/ids.{:0>4}.csv",
         (100 * (elink.snooker_id / 100) + 99).to_string()
     );
-let temp_name = format!("{}.csv", Uuid::new_v4().to_string());
+    let temp_name = format!("{}.csv", Uuid::new_v4().to_string());
     Ok(())
 }
 
