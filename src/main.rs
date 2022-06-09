@@ -11,8 +11,6 @@ mod tables;
 
 static APP_USER_AGENT : &str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33";
 
-
-
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
     let client = Client::builder().user_agent(APP_USER_AGENT).build()?;
