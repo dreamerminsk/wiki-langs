@@ -20,7 +20,7 @@ fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
         {
             let mut source_reader = csv::Reader::from_path(&source_name)?;
             let mut temp_writer = csv::Writer::from_path(&temp_name)?;
-            let saved = false;
+            let mut saved = false;
             for link in source_reader.deserialize() {
                 let link: PlayerLink = link?;
                 if saved {
