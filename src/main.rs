@@ -24,16 +24,17 @@ fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
                 let link: PlayerLink = link?;
                 if saved {
                     temp_writer.serialize(link)?;
-                } if link < *plink {
-                        temp_writer.serialize(link)?;
-                    } else if link == *plink {
-                        temp_writer.serialize(plink)?;
-                        saved = true;
-                    } else {
-                        temp_writer.serialize(plink)?;
-                        temp_writer.serialize(link)?;
-                        saved = true;
-                    }
+                }
+                if link < *plink {
+                    temp_writer.serialize(link)?;
+                } else if link == *plink {
+                    temp_writer.serialize(plink)?;
+                    saved = true;
+                } else {
+                    temp_writer.serialize(plink)?;
+                    temp_writer.serialize(link)?;
+                    saved = true;
+                }
             }
             temp_writer.flush()?;
         }
