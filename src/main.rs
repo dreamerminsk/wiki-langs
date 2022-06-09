@@ -2,8 +2,7 @@ use crate::snooker::{EventLink, PlayerLink};
 use csv;
 use std::collections::BTreeSet;
 use std::error::Error;
-use std::fs::{self, File, OpenOptions};
-use std::io::BufReader;
+use std::fs::{self, OpenOptions};
 use std::path::Path;
 
 mod html;
@@ -26,7 +25,7 @@ fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
         fs::remove_file(&source_file)?;
         fs::rename(format!("{}.temp", &source_file), &source_file)?;
     } else {
-        let mut wtr = csv::Writer::from_path(&source_file);
+        let mut wtr = csv::Writer::from_path(&source_file)?;
         wtr.serialize(plink)?;
         wtr.flush()?;
     }
