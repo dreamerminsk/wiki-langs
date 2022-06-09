@@ -23,11 +23,10 @@ fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
             let saved = false;
             for link in source_reader.deserialize() {
                 let link: PlayerLink = link?;
-if saved {
-temp_writer.serialize(link)?;
-} else {
-
-}
+                if saved {
+                    temp_writer.serialize(link)?;
+                } else {
+                }
             }
             temp_writer.flush()?;
         }
