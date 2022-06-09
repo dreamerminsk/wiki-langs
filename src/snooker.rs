@@ -1,4 +1,5 @@
 use crate::html::Link;
+use serde::{Deserialize, Serialize};
 use std::cmp::Ordering;
 use std::collections::HashMap;
 use std::convert::TryFrom;
@@ -21,7 +22,7 @@ fn query(u: Url) -> HashMap<String, String> {
     u.query_pairs().into_owned().collect()
 }
 
-#[derive(Debug)]
+#[derive(Debug, Serialize, Deserialize)]
 pub struct PlayerLink {
     pub snooker_id: u32,
     pub full_name: String,
@@ -68,7 +69,7 @@ impl TryFrom<&Link> for PlayerLink {
     }
 }
 
-#[derive(Debug)]
+#[derive(Debug, Serialize, Deserialize)]
 pub struct EventLink {
     pub snooker_id: u32,
     pub title: String,
