@@ -26,9 +26,7 @@ fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
         fs::remove_file(&source_file)?;
         fs::rename(format!("{}.temp", &source_file), &source_file)?;
     } else {
-        let f = File::create(&source_file)?;
-        let buf_reader = BufReader::new(f);
-        let mut wtr = csv::Writer::from_writer(buf_reader);
+        let mut wtr = csv::Writer::from_path(&source_file);
         wtr.serialize(plink)?;
         wtr.flush()?;
     }
