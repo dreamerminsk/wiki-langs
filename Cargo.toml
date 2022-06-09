@@ -11,7 +11,7 @@ html5ever = "*"
 reqwest = "*"
 scraper = "*"
 select = "*"
-serde = "*"
+serde = { version = "1", features = ["derive"] }
 tokio = { version = "1", features = ["full"] }
 uuid = { version = "*", features = ["v4"] }
 url = "*"
