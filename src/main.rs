@@ -64,7 +64,12 @@ fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
-    let resp = reqwest::get(format!("{}{}", snooker::HOST, snooker::UPCOMING_MATCHES)).await?;
+let client = reqwest::Client::new()?;
+
+let resp = client.get(format!("{}{}", snooker::HOST, snooker::UPCOMING_MATCHES))
+    .header(UserAgent::new("foo"))
+    .send()?;
+
     println!("{:#?}", resp.url().to_string());
 
     let text = resp.text().await?;
