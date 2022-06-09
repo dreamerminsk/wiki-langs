@@ -1,4 +1,5 @@
 use crate::snooker::{EventLink, PlayerLink};
+use std::cmp::Ordering;
 use std::collections::BTreeSet;
 use std::error::Error;
 use std::fs;
@@ -24,15 +25,19 @@ fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
                 let link: PlayerLink = link?;
                 if saved {
                     temp_writer.serialize(link)?;
-                } else if link < *plink {
-                    temp_writer.serialize(link)?;
-                } else if link == *plink {
-                    temp_writer.serialize(plink)?;
-                    saved = true;
                 } else {
-                    temp_writer.serialize(plink)?;
-                    temp_writer.serialize(link)?;
-                    saved = true;
+                    match link.cmp(plink) {
+                        Ordering::Greater => {
+                            temp_writer.serialize(plink)?;
+                            temp_writer.serialize(link)?;
+                            saved = true;
+                        }
+                        Ordering::Less => temp_writer.serialize(link)?,
+                        Ordering::Equal => {
+                            temp_writer.serialize(plink)?;
+                            saved = true;
+                        }
+                    }
                 }
             }
             temp_writer.flush()?;
