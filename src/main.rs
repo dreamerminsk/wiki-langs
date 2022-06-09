@@ -4,6 +4,7 @@ use std::error::Error;
 use std::fs;
 use std::path::Path;
 use uuid::Uuid;
+use std::cmp::Ordering;
 
 mod html;
 mod snooker;
@@ -24,16 +25,16 @@ fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
                 let link: PlayerLink = link?;
                 if saved {
                     temp_writer.serialize(link)?;
-                } else if link < *plink {
-                    temp_writer.serialize(link)?;
-                } else if link == *plink {
-                    temp_writer.serialize(plink)?;
-                    saved = true;
                 } else {
-                    temp_writer.serialize(plink)?;
+match link.cmp(plink) {
+         Ordering::Greater => {temp_writer.serialize(plink)?;
                     temp_writer.serialize(link)?;
-                    saved = true;
-                }
+                    saved = true;}
+         Ordering::Less => temp_writer.serialize(link)?,
+         Ordering::Equal => {temp_writer.serialize(plink)?;
+                    saved = true;}
+     }
+}
             }
             temp_writer.flush()?;
         }
