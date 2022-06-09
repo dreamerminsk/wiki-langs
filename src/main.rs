@@ -18,9 +18,9 @@ fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
     let temp_name = format!("./players/{}.csv", Uuid::new_v4().to_string());
     if Path::new(&source_name).exists() {
         {
-        let mut source_reader = csv::Reader::from_path(&source_name)?;
-        let mut temp_writer = csv::Writer::from_path(&temp_name)?;
-temp_writer.flush()?;   
+            let mut source_reader = csv::Reader::from_path(&source_name)?;
+            let mut temp_writer = csv::Writer::from_path(&temp_name)?;
+            temp_writer.flush()?;
         }
         fs::remove_file(&source_name)?;
         fs::rename(&temp_name, &source_name)?;
