@@ -1,8 +1,7 @@
 use crate::snooker::{EventLink, PlayerLink};
-use csv;
 use std::collections::BTreeSet;
 use std::error::Error;
-use std::fs::{self, OpenOptions};
+use std::fs;
 use std::path::Path;
 use uuid::Uuid;
 
@@ -15,7 +14,7 @@ fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
         "./players/ids.{:0>4}.csv",
         (100 * (plink.snooker_id / 100) + 99).to_string()
     );
-    let temp_name = format!("./players/{}.csv", Uuid::new_v4().to_string());
+    let temp_name = format!("./players/{}.csv", Uuid::new_v4());
     if Path::new(&source_name).exists() {
         {
             let mut source_reader = csv::Reader::from_path(&source_name)?;
@@ -25,8 +24,7 @@ fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
                 let link: PlayerLink = link?;
                 if saved {
                     temp_writer.serialize(link)?;
-                } else {
-                    if link < *plink {
+                } if link < *plink {
                         temp_writer.serialize(link)?;
                     } else if link == *plink {
                         temp_writer.serialize(plink)?;
@@ -36,7 +34,6 @@ fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
                         temp_writer.serialize(link)?;
                         saved = true;
                     }
-                }
             }
             temp_writer.flush()?;
         }
@@ -56,7 +53,7 @@ fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
         "./events/ids.{:0>4}.csv",
         (100 * (elink.snooker_id / 100) + 99).to_string()
     );
-    let temp_name = format!("{}.csv", Uuid::new_v4().to_string());
+    let temp_name = format!("{}.csv", Uuid::new_v4());
     Ok(())
 }
 
