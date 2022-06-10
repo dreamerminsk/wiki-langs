@@ -15,10 +15,7 @@ static APP_USER_AGENT : &str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleW
 async fn main() -> Result<(), Box<dyn Error>> {
     let client = Client::builder().user_agent(APP_USER_AGENT).build()?;
 
-    let resp = client
-        .get(snooker::upcoming_matches())
-        .send()
-        .await?;
+    let resp = client.get(snooker::upcoming_matches()).send().await?;
 
     println!("{:#?}", resp.url().to_string());
 
