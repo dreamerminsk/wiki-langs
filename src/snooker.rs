@@ -18,11 +18,9 @@ pub const POINTS: &str = "/res/index.asp?template=33&season={}";
 pub const PLAYER: &str = "/res/index.asp?player=";
 pub const EVENT: &str = "/res/index.asp?event=";
 
-
 pub fn upcoming_matches() -> &str {
-format!("{}{}", snooker::HOST, snooker::UPCOMING_MATCHES)
+    format!("{}{}", snooker::HOST, snooker::UPCOMING_MATCHES)
 }
-
 
 fn query(u: Url) -> HashMap<String, String> {
     u.query_pairs().into_owned().collect()
