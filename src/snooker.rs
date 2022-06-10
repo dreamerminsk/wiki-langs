@@ -19,7 +19,7 @@ pub const PLAYER: &str = "/res/index.asp?player=";
 pub const EVENT: &str = "/res/index.asp?event=";
 
 pub fn upcoming_matches() -> &'static str {
-    format!("{}{}", HOST, UPCOMING_MATCHES)
+    format!("{}{}", HOST, UPCOMING_MATCHES).as_str()
 }
 
 fn query(u: Url) -> HashMap<String, String> {
