@@ -40,7 +40,7 @@ impl<'a> From<ElementRef<'a>> for Link {
     fn from(item: ElementRef<'a>) -> Self {
         Link {
             url: item.value().attr("href").unwrap().to_string(),
-            title: item.text().next().unwrap().to_string(),
+            title: item.text().next().unwrap_or("").to_string(),
         }
     }
 }
