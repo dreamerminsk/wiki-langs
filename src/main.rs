@@ -16,7 +16,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
     let client = Client::builder().user_agent(APP_USER_AGENT).build()?;
 
     let resp = client
-        .get(format!("{}{}", snooker::HOST, snooker::UPCOMING_MATCHES))
+        .get(snooker::upcoming_matches())
         .send()
         .await?;
 
