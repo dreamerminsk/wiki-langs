@@ -29,10 +29,10 @@ async fn main() -> Result<(), Box<dyn Error>> {
         .collect::<BTreeSet<PlayerLink>>();
 
     purls.iter().for_each(|p| {
-match tables::add_player(p) {
-        Ok(f) => println!(file),
-        Err(error) => println!("Err: {:?}", error),
-    };
+        match tables::add_player(p) {
+            Ok(f) => println!(file),
+            Err(error) => println!("Err: {:?}", error),
+        };
     });
 
     let eurls = urls
