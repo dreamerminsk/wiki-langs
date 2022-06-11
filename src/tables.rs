@@ -36,9 +36,9 @@ pub fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
                     }
                 }
             }
-if !saved {
-temp_writer.serialize(plink)?;
-}
+            if !saved {
+                temp_writer.serialize(plink)?;
+            }
             temp_writer.flush()?;
         }
         fs::remove_file(&source_name)?;
@@ -83,12 +83,12 @@ pub fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
                     }
                 }
             }
-if !saved {
-temp_writer.serialize(elink)?;
-}
+            if !saved {
+                temp_writer.serialize(elink)?;
+            }
             temp_writer.flush()?;
         }
-         fs::remove_file(&source_name)?;
+        fs::remove_file(&source_name)?;
         fs::rename(&temp_name, &source_name)?;
     } else {
         let mut source_writer = csv::Writer::from_path(&source_name)?;
