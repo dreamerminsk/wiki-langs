@@ -1,8 +1,8 @@
 use crate::snooker::{EventLink, PlayerLink};
+use chrono::Utc;
 use reqwest::Client;
 use std::collections::BTreeSet;
 use std::error::Error;
-use chrono::Utc;
 
 mod html;
 
@@ -16,13 +16,13 @@ static APP_USER_AGENT : &str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleW
 async fn main() -> Result<(), Box<dyn Error>> {
     let client = Client::builder().user_agent(APP_USER_AGENT).build()?;
 
-let now = Utc::now();
+    let now = Utc::now();
 
-let cur_url = if 0==now.seconds%2 {
-snooker::upcoming_matches()
-} else {
-snooker::results(2021)
-};
+    let cur_url = if 0 == now.seconds % 2 {
+        snooker::upcoming_matches()
+    } else {
+        snooker::results(2021)
+    };
 
     let resp = client.get(cur_url).send().await?;
 
