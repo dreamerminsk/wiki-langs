@@ -19,7 +19,7 @@ pub const PLAYER: &str = "/res/index.asp?player=";
 pub const EVENT: &str = "/res/index.asp?event=";
 
 pub fn results(season: usize) -> String {
-    format!("{}{}{}", HOST, RESULTS, season.to_string())
+    format!("{}{}{}", HOST, RESULTS, season)
 }
 
 pub fn upcoming_matches() -> String {
