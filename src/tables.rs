@@ -30,7 +30,10 @@ pub fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
                         }
                         Ordering::Less => temp_writer.serialize(link)?,
                         Ordering::Equal => {
-                            temp_writer.serialize(plink)?;
+                             match link.full_name.cmp(plink.full_name){
+                                 Ordering::Greater =>temp_writer.serialize(link)?,
+                                  _=> temp_writer.serialize(plink)?;
+                            }
                             saved = true;
                         }
                     }
