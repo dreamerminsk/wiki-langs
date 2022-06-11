@@ -28,8 +28,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
         .filter_map(|u| PlayerLink::try_from(u).ok())
         .collect::<BTreeSet<PlayerLink>>();
 
-println!("player links count: {:?}", purls.len().to_string());
-
+    println!("player links count: {:?}", purls.len().to_string());
 
     purls.iter().for_each(|p| {
         match tables::add_player(p) {
@@ -43,8 +42,7 @@ println!("player links count: {:?}", purls.len().to_string());
         .filter_map(|u| EventLink::try_from(u).ok())
         .collect::<BTreeSet<EventLink>>();
 
-println!("event links count: {:?}", eurls.len().to_string());
-
+    println!("event links count: {:?}", eurls.len().to_string());
 
     eurls.iter().for_each(|e| {
         match tables::add_event(e) {
