@@ -57,7 +57,7 @@ pub fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
     let temp_name = format!("./events/{}.csv", Uuid::new_v4());
     if Path::new(&source_name).exists() {
         {
-fs::rename(&source_name, &temp_name)?;
+            fs::rename(&source_name, &temp_name)?;
             let mut source_reader = csv::Reader::from_path(&temp_name)?;
             let mut temp_writer = csv::Writer::from_path(&source_name)?;
             let mut saved = false;
@@ -83,7 +83,6 @@ fs::rename(&source_name, &temp_name)?;
             temp_writer.flush()?;
         }
         fs::remove_file(&temp_name)?;
-        
     } else {
         let mut source_writer = csv::Writer::from_path(&source_name)?;
         source_writer.serialize(elink)?;
