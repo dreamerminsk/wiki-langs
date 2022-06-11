@@ -64,7 +64,7 @@ impl TryFrom<&Link> for PlayerLink {
     fn try_from(value: &Link) -> Result<Self, Self::Error> {
         if value.url.starts_with(PLAYER) {
             Ok(PlayerLink {
-                snooker_id: extract_number(&value.url),
+                snooker_id: extract_first_number(&value.url),
                 full_name: value.title.clone(),
             })
         } else {
@@ -111,7 +111,7 @@ impl TryFrom<&Link> for EventLink {
     fn try_from(value: &Link) -> Result<Self, Self::Error> {
         if value.url.starts_with(EVENT) {
             Ok(EventLink {
-                snooker_id: extract_number(&value.url),
+                snooker_id: extract_first_number(&value.url),
                 title: value.title.clone(),
             })
         } else {
@@ -123,6 +123,15 @@ impl TryFrom<&Link> for EventLink {
 fn extract_number(text: &str) -> u32 {
     text.chars()
         .filter(|c| c.is_digit(10))
+        .collect::<String>()
+        .parse::<u32>()
+        .unwrap_or(0)
+}
+
+fn extract_first_number(text: &str) -> u32 {
+    text.chars()
+.skip_while(|c| !c.is_digit(10))
+.take_while(|c| c.is_digit(10))
         .collect::<String>()
         .parse::<u32>()
         .unwrap_or(0)
