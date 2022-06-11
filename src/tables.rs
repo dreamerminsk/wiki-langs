@@ -80,7 +80,10 @@ pub fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
                         }
                         Ordering::Less => temp_writer.serialize(link)?,
                         Ordering::Equal => {
-                            temp_writer.serialize(elink)?;
+                            match link.title.cmp(&elink.title) {
+                                Ordering::Greater => temp_writer.serialize(link)?,
+                                _ => temp_writer.serialize(elink)?,
+                            }
                             saved = true;
                         }
                     }
