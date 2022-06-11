@@ -22,7 +22,7 @@ let cur_url = if 0==now.seconds%2 {
 snooker::upcoming_matches()
 } else {
 snooker::results(2021)
-}
+};
 
     let resp = client.get(cur_url).send().await?;
 
