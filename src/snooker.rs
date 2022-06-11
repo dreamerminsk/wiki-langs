@@ -130,8 +130,8 @@ fn extract_number(text: &str) -> u32 {
 
 fn extract_first_number(text: &str) -> u32 {
     text.chars()
-.skip_while(|c| !c.is_digit(10))
-.take_while(|c| c.is_digit(10))
+        .skip_while(|c| !c.is_digit(10))
+        .take_while(|c| c.is_digit(10))
         .collect::<String>()
         .parse::<u32>()
         .unwrap_or(0)
