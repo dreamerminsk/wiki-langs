@@ -1,5 +1,5 @@
 use crate::snooker::{EventLink, PlayerLink};
-use chrono::{Utc,Timelike};
+use chrono::{Timelike, Utc};
 use reqwest::Client;
 use std::collections::BTreeSet;
 use std::error::Error;
