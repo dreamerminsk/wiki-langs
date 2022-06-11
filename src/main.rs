@@ -30,7 +30,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
     purls.iter().for_each(|p| {
         match tables::add_player(p) {
-            Ok(f) => println!(file),
+            Ok(f) => println!("Ok: {:?}", f),
             Err(error) => println!("Err: {:?}", error),
         };
     });
