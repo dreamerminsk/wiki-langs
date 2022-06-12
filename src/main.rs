@@ -48,17 +48,13 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
     println!("event links count: {:?}", eurls.len().to_string());
 
-   update_events(&eurls);
+    update_events(&eurls);
 
     Ok(())
 }
 
-
-
-
-
-fn update_players(plinks:&BTreeSet<PlayerLink>) {
-plinks.iter().for_each(|p| {
+fn update_players(plinks: &BTreeSet<PlayerLink>) {
+    plinks.iter().for_each(|p| {
         match tables::add_player(p) {
             Ok(f) => println!("Ok: {:?} - {:?}", f, p),
             Err(error) => println!("Err: {:?}", error),
@@ -66,10 +62,8 @@ plinks.iter().for_each(|p| {
     });
 }
 
-
-
-fn update_events(elinks:&BTreeSet<EventLink>) {
-elinks.iter().for_each(|e| {
+fn update_events(elinks: &BTreeSet<EventLink>) {
+    elinks.iter().for_each(|e| {
         match tables::add_event(e) {
             Ok(f) => println!("Ok: {:?} - {:?}", f, e),
             Err(error) => println!("Err: {:?}", error),
