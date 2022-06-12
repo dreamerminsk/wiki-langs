@@ -39,12 +39,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
     println!("player links count: {:?}", purls.len().to_string());
 
-    purls.iter().for_each(|p| {
-        match tables::add_player(p) {
-            Ok(f) => println!("Ok: {:?} - {:?}", f, p),
-            Err(error) => println!("Err: {:?}", error),
-        };
-    });
+    update_players(&purls);
 
     let eurls = urls
         .iter()
@@ -53,12 +48,31 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
     println!("event links count: {:?}", eurls.len().to_string());
 
-    eurls.iter().for_each(|e| {
+   update_events(&eurls);
+
+    Ok(())
+}
+
+
+
+
+
+fn update_players(plinks:&BTreeSet<PlayerLink>) {
+plinks.iter().for_each(|p| {
+        match tables::add_player(p) {
+            Ok(f) => println!("Ok: {:?} - {:?}", f, p),
+            Err(error) => println!("Err: {:?}", error),
+        };
+    });
+}
+
+
+
+fn update_events(elinks:&BTreeSet<EventLink>) {
+elinks.iter().for_each(|e| {
         match tables::add_event(e) {
             Ok(f) => println!("Ok: {:?} - {:?}", f, e),
             Err(error) => println!("Err: {:?}", error),
         };
     });
-
-    Ok(())
 }
