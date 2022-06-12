@@ -30,7 +30,7 @@ pub fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
                         }
                         Ordering::Less => temp_writer.serialize(link)?,
                         Ordering::Equal => {
-                            match link.full_name.cmp(&plink.full_name) {
+                            match link.full_name.len().cmp(&plink.full_name.len()) {
                                 Ordering::Greater => temp_writer.serialize(link)?,
                                 _ => temp_writer.serialize(plink)?,
                             }
@@ -79,7 +79,7 @@ pub fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
                         }
                         Ordering::Less => temp_writer.serialize(link)?,
                         Ordering::Equal => {
-                            match link.title.cmp(&elink.title) {
+                            match link.title.len().cmp(&elink.title.len()) {
                                 Ordering::Greater => temp_writer.serialize(link)?,
                                 _ => temp_writer.serialize(elink)?,
                             }
