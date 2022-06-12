@@ -19,9 +19,9 @@ async fn main() -> Result<(), Box<dyn Error>> {
     let now = Utc::now();
 
     let cur_url = if 0 == now.hour() % 2 {
-        snooker::upcoming_matches()
+format!("{}{}",  snooker::upcoming_matches(),"&numperpage=50&page=2")
     } else {
-        snooker::results(2020)
+        format!("{}{}",  snooker::results(2020),"&numperpage=50&page=2")
     };
 
     let resp = client.get(cur_url).send().await?;
