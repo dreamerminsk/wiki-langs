@@ -21,7 +21,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
     let cur_url = if 0 == now.hour() % 2 {
         snooker::upcoming_matches()
     } else {
-        snooker::results(2021)
+        snooker::results(2020)
     };
 
     let resp = client.get(cur_url).send().await?;
