@@ -18,7 +18,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
     let now = Utc::now();
 
-    let cur_url = if 0 == now.second() % 2 {
+    let cur_url = if 0 == now.hour() % 2 {
         snooker::upcoming_matches()
     } else {
         snooker::results(2021)
