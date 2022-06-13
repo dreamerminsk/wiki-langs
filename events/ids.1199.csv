@@ -1,4 +1,12 @@
 snooker_id,title
+1100,BetVictor Championship League - Winners Group
+1101,BetVictor Championship League - Group 2
+1102,BetVictor Championship League - Group 3
+1103,BetVictor Championship League - Group 4
+1104,BetVictor Championship League - Group 5
+1105,BetVictor Championship League - Group 6
+1106,BetVictor Championship League - Group 7
+1107,WST Pro Series
 1128,Betfred World Championship
 1129,Cazoo Masters
 1130,Cazoo UK Championship
@@ -17,7 +25,9 @@ snooker_id,title
 1143,BetVictor Gibraltar Open
 1144,World Championship Qualifiers
 1145,BetVictor Championship League
-1148,Rd 3
+1146,Q School 1
+1147,Q School 2
+1148,Q School 3
 1150,Q Tour 2
 1153,Nirvana Turkish Masters
 1154,Matchroom.live British Open
