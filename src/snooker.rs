@@ -26,6 +26,14 @@ pub fn upcoming_matches() -> String {
     format!("{}{}", HOST, UPCOMING_MATCHES)
 }
 
+
+pub fn rankings(season: usize) -> String {
+    format!("{}{}{}", HOST, RANKINGS, season)
+}
+
+
+
+
 fn query(u: Url) -> HashMap<String, String> {
     u.query_pairs().into_owned().collect()
 }
