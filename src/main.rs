@@ -20,7 +20,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
     let cur_url = match (now.hour() + now.minute()) % 3 {
         0 => format!("{}{}", snooker::upcoming_matches(), "&numperpage=50&page=5"),
-        1 => format!("{}{}", snooker::results(2019), "&numperpage=50&page=2"),
+        1 => format!("{}{}", snooker::results(2019), "&numperpage=50&page=3"),
         _ => "http://www.snooker.org/res/index.asp?template=2&season=2020".to_string(),
     };
 
