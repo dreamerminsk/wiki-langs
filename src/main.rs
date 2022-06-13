@@ -22,7 +22,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
         0 => format!("{}{}", snooker::upcoming_matches(), "&numperpage=50&page=5"),
         1 => format!("{}{}", snooker::results(2019), "&numperpage=50&page=3"),
         2 => snooker::rankings(2019),
-        _ => "http://www.snooker.org/res/index.asp?template=2&season=2020".to_string(),
+        _ => "http://www.snooker.org/res/index.asp?template=2&season=2019".to_string(),
     };
 
     let resp = client.get(cur_url).send().await?;
