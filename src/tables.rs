@@ -57,6 +57,7 @@ fn update_segment(segment: &str, pl: &PlayerLink) -> Result<(), Box<dyn Error>> 
     }
     fs::remove_file(&segment)?;
     fs::rename(&temp_name, &segment)?;
+Ok(())
 }
 
 pub fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
@@ -83,7 +84,7 @@ fn update_esegment(segment: &str, el: &EventLink) -> Result<(), Box<dyn Error>> 
             if saved {
                 temp_writer.serialize(link)?;
             } else {
-                match link.cmp(pl) {
+                match link.cmp(el) {
                     Ordering::Greater => {
                         temp_writer.serialize(el)?;
                         temp_writer.serialize(link)?;
@@ -107,6 +108,7 @@ fn update_esegment(segment: &str, el: &EventLink) -> Result<(), Box<dyn Error>> 
     }
     fs::remove_file(&segment)?;
     fs::rename(&temp_name, &segment)?;
+Ok(())
 }
 
 fn get_id_segment(id: u32) -> String {
