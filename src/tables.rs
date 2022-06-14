@@ -9,7 +9,7 @@ use uuid::Uuid;
 
 
 pub struct PlayerTable{
-folder:String;
+folder:String,
 }
 
 
