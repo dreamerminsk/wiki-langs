@@ -5,13 +5,9 @@ use std::fs;
 use std::path::Path;
 use uuid::Uuid;
 
-
-
-
-pub struct PlayerTable{
-folder:String,
+pub struct PlayerTable {
+    folder: String,
 }
-
 
 pub fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./players/")?;
