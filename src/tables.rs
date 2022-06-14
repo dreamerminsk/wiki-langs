@@ -55,7 +55,42 @@ pub fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
     Ok(())
 }
 
-fn update_segment(segment: &str, pl: &PlayerLink) -> Result<(), Box<dyn Error>> {}
+fn update_segment(segment: &str, pl: &PlayerLink) -> Result<(), Box<dyn Error>> {
+let temp_name = format!("./players/{}.csv", Uuid::new_v4());
+        {
+            let mut source_reader = csv::Reader::from_path(&segment)?;
+            let mut temp_writer = csv::Writer::from_path(&temp_name)?;
+            let mut saved = false;
+            for link in source_reader.deserialize() {
+                let link: PlayerLink = link?;
+                if saved {
+                    temp_writer.serialize(link)?;
+                } else {
+                    match link.cmp(pl) {
+                        Ordering::Greater => {
+                            temp_writer.serialize(pl)?;
+                            temp_writer.serialize(link)?;
+                            saved = true;
+                        }
+                        Ordering::Less => temp_writer.serialize(link)?,
+                        Ordering::Equal => {
+                            match link.full_name.len().cmp(&pl.full_name.len()) {
+                                Ordering::Greater => temp_writer.serialize(link)?,
+                                _ => temp_writer.serialize(pl)?,
+                            }
+                            saved = true;
+                        }
+                    }
+                }
+            }
+            if !saved {
+                temp_writer.serialize(pl)?;
+            }
+            temp_writer.flush()?;
+        }
+        fs::remove_file(&segment)?;
+        fs::rename(&temp_name, &segment)?;
+}
 
 pub fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./events/")?;
