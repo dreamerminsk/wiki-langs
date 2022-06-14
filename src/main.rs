@@ -22,7 +22,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
         0 => format!("{}{}", snooker::upcoming_matches(), "&numperpage=50&page=5"),
         1 => format!("{}{}", snooker::results(2017), "&numperpage=50&page=14"),
         2 => format!("{}{}", snooker::results(2021), "&numperpage=50&page=32"),
-3=>"http://www.snooker.org/res/index.asp?template=2&season=2016".to_string(),
+        3 => "http://www.snooker.org/res/index.asp?template=2&season=2016".to_string(),
         _ => snooker::rankings(2019),
     };
 
