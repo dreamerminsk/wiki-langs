@@ -55,6 +55,15 @@ pub fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
     Ok(())
 }
 
+
+
+
+fn update_segment(segment:&str,pl:&PlayerLink)->Result<(),Box<dyn Error>>{
+
+}
+
+
+
 pub fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./events/")?;
     let source_name = format!("./events/{}", get_id_segment(elink.snooker_id));
