@@ -57,7 +57,7 @@ fn update_segment(segment: &str, pl: &PlayerLink) -> Result<(), Box<dyn Error>> 
     }
     fs::remove_file(&segment)?;
     fs::rename(&temp_name, &segment)?;
-Ok(())
+    Ok(())
 }
 
 pub fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
@@ -108,7 +108,7 @@ fn update_esegment(segment: &str, el: &EventLink) -> Result<(), Box<dyn Error>> 
     }
     fs::remove_file(&segment)?;
     fs::rename(&temp_name, &segment)?;
-Ok(())
+    Ok(())
 }
 
 fn get_id_segment(id: u32) -> String {
