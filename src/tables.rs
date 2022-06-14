@@ -63,7 +63,7 @@ pub fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./events/")?;
     let source_name = format!("./events/{}", get_id_segment(elink.snooker_id));
     if Path::new(&source_name).exists() {
-    update_esegment(&source_name,&elink);
+        update_esegment(&source_name, &elink);
     } else {
         let mut source_writer = csv::Writer::from_path(&source_name)?;
         source_writer.serialize(elink)?;
@@ -71,9 +71,6 @@ pub fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
     }
     Ok(())
 }
-
-
-
 
 fn update_esegment(segment: &str, el: &EventLink) -> Result<(), Box<dyn Error>> {
     let temp_name = format!("./events/{}.csv", Uuid::new_v4());
@@ -111,8 +108,6 @@ fn update_esegment(segment: &str, el: &EventLink) -> Result<(), Box<dyn Error>> 
     fs::remove_file(&segment)?;
     fs::rename(&temp_name, &segment)?;
 }
-
-
 
 fn get_id_segment(id: u32) -> String {
     format!("ids.{:0>4}.csv", (100 * (id / 100) + 99).to_string())
