@@ -13,7 +13,7 @@ pub fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./players/")?;
     let source_name = format!("./players/{}", get_id_segment(plink.snooker_id));
     if Path::new(&source_name).exists() {
-   update_segment(&source_name,&plink);
+        update_segment(&source_name, &plink);
     } else {
         let mut source_writer = csv::Writer::from_path(&source_name)?;
         source_writer.serialize(plink)?;
