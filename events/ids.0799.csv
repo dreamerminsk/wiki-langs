@@ -1,4 +1,9 @@
 snooker_id,title
+701,UK Seniors
+702,Seniors Irish Masters
+703,World Seniors
+704,Assetereum Seniors Masters
+705,Romanian Masters
 706,Kaspersky Riga Masters Qualifiers
 707,Kaspersky Riga Masters
 708,HongRuiMa Yushan World Open
@@ -7,6 +12,7 @@ snooker_id,title
 711,BetVictor English Open
 712,BetVictor Northern Ireland Open
 713,BetVictor Scottish Open
+714,Womens British Open
 722,Paul Hunter Classic
 723,SangSom 6 Red World Championship
 724,Indian Open
@@ -20,6 +26,12 @@ snooker_id,title
 732,European Masters Qualifiers
 733,China Championship Qualifiers
 734,Indian Open Qualifiers
+735,EBSA Play Off
+736,Q School 1
+737,Q School 2
+738,Q School 3
+739,Women's 6 Red World Championship 
+740,Women's 10 Red World Championship 
 742,Betfred World Championship
 743,Betfred World Championship Qualifiers
 744,Coral  Players Championship
@@ -37,6 +49,7 @@ snooker_id,title
 756,Challenge Tour 6
 757,Challenge Tour 7
 758,Challenge Tour 10
+760,Women's World Championship 
 761,LITEtask  UK Women's Championship
 762,Eden Women's Masters
 763,Women's 10-Red
