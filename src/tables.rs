@@ -11,10 +11,7 @@ pub struct PlayerTable {
 
 pub fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./players/")?;
-    let source_name = format!(
-        "./players/{}",
-        get_id_segment (plink.snooker_id )
-    );
+    let source_name = format!("./players/{}", get_id_segment(plink.snooker_id));
     let temp_name = format!("./players/{}.csv", Uuid::new_v4());
     if Path::new(&source_name).exists() {
         {
@@ -60,10 +57,7 @@ pub fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
 
 pub fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./events/")?;
-    let source_name = format!(
-        "./events/{}",
-        get_id_segment(elink.snooker_id)
-    );
+    let source_name = format!("./events/{}", get_id_segment(elink.snooker_id));
     let temp_name = format!("./events/{}.csv", Uuid::new_v4());
     if Path::new(&source_name).exists() {
         {
@@ -107,12 +101,6 @@ pub fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
     Ok(())
 }
 
-
-
-
-
-
-
-fn get_id_segment(id   : u32)->String{
- format!("ids.{:0>4}.csv", (100 * (id / 100) + 99).to_string() )
+fn get_id_segment(id: u32) -> String {
+    format!("ids.{:0>4}.csv", (100 * (id / 100) + 99).to_string())
 }
