@@ -68,7 +68,6 @@ pub struct EventTable {
     folder: String,
 }
 
-
 pub struct EventLinkTable {
     folder: String,
 }
