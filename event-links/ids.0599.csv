@@ -1,4 +1,6 @@
 snooker_id,title
+504,General Cup
+507,World Seniors Qualifiers
 510,World Open Qualifiers
 511,European Masters
 512,International Championship Qualifiers
@@ -10,6 +12,7 @@ snooker_id,title
 518,Paul Hunter Classic 
 519,Shanghai Masters Qualifiers
 520,SangSom 6 Red World Championship
+521,Q School 1
 522,Coral English Open
 523,Coral Northern Ireland Open
 524,Coral Scottish Open
@@ -17,6 +20,7 @@ snooker_id,title
 526,Betway  UK Championship
 527,F66.com German Masters Qualifiers
 528,Indian Open Qualifiers
+529,EBSA Play Off
 531,Dafabet Masters
 532,F66.com German Masters
 533,Bank of Beijing China Open
@@ -24,6 +28,7 @@ snooker_id,title
 535,Betfred World Championship Qualifiers
 536,Betfred World Championship
 537,Hanteng Autos World Open
+538,Q School 2
 539,Championship League - Group 1
 540,Championship League - Group 2
 541,Championship League - Winners' Group
