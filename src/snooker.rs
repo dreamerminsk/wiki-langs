@@ -4,10 +4,6 @@ use std::cmp::Ordering;
 use std::convert::TryFrom;
 use std::hash::{Hash, Hasher};
 
-
-
-
-
 pub const HOST: &str = "http://www.snooker.org";
 
 pub const RESULTS: &str = "/res/index.asp?template=22&season=";
@@ -31,10 +27,6 @@ pub fn upcoming_matches() -> String {
 pub fn rankings(season: usize) -> String {
     format!("{}{}{}", HOST, RANKINGS, season)
 }
-
-
-
-
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct PlayerLink {
