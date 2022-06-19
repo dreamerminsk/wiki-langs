@@ -4,6 +4,12 @@ use std::collections::BTreeSet;
 use std::convert::From;
 use std::hash::{Hash, Hasher};
 
+
+
+fn query(u: Url) -> HashMap<String, String> {
+    u.query_pairs().into_owned().collect()
+}
+
 #[derive(Debug)]
 pub struct Link {
     pub url: String,
