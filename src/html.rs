@@ -24,7 +24,7 @@ pub fn parse_text(text: &str, selector: &str) -> Option<String> {
     document
         .select(&selector)
         .map(|t| t.text().collect::<String>())
-        .first()
+        .next()
 }
 
 #[derive(Debug)]
