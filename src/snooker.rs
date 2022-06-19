@@ -28,22 +28,15 @@ pub fn rankings(season: usize) -> String {
     format!("{}{}{}", HOST, RANKINGS, season)
 }
 
-pub fn get_player(snooker_id:   usize) -> Player {
-Player{}
+pub fn get_player(snooker_id: usize) -> Player {
+    Player {}
 }
-
-
-
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Player {
     pub snooker_id: usize,
     pub full_name: String,
 }
-
-
-
-
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct PlayerLink {
