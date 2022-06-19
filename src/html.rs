@@ -1,9 +1,9 @@
 use scraper::{ElementRef, Html, Selector};
 use std::cmp::Ordering;
 use std::collections::BTreeSet;
+use std::collections::HashMap;
 use std::convert::From;
 use std::hash::{Hash, Hasher};
-use std::collections::HashMap;
 use url::Url;
 
 fn query(u: Url) -> HashMap<String, String> {
