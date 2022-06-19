@@ -3,6 +3,7 @@ use serde::{Deserialize, Serialize};
 use std::cmp::Ordering;
 use std::convert::TryFrom;
 use std::hash::{Hash, Hasher};
+use chrono::{NaiveDate};
 
 pub const HOST: &str = "http://www.snooker.org";
 
@@ -36,6 +37,7 @@ pub fn get_player(snooker_id: usize) -> Player {
 pub struct Player {
     pub snooker_id: usize,
     pub full_name: String,
+pub birthday:NaiveDate,
 }
 
 #[derive(Debug, Serialize, Deserialize)]
