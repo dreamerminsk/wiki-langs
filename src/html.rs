@@ -1,6 +1,6 @@
 use scraper::{ElementRef, Html, Selector};
 use std::cmp::Ordering;
-use std::collections::{HashMap,BTreeSet};
+use std::collections::{BTreeSet, HashMap};
 use std::convert::From;
 use std::hash::{Hash, Hasher};
 use url::Url;
@@ -8,8 +8,6 @@ use url::Url;
 fn query(u: Url) -> HashMap<String, String> {
     u.query_pairs().into_owned().collect()
 }
-
-
 
 pub fn parse_links(text: &str) -> BTreeSet<Link> {
     let document = Html::parse_document(text);
@@ -20,9 +18,7 @@ pub fn parse_links(text: &str) -> BTreeSet<Link> {
         .collect::<BTreeSet<Link>>()
 }
 
-
-
-pub fn parse_text(text: &str,selector:&str) -> Option<String> {
+pub fn parse_text(text: &str, selector: &str) -> Option<String> {
     let document = Html::parse_document(text);
     let selector = Selector::parse(r#"a"#).unwrap();
     document
@@ -30,9 +26,6 @@ pub fn parse_text(text: &str,selector:&str) -> Option<String> {
         .map(|t| t.text().collect::<String>())
         .first()
 }
-
-
-
 
 #[derive(Debug)]
 pub struct Link {
@@ -74,5 +67,3 @@ impl<'a> From<ElementRef<'a>> for Link {
         }
     }
 }
-
-
