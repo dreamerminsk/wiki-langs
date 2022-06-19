@@ -42,7 +42,7 @@ pub fn get_player(snooker_id: usize) -> Player {
 pub struct Player {
     pub snooker_id: usize,
     pub full_name: String,
-    pub birthday: Date<Utc>,
+    pub birthday:    NaiveDate,
 }
 
 #[derive(Debug, Serialize, Deserialize)]
