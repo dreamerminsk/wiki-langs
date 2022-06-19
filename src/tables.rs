@@ -123,6 +123,6 @@ fn update_esegment(segment: &str, el: &EventLink) -> Result<(), Box<dyn Error>> 
     Ok(())
 }
 
-fn get_id_segment(id: u32) -> String {
+fn get_id_segment(id: usize) -> String {
     format!("ids.{:0>4}.csv", (100 * (id / 100) + 99).to_string())
 }
