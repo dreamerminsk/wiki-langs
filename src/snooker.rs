@@ -34,7 +34,7 @@ pub fn get_player(snooker_id: usize) -> Player {
     Player {
         snooker_id,
         full_name: "".to_string(),
-        birthday: Utc.today(),
+        birthday: NaiveDate::from_ymd(2015, 3, 14),
     }
 }
 
