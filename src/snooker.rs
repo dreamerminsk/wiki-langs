@@ -28,9 +28,26 @@ pub fn rankings(season: usize) -> String {
     format!("{}{}{}", HOST, RANKINGS, season)
 }
 
+pub fn get_player(snooker_id:   usize) -> Player {
+Player{}
+}
+
+
+
+
+#[derive(Debug, Serialize, Deserialize)]
+pub struct Player {
+    pub snooker_id: usize,
+    pub full_name: String,
+}
+
+
+
+
+
 #[derive(Debug, Serialize, Deserialize)]
 pub struct PlayerLink {
-    pub snooker_id: u32,
+    pub snooker_id: usize,
     pub full_name: String,
 }
 
@@ -77,7 +94,7 @@ impl TryFrom<&Link> for PlayerLink {
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct EventLink {
-    pub snooker_id: u32,
+    pub snooker_id: usize,
     pub title: String,
 }
 
@@ -122,19 +139,19 @@ impl TryFrom<&Link> for EventLink {
     }
 }
 
-fn extract_number(text: &str) -> u32 {
+fn extract_number(text: &str) -> usize {
     text.chars()
         .filter(|c| c.is_digit(10))
         .collect::<String>()
-        .parse::<u32>()
+        .parse::<usize>()
         .unwrap_or(0)
 }
 
-fn extract_first_number(text: &str) -> u32 {
+fn extract_first_number(text: &str) -> usize {
     text.chars()
         .skip_while(|c| !c.is_digit(10))
         .take_while(|c| c.is_digit(10))
         .collect::<String>()
-        .parse::<u32>()
+        .parse::<usize>()
         .unwrap_or(0)
 }
