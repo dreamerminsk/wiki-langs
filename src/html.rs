@@ -11,7 +11,7 @@ fn query(u: Url) -> HashMap<String, String> {
 
 pub fn parse_links(text: &str) -> BTreeSet<Link> {
     let document = Html::parse_document(text);
-    let selector = Selector::parse(selector).unwrap();
+    let selector = Selector::parse(r#"a"#).unwrap();
     document
         .select(&selector)
         .map(Link::from)
@@ -20,7 +20,7 @@ pub fn parse_links(text: &str) -> BTreeSet<Link> {
 
 pub fn parse_text(text: &str, selector: &str) -> Option<String> {
     let document = Html::parse_document(text);
-    let selector = Selector::parse(r#"a"#).unwrap();
+    let selector = Selector::parse(selector).unwrap();
     document
         .select(&selector)
         .map(|t| t.text().collect::<String>())
