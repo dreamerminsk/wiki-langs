@@ -30,7 +30,7 @@ pub fn rankings(season: usize) -> String {
 }
 
 pub fn get_player(snooker_id: usize) -> Player {
-    Player {}
+    Player {snooker_id,full_name:"".to_string(),birthday:chrono::Now(),}
 }
 
 #[derive(Debug, Serialize, Deserialize)]
