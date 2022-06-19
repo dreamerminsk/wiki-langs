@@ -1,10 +1,10 @@
 use crate::html::Link;
-use chrono::{Date,Utc,NaiveDate};
+use chrono::prelude::*;
+use chrono::{Date, NaiveDate, Utc};
 use serde::{Deserialize, Serialize};
 use std::cmp::Ordering;
 use std::convert::TryFrom;
 use std::hash::{Hash, Hasher};
-use chrono::prelude::*;
 
 pub const HOST: &str = "http://www.snooker.org";
 
@@ -31,7 +31,11 @@ pub fn rankings(season: usize) -> String {
 }
 
 pub fn get_player(snooker_id: usize) -> Player {
-    Player {snooker_id,full_name:"".to_string(),birthday:Utc.today(),}
+    Player {
+        snooker_id,
+        full_name: "".to_string(),
+        birthday: Utc.today(),
+    }
 }
 
 #[derive(Debug, Serialize, Deserialize)]
