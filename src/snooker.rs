@@ -1,10 +1,12 @@
 use crate::html::Link;
 use serde::{Deserialize, Serialize};
 use std::cmp::Ordering;
-use std::collections::HashMap;
 use std::convert::TryFrom;
 use std::hash::{Hash, Hasher};
-use url::Url;
+
+
+
+
 
 pub const HOST: &str = "http://www.snooker.org";
 
@@ -30,9 +32,9 @@ pub fn rankings(season: usize) -> String {
     format!("{}{}{}", HOST, RANKINGS, season)
 }
 
-fn query(u: Url) -> HashMap<String, String> {
-    u.query_pairs().into_owned().collect()
-}
+
+
+
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct PlayerLink {
