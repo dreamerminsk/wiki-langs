@@ -1,10 +1,10 @@
 use crate::html::Link;
+use chrono::prelude::*;
+use chrono::{Date, NaiveDate, Utc};
 use serde::{Deserialize, Serialize};
 use std::cmp::Ordering;
-use std::collections::HashMap;
 use std::convert::TryFrom;
 use std::hash::{Hash, Hasher};
-use url::Url;
 
 pub const HOST: &str = "http://www.snooker.org";
 
@@ -30,13 +30,24 @@ pub fn rankings(season: usize) -> String {
     format!("{}{}{}", HOST, RANKINGS, season)
 }
 
-fn query(u: Url) -> HashMap<String, String> {
-    u.query_pairs().into_owned().collect()
+pub fn get_player(snooker_id: usize) -> Player {
+    Player {
+        snooker_id,
+        full_name: "".to_string(),
+        birthday: NaiveDate::from_ymd(2015, 3, 14),
+    }
+}
+
+#[derive(Debug, Serialize, Deserialize)]
+pub struct Player {
+    pub snooker_id: usize,
+    pub full_name: String,
+    pub birthday: NaiveDate,
 }
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct PlayerLink {
-    pub snooker_id: u32,
+    pub snooker_id: usize,
     pub full_name: String,
 }
 
@@ -83,7 +94,7 @@ impl TryFrom<&Link> for PlayerLink {
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct EventLink {
-    pub snooker_id: u32,
+    pub snooker_id: usize,
     pub title: String,
 }
 
@@ -128,19 +139,19 @@ impl TryFrom<&Link> for EventLink {
     }
 }
 
-fn extract_number(text: &str) -> u32 {
+fn extract_number(text: &str) -> usize {
     text.chars()
         .filter(|c| c.is_digit(10))
         .collect::<String>()
-        .parse::<u32>()
+        .parse::<usize>()
         .unwrap_or(0)
 }
 
-fn extract_first_number(text: &str) -> u32 {
+fn extract_first_number(text: &str) -> usize {
     text.chars()
         .skip_while(|c| !c.is_digit(10))
         .take_while(|c| c.is_digit(10))
         .collect::<String>()
-        .parse::<u32>()
+        .parse::<usize>()
         .unwrap_or(0)
 }

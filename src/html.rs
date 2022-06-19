@@ -1,8 +1,14 @@
 use scraper::{ElementRef, Html, Selector};
 use std::cmp::Ordering;
 use std::collections::BTreeSet;
+use std::collections::HashMap;
 use std::convert::From;
 use std::hash::{Hash, Hasher};
+use url::Url;
+
+fn query(u: Url) -> HashMap<String, String> {
+    u.query_pairs().into_owned().collect()
+}
 
 #[derive(Debug)]
 pub struct Link {

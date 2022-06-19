@@ -9,6 +9,10 @@ pub struct PlayerTable {
     folder: String,
 }
 
+pub struct PlayerLinkTable {
+    folder: String,
+}
+
 pub fn add_player(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./player-links/")?;
     let source_name = format!("./player-links/{}", get_id_segment(plink.snooker_id));
@@ -58,6 +62,14 @@ fn update_segment(segment: &str, pl: &PlayerLink) -> Result<(), Box<dyn Error>> 
     fs::remove_file(&segment)?;
     fs::rename(&temp_name, &segment)?;
     Ok(())
+}
+
+pub struct EventTable {
+    folder: String,
+}
+
+pub struct EventLinkTable {
+    folder: String,
 }
 
 pub fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
@@ -111,6 +123,6 @@ fn update_esegment(segment: &str, el: &EventLink) -> Result<(), Box<dyn Error>> 
     Ok(())
 }
 
-fn get_id_segment(id: u32) -> String {
+fn get_id_segment(id: usize) -> String {
     format!("ids.{:0>4}.csv", (100 * (id / 100) + 99).to_string())
 }
