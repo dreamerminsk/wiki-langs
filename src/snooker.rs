@@ -33,7 +33,7 @@ pub fn rankings(season: usize) -> String {
 }
 
 pub fn get_player(snooker_id: usize) -> Player {
-lazy_static! {
+    lazy_static! {
         static ref RE: Regex = Regex::new(r"^\d{4}-\d{2}-\d{2}$").unwrap();
     }
     Player {
