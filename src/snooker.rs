@@ -1,13 +1,12 @@
 use crate::html::Link;
 use chrono::prelude::*;
 use chrono::{Date, NaiveDate, Utc};
+use lazy_static::lazy_static;
 use regex::Regex;
 use serde::{Deserialize, Serialize};
 use std::cmp::Ordering;
 use std::convert::TryFrom;
 use std::hash::{Hash, Hasher};
-use lazy_static::lazy_static;
-
 
 pub const HOST: &str = "http://www.snooker.org";
 
