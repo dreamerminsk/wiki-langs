@@ -34,7 +34,7 @@ pub fn rankings(season: usize) -> String {
 
 pub fn get_player(snooker_id: usize) -> Player {
     lazy_static! {
-        static ref RE: Regex = Regex::new(r"^\d{4}-\d{2}-\d{2}$").unwrap();
+        static ref RE: Regex = Regex::new(r"Born:\s+?(\d{1,2}?\s+?[A-Za-z]{3}?\s+?\d{4})").unwrap();
     }
     Player {
         snooker_id,
