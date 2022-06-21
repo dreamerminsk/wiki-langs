@@ -1,11 +1,11 @@
 use crate::html::Link;
 use chrono::prelude::*;
 use chrono::{Date, NaiveDate, Utc};
+use regex::Regex;
 use serde::{Deserialize, Serialize};
 use std::cmp::Ordering;
 use std::convert::TryFrom;
 use std::hash::{Hash, Hasher};
-use regex::Regex;
 
 pub const HOST: &str = "http://www.snooker.org";
 
@@ -32,7 +32,7 @@ pub fn rankings(season: usize) -> String {
 }
 
 pub fn get_player(snooker_id: usize) -> Player {
-let re = Regex::new(r"^\d{4}-\d{2}-\d{2}$").unwrap();
+    let re = Regex::new(r"^\d{4}-\d{2}-\d{2}$").unwrap();
     Player {
         snooker_id,
         full_name: "".to_string(),
