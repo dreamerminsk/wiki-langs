@@ -19,11 +19,11 @@ async fn main() -> Result<(), Box<dyn Error>> {
     let now = Utc::now();
 
     let cur_url = match (now.hour() + now.minute()) % 7 {
-        0 => "http://www.snooker.org/res/index.asp?player=39&season=2017".to_string(),
-        1 => "http://www.snooker.org/res/index.asp?event=1127".to_string(),
-        2 => format!("{}{}", snooker::results(2016), "&numperpage=50&page=32"),
-        3 => "http://www.snooker.org/res/index.asp?template=2&season=2012".to_string(),
-        _ => snooker::rankings(2012),
+        0 => "http://www.snooker.org/res/index.asp?player=39&season=2015".to_string(),
+        1 => "http://www.snooker.org/res/index.asp?event=1122".to_string(),
+        2 => format!("{}{}", snooker::results(2019), "&numperpage=50&page=8"),
+        3 => "http://www.snooker.org/res/index.asp?template=2&season=2016".to_string(),
+        _ => snooker::rankings(2011),
     };
 
     let resp = client.get(cur_url).send().await?;
