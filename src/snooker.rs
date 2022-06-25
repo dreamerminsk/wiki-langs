@@ -44,7 +44,11 @@ lazy_static! {
 }
 
 pub fn get_player(snooker_id: usize) -> Player {
-    let text = "2012-03-14, 2013-01-01 and 2014-07-05";
+let resp = CLIENT.get(format!("{}{}{}", HOST,      PLAYER   ,     snooker_id)).send().await?;
+
+    let text = resp.text().await?;
+
+    //let text = "2012-03-14, 2013-01-01 and 2014-07-05";
     for cap in RE.captures_iter(text) {
         //&cap[1]
     }
