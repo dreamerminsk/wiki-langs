@@ -36,7 +36,6 @@ lazy_static! {
     static ref RE: Regex = Regex::new(r"Born:\s+?(\d{1,2}?\s+?[A-Za-z]{3}?\s+?\d{4})").unwrap();
 }
 
-
 lazy_static! {
     static ref CLIENT =  Client::builder().user_agent(APP_USER_AGENT).build()?;
 }
