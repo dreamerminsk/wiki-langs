@@ -44,7 +44,10 @@ lazy_static! {
 }
 
 pub fn get_player(snooker_id: usize) -> Player {
-let resp = CLIENT.get(format!("{}{}{}", HOST,      PLAYER   ,     snooker_id)).send().await?;
+    let resp = CLIENT
+        .get(format!("{}{}{}", HOST, PLAYER, snooker_id))
+        .send()
+        .await?;
 
     let text = resp.text().await?;
 
