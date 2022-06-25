@@ -32,10 +32,18 @@ pub fn rankings(season: usize) -> String {
     format!("{}{}{}", HOST, RANKINGS, season)
 }
 
-pub fn get_player(snooker_id: usize) -> Player {
-    lazy_static! {
+
+
+
+lazy_static! {
         static ref RE: Regex = Regex::new(r"Born:\s+?(\d{1,2}?\s+?[A-Za-z]{3}?\s+?\d{4})").unwrap();
     }
+
+
+
+
+pub fn get_player(snooker_id: usize) -> Player {
+    
     let text = "2012-03-14, 2013-01-01 and 2014-07-05";
     for cap in RE.captures_iter(text) {
         //&cap[1]
