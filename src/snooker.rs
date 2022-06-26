@@ -72,7 +72,7 @@ text.split(" - ").next().unwrap_or("").to_string()
 }
 
 fn extract_date(text: &str) -> Result<NaiveDate, Box<dyn Error>> {
-let m = RE.captures_iter(text).next()?.get(1)?.as_str()
+let m = RE.captures_iter(text).next()?.get(1)?.as_str();
     Ok(
         NaiveDate::parse_from_str(m, "%e %b %Y")
             .unwrap_or(NaiveDate::from_ymd(1900, 1, 1))
