@@ -54,9 +54,9 @@ pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
 
     let text = resp.text().await?;
 
-    let info_text = html::parse_text(&text, "div.info").unwrap_or("".to_string());
+    let info_text = html::parse_text(&text, "div.info").unwrap_or_else(|| "".to_string());
 
-    let title = html::parse_text(&text, "title").unwrap_or("".to_string());
+    let title = html::parse_text(&text, "title").unwrap_or_else(|| "".to_string());
 
     Ok(Player {
         snooker_id,
