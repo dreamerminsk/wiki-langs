@@ -58,7 +58,7 @@ pub fn get_player(snooker_id: usize) -> Player {
     Player {
         snooker_id,
         full_name: "".to_string(),
-        birthday: NaiveDate::parse_from_str( RE.captures_iter(text).next()?, "%e %b %Y")?,
+        birthday: NaiveDate::parse_from_str(RE.captures_iter(text).next()?, "%e %b %Y")?,
     }
 }
 
