@@ -1,5 +1,5 @@
-use crate::html::{self,Link};
-use chrono::{NaiveDate};
+use crate::html::{self, Link};
+use chrono::NaiveDate;
 use lazy_static::lazy_static;
 use regex::Regex;
 use reqwest::Client;
@@ -42,7 +42,7 @@ lazy_static! {
     static ref CLIENT: Client = Client::builder().user_agent(APP_USER_AGENT).build()?;
 }
 
-pub async fn get_player(snooker_id: usize) -> Result<Player,std::io::Error> {
+pub async fn get_player(snooker_id: usize) -> Result<Player, std::io::Error> {
     let resp = CLIENT
         .get(format!("{}{}{}", HOST, PLAYER, snooker_id))
         .send()
