@@ -8,6 +8,7 @@ use serde::{Deserialize, Serialize};
 use std::cmp::Ordering;
 use std::convert::TryFrom;
 use std::hash::{Hash, Hasher};
+use html;
 
 pub const HOST: &str = "http://www.snooker.org";
 
@@ -40,7 +41,7 @@ lazy_static! {
 static APP_USER_AGENT : &str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33";
 
 lazy_static! {
-    static ref CLIENT =  Client::builder().user_agent(APP_USER_AGENT).build()?;
+    static ref CLIENT:Client =  Client::builder().user_agent(APP_USER_AGENT).build()?;
 }
 
 pub async fn get_player(snooker_id: usize) -> Option<Player> {
@@ -63,7 +64,7 @@ pub async fn get_player(snooker_id: usize) -> Option<Player> {
 }
 
 fn extract_name(text: &str) -> Option<String> {
-    text.split(" - ").next()?
+    text.split(" - ").next()?.ok()?
 }
 
 fn extract_date(text: &str) -> Option<NaiveDate> {
