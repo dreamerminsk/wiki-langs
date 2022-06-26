@@ -9,6 +9,7 @@ edition = "2021"
 chrono = { version = "*", features = ["serde"] }
 csv = "*"
 html5ever = "*"
+lazy_static = "*"
 nanoid = "*"
 regex = "*"
 reqwest = "*"
