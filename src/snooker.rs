@@ -6,13 +6,8 @@ use reqwest::Client;
 use serde::{Deserialize, Serialize};
 use std::cmp::Ordering;
 use std::convert::TryFrom;
-use std::hash::{Hash, Hasher};
 use std::error::Error;
-
-
-
-
-
+use std::hash::{Hash, Hasher};
 
 pub const HOST: &str = "http://www.snooker.org";
 
@@ -48,7 +43,7 @@ lazy_static! {
     static ref CLIENT: Client = Client::builder().user_agent(APP_USER_AGENT).build()?;
 }
 
-pub async fn get_player(snooker_id: usize) -> Result<Player,Box<dyn Error>> {
+pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
     let resp = CLIENT
         .get(format!("{}{}{}", HOST, PLAYER, snooker_id))
         .send()
@@ -67,11 +62,11 @@ pub async fn get_player(snooker_id: usize) -> Result<Player,Box<dyn Error>> {
     })
 }
 
-fn extract_name(text: &str) -> Result<String,Box<dyn Error>> {
+fn extract_name(text: &str) -> Result<String, Box<dyn Error>> {
     Ok(text.split(" - ").next()?)
 }
 
-fn extract_date(text: &str) -> Result<NaiveDate,Box<dyn Error>> {
+fn extract_date(text: &str) -> Result<NaiveDate, Box<dyn Error>> {
     Ok(NaiveDate::parse_from_str(
         RE.captures_iter(text).next()?.get(1)?,
         "%e %b %Y",
