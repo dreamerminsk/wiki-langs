@@ -67,7 +67,10 @@ fn extract_name(text: &str) -> Option<String> {
 }
 
 fn extract_date(text: &str) -> Option<NaiveDate> {
-    Some(NaiveDate::parse_from_str(RE.captures_iter(text).next()?.get(1)?, "%e %b %Y")?)
+    Some(NaiveDate::parse_from_str(
+        RE.captures_iter(text).next()?.get(1)?,
+        "%e %b %Y",
+    )?)
 }
 
 #[derive(Debug, Serialize, Deserialize)]
