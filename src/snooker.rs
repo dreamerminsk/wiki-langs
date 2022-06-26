@@ -60,10 +60,8 @@ pub fn get_player(snooker_id: usize) -> Player {
     }
 }
 
-
-
-fn extract_date(text: &str)->Option<NaiveDate> {
-NaiveDate::parse_from_str(RE.captures_iter(text).next()?.get(1)?, "%e %b %Y")?
+fn extract_date(text: &str) -> Option<NaiveDate> {
+    NaiveDate::parse_from_str(RE.captures_iter(text).next()?.get(1)?, "%e %b %Y")?
 }
 
 #[derive(Debug, Serialize, Deserialize)]
