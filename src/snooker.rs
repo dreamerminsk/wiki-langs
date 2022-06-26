@@ -70,7 +70,7 @@ fn extract_name(text: &str) -> Result<String, Box<dyn Error>> {
 }
 
 fn extract_date(text: &str) -> Result<NaiveDate, Box<dyn Error>> {
-    let caps = RE.captures(text)?;
+    let caps = RE.captures(text).ok_or("parse error")?;
 
     let birth = caps.get(1).map_or("", |m| m.as_str());
 
