@@ -54,9 +54,9 @@ pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
 
     let text = resp.text().await?;
 
-    let info_text = html::parse_text(&text, "div.info").unwrap_or("");
+    let info_text = html::parse_text(&text, "div.info").unwrap_or("".to_string());
 
-    let title = html::parse_text(&text, "title").unwrap_or("");
+    let title = html::parse_text(&text, "title").unwrap_or("".to_string());
 
     Ok(Player {
         snooker_id,
@@ -66,14 +66,14 @@ pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
 }
 
 fn extract_name(text: &str) -> Result<String, Box<dyn Error>> {
-    Ok(text.split(" - ").next()?)
+    Ok(text.split(" - ").next().unwrap_or("".to_string()))
 }
 
 fn extract_date(text: &str) -> Result<NaiveDate, Box<dyn Error>> {
     Ok(NaiveDate::parse_from_str(
         RE.captures_iter(text).next()?.get(1)?,
         "%e %b %Y",
-    )?)
+    ).unwrap_or()NaiveDate::from_ymd(1900,1,1))
 }
 
 #[derive(Debug, Serialize, Deserialize)]
