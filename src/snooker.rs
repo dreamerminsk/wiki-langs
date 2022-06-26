@@ -1,7 +1,5 @@
-use crate::html::Link;
-use chrono::prelude::*;
-use chrono::{Date, NaiveDate, Utc};
-use html;
+use crate::html::{self,Link};
+use chrono::{NaiveDate};
 use lazy_static::lazy_static;
 use regex::Regex;
 use reqwest::Client;
@@ -44,7 +42,7 @@ lazy_static! {
     static ref CLIENT: Client = Client::builder().user_agent(APP_USER_AGENT).build()?;
 }
 
-pub async fn get_player(snooker_id: usize) -> Option<Player> {
+pub async fn get_player(snooker_id: usize) -> Result<Player,std::io::Error> {
     let resp = CLIENT
         .get(format!("{}{}{}", HOST, PLAYER, snooker_id))
         .send()
@@ -56,19 +54,19 @@ pub async fn get_player(snooker_id: usize) -> Option<Player> {
 
     let title = html::parse_text(&text, "title");
 
-    Some(Player {
+    Ok(Player {
         snooker_id,
         full_name: extract_name(&title)?,
         birthday: extract_date(&info_text)?,
     })
 }
 
-fn extract_name(text: &str) -> Option<String> {
-    text.split(" - ").next()?.ok()?
+fn extract_name(text: &str) -> Result<String> {
+    Ok(text.split(" - ").next()?)
 }
 
-fn extract_date(text: &str) -> Option<NaiveDate> {
-    Some(NaiveDate::parse_from_str(
+fn extract_date(text: &str) -> Result<NaiveDate> {
+    Ok(NaiveDate::parse_from_str(
         RE.captures_iter(text).next()?.get(1)?,
         "%e %b %Y",
     )?)
