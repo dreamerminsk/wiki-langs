@@ -66,17 +66,12 @@ pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
 }
 
 fn extract_name(text: &str) -> Result<String, Box<dyn Error>> {
-    Ok(
-text.split(" - ").next().unwrap_or("").to_string()
-)
+    Ok(text.split(" - ").next().unwrap_or("").to_string())
 }
 
 fn extract_date(text: &str) -> Result<NaiveDate, Box<dyn Error>> {
-let m = RE.captures_iter(text).next()?.get(1)?.as_str();
-    Ok(
-        NaiveDate::parse_from_str(m, "%e %b %Y")
-            .unwrap_or(NaiveDate::from_ymd(1900, 1, 1))
-    )
+    let m = RE.captures_iter(text).next()?.get(1)?.as_str();
+    Ok(NaiveDate::parse_from_str(m, "%e %b %Y").unwrap_or(NaiveDate::from_ymd(1900, 1, 1)))
 }
 
 #[derive(Debug, Serialize, Deserialize)]
