@@ -1,9 +1,12 @@
-use crate::html::Link;
-use chrono::prelude::*;
-use chrono::{Date, NaiveDate, Utc};
+use crate::html::{self, Link};
+use chrono::NaiveDate;
+use lazy_static::lazy_static;
+use regex::Regex;
+use reqwest::Client;
 use serde::{Deserialize, Serialize};
 use std::cmp::Ordering;
 use std::convert::TryFrom;
+use std::error::Error;
 use std::hash::{Hash, Hasher};
 
 pub const HOST: &str = "http://www.snooker.org";
@@ -30,12 +33,48 @@ pub fn rankings(season: usize) -> String {
     format!("{}{}{}", HOST, RANKINGS, season)
 }
 
-pub fn get_player(snooker_id: usize) -> Player {
-    Player {
+lazy_static! {
+    static ref RE: Regex = Regex::new(r"Born:\s+?(\d{1,2}?\s+?[A-Za-z]{3}?\s+?\d{4})").unwrap();
+}
+
+static APP_USER_AGENT : &str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33";
+
+lazy_static! {
+    static ref CLIENT: Client = Client::builder()
+        .user_agent(APP_USER_AGENT)
+        .build()
+        .unwrap();
+}
+
+pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
+    let resp = CLIENT
+        .get(format!("{}{}{}", HOST, PLAYER, snooker_id))
+        .send()
+        .await?;
+
+    let text = resp.text().await?;
+
+    let info_text = html::parse_text(&text, "div.info").unwrap_or("".to_string());
+
+    let title = html::parse_text(&text, "title").unwrap_or("".to_string());
+
+    Ok(Player {
         snooker_id,
-        full_name: "".to_string(),
-        birthday: NaiveDate::from_ymd(2015, 3, 14),
-    }
+        full_name: extract_name(&title)?,
+        birthday: extract_date(&info_text)?,
+    })
+}
+
+fn extract_name(text: &str) -> Result<String, Box<dyn Error>> {
+    Ok(text.split(" - ").next().unwrap_or("").to_string())
+}
+
+fn extract_date(text: &str) -> Result<NaiveDate, Box<dyn Error>> {
+    let caps = RE.captures(text).ok_or("parse error")?;
+
+    let birth = caps.get(1).map_or("", |m| m.as_str());
+
+    Ok(NaiveDate::parse_from_str(birth, "%e %b %Y").unwrap_or(NaiveDate::from_ymd(1900, 1, 1)))
 }
 
 #[derive(Debug, Serialize, Deserialize)]
