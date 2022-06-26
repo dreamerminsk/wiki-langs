@@ -43,7 +43,7 @@ lazy_static! {
     static ref CLIENT =  Client::builder().user_agent(APP_USER_AGENT).build()?;
 }
 
-pub fn get_player(snooker_id: usize) -> Player {
+pub async fn get_player(snooker_id: usize) -> Option<Player> {
     let resp = CLIENT
         .get(format!("{}{}{}", HOST, PLAYER, snooker_id))
         .send()
@@ -55,11 +55,11 @@ pub fn get_player(snooker_id: usize) -> Player {
 
     let title = html::parse_text(&text, "title");
 
-    Player {
+    Some(Player {
         snooker_id,
         full_name: extract_name(&title)?,
         birthday: extract_date(&info_text)?,
-    }
+    })
 }
 
 fn extract_name(text: &str) -> Option<String> {
@@ -67,7 +67,7 @@ fn extract_name(text: &str) -> Option<String> {
 }
 
 fn extract_date(text: &str) -> Option<NaiveDate> {
-    NaiveDate::parse_from_str(RE.captures_iter(text).next()?.get(1)?, "%e %b %Y")?
+    Some(NaiveDate::parse_from_str(RE.captures_iter(text).next()?.get(1)?, "%e %b %Y")?)
 }
 
 #[derive(Debug, Serialize, Deserialize)]
