@@ -53,7 +53,7 @@ pub fn get_player(snooker_id: usize) -> Player {
 
     let info_text = html::parse_text(&text, "div.info");
 
-let title = html::parse_text(&text, "title");
+    let title = html::parse_text(&text, "title");
 
     Player {
         snooker_id,
@@ -62,8 +62,8 @@ let title = html::parse_text(&text, "title");
     }
 }
 
-fn extract_name(text:&str)->Option<String>{
-text.split(" - ").next()?
+fn extract_name(text: &str) -> Option<String> {
+    text.split(" - ").next()?
 }
 
 fn extract_date(text: &str) -> Option<NaiveDate> {
