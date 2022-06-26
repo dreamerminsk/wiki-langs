@@ -70,8 +70,11 @@ fn extract_name(text: &str) -> Result<String, Box<dyn Error>> {
 }
 
 fn extract_date(text: &str) -> Result<NaiveDate, Box<dyn Error>> {
-    let m = RE.captures_iter(text).next()?.get(1)?.as_str();
-    Ok(NaiveDate::parse_from_str(m, "%e %b %Y").unwrap_or(NaiveDate::from_ymd(1900, 1, 1)))
+     let caps = RE.captures(text)?;
+
+let birth = caps.get(1).map_or("", |m| m.as_str());
+
+    Ok(NaiveDate::parse_from_str(birth, "%e %b %Y").unwrap_or(NaiveDate::from_ymd(1900, 1, 1)))
 }
 
 #[derive(Debug, Serialize, Deserialize)]
