@@ -51,7 +51,7 @@ pub fn get_player(snooker_id: usize) -> Player {
 
     let text = resp.text().await?;
 
-    //let text = "2012-03-14, 2013-01-01 and 2014-07-05";
+    let info_text = html::parse_text(&text, "div.info");
     for cap in RE.captures_iter(text) {
         //&cap[1]
     }
