@@ -65,13 +65,7 @@ pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
     })
 }
 
-
-
-
-
-
-
-const PLAYER_TITLE :      &str    =   "Zhang Anda - Players - snooker.org";
+const PLAYER_TITLE: &str = "Zhang Anda - Players - snooker.org";
 fn extract_name(text: &str) -> Result<String, Box<dyn Error>> {
     Ok(text.split(" - ").next().unwrap_or("").to_string())
 }
