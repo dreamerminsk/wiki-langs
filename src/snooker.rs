@@ -82,7 +82,7 @@ fn extract_name(input: &str) -> Option<&str> {
 
 
 
-extract_nation(input: &str) -> Option<&str> {
+fn extract_nation(input: &str) -> Option<&str> {
     lazy_static! {
         static ref NATIONRE: Regex = Regex::new(r".*?Nationality:.*?\((?P<nation>.*?)\);.*?").unwrap();
     }
