@@ -65,23 +65,23 @@ pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
     })
 }
 
-fn extract_name(input: &str) -> Option<&str> {
+fn extract_name(input: &str) -> Option<String> {
     lazy_static! {
         static ref NAMERE: Regex = Regex::new(r"(?P<name>.*?) - Players - snooker.org").unwrap();
     }
     NAMERE
         .captures(input)
-        .and_then(|cap| cap.name("name").map(|name| name.as_str()))
+        .and_then(|cap| cap.name("name").map(|name| name))
 }
 
-fn extract_nation(input: &str) -> Option<&str> {
+fn extract_nation(input: &str) -> Option<String> {
     lazy_static! {
         static ref NATIONRE: Regex =
             Regex::new(r".*?Nationality:.*?\((?P<nation>.*?)\);.*?").unwrap();
     }
     NATIONRE
         .captures(input)
-        .and_then(|cap| cap.name("nation").map(|nation| nation.as_str()))
+        .and_then(|cap| cap.name("nation").map(|nation| nation))
 }
 
 fn extract_date(text: &str) -> Result<NaiveDate, Box<dyn Error>> {
