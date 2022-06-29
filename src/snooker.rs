@@ -71,7 +71,7 @@ fn extract_name(input: &str) -> Option<String> {
     }
     NAMERE
         .captures(input)
-        .and_then(|cap| cap.name("name").map(|name| name))
+        .and_then(|cap| cap.name("name").map(|name| name.as_str().to_string()))
 }
 
 fn extract_nation(input: &str) -> Option<String> {
@@ -81,7 +81,7 @@ fn extract_nation(input: &str) -> Option<String> {
     }
     NATIONRE
         .captures(input)
-        .and_then(|cap| cap.name("nation").map(|nation| nation))
+        .and_then(|cap| cap.name("nation").map(|nation| nation.as_str().to_string()))
 }
 
 fn extract_date(text: &str) -> Result<NaiveDate, Box<dyn Error>> {
