@@ -8,6 +8,7 @@ use std::cmp::Ordering;
 use std::convert::TryFrom;
 use std::error::Error;
 use std::hash::{Hash, Hasher};
+use chrono::naive::MIN_DATE;
 
 pub const HOST: &str = "http://www.snooker.org";
 
@@ -61,7 +62,7 @@ pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
     Ok(Player {
         snooker_id,
         full_name: extract_name(&title).unwrap_or_default(),
-        birthday: extract_date(&info_text).unwrap_or_default(),
+        birthday: extract_date(&info_text).unwrap_or(MIN_DATE),
     })
 }
 
