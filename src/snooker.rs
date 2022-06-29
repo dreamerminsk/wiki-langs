@@ -1,4 +1,5 @@
 use crate::html::{self, Link};
+use chrono::naive::MIN_DATE;
 use chrono::NaiveDate;
 use lazy_static::lazy_static;
 use regex::Regex;
@@ -8,7 +9,6 @@ use std::cmp::Ordering;
 use std::convert::TryFrom;
 use std::error::Error;
 use std::hash::{Hash, Hasher};
-use chrono::naive::MIN_DATE;
 
 pub const HOST: &str = "http://www.snooker.org";
 
