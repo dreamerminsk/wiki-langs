@@ -67,11 +67,41 @@ pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
 
 fn extract_name(input: &str) -> Option<&str> {
     lazy_static! {
-        static ref RE: Regex = Regex::new(r"(?P<name>.*?) - Players - snooker.org").unwrap();
+        static ref NAMERE: Regex = Regex::new(r"(?P<name>.*?) - Players - snooker.org").unwrap();
     }
-    RE.captures(input)
+    NAMERE.captures(input)
         .and_then(|cap| cap.name("name").map(|name| name.as_str()))
 }
+
+
+
+
+
+
+
+
+
+
+extract_nation(input: &str) -> Option<&str> {
+    lazy_static! {
+        static ref NATIONRE: Regex = Regex::new(r".*?Nationality:.*?\((?P<nation>.*?)\);.*?").unwrap();
+    }
+    NATIONRE.captures(input)
+        .and_then(|cap| cap.name("nation").map(|nation| nation.as_str()))
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 fn extract_date(text: &str) -> Result<NaiveDate, Box<dyn Error>> {
     let caps = RE.captures(text).ok_or("parse error")?;
