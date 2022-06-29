@@ -65,9 +65,12 @@ pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
     })
 }
 
-const PLAYER_TITLE: &str = "Zhang Anda - Players - snooker.org";
-fn extract_name(text: &str) -> Result<String, Box<dyn Error>> {
-    Ok(text.split(" - ").next().unwrap_or("").to_string())
+fn extract_name(input: &str) -> Option<&str> {
+    lazy_static! {
+        static ref RE: Regex = Regex::new(r"(?P<name>.*?) - Players - snooker.org").unwrap();
+    }
+    RE.captures(input)
+        .and_then(|cap| cap.name("name").map(|name| name.as_str()))
 }
 
 fn extract_date(text: &str) -> Result<NaiveDate, Box<dyn Error>> {
