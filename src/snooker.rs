@@ -1,4 +1,5 @@
 use crate::html::{self, Link};
+use chrono::naive::MIN_DATE;
 use chrono::NaiveDate;
 use lazy_static::lazy_static;
 use regex::Regex;
@@ -60,17 +61,28 @@ pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
 
     Ok(Player {
         snooker_id,
-        full_name: extract_name(&title)?,
-        birthday: extract_date(&info_text)?,
+        full_name: extract_name(&title).unwrap_or_default(),
+        birthday: extract_date(&info_text).unwrap_or(MIN_DATE),
     })
 }
 
-fn extract_name(input: &str) -> Option<&str> {
+fn extract_name(input: &str) -> Option<String> {
     lazy_static! {
-        static ref RE: Regex = Regex::new(r"(?P<name>.*?) - Players - snooker.org").unwrap();
+        static ref NAMERE: Regex = Regex::new(r"(?P<name>.*?) - Players - snooker.org").unwrap();
     }
-    RE.captures(input)
-        .and_then(|cap| cap.name("name").map(|name| name.as_str()))
+    NAMERE
+        .captures(input)
+        .and_then(|cap| cap.name("name").map(|name| name.as_str().to_string()))
+}
+
+fn extract_nation(input: &str) -> Option<String> {
+    lazy_static! {
+        static ref NATIONRE: Regex =
+            Regex::new(r".*?Nationality:.*?\((?P<nation>.*?)\);.*?").unwrap();
+    }
+    NATIONRE
+        .captures(input)
+        .and_then(|cap| cap.name("nation").map(|nation| nation.as_str().to_string()))
 }
 
 fn extract_date(text: &str) -> Result<NaiveDate, Box<dyn Error>> {
