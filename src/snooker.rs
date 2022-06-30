@@ -87,11 +87,11 @@ fn extract_date(text: &str) -> Option<NaiveDate> {
             Regex::new(r"Born:\s+?(?P<date>\d{1,2}?\s+?[A-Za-z]{3}?\s+?\d{4})").unwrap();
     }
 
-    DATERE.captures(text).and_then(|cap| 
+    DATERE.captures(text).and_then(|cap| {
         cap.name("date")
-.map(|d| d.as_str())
+            .map(|d| d.as_str())
             .map(|s| NaiveDate::parse_from_str(s, "%e %b %Y").ok())
-    )
+    })
 }
 
 #[derive(Debug, Serialize, Deserialize)]
