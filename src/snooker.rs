@@ -56,9 +56,13 @@ pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
     let title = html::parse_text(&text, "title").unwrap_or_else(|| "".to_string());
 
     Ok(Player {
-        snooker_id,
         full_name: extract_name(&title).unwrap_or_default(),
+nation:extract_nation(&title).unwrap_or_default(),
         birthday: extract_date(&info_text).unwrap_or(MIN_DATE),
+snooker_id,
+cuetracker_id: "".to_string(),
+    wikidata_id: "".to_string(),
+    wiki_id: "".to_string(),
     })
 }
 
