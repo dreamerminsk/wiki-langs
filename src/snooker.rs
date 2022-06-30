@@ -91,8 +91,7 @@ fn extract_date(text: &str) -> Option<NaiveDate> {
         cap.name("date").map(|d| d.as_str()).map(|s| {
             NaiveDate::parse_from_str(s, "%e %b %Y")
                 .ok()
-                .unwrap_or(MIN_DATE)
-        })
+        }).flatten()
     })
 }
 
