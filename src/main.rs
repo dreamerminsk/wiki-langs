@@ -61,7 +61,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
 fn update_players(plinks: &BTreeSet<PlayerLink>) {
     plinks.iter().for_each(|p| {
-        match tables::add_player(p) {
+        match tables::add_player_link(p) {
             Ok(f) => println!("Ok: {:?} - {:?}", f, p),
             Err(error) => println!("Err: {:?}", error),
         };
