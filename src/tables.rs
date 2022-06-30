@@ -1,10 +1,10 @@
-use crate::snooker::{EventLink, PlayerLink,Player};
+use crate::snooker::{EventLink, Player, PlayerLink};
+use chrono::{Datelike, NaiveDate};
 use std::cmp::Ordering;
 use std::error::Error;
 use std::fs;
 use std::path::Path;
 use uuid::Uuid;
-use chrono::{NaiveDate,Datelike};
 
 pub struct PlayerTable {
     folder: String,
@@ -42,7 +42,7 @@ fn update_player_segment(segment: &str, player: &Player) -> Result<(), Box<dyn E
                     }
                     Ordering::Less => temp_writer.serialize(p)?,
                     Ordering::Equal => {
-                        temp_writer.serialize(p)?;   
+                        temp_writer.serialize(p)?;
                         saved = true;
                     }
                 }
