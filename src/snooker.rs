@@ -73,8 +73,7 @@ fn extract_name(input: &str) -> Option<String> {
 
 fn extract_nation(input: &str) -> Option<String> {
     lazy_static! {
-        static ref NATIONRE: Regex =
-            Regex::new(r"Nationality:.*?\((?P<nation>.*?)\);").unwrap();
+        static ref NATIONRE: Regex = Regex::new(r"Nationality:.*?\((?P<nation>.*?)\);").unwrap();
     }
     NATIONRE
         .captures(input)
@@ -105,9 +104,6 @@ pub struct Player {
     pub wiki_id: String,
 }
 
-
-
-
 impl Ord for Player {
     fn cmp(&self, other: &Self) -> Ordering {
         self.snooker_id.cmp(&other.snooker_id)
@@ -133,12 +129,6 @@ impl Hash for Player {
         self.snooker_id.hash(state);
     }
 }
-
-
-
-
-
-
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct PlayerLink {
