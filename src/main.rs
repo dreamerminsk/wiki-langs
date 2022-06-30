@@ -17,6 +17,7 @@ static APP_USER_AGENT : &str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleW
 async fn main() -> Result<(), Box<dyn Error>> {
     let mut rng = rand::thread_rng();
     let random_id: u32 = rng.gen_range(1..100);
+let player snooker::get_player(usize::try_from(random_id)?)?;
 
     let client = Client::builder().user_agent(APP_USER_AGENT).build()?;
 
