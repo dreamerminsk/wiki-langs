@@ -56,9 +56,13 @@ pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
     let title = html::parse_text(&text, "title").unwrap_or_else(|| "".to_string());
 
     Ok(Player {
-        snooker_id,
         full_name: extract_name(&title).unwrap_or_default(),
+        nation: extract_nation(&title).unwrap_or_default(),
         birthday: extract_date(&info_text).unwrap_or(MIN_DATE),
+        snooker_id,
+        cuetracker_id: "".to_string(),
+        wikidata_id: "".to_string(),
+        wiki_id: "".to_string(),
     })
 }
 
@@ -73,8 +77,7 @@ fn extract_name(input: &str) -> Option<String> {
 
 fn extract_nation(input: &str) -> Option<String> {
     lazy_static! {
-        static ref NATIONRE: Regex =
-            Regex::new(r".*?Nationality:.*?\((?P<nation>.*?)\);.*?").unwrap();
+        static ref NATIONRE: Regex = Regex::new(r"Nationality:.*?\((?P<nation>.*?)\);").unwrap();
     }
     NATIONRE
         .captures(input)
@@ -86,7 +89,6 @@ fn extract_date(text: &str) -> Option<NaiveDate> {
         static ref DATERE: Regex =
             Regex::new(r"Born:\s+?(?P<date>\d{1,2}?\s+?[A-Za-z]{3}?\s+?\d{4})").unwrap();
     }
-
     DATERE.captures(text).and_then(|cap| {
         cap.name("date")
             .map(|d| d.as_str())
@@ -104,6 +106,32 @@ pub struct Player {
     pub cuetracker_id: String,
     pub wikidata_id: String,
     pub wiki_id: String,
+}
+
+impl Ord for Player {
+    fn cmp(&self, other: &Self) -> Ordering {
+        self.snooker_id.cmp(&other.snooker_id)
+    }
+}
+
+impl PartialOrd for Player {
+    fn partial_cmp(&self, other: &Self) -> Option<Ordering> {
+        Some(self.cmp(other))
+    }
+}
+
+impl PartialEq for Player {
+    fn eq(&self, other: &Self) -> bool {
+        self.snooker_id == other.snooker_id
+    }
+}
+
+impl Eq for Player {}
+
+impl Hash for Player {
+    fn hash<H: Hasher>(&self, state: &mut H) {
+        self.snooker_id.hash(state);
+    }
 }
 
 #[derive(Debug, Serialize, Deserialize)]
