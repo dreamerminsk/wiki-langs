@@ -34,8 +34,6 @@ pub fn rankings(season: usize) -> String {
     format!("{}{}{}", HOST, RANKINGS, season)
 }
 
-
-
 static APP_USER_AGENT : &str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33";
 
 lazy_static! {
@@ -84,15 +82,15 @@ fn extract_nation(input: &str) -> Option<String> {
 }
 
 fn extract_date(text: &str) -> Option<NaiveDate> {
+    lazy_static! {
+        static ref DATERE: Regex =
+            Regex::new(r"Born:\s+?(?P<date>\d{1,2}?\s+?[A-Za-z]{3}?\s+?\d{4})").unwrap();
+    }
 
-lazy_static! {
-    static ref DATERE: Regex = Regex::new(r"Born:\s+?(?P<date>\d{1,2}?\s+?[A-Za-z]{3}?\s+?\d{4})").unwrap();
-}
-
-DATERE
-        .captures(text)
-        .and_then(|cap| cap.name("date").map(|d| NaiveDate::parse_from_str(d.as_str(), "%e %b %Y")))
-
+    DATERE.captures(text).and_then(|cap| {
+        cap.name("date")
+            .map(|d| NaiveDate::parse_from_str(d.as_str(), "%e %b %Y"))
+    })
 }
 
 #[derive(Debug, Serialize, Deserialize)]
