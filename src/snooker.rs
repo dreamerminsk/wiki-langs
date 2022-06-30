@@ -89,7 +89,7 @@ fn extract_date(text: &str) -> Option<NaiveDate> {
 
     DATERE.captures(text).and_then(|cap| {
         cap.name("date")
-            .map(|d| NaiveDate::parse_from_str(d.as_str(), "%e %b %Y"))
+            .map(|d| NaiveDate::parse_from_str(d.as_str(), "%e %b %Y").ok())
     })
 }
 
