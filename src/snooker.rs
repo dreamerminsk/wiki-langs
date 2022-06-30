@@ -34,10 +34,6 @@ pub fn rankings(season: usize) -> String {
     format!("{}{}{}", HOST, RANKINGS, season)
 }
 
-lazy_static! {
-    static ref RE: Regex = Regex::new(r"Born:\s+?(\d{1,2}?\s+?[A-Za-z]{3}?\s+?\d{4})").unwrap();
-}
-
 static APP_USER_AGENT : &str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33";
 
 lazy_static! {
@@ -85,12 +81,19 @@ fn extract_nation(input: &str) -> Option<String> {
         .and_then(|cap| cap.name("nation").map(|nation| nation.as_str().to_string()))
 }
 
-fn extract_date(text: &str) -> Result<NaiveDate, Box<dyn Error>> {
-    let caps = RE.captures(text).ok_or("parse error")?;
+fn extract_date(text: &str) -> Option<NaiveDate> {
+    lazy_static! {
+        static ref DATERE: Regex =
+            Regex::new(r"Born:\s+?(?P<date>\d{1,2}?\s+?[A-Za-z]{3}?\s+?\d{4})").unwrap();
+    }
 
-    let birth = caps.get(1).map_or("", |m| m.as_str());
-
-    Ok(NaiveDate::parse_from_str(birth, "%e %b %Y").unwrap_or(NaiveDate::from_ymd(1900, 1, 1)))
+    DATERE.captures(text).and_then(|cap| {
+        cap.name("date").map(|d| d.as_str()).map(|s| {
+            NaiveDate::parse_from_str(s, "%e %b %Y")
+                .ok()
+                .unwrap_or(MIN_DATE)
+        })
+    })
 }
 
 #[derive(Debug, Serialize, Deserialize)]
