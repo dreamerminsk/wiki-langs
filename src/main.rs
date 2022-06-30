@@ -18,7 +18,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
     let mut rng = rand::thread_rng();
     let random_id: u32 = rng.gen_range(1..100);
     let player = snooker::get_player(usize::try_from(random_id)?).await?;
-    tables::add_player(player)?;
+    tables::add_player(&player)?;
 
     let client = Client::builder().user_agent(APP_USER_AGENT).build()?;
 
