@@ -16,7 +16,7 @@ static APP_USER_AGENT : &str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleW
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
     let mut rng = rand::thread_rng();
-    let random_id: usize = rng.gen_range(1..100);
+    let random_id: u32 = rng.gen_range(1..100);
 
     let client = Client::builder().user_agent(APP_USER_AGENT).build()?;
 
