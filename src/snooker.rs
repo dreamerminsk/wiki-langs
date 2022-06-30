@@ -97,9 +97,13 @@ fn extract_date(text: &str) -> Option<NaiveDate> {
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Player {
-    pub snooker_id: usize,
     pub full_name: String,
+pub nation: String,
     pub birthday: NaiveDate,
+pub snooker_id: usize,
+pub cuetracker_id: String,
+pub wikidata_id:String,
+pub wiki_id:String,
 }
 
 #[derive(Debug, Serialize, Deserialize)]
