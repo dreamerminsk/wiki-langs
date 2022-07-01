@@ -16,8 +16,8 @@ async fn main() -> Result<(), Box<dyn Error>> {
     (0..3)
         .map(|_| rng.gen_range(1..300))
         .filter_map(|r| usize::try_from(r).ok())
-        .filter_map(move |id| async move { snooker::get_player(id).await })
-        .for_each(|p| tables::add_player(&p));
+        .filter_map(move |id| async move { snooker::get_player(id).await.unwrap().ok() })
+        .for_each(|p| {tables::add_player(&p);Ok(()));
 
     Ok(())
 }
