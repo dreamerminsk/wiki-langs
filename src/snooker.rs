@@ -111,7 +111,7 @@ pub struct Player {
 
 impl Ord for Player {
     fn cmp(&self, other: &Self) -> Ordering {
-        self.snooker_id.cmp(&other.snooker_id)
+        self.birthday.cmp(&other.birthday)
     }
 }
 
