@@ -1,4 +1,3 @@
-use crate::snooker;
 use rand::Rng;
 use std::error::Error;
 
