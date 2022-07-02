@@ -11,3 +11,24 @@ pub struct Country {
     pub wiki_data_id: Option<String>,
     pub wiki_id: Option<String>,
 }
+
+
+
+
+impl Ord for     Country    {
+    fn cmp(&self, other: &Self) -> Ordering {
+        self.name.cmp(&other.name)
+    }
+}
+
+impl PartialOrd for Country {
+    fn partial_cmp(&self, other: &Self) -> Option<Ordering> {
+        Some(self.cmp(other))
+    }
+}
+
+impl PartialEq for Country {
+    fn eq(&self, other: &Self) -> bool {
+        self.name == other.name
+    }
+}
