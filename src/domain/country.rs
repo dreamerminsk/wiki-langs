@@ -1,6 +1,7 @@
 use serde::{Deserialize, Serialize};
 use std::cmp::Ordering;
 use std::hash::{Hash, Hasher};
+use std::convert::From;
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Country {
@@ -59,3 +60,4 @@ Country {
     wiki_id: None,
 }
 }  
+}
