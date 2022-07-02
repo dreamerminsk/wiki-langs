@@ -12,10 +12,7 @@ pub struct Country {
     pub wiki_id: Option<String>,
 }
 
-
-
-
-impl Ord for     Country    {
+impl Ord for Country {
     fn cmp(&self, other: &Self) -> Ordering {
         self.name.cmp(&other.name)
     }
