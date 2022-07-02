@@ -1,6 +1,6 @@
 use serde::{Deserialize, Serialize};
 use std::cmp::Ordering;
-use std::hash::{Hash,Hasher};
+use std::hash::{Hash, Hasher};
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Country {
@@ -32,16 +32,9 @@ impl PartialEq for Country {
     }
 }
 
+impl Eq for Country {}
 
-
-
-
-
-
-
-impl Eq for      Country     {}
-
-impl Hash for     Country      {
+impl Hash for Country {
     fn hash<H: Hasher>(&self, state: &mut H) {
         self.name.hash(state);
     }
