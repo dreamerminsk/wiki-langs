@@ -1,4 +1,7 @@
 use serde::{Deserialize, Serialize};
+use std::cmp::Ordering;
+use std::convert::From;
+use std::hash::{Hash, Hasher};
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Country {
@@ -27,5 +30,28 @@ impl PartialOrd for Country {
 impl PartialEq for Country {
     fn eq(&self, other: &Self) -> bool {
         self.name == other.name
+    }
+}
+
+impl Eq for Country {}
+
+impl Hash for Country {
+    fn hash<H: Hasher>(&self, state: &mut H) {
+        self.name.hash(state);
+    }
+}
+
+impl From<String> for Country {
+    fn from(value: String) -> Self {
+        Country {
+            name: value.to_owned(),
+            iso_num: None,
+            iso_alpha_2: None,
+            iso_alpha_3: None,
+            ioc_cc: None,
+            fifa_cc: None,
+            wiki_data_id: None,
+            wiki_id: None,
+        }
     }
 }
