@@ -93,8 +93,7 @@ fn extract_date(text: &str) -> Option<NaiveDate> {
     DATERE.captures(text).and_then(|cap| {
         cap.name("date")
             .map(|d| d.as_str())
-            .map(|s| NaiveDate::parse_from_str(s, "%e %b %Y").ok())
-            .flatten()
+            .and_then(|s| NaiveDate::parse_from_str(s, "%e %b %Y").ok())
     })
 }
 
@@ -231,7 +230,7 @@ impl TryFrom<&Link> for EventLink {
 
 fn extract_number(text: &str) -> usize {
     text.chars()
-        .filter(|c| c.is_digit(10))
+        .filter(|c| c.is_ascii_digit())
         .collect::<String>()
         .parse::<usize>()
         .unwrap_or(0)
@@ -239,8 +238,8 @@ fn extract_number(text: &str) -> usize {
 
 fn extract_first_number(text: &str) -> usize {
     text.chars()
-        .skip_while(|c| !c.is_digit(10))
-        .take_while(|c| c.is_digit(10))
+        .skip_while(|c| !c.is_ascii_digit())
+        .take_while(|c| c.is_ascii_digit())
         .collect::<String>()
         .parse::<usize>()
         .unwrap_or(0)
