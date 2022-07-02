@@ -39,3 +39,23 @@ impl Hash for Country {
         self.name.hash(state);
     }
 }
+
+
+
+
+
+
+
+impl       From<String>    for   Country   {
+fn from(value:String)->Self{
+Country {
+    name: value.to_owned(),
+    iso_num: None,
+    iso_alpha_2: None,
+   iso_alpha_3: None,
+    ioc_cc: None,
+   fifa_cc: None,
+   wiki_data_id: None,
+    wiki_id: None,
+}
+}  
