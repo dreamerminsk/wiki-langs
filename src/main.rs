@@ -1,6 +1,9 @@
 use rand::Rng;
 use std::error::Error;
 
+
+mod domain;
+
 mod html;
 
 mod snooker;
