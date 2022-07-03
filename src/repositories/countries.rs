@@ -1,6 +1,4 @@
 use crate::domain::entities::Country;
-use crate::snooker::{EventLink, Player, PlayerLink};
-use chrono::{Datelike, NaiveDate};
 use std::cmp::Ordering;
 use std::error::Error;
 use std::fs;
