@@ -1,7 +1,7 @@
-use rand::Rng;
-use std::error::Error;
 use crate::domain::entities::Country;
 use crate::repositories::contries;
+use rand::Rng;
+use std::error::Error;
 
 mod domain;
 
@@ -20,8 +20,8 @@ async fn main() -> Result<(), Box<dyn Error>> {
         let random_id: u32 = rng.gen_range(1..2000);
         let player = snooker::get_player(usize::try_from(random_id)?).await?;
         tables::add_player(&player)?;
-let country = Country::from(player.nation);
-countries::add_country(&country);
+        let country = Country::from(player.nation);
+        countries::add_country(&country);
     }
 
     Ok(())

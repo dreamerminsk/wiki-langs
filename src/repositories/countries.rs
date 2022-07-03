@@ -1,3 +1,4 @@
+use crate::domain::entities::Country;
 use crate::snooker::{EventLink, Player, PlayerLink};
 use chrono::{Datelike, NaiveDate};
 use std::cmp::Ordering;
@@ -5,14 +6,10 @@ use std::error::Error;
 use std::fs;
 use std::path::Path;
 use uuid::Uuid;
-use crate::domain::entities::Country;
-
-
-
 
 pub fn add_country(country: &Country) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./countries/")?;
-    let source_name = format!("./countries/{}","names.eng.csv");
+    let source_name = format!("./countries/{}", "names.eng.csv");
     if Path::new(&source_name).exists() {
         update_country_segment(&source_name, country)?;
     } else {
