@@ -1,5 +1,5 @@
 use crate::domain::entities::Country;
-use crate::repositories::contries;
+use crate::repositories::countries;
 use rand::Rng;
 use std::error::Error;
 
