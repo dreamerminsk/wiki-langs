@@ -46,8 +46,8 @@ impl From<String> for Country {
         Country {
             name: value.to_owned(),
             iso_num: None,
-            iso_alpha_2: None,
-            iso_alpha_3: None,
+            iso_2: None,
+            iso_3: None,
             ioc_cc: None,
             fifa_cc: None,
             wiki_data_id: None,
