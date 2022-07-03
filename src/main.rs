@@ -21,7 +21,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
         let player = snooker::get_player(usize::try_from(random_id)?).await?;
         tables::add_player(&player)?;
         let country = Country::from(player.nation);
-        countries::add_country(&country);
+        countries::add_country(&country)?;
     }
 
     Ok(())
