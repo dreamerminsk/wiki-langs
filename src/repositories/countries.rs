@@ -38,7 +38,7 @@ fn update_country_segment(segment: &str, country: &Country) -> Result<(), Box<dy
                     Ordering::Less => temp_writer.serialize(c)?,
                     Ordering::Equal => {
                         temp_writer.serialize(&c)?;
-                        saved =     true;
+                        saved = true;
                     }
                 }
             }
