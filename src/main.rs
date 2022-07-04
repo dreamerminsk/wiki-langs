@@ -17,7 +17,7 @@ mod tables;
 async fn main() -> Result<(), Box<dyn Error>> {
     let mut rng = rand::thread_rng();
     for _i in 1..5 {
-        let random_id: u32 = rng.gen_range(1..3000);
+        let random_id: u32 = rng.gen_range(1..100);
         let player = snooker::get_player(usize::try_from(random_id)?).await?;
         tables::add_player(&player)?;
         let country = Country::from(player.nation);
