@@ -1,9 +1,9 @@
-use crate::domain::entities::Country;
+use crate::country::entities::Country;
 use crate::repositories::countries;
 use rand::Rng;
 use std::error::Error;
 
-mod domain;
+mod country;
 
 mod repositories;
 
