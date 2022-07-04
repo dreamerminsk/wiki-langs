@@ -1,4 +1,4 @@
-use crate::domain::entities::Country;
+use crate::country::entities::Country;
 use std::cmp::Ordering;
 use std::error::Error;
 use std::fs;
