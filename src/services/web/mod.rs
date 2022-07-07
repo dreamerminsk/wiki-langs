@@ -1,11 +1,7 @@
-
-
 use lazy_static::lazy_static;
 use reqwest::Client;
-use std::error::Error;
 use scraper::Html;
-
-
+use std::error::Error;
 
 pub mod html;
 
