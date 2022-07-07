@@ -7,8 +7,6 @@ mod country;
 
 mod repositories;
 
-mod html;
-
 mod snooker;
 
 mod tables;
