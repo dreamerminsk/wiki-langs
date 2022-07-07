@@ -1,9 +1,9 @@
-use crate::html::{self, Link};
+use crate::services::web;
+use crate::services::web::html::{Extract, Link};
 use chrono::naive::MIN_DATE;
 use chrono::NaiveDate;
 use lazy_static::lazy_static;
 use regex::Regex;
-use reqwest::Client;
 use serde::{Deserialize, Serialize};
 use std::cmp::Ordering;
 use std::convert::TryFrom;
@@ -34,27 +34,15 @@ pub fn rankings(season: usize) -> String {
     format!("{}{}{}", HOST, RANKINGS, season)
 }
 
-static APP_USER_AGENT : &str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33";
-
-lazy_static! {
-    static ref CLIENT: Client = Client::builder()
-        .user_agent(APP_USER_AGENT)
-        .build()
-        .unwrap();
-}
-
 pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
-    let resp = CLIENT
-        .get(format!("{}{}{}", HOST, PLAYER, snooker_id))
-        .send()
-        .await?;
+    let page = web::get(format!("{}{}{}", HOST, PLAYER, snooker_id)).await?;
 
-    let text = resp.text().await?;
-
-    let info_text = html::parse_text(&text, "div.info").unwrap_or_else(|| "".to_string());
+    let info_text = page
+        .extract_text("div.info")
+        .unwrap_or_else(|| "".to_string());
     println!("info_text = ({:?})", info_text);
 
-    let title = html::parse_text(&text, "title").unwrap_or_else(|| "".to_string());
+    let title = page.extract_text("title").unwrap_or_else(|| "".to_string());
 
     Ok(Player {
         full_name: extract_name(&title).unwrap_or_default(),

@@ -7,11 +7,11 @@ mod country;
 
 mod repositories;
 
-mod html;
-
 mod snooker;
 
 mod tables;
+
+mod services;
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
