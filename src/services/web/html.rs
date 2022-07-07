@@ -9,9 +9,9 @@ fn query(u: Url) -> HashMap<String, String> {
     u.query_pairs().into_owned().collect()
 }
 
-pub trait Extract{
-fn extract_links(&self) -> BTreeSet<Link>; 
- fn extract_text(&self, selector: &str) -> Option<String>;
+pub trait Extract {
+    fn extract_links(&self) -> BTreeSet<Link>;
+    fn extract_text(&self, selector: &str) -> Option<String>;
 }
 
 impl Extract for Html {
