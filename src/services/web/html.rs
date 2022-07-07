@@ -8,7 +8,12 @@ use url::Url;
 fn query(u: Url) -> HashMap<String, String> {
     u.query_pairs().into_owned().collect()
 }
+
+
+
+
 impl Html {
+
     pub fn extract_links(&self) -> BTreeSet<Link> {
         let selector = Selector::parse(r#"a"#).unwrap();
         self.select(&selector)
@@ -16,13 +21,21 @@ impl Html {
             .collect::<BTreeSet<Link>>()
     }
 
+
+
+
+
     pub fn extract_text(&self, selector: &str) -> Option<String> {
         let selector = Selector::parse(selector).unwrap();
         self.select(&selector)
             .map(|t| t.text().collect::<String>())
             .next()
     }
+
 }
+
+
+
 
 #[derive(Debug)]
 pub struct Link {
