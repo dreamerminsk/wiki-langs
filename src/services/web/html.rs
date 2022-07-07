@@ -15,14 +15,14 @@ pub trait Extract {
 }
 
 impl Extract for Html {
-    pub fn extract_links(&self) -> BTreeSet<Link> {
+    fn extract_links(&self) -> BTreeSet<Link> {
         let selector = Selector::parse(r#"a"#).unwrap();
         self.select(&selector)
             .map(Link::from)
             .collect::<BTreeSet<Link>>()
     }
 
-    pub fn extract_text(&self, selector: &str) -> Option<String> {
+    fn extract_text(&self, selector: &str) -> Option<String> {
         let selector = Selector::parse(selector).unwrap();
         self.select(&selector)
             .map(|t| t.text().collect::<String>())
