@@ -1,5 +1,5 @@
 use crate::services::web;
-use crate::services::web::html::{   Extract, Link};
+use crate::services::web::html::{Extract, Link};
 use chrono::naive::MIN_DATE;
 use chrono::NaiveDate;
 use lazy_static::lazy_static;
@@ -38,13 +38,11 @@ pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
     let page = web::get(format!("{}{}{}", HOST, PLAYER, snooker_id)).await?;
 
     let info_text = page
-        .extract_text(   "div.info")
+        .extract_text("div.info")
         .unwrap_or_else(|| "".to_string());
     println!("info_text = ({:?})", info_text);
 
-    let title = page
-        .extract_text( "title")
-        .unwrap_or_else(|| "".to_string());
+    let title = page.extract_text("title").unwrap_or_else(|| "".to_string());
 
     Ok(Player {
         full_name: extract_name(&title).unwrap_or_default(),
