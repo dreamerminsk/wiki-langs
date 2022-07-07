@@ -14,5 +14,5 @@ lazy_static! {
 pub async fn get(url: String) -> Result<Html, Box<dyn Error>> {
     let resp = CLIENT.get(url).send().await?;
     let content = resp.text().await?;
-Html::parse_document(&content)
+    Html::parse_document(&content)
 }
