@@ -8,23 +8,22 @@ use url::Url;
 fn query(u: Url) -> HashMap<String, String> {
     u.query_pairs().into_owned().collect()
 }
-
-pub fn parse_links(text: &str) -> BTreeSet<Link> {
-    let document = Html::parse_document(text);
+impl for Html{
+pub fn extract_links(&self) -> BTreeSet<Link> {
     let selector = Selector::parse(r#"a"#).unwrap();
-    document
+    self
         .select(&selector)
         .map(Link::from)
         .collect::<BTreeSet<Link>>()
 }
 
-pub fn parse_text(text: &str, selector: &str) -> Option<String> {
-    let document = Html::parse_document(text);
+pub fn extract_text(&self, selector: &str) -> Option<String> {
     let selector = Selector::parse(selector).unwrap();
-    document
+    self
         .select(&selector)
         .map(|t| t.text().collect::<String>())
         .next()
+}
 }
 
 #[derive(Debug)]
