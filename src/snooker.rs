@@ -49,9 +49,9 @@ pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
         nation: extract_nation(&info_text).unwrap_or_default(),
         birthday: extract_date(&info_text).unwrap_or(MIN_DATE),
         snooker_id,
-        cuetracker_id:    None,
+        cuetracker_id: None,
         wikidata_id: None,
-        wiki_id:     None,
+        wiki_id: None,
     })
 }
 
