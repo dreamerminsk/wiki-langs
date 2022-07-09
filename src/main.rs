@@ -28,7 +28,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
     }
     vec!["", ""]
         .into_iter()
-.map(|it| Country::from(it))
+        .map(|it| Country::from(it))
         .for_each(|it| countries::add_country(&it).ok().or_default());
 
     Ok(())
