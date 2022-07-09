@@ -45,7 +45,7 @@ pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
     let title = page.extract_text("title").unwrap_or_else(|| "".to_string());
 
     Ok(Player {
-        full_name: extract_name(&title).unwrap_or_else(||   extract_team(&title).unwrap_or_default()),
+        full_name: extract_name(&title).unwrap_or_else(|| extract_team(&title).unwrap_or_default()),
         nation: extract_nation(&info_text).unwrap_or_default(),
         birthday: extract_date(&info_text).unwrap_or(MIN_DATE),
         snooker_id,
