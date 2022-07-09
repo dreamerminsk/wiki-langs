@@ -64,6 +64,20 @@ fn extract_name(input: &str) -> Option<String> {
         .and_then(|cap| cap.name("name").map(|name| name.as_str().to_string()))
 }
 
+
+
+
+
+fn extract_team(input: &str) -> Option<String> {
+    lazy_static! {
+        static ref TEAM_RE: Regex = Regex::new(r"(?P<name>.*?) - Teams - snooker.org").unwrap();
+    }
+    TEAM_RE
+        .captures(input)
+        .and_then(|cap| cap.name("name").map(|name| name.as_str().to_string()))
+}
+
+
 fn extract_nation(input: &str) -> Option<String> {
     lazy_static! {
         static ref NATIONRE: Regex = Regex::new(r"Nationality:\s+?\((?P<nation>.*?)\);").unwrap();
