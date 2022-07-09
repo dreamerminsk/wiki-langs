@@ -49,9 +49,9 @@ pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
         nation: extract_nation(&info_text).unwrap_or_default(),
         birthday: extract_date(&info_text).unwrap_or(MIN_DATE),
         snooker_id,
-        cuetracker_id: "".to_string(),
-        wikidata_id: "".to_string(),
-        wiki_id: "".to_string(),
+        cuetracker_id:    None,
+        wikidata_id: None,
+        wiki_id:     None,
     })
 }
 
@@ -91,9 +91,9 @@ pub struct Player {
     pub nation: String,
     pub birthday: NaiveDate,
     pub snooker_id: usize,
-    pub cuetracker_id: String,
-    pub wikidata_id: String,
-    pub wiki_id: String,
+    pub cuetracker_id: Option<String>,
+    pub wikidata_id: Option<String>,
+    pub wiki_id: Option<String>,
 }
 
 impl Ord for Player {
