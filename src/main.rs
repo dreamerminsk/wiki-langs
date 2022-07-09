@@ -26,7 +26,18 @@ async fn main() -> Result<(), Box<dyn Error>> {
         let country = Country::from(player.nation);
         countries::add_country(&country)?;
     }
-    vec!["", ""]
+    vec!["Argentina",
+"Bolivia",
+"Brazil",
+"Chile",
+"Colombia",
+"Ecuador",
+"Guyana",
+"Paraguay",
+"Peru",
+"Suriname",
+"Uruguay",
+"Venezuela"]
         .into_iter()
         .map(|it| Country::from(it.to_string()))
         .for_each(|it| countries::add_country(&it).ok().unwrap_or_default());
