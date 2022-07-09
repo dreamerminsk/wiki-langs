@@ -26,7 +26,9 @@ async fn main() -> Result<(), Box<dyn Error>> {
         let country = Country::from(player.nation);
         countries::add_country(&country)?;
     }
-vec!["",""].into_iter().for_each(|it| countries::add_country(&it)?);
+    vec!["", ""]
+        .into_iter()
+        .for_each(|it| countries::add_country(&it)?);
 
     Ok(())
 }
