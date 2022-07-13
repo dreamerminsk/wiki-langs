@@ -5,7 +5,7 @@ use std::fs;
 use std::path::Path;
 use uuid::Uuid;
 
-pub fn get_all_countries() -> Result<Vec<Country>,Box<dyn Error>> {
+pub fn get_all_countries() -> Result<Vec<Country>, Box<dyn Error>> {
     let source_name = format!("./countries/{}", "names.eng.csv");
     if Path::new(&source_name).exists() {
         Ok(vec![])
