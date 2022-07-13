@@ -5,6 +5,18 @@ use std::fs;
 use std::path::Path;
 use uuid::Uuid;
 
+pub fn get_all_countries() -> Vec<Country> {
+    let source_name = format!("./countries/{}", "names.eng.csv");
+    if Path::new(&source_name).exists() {
+        vec![]
+    } else {
+        vec![]
+    }
+    
+}
+
+
+
 pub fn add_country(country: &Country) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./countries/")?;
     let source_name = format!("./countries/{}", "names.eng.csv");
