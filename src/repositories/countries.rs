@@ -5,11 +5,24 @@ use std::fs;
 use std::path::Path;
 use uuid::Uuid;
 
+pub fn get_all_countries() -> Result<Vec<Country>, Box<dyn Error>> {
+    let source_name = format!("./countries/{}", "names.eng.csv");
+    let mut countries = vec![];
+    if Path::new(&source_name).exists() {
+        let mut source_reader = csv::Reader::from_path(&source_name)?;
+        for c in source_reader.deserialize() {
+            let c: Country = c?;
+            countries.push(c);
+        }
+    }
+    Ok(countries)
+}
+
 pub fn add_country(country: &Country) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./countries/")?;
     let source_name = format!("./countries/{}", "names.eng.csv");
     if Path::new(&source_name).exists() {
-        update_country_segment(&source_name, country)?;
+        update_segment(&source_name, country)?;
     } else {
         let mut source_writer = csv::Writer::from_path(&source_name)?;
         source_writer.serialize(country)?;
@@ -18,7 +31,7 @@ pub fn add_country(country: &Country) -> Result<(), Box<dyn Error>> {
     Ok(())
 }
 
-fn update_country_segment(segment: &str, country: &Country) -> Result<(), Box<dyn Error>> {
+fn update_segment(segment: &str, country: &Country) -> Result<(), Box<dyn Error>> {
     let temp_name = format!("./countries/{}.csv", Uuid::new_v4());
     {
         let mut source_reader = csv::Reader::from_path(&segment)?;

@@ -13,6 +13,8 @@ mod tables;
 
 mod services;
 
+mod wiki;
+
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
     let mut rng = rand::thread_rng();
