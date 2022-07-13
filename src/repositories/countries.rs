@@ -7,7 +7,7 @@ use uuid::Uuid;
 
 pub fn get_all_countries() -> Result<Vec<Country>, Box<dyn Error>> {
     let source_name = format!("./countries/{}", "names.eng.csv");
-    let countries = vec![];
+    let mut countries = vec![];
     if Path::new(&source_name).exists() {
         let mut source_reader = csv::Reader::from_path(&source_name)?;
         for c in source_reader.deserialize() {
