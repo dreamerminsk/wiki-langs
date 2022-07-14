@@ -20,8 +20,8 @@ async fn main() -> Result<(), Box<dyn Error>> {
     let mut rng = rand::thread_rng();
     for i in 0..7 {
         let random_id: u32 = rng.gen_range(std::ops::Range {
-            start: 100 * i,
-            end: 100 * (i + 1),
+            start: 200 * i,
+            end: 200 * (i + 1),
         });
         let player = snooker::get_player(usize::try_from(random_id)?).await?;
         tables::add_player(&player)?;
@@ -30,19 +30,6 @@ async fn main() -> Result<(), Box<dyn Error>> {
     }
     vec![
         "Australia",
-        "Federated States of Micronesia",
-        "Fiji",
-        "Kiribati",
-        "Marshall Islands",
-        "Nauru",
-        "New Zealand",
-        "Palau",
-        "Papua New Guinea",
-        "Samoa",
-        "Solomon Islands",
-        "Tonga",
-        "Tuvalu",
-        "Vanuatu",
     ]
     .into_iter()
     .map(|it| Country::from(it.to_string()))
