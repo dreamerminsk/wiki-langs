@@ -1,3 +1,3 @@
-pub use crate::wiki::entities::article::Article;
+pub use crate::wiki::entities::page::Page;
 
-mod article;
+mod page;
