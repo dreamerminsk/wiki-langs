@@ -1,3 +1,6 @@
-pub use crate::wiki::entities::article::Article;
+pub use crate::wiki::entities::inter_wiki::InterWiki;
+pub use crate::wiki::entities::page::Page;
 
-mod article;
+mod page;
+
+mod inter_wiki;
