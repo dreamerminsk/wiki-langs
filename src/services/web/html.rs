@@ -4,6 +4,7 @@ use std::collections::{BTreeSet, HashMap};
 use std::convert::From;
 use std::hash::{Hash, Hasher};
 use url::Url;
+use crate::services::web::entities::Link;
 
 fn query(u: Url) -> HashMap<String, String> {
     u.query_pairs().into_owned().collect()
