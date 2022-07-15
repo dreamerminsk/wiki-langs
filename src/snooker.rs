@@ -1,5 +1,6 @@
 use crate::services::web;
-use crate::services::web::html::{Extract, Link};
+use crate::services::web::html::{Extract};
+use crate::services::web::entities::Link;
 use chrono::naive::MIN_DATE;
 use chrono::NaiveDate;
 use lazy_static::lazy_static;
