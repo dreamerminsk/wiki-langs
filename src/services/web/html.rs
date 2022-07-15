@@ -1,9 +1,6 @@
 use crate::services::web::entities::Link;
 use scraper::{ElementRef, Html, Selector};
-use std::cmp::Ordering;
 use std::collections::{BTreeSet, HashMap};
-use std::convert::From;
-use std::hash::{Hash, Hasher};
 use url::Url;
 
 fn query(u: Url) -> HashMap<String, String> {
