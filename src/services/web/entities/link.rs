@@ -1,3 +1,14 @@
+use scraper::{ElementRef, Html, Selector};
+use std::cmp::Ordering;
+use std::collections::{BTreeSet, HashMap};
+use std::convert::From;
+use std::hash::{Hash, Hasher};
+
+
+
+
+
+
 #[derive(Debug)]
 pub struct Link {
     pub url: String,
