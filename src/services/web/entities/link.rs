@@ -1,6 +1,5 @@
-use scraper::{ElementRef, Html, Selector};
+use scraper::{ElementRef};
 use std::cmp::Ordering;
-use std::collections::{BTreeSet, HashMap};
 use std::convert::From;
 use std::hash::{Hash, Hasher};
 
