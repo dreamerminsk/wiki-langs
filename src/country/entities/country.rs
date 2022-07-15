@@ -44,7 +44,7 @@ impl Hash for Country {
 impl From<String> for Country {
     fn from(value: String) -> Self {
         Country {
-            name: value.to_owned(),
+            name: value,
             iso_num: None,
             iso_2: None,
             iso_3: None,
