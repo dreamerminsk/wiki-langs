@@ -3,7 +3,6 @@ use reqwest::Client;
 use scraper::Html;
 use std::error::Error;
 
-
 pub mod entities;
 
 pub mod html;
