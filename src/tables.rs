@@ -45,7 +45,10 @@ fn update_player_segment(segment: &str, player: &Player) -> Result<(), Box<dyn E
                         temp_writer.serialize(&player)?;
                         match p.snooker_id.cmp(&player.snooker_id) {
                             Ordering::Equal => saved = true,
-                            _ => {temp_writer.serialize(&p)?;saved = true},
+                            _ => {
+                                temp_writer.serialize(&p)?;
+                                saved = true
+                            }
                         }
                     }
                 }
