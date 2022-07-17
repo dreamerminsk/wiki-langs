@@ -5,6 +5,7 @@ use chrono::naive::MIN_DATE;
 use chrono::NaiveDate;
 use lazy_static::lazy_static;
 use regex::Regex;
+use scraper::Html;
 use serde::{Deserialize, Serialize};
 use std::cmp::Ordering;
 use std::convert::TryFrom;
@@ -51,7 +52,7 @@ pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
         nation: extract_nation(&info_text).unwrap_or_default(),
         birthday: extract_date(&info_text).unwrap_or(MIN_DATE),
         snooker_id,
-        cuetracker_id: None,
+        cuetracker_id: extract_ct_id(&page),
         wikidata_id: None,
         wiki_id: None,
     })
@@ -59,9 +60,9 @@ pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
 
 fn extract_name(input: &str) -> Option<String> {
     lazy_static! {
-        static ref NAMERE: Regex = Regex::new(r"(?P<name>.*?) - Players - snooker.org").unwrap();
+        static ref NAME_RE: Regex = Regex::new(r"(?P<name>.*?) - Players - snooker.org").unwrap();
     }
-    NAMERE
+    NAME_RE
         .captures(input)
         .and_then(|cap| cap.name("name").map(|name| name.as_str().to_string()))
 }
@@ -77,23 +78,40 @@ fn extract_team(input: &str) -> Option<String> {
 
 fn extract_nation(input: &str) -> Option<String> {
     lazy_static! {
-        static ref NATIONRE: Regex = Regex::new(r"Nationality:\s+?\((?P<nation>.*?)\);").unwrap();
+        static ref NATION_RE: Regex = Regex::new(r"Nationality:\s+?\((?P<nation>.*?)\);").unwrap();
     }
-    NATIONRE
+    NATION_RE
         .captures(input)
         .and_then(|cap| cap.name("nation").map(|nation| nation.as_str().to_string()))
 }
 
 fn extract_date(text: &str) -> Option<NaiveDate> {
     lazy_static! {
-        static ref DATERE: Regex =
+        static ref DATE_RE: Regex =
             Regex::new(r"Born:\s+?(?P<date>\d{1,2}?\s+?[A-Za-z]{3}?\s+?\d{4})").unwrap();
     }
-    DATERE.captures(text).and_then(|cap| {
+    DATE_RE.captures(text).and_then(|cap| {
         cap.name("date")
             .map(|d| d.as_str())
             .and_then(|s| NaiveDate::parse_from_str(s, "%e %b %Y").ok())
     })
+}
+
+fn extract_ct_id(page: &Html) -> Option<String> {
+    page.extract_links()
+        .into_iter()
+        .filter(|l| l.url.contains("cuetracker"))
+        .filter_map(|l| _extract_ct_id(l.url.as_str()))
+        .next()
+}
+
+fn _extract_ct_id(text: &str) -> Option<String> {
+    lazy_static! {
+        static ref CT_RE: Regex = Regex::new(r"/Players/(?P<ctid>.*?)/.*?").unwrap();
+    }
+    CT_RE
+        .captures(text)
+        .and_then(|cap| cap.name("ctid").map(|ctid| ctid.as_str().to_string()))
 }
 
 #[derive(Debug, Serialize, Deserialize)]
