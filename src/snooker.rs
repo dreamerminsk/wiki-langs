@@ -98,7 +98,7 @@ fn extract_date(text: &str) -> Option<NaiveDate> {
 }
 
 fn extract_cuetracker_id(page: &Html) -> Option<String> {
-    page.extract_links();
+    page.extract_links().into_iter().filter(|l| l.url.contains("cuetracker"));
     None
 }
 
