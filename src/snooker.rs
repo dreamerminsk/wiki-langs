@@ -60,9 +60,9 @@ pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
 
 fn extract_name(input: &str) -> Option<String> {
     lazy_static! {
-        static ref NAMERE: Regex = Regex::new(r"(?P<name>.*?) - Players - snooker.org").unwrap();
+        static ref NAME_RE: Regex = Regex::new(r"(?P<name>.*?) - Players - snooker.org").unwrap();
     }
-    NAMERE
+    NAME_RE
         .captures(input)
         .and_then(|cap| cap.name("name").map(|name| name.as_str().to_string()))
 }
@@ -78,19 +78,19 @@ fn extract_team(input: &str) -> Option<String> {
 
 fn extract_nation(input: &str) -> Option<String> {
     lazy_static! {
-        static ref NATIONRE: Regex = Regex::new(r"Nationality:\s+?\((?P<nation>.*?)\);").unwrap();
+        static ref NATION_RE: Regex = Regex::new(r"Nationality:\s+?\((?P<nation>.*?)\);").unwrap();
     }
-    NATIONRE
+    NATION_RE
         .captures(input)
         .and_then(|cap| cap.name("nation").map(|nation| nation.as_str().to_string()))
 }
 
 fn extract_date(text: &str) -> Option<NaiveDate> {
     lazy_static! {
-        static ref DATERE: Regex =
+        static ref DATE_RE: Regex =
             Regex::new(r"Born:\s+?(?P<date>\d{1,2}?\s+?[A-Za-z]{3}?\s+?\d{4})").unwrap();
     }
-    DATERE.captures(text).and_then(|cap| {
+    DATE_RE.captures(text).and_then(|cap| {
         cap.name("date")
             .map(|d| d.as_str())
             .and_then(|s| NaiveDate::parse_from_str(s, "%e %b %Y").ok())
@@ -98,6 +98,7 @@ fn extract_date(text: &str) -> Option<NaiveDate> {
 }
 
 fn extract_cuetracker_id(page: &Html) -> Option<String> {
+page.extract_links();
     None
 }
 
