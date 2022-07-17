@@ -102,7 +102,7 @@ fn extract_ct_id(page: &Html) -> Option<String> {
         .into_iter()
         .filter(|l| l.url.contains("cuetracker"))
         .map(|l| _extract_ct_id(l.url.as_str()))
-        .first()
+        .next()
 }
 
 fn _extract_ct_id(text: &str) -> Option<String> {
