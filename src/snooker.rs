@@ -96,6 +96,21 @@ fn extract_date(text: &str) -> Option<NaiveDate> {
     })
 }
 
+
+
+
+
+
+extract_cuetracker_id(input: &str) -> Option<String> {
+None
+}
+
+
+
+
+
+
+
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Player {
     pub full_name: String,
