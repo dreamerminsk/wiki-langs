@@ -5,12 +5,12 @@ use chrono::naive::MIN_DATE;
 use chrono::NaiveDate;
 use lazy_static::lazy_static;
 use regex::Regex;
+use scraper::Html;
 use serde::{Deserialize, Serialize};
 use std::cmp::Ordering;
 use std::convert::TryFrom;
 use std::error::Error;
 use std::hash::{Hash, Hasher};
-use scraper::Html;
 
 pub const HOST: &str = "http://www.snooker.org";
 
@@ -97,20 +97,9 @@ fn extract_date(text: &str) -> Option<NaiveDate> {
     })
 }
 
-
-
-
-
-
 fn extract_cuetracker_id(page: &Html) -> Option<String> {
-None
+    None
 }
-
-
-
-
-
-
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Player {
