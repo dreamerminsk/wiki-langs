@@ -97,15 +97,20 @@ fn extract_date(text: &str) -> Option<NaiveDate> {
     })
 }
 
-fn extract_cuetracker_id(page: &Html) -> Option<String> {
-    lazy_static! {
-        static ref CT_RE: Regex = Regex::new(r"/Players/(?P<ctid>.*?)/.*?").unwrap();
-    }
+fn extract_ct_id(page: &Html) -> Option<String> {
+    
 
     page.extract_links()
         .into_iter()
         .filter(|l| l.url.contains("cuetracker"));
     None
+}
+
+fn _extract_ct_id(text:&str)->Option<String>{
+lazy_static! {
+        static ref CT_RE: Regex = Regex::new(r"/Players/(?P<ctid>.*?)/.*?").unwrap();
+    }
+None
 }
 
 #[derive(Debug, Serialize, Deserialize)]
