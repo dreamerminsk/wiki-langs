@@ -108,11 +108,9 @@ fn _extract_ct_id(text: &str) -> Option<String> {
     lazy_static! {
         static ref CT_RE: Regex = Regex::new(r"/Players/(?P<ctid>.*?)/.*?").unwrap();
     }
-CT_RE
+    CT_RE
         .captures(text)
         .and_then(|cap| cap.name("ctid").map(|ctid| ctid.as_str().to_string()))
-
-
 }
 
 #[derive(Debug, Serialize, Deserialize)]
