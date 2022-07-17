@@ -10,6 +10,7 @@ use std::cmp::Ordering;
 use std::convert::TryFrom;
 use std::error::Error;
 use std::hash::{Hash, Hasher};
+use scraper::Html;
 
 pub const HOST: &str = "http://www.snooker.org";
 
@@ -101,7 +102,7 @@ fn extract_date(text: &str) -> Option<NaiveDate> {
 
 
 
-extract_cuetracker_id(input: &str) -> Option<String> {
+fn extract_cuetracker_id(page: &Html) -> Option<String> {
 None
 }
 
