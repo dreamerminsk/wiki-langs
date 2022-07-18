@@ -11,6 +11,7 @@ use std::cmp::Ordering;
 use std::convert::TryFrom;
 use std::error::Error;
 use std::hash::{Hash, Hasher};
+use crate::snooker::entities::Player;
 
 pub mod urls;
 
