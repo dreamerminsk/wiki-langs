@@ -12,32 +12,10 @@ use std::convert::TryFrom;
 use std::error::Error;
 use std::hash::{Hash, Hasher};
 
-pub const HOST: &str = "http://www.snooker.org";
-
-pub const RESULTS: &str = "/res/index.asp?template=22&season=";
-pub const UPCOMING_MATCHES: &str = "/res/index.asp?template=24";
-
-pub const RANKINGS: &str = "/res/index.asp?template=31&season=";
-pub const SEEDINGS: &str = "/res/index.asp?template=32&season=";
-pub const POINTS: &str = "/res/index.asp?template=33&season=";
-
-pub const PLAYER: &str = "/res/index.asp?player=";
-pub const EVENT: &str = "/res/index.asp?event=";
-
-pub fn results(season: usize) -> String {
-    format!("{}{}{}", HOST, RESULTS, season)
-}
-
-pub fn upcoming_matches() -> String {
-    format!("{}{}", HOST, UPCOMING_MATCHES)
-}
-
-pub fn rankings(season: usize) -> String {
-    format!("{}{}{}", HOST, RANKINGS, season)
-}
+pub mod urls;
 
 pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
-    let page = web::get(format!("{}{}{}", HOST, PLAYER, snooker_id)).await?;
+    let page = web::get(format!("{}{}{}", urls::HOST, urls::PLAYER, snooker_id)).await?;
 
     let info_text = page
         .extract_text("div.info")
@@ -187,7 +165,7 @@ impl TryFrom<&Link> for PlayerLink {
     type Error = &'static str;
 
     fn try_from(value: &Link) -> Result<Self, Self::Error> {
-        if value.url.starts_with(PLAYER) {
+        if value.url.starts_with(urls::PLAYER) {
             Ok(PlayerLink {
                 snooker_id: extract_first_number(&value.url),
                 full_name: value.title.clone(),
@@ -234,7 +212,7 @@ impl TryFrom<&Link> for EventLink {
     type Error = &'static str;
 
     fn try_from(value: &Link) -> Result<Self, Self::Error> {
-        if value.url.starts_with(EVENT) {
+        if value.url.starts_with(urls::EVENT) {
             Ok(EventLink {
                 snooker_id: extract_first_number(&value.url),
                 title: value.title.clone(),
