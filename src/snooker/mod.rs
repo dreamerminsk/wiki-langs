@@ -96,7 +96,7 @@ fn _extract_ct_id(text: &str) -> Option<String> {
 pub struct Player {
     pub full_name: String,
     pub nation: String,
-    pub birthday: NaiveDate,
+    pub birthday: Option<NaiveDate>,
     pub snooker_id: usize,
     pub cuetracker_id: Option<String>,
     pub wikidata_id: Option<String>,
