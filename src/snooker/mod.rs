@@ -28,7 +28,7 @@ pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
         full_name: extract_name(&title)
             .unwrap_or_else(|| extract_team(&title).unwrap_or_else(|| title.clone())),
         nation: extract_nation(&info_text).unwrap_or_default(),
-        birthday: extract_date(&info_text).unwrap_or(MIN_DATE),
+        birthday: extract_date(&info_text),
         snooker_id,
         cuetracker_id: extract_ct_id(&page),
         wikidata_id: None,
@@ -96,7 +96,7 @@ fn _extract_ct_id(text: &str) -> Option<String> {
 pub struct Player {
     pub full_name: String,
     pub nation: String,
-    pub birthday: NaiveDate,
+    pub birthday: Option<NaiveDate>,
     pub snooker_id: usize,
     pub cuetracker_id: Option<String>,
     pub wikidata_id: Option<String>,
@@ -105,7 +105,9 @@ pub struct Player {
 
 impl Ord for Player {
     fn cmp(&self, other: &Self) -> Ordering {
-        self.birthday.cmp(&other.birthday)
+        self.birthday
+            .unwrap_or(MIN_DATE)
+            .cmp(&other.birthday.unwrap_or(MIN_DATE))
     }
 }
 
