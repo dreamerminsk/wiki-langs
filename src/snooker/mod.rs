@@ -2,7 +2,6 @@ use crate::services::web;
 use crate::services::web::entities::Link;
 use crate::services::web::html::Extract;
 use crate::snooker::entities::Player;
-use chrono::naive::MIN_DATE;
 use chrono::NaiveDate;
 use lazy_static::lazy_static;
 use regex::Regex;
