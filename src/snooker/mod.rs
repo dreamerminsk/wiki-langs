@@ -14,7 +14,6 @@ use std::hash::{Hash, Hasher};
 
 pub mod urls;
 
-
 pub async fn get_player(snooker_id: usize) -> Result<Player, Box<dyn Error>> {
     let page = web::get(format!("{}{}{}", HOST, PLAYER, snooker_id)).await?;
 
