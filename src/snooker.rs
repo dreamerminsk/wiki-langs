@@ -107,7 +107,7 @@ fn extract_ct_id(page: &Html) -> Option<String> {
 
 fn _extract_ct_id(text: &str) -> Option<String> {
     lazy_static! {
-        static ref CT_RE: Regex = Regex::new(r"/Players/(?P<ctid>.*?)(/.*?)*?").unwrap();
+        static ref CT_RE: Regex = Regex::new(r"/Players/(?P<ctid>[^/]+)").unwrap();
     }
     CT_RE
         .captures(text)
