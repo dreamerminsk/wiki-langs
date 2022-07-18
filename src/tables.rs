@@ -1,11 +1,11 @@
 use crate::snooker::{EventLink, Player, PlayerLink};
+use chrono::NaiveDate;
 use chrono::{Datelike, NaiveDate};
 use std::cmp::Ordering;
 use std::error::Error;
 use std::fs;
 use std::path::Path;
 use uuid::Uuid;
-use chrono::NaiveDate;
 
 pub struct PlayerTable {
     folder: String,
@@ -13,7 +13,10 @@ pub struct PlayerTable {
 
 pub fn add_player(player: &Player) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./players/")?;
-    let source_name = format!("./players/{}", get_year_segment(player.birthday.unwrap_or(NaiveDate::from_ymd(0, 1,1))));
+    let source_name = format!(
+        "./players/{}",
+        get_year_segment(player.birthday.unwrap_or(NaiveDate::from_ymd(0, 1, 1)))
+    );
     if Path::new(&source_name).exists() {
         update_player_segment(&source_name, player)?;
     } else {
