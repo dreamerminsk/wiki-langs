@@ -69,7 +69,7 @@ fn update_player_segment(segment: &str, player: &Player) -> Result<(), Box<dyn E
 }
 
 fn get_year_segment(date: NaiveDate) -> String {
-let decade = 10 *(date.year()/10);
+    let decade = 10 * (date.year() / 10);
     format!("{:0>4}.births.csv", (decade).to_string())
 }
 
