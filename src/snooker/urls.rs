@@ -1,5 +1,3 @@
-
-
 pub const RESULTS: &str = "/res/index.asp?template=22&season=";
 pub const UPCOMING_MATCHES: &str = "/res/index.asp?template=24";
 
