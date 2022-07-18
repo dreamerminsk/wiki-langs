@@ -6,7 +6,6 @@ use std::convert::TryFrom;
 use std::error::Error;
 use std::hash::{Hash, Hasher};
 
-
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Player {
     pub full_name: String,
