@@ -1,4 +1,5 @@
-use crate::snooker::{EventLink, Player, PlayerLink};
+use crate::snooker::{EventLink,  PlayerLink};
+use crate::snooker::entities::Player;
 use chrono::{Datelike, NaiveDate};
 use std::cmp::Ordering;
 use std::error::Error;
