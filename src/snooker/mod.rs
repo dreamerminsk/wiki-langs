@@ -92,7 +92,6 @@ fn _extract_ct_id(text: &str) -> Option<String> {
         .and_then(|cap| cap.name("ctid").map(|ctid| ctid.as_str().to_string()))
 }
 
-
 #[derive(Debug, Serialize, Deserialize)]
 pub struct PlayerLink {
     pub snooker_id: usize,
