@@ -261,4 +261,3 @@ fn extract_first_number(text: &str) -> usize {
         .parse::<usize>()
         .unwrap_or(0)
 }
-
