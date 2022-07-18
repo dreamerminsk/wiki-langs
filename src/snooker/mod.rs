@@ -105,7 +105,9 @@ pub struct Player {
 
 impl Ord for Player {
     fn cmp(&self, other: &Self) -> Ordering {
-        self.birthday.unwrap_or(MIN_DATE).cmp(&other.birthday.unwrap_or(MIN_DATE))
+        self.birthday
+            .unwrap_or(MIN_DATE)
+            .cmp(&other.birthday.unwrap_or(MIN_DATE))
     }
 }
 
