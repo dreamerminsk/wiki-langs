@@ -1,6 +1,7 @@
 use crate::services::web;
 use crate::services::web::entities::Link;
 use crate::services::web::html::Extract;
+use crate::snooker::urls;
 use chrono::naive::MIN_DATE;
 use chrono::NaiveDate;
 use lazy_static::lazy_static;
@@ -11,7 +12,6 @@ use std::cmp::Ordering;
 use std::convert::TryFrom;
 use std::error::Error;
 use std::hash::{Hash, Hasher};
-use crate::snooker::urls;
 
 pub mod urls;
 
