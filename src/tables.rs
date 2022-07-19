@@ -6,12 +6,13 @@ use std::error::Error;
 use std::fs;
 use std::path::Path;
 use uuid::Uuid;
+use anyhow::Result;
 
 pub struct PlayerTable {
     folder: String,
 }
 
-pub fn add_player(player: &Player) -> Result<(), Box<dyn Error>> {
+pub fn add_player(player: &Player) -> Result<()> {
     fs::create_dir_all("./players/")?;
     let source_name = format!(
         "./players/{}",
@@ -27,7 +28,7 @@ pub fn add_player(player: &Player) -> Result<(), Box<dyn Error>> {
     Ok(())
 }
 
-fn update_player_segment(segment: &str, player: &Player) -> Result<(), Box<dyn Error>> {
+fn update_player_segment(segment: &str, player: &Player) -> Result<()> {
     let temp_name = format!("./players/{}.csv", Uuid::new_v4());
     {
         let mut source_reader = csv::Reader::from_path(&segment)?;
@@ -77,7 +78,7 @@ pub struct PlayerLinkTable {
     folder: String,
 }
 
-pub fn add_player_link(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
+pub fn add_player_link(plink: &PlayerLink) -> Result<()> {
     fs::create_dir_all("./player-links/")?;
     let source_name = format!("./player-links/{}", get_id_segment(plink.snooker_id));
     if Path::new(&source_name).exists() {
@@ -90,7 +91,7 @@ pub fn add_player_link(plink: &PlayerLink) -> Result<(), Box<dyn Error>> {
     Ok(())
 }
 
-fn update_segment(segment: &str, pl: &PlayerLink) -> Result<(), Box<dyn Error>> {
+fn update_segment(segment: &str, pl: &PlayerLink) -> Result<()> {
     let temp_name = format!("./player-links/{}.csv", Uuid::new_v4());
     {
         let mut source_reader = csv::Reader::from_path(&segment)?;
@@ -136,7 +137,7 @@ pub struct EventLinkTable {
     folder: String,
 }
 
-pub fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
+pub fn add_event(elink: &EventLink) -> Result<()> {
     fs::create_dir_all("./event-links/")?;
     let source_name = format!("./event-links/{}", get_id_segment(elink.snooker_id));
     if Path::new(&source_name).exists() {
@@ -149,7 +150,7 @@ pub fn add_event(elink: &EventLink) -> Result<(), Box<dyn Error>> {
     Ok(())
 }
 
-fn update_esegment(segment: &str, el: &EventLink) -> Result<(), Box<dyn Error>> {
+fn update_esegment(segment: &str, el: &EventLink) -> Result<()> {
     let temp_name = format!("./event-links/{}.csv", Uuid::new_v4());
     {
         let mut source_reader = csv::Reader::from_path(&segment)?;
