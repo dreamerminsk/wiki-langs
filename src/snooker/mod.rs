@@ -2,7 +2,7 @@ use crate::services::web;
 use crate::services::web::entities::Link;
 use crate::services::web::html::Extract;
 use crate::snooker::entities::Player;
-use anyhow::Result;
+use std::error::Error;
 use chrono::NaiveDate;
 use lazy_static::lazy_static;
 use regex::Regex;
@@ -16,7 +16,7 @@ pub mod urls;
 
 pub mod entities;
 
-pub async fn get_player(snooker_id: usize) -> Result<Player> {
+pub async fn get_player(snooker_id: usize) -> Result<Player, Box<    dyn    Error>> {
     let page = web::get(format!("{}{}{}", urls::HOST, urls::PLAYER, snooker_id)).await?;
 
     let info_text = page
