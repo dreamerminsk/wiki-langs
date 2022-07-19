@@ -10,7 +10,6 @@ use scraper::Html;
 use serde::{Deserialize, Serialize};
 use std::cmp::Ordering;
 use std::convert::TryFrom;
-use std::error::Error;
 use std::hash::{Hash, Hasher};
 
 pub mod urls;
