@@ -3,7 +3,6 @@ use crate::snooker::{EventLink, PlayerLink};
 use chrono::{Datelike, NaiveDate};
 use std::cmp::Ordering;
 use std::error::Error;
-use std::error::Error;
 use std::fs;
 use std::path::Path;
 use uuid::Uuid;
