@@ -1,12 +1,12 @@
 use crate::snooker::entities::Player;
 use crate::snooker::{EventLink, PlayerLink};
+use anyhow::Result;
 use chrono::{Datelike, NaiveDate};
 use std::cmp::Ordering;
 use std::error::Error;
 use std::fs;
 use std::path::Path;
 use uuid::Uuid;
-use anyhow::Result;
 
 pub struct PlayerTable {
     folder: String,
