@@ -1,7 +1,7 @@
 use crate::country::entities::Country;
 use crate::repositories::countries;
-use anyhow::Result;
 use rand::Rng;
+use std::error::Error;
 mod country;
 
 mod repositories;
@@ -15,7 +15,7 @@ mod services;
 mod wiki;
 
 #[tokio::main]
-async fn main() -> Result<()> {
+async fn main() -> anyhow::Result<(), Box<dyn Error>> {
     let mut rng = rand::thread_rng();
     for i in 0..7 {
         let random_id: u32 = rng.gen_range(std::ops::Range {
