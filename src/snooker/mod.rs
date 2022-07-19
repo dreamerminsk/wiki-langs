@@ -2,6 +2,7 @@ use crate::services::web;
 use crate::services::web::entities::Link;
 use crate::services::web::html::Extract;
 use crate::snooker::entities::Player;
+use anyhow::Result;
 use chrono::NaiveDate;
 use lazy_static::lazy_static;
 use regex::Regex;
@@ -11,7 +12,6 @@ use std::cmp::Ordering;
 use std::convert::TryFrom;
 use std::error::Error;
 use std::hash::{Hash, Hasher};
-use anyhow::Result;
 
 pub mod urls;
 
