@@ -25,4 +25,4 @@ jobs:
           author_name: micah teeuws
           author_email: tutmirage@gmail.com
           message: 'update csv tables'
-          add: '*.csv'
+          add: '["*.md", "*.csv"]'
