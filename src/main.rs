@@ -2,7 +2,6 @@ use crate::country::entities::Country;
 use crate::repositories::countries;
 use anyhow::Result;
 use rand::Rng;
-use std::error::Error;
 mod country;
 
 mod repositories;
