@@ -1,7 +1,5 @@
 use std::error::Error;
 
-
-
 pub struct UpdateReadMe {}
 
 impl UpdateReadMe {
@@ -9,11 +7,7 @@ impl UpdateReadMe {
         UpdateReadMe {}
     }
 
-
-
-
-fn execute(self)->Result<()  , Box <dyn     Error>>{
-
-Ok(())
-}
+    fn execute(self) -> Result<(), Box<dyn Error>> {
+        Ok(())
+    }
 }
