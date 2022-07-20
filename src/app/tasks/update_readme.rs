@@ -9,7 +9,6 @@ static README_TEMPLATE: &str = "==wiki-langs\r\n{}\r\n";
 
 static PLAYERS_TEMPLATE: &str = "===players\r\n{}\r\n";
 
-
 pub struct UpdateReadMe {}
 
 impl UpdateReadMe {
