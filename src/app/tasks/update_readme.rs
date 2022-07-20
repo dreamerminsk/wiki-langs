@@ -29,9 +29,13 @@ impl UpdateReadMe {
         Some(())
     }
 
-fn content(self)->String{
-format!("{}\r\n{}",self.shields().unwrap_or(""), self.players().unwrap_or(""))
-}
+    fn content(self) -> String {
+        format!(
+            "{}\r\n{}",
+            self.shields().unwrap_or(""),
+            self.players().unwrap_or("")
+        )
+    }
 
     fn shields(self) -> Option<String> {
         fs::read_to_string(SHIELDS_PATH)?
@@ -39,7 +43,10 @@ format!("{}\r\n{}",self.shields().unwrap_or(""), self.players().unwrap_or(""))
 
     fn players(self) -> Option<String> {
         let files = fs::read_dir("./players")?;
-        files.into_iter().filter_map(|di| di.ok()).map(|di|   format!("| {} | 0 |", di.file_name()));
+        files
+            .into_iter()
+            .filter_map(|di| di.ok())
+            .map(|di| format!("| {} | 0 |", di.file_name()));
         Some("")
     }
 }
