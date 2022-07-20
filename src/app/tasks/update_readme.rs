@@ -9,7 +9,7 @@ impl UpdateReadMe {
     }
 
     fn execute(self) -> Result<(), Box<dyn Error>> {
-let shields =   fs::read_to_string("./README/SHIELDS.md");
+        let shields = fs::read_to_string("./README/SHIELDS.md");
         Ok(())
     }
 }
