@@ -27,6 +27,7 @@ impl UpdateReadMe {
         let content = format!(README_TEMPLATE, self.content());
 
         file.write_all(content.as_bytes())?;
+file.flush()?;
         Some(())
     }
 
@@ -44,10 +45,10 @@ impl UpdateReadMe {
 
     fn players(self) -> Option<String> {
         let files = fs::read_dir("./players")?;
-        files
+        let rows : Vec<String>   = files
             .into_iter()
             .filter_map(|di| di.ok())
-            .map(|di| format!("| {} | {} |", di.file_name(), di.metadata().unwrap().len()));
-        Some(format!(PLAYERS_TEMPLATE, PLAYERS_HEADER, content))
+            .map(|di| format!("| {} | {} |", di.file_name(), di.metadata().unwrap().len())).collect();
+        Some(format!(PLAYERS_TEMPLATE, PLAYERS_HEADER, rows.join("\r\n")))
     }
 }
