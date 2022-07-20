@@ -42,7 +42,7 @@ impl UpdateReadMe {
 
     fn players(&self) -> Option<String> {
         let files = fs::read_dir("./players").ok()?;
-        let rows: Vec<String> = files
+        let mut rows: Vec<String> = files
             .into_iter()
             .filter_map(|di| di.ok())
             .map(|di| {
@@ -53,6 +53,7 @@ impl UpdateReadMe {
                 )
             })
             .collect();
+        rows.sort();
         Some(format!(
             "### players\r\n{}\r\n{}\r\n",
             PLAYERS_HEADER,
