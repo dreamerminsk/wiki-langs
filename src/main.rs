@@ -2,15 +2,18 @@ use crate::country::entities::Country;
 use crate::repositories::countries;
 use rand::Rng;
 use std::error::Error;
+
+mod app;
+
 mod country;
 
 mod repositories;
 
+mod services;
+
 mod snooker;
 
 mod tables;
-
-mod services;
 
 mod wiki;
 
