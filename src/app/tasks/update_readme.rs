@@ -15,7 +15,6 @@ impl UpdateReadMe {
     }
 
     pub fn execute(self) -> Option<()> {
-
         let mut file = OpenOptions::new()
             .read(true)
             .write(true)
@@ -27,10 +26,7 @@ impl UpdateReadMe {
         Some(())
     }
 
-
-
-fn shields(self)->Option<String>{
-fs::read_to_string(SHIELDS_PATH)?
-
-}
+    fn shields(self) -> Option<String> {
+        fs::read_to_string(SHIELDS_PATH)?
+    }
 }
