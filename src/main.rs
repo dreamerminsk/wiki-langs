@@ -1,16 +1,20 @@
 use crate::country::entities::Country;
 use crate::repositories::countries;
+use app::tasks::UpdateReadMe;
 use rand::Rng;
 use std::error::Error;
+
+mod app;
+
 mod country;
 
 mod repositories;
 
+mod services;
+
 mod snooker;
 
 mod tables;
-
-mod services;
 
 mod wiki;
 
@@ -31,6 +35,9 @@ async fn main() -> anyhow::Result<(), Box<dyn Error>> {
         .into_iter()
         .map(|it| Country::from(it.to_string()))
         .for_each(|it| countries::add_country(&it).ok().unwrap_or_default());
+
+    let update_readme = UpdateReadMe::new();
+    update_readme.execute();
 
     Ok(())
 }
