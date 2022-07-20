@@ -23,7 +23,8 @@ impl UpdateReadMe {
         let mut file = OpenOptions::new()
             .read(true)
             .write(true)
-            .open(README_PATH).ok()?;
+            .open(README_PATH)
+            .ok()?;
 
         let content = format!(README_TEMPLATE.to_string(), self.content());
 
@@ -51,6 +52,10 @@ impl UpdateReadMe {
             .filter_map(|di| di.ok())
             .map(|di| format!("| {} | {} |", di.file_name(), di.metadata().unwrap().len()))
             .collect();
-        Some(format!(PLAYERS_TEMPLATE.to_string(), PLAYERS_HEADER, rows.join("\r\n")))
+        Some(format!(
+            PLAYERS_TEMPLATE.to_string(),
+            PLAYERS_HEADER,
+            rows.join("\r\n")
+        ))
     }
 }
