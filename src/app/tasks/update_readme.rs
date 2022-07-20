@@ -35,6 +35,7 @@ impl UpdateReadMe {
 
     fn players(self) -> Option<String> {
         let files = fs::read_dir("./players")?;
+          files.into_iter().filter_map(|di|    di.ok());
         Some("")
     }
 }
