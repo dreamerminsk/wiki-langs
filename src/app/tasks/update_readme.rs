@@ -49,7 +49,8 @@ impl UpdateReadMe {
                 format!(
                     "| {} | [{}](players/{}) |",
                     di.file_name().into_string().unwrap(),
-                    di.metadata().unwrap().len(),di.file_name().into_string().unwrap()
+                    di.metadata().unwrap().len(),
+                    di.file_name().into_string().unwrap()
                 )
             })
             .collect();
