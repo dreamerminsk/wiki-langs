@@ -5,9 +5,7 @@ static README_PATH: &str = "./README.md";
 
 static SHIELDS_PATH: &str = "./README/SHIELDS.md";
 
-static README_TEMPLATE    :     &str     =    "==wiki-langs\r\n{}\r\n";
-
-
+static README_TEMPLATE: &str = "==wiki-langs\r\n{}\r\n";
 
 pub struct UpdateReadMe {}
 
@@ -24,7 +22,7 @@ impl UpdateReadMe {
             .write(true)
             .open(README_PATH)?;
 
-let content =    format!(README_TEMPLATE,shields );
+        let content = format!(README_TEMPLATE, shields);
 
         file.write_all(content.as_bytes())?;
         Ok(())
