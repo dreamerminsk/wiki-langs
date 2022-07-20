@@ -47,9 +47,10 @@ impl UpdateReadMe {
             .filter_map(|di| di.ok())
             .map(|di| {
                 format!(
-                    "| {:?} | {:?} |",
-                    di.file_name(),
-                    di.metadata().unwrap().len()
+                    "| {} | [{}](players/{}) |",
+                    di.file_name().into_string().unwrap(),
+                    di.metadata().unwrap().len(),
+                    di.file_name().into_string().unwrap()
                 )
             })
             .collect();
