@@ -1,14 +1,10 @@
 use std::error::Error;
-use std::fs::{File, OpenOptions};
+use std::fs::{self, OpenOptions};
 use std::io::Write;
 
 static README_PATH: &str = "./README.md";
 
 static SHIELDS_PATH: &str = "./README/SHIELDS.md";
-
-static README_TEMPLATE: &str = "==wiki-langs\r\n{}\r\n";
-
-static PLAYERS_TEMPLATE: &str = "===players\r\n{}\r\n{}\r\n";
 
 static PLAYERS_HEADER: &str = "| births | players |\r\n| :----: | ------: |";
 
@@ -26,10 +22,10 @@ impl UpdateReadMe {
             .open(README_PATH)
             .ok()?;
 
-        let content = format!(README_TEMPLATE.to_string(), self.content());
+        let content = format!("==wiki-langs\r\n{}\r\n", self.content());
 
-        file.write_all(content.as_bytes())?;
-        file.flush()?;
+        file.write_all(content.as_bytes()).ok()?;
+        file.flush().ok()?;
         Some(())
     }
 
@@ -53,7 +49,7 @@ impl UpdateReadMe {
             .map(|di| format!("| {} | {} |", di.file_name(), di.metadata().unwrap().len()))
             .collect();
         Some(format!(
-            PLAYERS_TEMPLATE.to_string(),
+            "===players\r\n{}\r\n{}\r\n",
             PLAYERS_HEADER,
             rows.join("\r\n")
         ))
