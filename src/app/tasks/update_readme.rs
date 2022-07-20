@@ -10,21 +10,27 @@ static README_TEMPLATE: &str = "==wiki-langs\r\n{}\r\n";
 pub struct UpdateReadMe {}
 
 impl UpdateReadMe {
-    fn new() -> Self {
+    pub fn new() -> Self {
         UpdateReadMe {}
     }
 
-    fn execute(self) -> Result<(), Box<dyn Error>> {
-        let shields = fs::read_to_string(SHIELDS_PATH)?;
+    pub fn execute(self) -> Option<()> {
 
         let mut file = OpenOptions::new()
             .read(true)
             .write(true)
             .open(README_PATH)?;
 
-        let content = format!(README_TEMPLATE, shields);
+        let content = format!(README_TEMPLATE, self.shields());
 
         file.write_all(content.as_bytes())?;
-        Ok(())
+        Some(())
     }
+
+
+
+fun shields(self)->Option<String>{
+fs::read_to_string(SHIELDS_PATH)?
+
+}
 }
