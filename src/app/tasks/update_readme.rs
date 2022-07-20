@@ -31,6 +31,7 @@ impl UpdateReadMe {
     }
 
     fn players(self) -> Option<String> {
+let files=fs::read_dir("./Players")?;
         Some("")
     }
 }
