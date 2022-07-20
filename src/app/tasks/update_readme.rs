@@ -1,5 +1,6 @@
 use std::error::Error;
 use std::fs::{File, OpenOptions};
+use std::io::Write;
 
 static README_PATH: &str = "./README.md";
 
@@ -22,9 +23,9 @@ impl UpdateReadMe {
         let mut file = OpenOptions::new()
             .read(true)
             .write(true)
-            .open(README_PATH)?;
+            .open(README_PATH).ok()?;
 
-        let content = format!(README_TEMPLATE, self.content());
+        let content = format!(README_TEMPLATE.to_string(), self.content());
 
         file.write_all(content.as_bytes())?;
         file.flush()?;
@@ -50,6 +51,6 @@ impl UpdateReadMe {
             .filter_map(|di| di.ok())
             .map(|di| format!("| {} | {} |", di.file_name(), di.metadata().unwrap().len()))
             .collect();
-        Some(format!(PLAYERS_TEMPLATE, PLAYERS_HEADER, rows.join("\r\n")))
+        Some(format!(PLAYERS_TEMPLATE.to_string(), PLAYERS_HEADER, rows.join("\r\n")))
     }
 }
