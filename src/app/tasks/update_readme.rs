@@ -1,4 +1,3 @@
-use std::error::Error;
 use std::fs::{self, OpenOptions};
 use std::io::Write;
 
@@ -32,17 +31,17 @@ impl UpdateReadMe {
     fn content(self) -> String {
         format!(
             "{}\r\n{}",
-            self.shields().unwrap_or(""),
-            self.players().unwrap_or("")
+            self.shields().unwrap_or_else(||"".to_string()),
+            self.players().unwrap_or_else(||"".to_string())
         )
     }
 
     fn shields(self) -> Option<String> {
-        fs::read_to_string(SHIELDS_PATH)?
+        fs::read_to_string(SHIELDS_PATH).ok()?
     }
 
     fn players(self) -> Option<String> {
-        let files = fs::read_dir("./players")?;
+        let files = fs::read_dir("./players").ok()?;
         let rows: Vec<String> = files
             .into_iter()
             .filter_map(|di| di.ok())
