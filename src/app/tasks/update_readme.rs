@@ -7,6 +7,9 @@ static SHIELDS_PATH: &str = "./README/SHIELDS.md";
 
 static README_TEMPLATE: &str = "==wiki-langs\r\n{}\r\n";
 
+static PLAYERS_TEMPLATE: &str = "===players\r\n{}\r\n";
+
+
 pub struct UpdateReadMe {}
 
 impl UpdateReadMe {
@@ -31,7 +34,7 @@ impl UpdateReadMe {
     }
 
     fn players(self) -> Option<String> {
-        let files = fs::read_dir("./Players")?;
+        let files = fs::read_dir("./players")?;
         Some("")
     }
 }
