@@ -14,7 +14,7 @@ impl UpdateReadMe {
         UpdateReadMe {}
     }
 
-    pub fn execute(self) -> Option<()> {
+    pub fn execute(&self) -> Option<()> {
         let mut file = OpenOptions::new()
             .read(true)
             .write(true)
@@ -28,7 +28,7 @@ impl UpdateReadMe {
         Some(())
     }
 
-    fn content(self) -> String {
+    fn content(&self) -> String {
         format!(
             "{}\r\n{}",
             self.shields().unwrap_or_else(|| "".to_string()),
@@ -36,11 +36,11 @@ impl UpdateReadMe {
         )
     }
 
-    fn shields(self) -> Option<String> {
+    fn shields(&self) -> Option<String> {
         fs::read_to_string(SHIELDS_PATH).ok()
     }
 
-    fn players(self) -> Option<String> {
+    fn players(&self) -> Option<String> {
         let files = fs::read_dir("./players").ok()?;
         let rows: Vec<String> = files
             .into_iter()
