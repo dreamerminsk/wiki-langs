@@ -30,9 +30,7 @@ impl UpdateReadMe {
         fs::read_to_string(SHIELDS_PATH)?
     }
 
-
-
-fn players(self)->Option<String>{
-Some("")
-}
+    fn players(self) -> Option<String> {
+        Some("")
+    }
 }
