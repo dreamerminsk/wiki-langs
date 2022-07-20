@@ -45,7 +45,13 @@ impl UpdateReadMe {
         let rows: Vec<String> = files
             .into_iter()
             .filter_map(|di| di.ok())
-            .map(|di| format!("| {:?} | {:?} |", di.file_name(), di.metadata().unwrap().len()))
+            .map(|di| {
+                format!(
+                    "| {:?} | {:?} |",
+                    di.file_name(),
+                    di.metadata().unwrap().len()
+                )
+            })
             .collect();
         Some(format!(
             "===players\r\n{}\r\n{}\r\n",
