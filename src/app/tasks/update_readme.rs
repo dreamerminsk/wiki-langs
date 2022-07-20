@@ -47,7 +47,7 @@ impl UpdateReadMe {
         files
             .into_iter()
             .filter_map(|di| di.ok())
-            .map(|di| format!("| {} | 0 |", di.file_name()));
+            .map(|di| format!("| {} | {} |", di.file_name(), di.metadata().unwrap().len()));
         Some(format!(PLAYERS_TEMPLATE, PLAYERS_HEADER, content))
     }
 }
