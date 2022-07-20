@@ -8,7 +8,11 @@ static SHIELDS_PATH: &str = "./README/SHIELDS.md";
 static README_TEMPLATE: &str = "==wiki-langs\r\n{}\r\n";
 
 static PLAYERS_TEMPLATE: &str =
-    "===players\r\n| births | players |\r\n| :----: | ------: |\r\n{}\r\n";
+    "===players\r\n{}\r\n{}\r\n";
+
+static PLAYERS_HEADER: &str =
+    "| births | players |\r\n| :----: | ------: |";
+
 
 pub struct UpdateReadMe {}
 
@@ -47,6 +51,6 @@ impl UpdateReadMe {
             .into_iter()
             .filter_map(|di| di.ok())
             .map(|di| format!("| {} | 0 |", di.file_name()));
-        Some("")
+        Some(format!(PLAYERS_TEMPLATE, PLAYERS_HEADER, content))
     }
 }
