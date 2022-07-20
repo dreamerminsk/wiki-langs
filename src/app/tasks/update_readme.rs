@@ -7,12 +7,9 @@ static SHIELDS_PATH: &str = "./README/SHIELDS.md";
 
 static README_TEMPLATE: &str = "==wiki-langs\r\n{}\r\n";
 
-static PLAYERS_TEMPLATE: &str =
-    "===players\r\n{}\r\n{}\r\n";
+static PLAYERS_TEMPLATE: &str = "===players\r\n{}\r\n{}\r\n";
 
-static PLAYERS_HEADER: &str =
-    "| births | players |\r\n| :----: | ------: |";
-
+static PLAYERS_HEADER: &str = "| births | players |\r\n| :----: | ------: |";
 
 pub struct UpdateReadMe {}
 
