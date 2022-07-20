@@ -8,12 +8,12 @@
 ### players
 | births | players |
 | :----: | ------: |
-| "1940.births.csv" | 240 |
-| "0000.births.csv" | 23647 |
-| "1970.births.csv" | 2895 |
-| "1990.births.csv" | 2920 |
-| "1960.births.csv" | 722 |
-| "1980.births.csv" | 3840 |
-| "1950.births.csv" | 222 |
-| "2000.births.csv" | 111 |
+| 0000.births.csv | [23812](players/0000.births.csv) |
+| 1940.births.csv | [240](players/1940.births.csv) |
+| 1950.births.csv | [222](players/1950.births.csv) |
+| 1960.births.csv | [734](players/1960.births.csv) |
+| 1970.births.csv | [2945](players/1970.births.csv) |
+| 1980.births.csv | [3852](players/1980.births.csv) |
+| 1990.births.csv | [2920](players/1990.births.csv) |
+| 2000.births.csv | [111](players/2000.births.csv) |
 
