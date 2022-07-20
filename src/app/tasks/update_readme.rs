@@ -1,10 +1,7 @@
 pub struct UpdateReadMe {}
 
-
 impl UpdateReadMe {
-
-fn new()   ->    Self{
-UpdateReadMe{}
-}
-
+    fn new() -> Self {
+        UpdateReadMe {}
+    }
 }
