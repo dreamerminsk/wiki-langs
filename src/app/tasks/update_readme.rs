@@ -53,7 +53,7 @@ impl UpdateReadMe {
                 )
             })
             .collect();
-rows.sort();
+        rows.sort();
         Some(format!(
             "### players\r\n{}\r\n{}\r\n",
             PLAYERS_HEADER,
