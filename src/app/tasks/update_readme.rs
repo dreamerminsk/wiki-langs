@@ -29,7 +29,7 @@ impl UpdateReadMe {
 
 
 
-fun shields(self)->Option<String>{
+fn shields(self)->Option<String>{
 fs::read_to_string(SHIELDS_PATH)?
 
 }
