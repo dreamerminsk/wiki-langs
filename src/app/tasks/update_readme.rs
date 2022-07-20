@@ -17,7 +17,7 @@ impl UpdateReadMe {
     }
 
     fn execute(self) -> Result<(), Box<dyn Error>> {
-        let shields = fs::read_to_string("SHIELDS_PATH)?;
+        let shields = fs::read_to_string(SHIELDS_PATH)?;
 
         let mut file = OpenOptions::new()
             .read(true)
