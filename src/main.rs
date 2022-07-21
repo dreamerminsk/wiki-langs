@@ -1,5 +1,5 @@
 use crate::country::entities::Country;
-use crate::repositories::countries;
+use crate::country::tables::add_country;
 use app::tasks::UpdateReadMe;
 use rand::Rng;
 use std::error::Error;
@@ -29,7 +29,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
         let player = snooker::get_player(usize::try_from(random_id)?).await?;
         tables::add_player(&player)?;
         let country = Country::from(player.nation);
-        countries::add_country(&country)?;
+        add_country(&country)?;
     }
     vec!["Australia"]
         .into_iter()
