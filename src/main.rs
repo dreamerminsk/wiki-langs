@@ -19,7 +19,7 @@ mod tables;
 mod wiki;
 
 #[tokio::main]
-async fn main() -> anyhow::Result<(), Box<dyn Error>> {
+async fn main() -> Result<(), Box<dyn Error>> {
     let mut rng = rand::thread_rng();
     for i in 0..7 {
         let random_id: u32 = rng.gen_range(std::ops::Range {
