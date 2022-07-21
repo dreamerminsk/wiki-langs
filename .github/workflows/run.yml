@@ -19,10 +19,18 @@ jobs:
         uses: actions-rs/cargo@v1
         with:
           command: run
-      - name: commit changes
+      - name: commit csv tables
         uses: EndBug/add-and-commit@v9
         with:
           author_name: micah teeuws
           author_email: tutmirage@gmail.com
           message: 'update csv tables'
-          add: '["*.md", "*.csv"]'
+          add: '*.csv'
+      - name: commit readme
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: micah teeuws
+          author_email: tutmirage@gmail.com
+          message: 'update readme'
+          add: '*.md'
+
