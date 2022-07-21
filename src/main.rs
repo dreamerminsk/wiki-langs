@@ -8,8 +8,6 @@ mod app;
 
 mod country;
 
-mod repositories;
-
 mod services;
 
 mod snooker;
