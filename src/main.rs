@@ -1,5 +1,5 @@
 use crate::country::entities::Country;
-use crate::repositories::countries;
+use crate::country::tables::add_country;
 use app::tasks::UpdateReadMe;
 use rand::Rng;
 use std::error::Error;
@@ -7,8 +7,6 @@ use std::error::Error;
 mod app;
 
 mod country;
-
-mod repositories;
 
 mod services;
 
@@ -29,12 +27,12 @@ async fn main() -> Result<(), Box<dyn Error>> {
         let player = snooker::get_player(usize::try_from(random_id)?).await?;
         tables::add_player(&player)?;
         let country = Country::from(player.nation);
-        countries::add_country(&country)?;
+        add_country(&country)?;
     }
     vec!["Australia"]
         .into_iter()
         .map(|it| Country::from(it.to_string()))
-        .for_each(|it| countries::add_country(&it).ok().unwrap_or_default());
+        .for_each(|it| add_country(&it).ok().unwrap_or_default());
 
     let update_readme = UpdateReadMe::new();
     update_readme.execute();
