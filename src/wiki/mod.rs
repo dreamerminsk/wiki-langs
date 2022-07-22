@@ -1,4 +1,6 @@
 use entities::{InterWiki, Page};
+use app::web;
+use std::error::Error;
 
 pub mod entities;
 
