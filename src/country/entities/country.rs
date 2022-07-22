@@ -2,6 +2,7 @@ use serde::{Deserialize, Serialize};
 use std::cmp::Ordering;
 use std::convert::From;
 use std::hash::{Hash, Hasher};
+use crate::wiki::entities::Page;
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Country {
@@ -18,7 +19,7 @@ pub struct Country {
 
 
 
-impl for Country{
+impl  Country{
 
 fn wiki(page:&Page) -> Self{
 Country{wiki_id:page.title, ..self}
