@@ -10,7 +10,7 @@ pub struct Page {
 impl Page{
 
 
-fn new(lang    : String,    title    :     String)     ->    {
+fn new(lang    : String,    title    :     String)     ->  Self  {
 
 Page{
        
