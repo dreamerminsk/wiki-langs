@@ -19,7 +19,7 @@ pub struct Country {
 impl Country {
     pub fn wiki(&self, page: &Page) -> Self {
         Country {
-name:self.name.clone();
+name:self.name.clone(),
 iso_num: self.iso_num.clone(),
      iso_2: self.iso_2.clone(),
     iso_3: self.iso_3.clone(),
