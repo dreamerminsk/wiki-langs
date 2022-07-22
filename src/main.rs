@@ -27,13 +27,13 @@ async fn main() -> Result<(), Box<dyn Error>> {
         tables::add_player(&player)?;
         if player.nation.len() > 0 {
             let country = Country::from(player.nation);
-            add_country(&country)?;
+            //add_country(&country)?;
         }
     }
-    vec!["Australia"]
-        .into_iter()
-        .map(|it| Country::from(it.to_string()))
-        .for_each(|it| add_country(&it).ok().unwrap_or_default());
+    //vec!["Australia"]
+        //.into_iter()
+        //.map(|it| Country::from(it.to_string()))
+        //.for_each(|it| add_country(&it).ok().unwrap_or_default());
 
     let update_countries = UpdateCountries::new();
     update_countries.execute();
