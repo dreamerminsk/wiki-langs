@@ -1,6 +1,7 @@
 use crate::app::web;
 use entities::{InterWiki, Page};
 use std::error::Error;
+use crate::app::web::html::Extract;
 
 pub mod entities;
 
