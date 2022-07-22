@@ -1,4 +1,5 @@
 use country::tables;
+use crate::wiki::{self,InterWiki};
 
 pub struct UpdateCountries {}
 
@@ -9,7 +10,8 @@ impl UpdateCountries {
 
     pub fn execute(&self) -> Option<()> {
         let list = tables::get_all_countries().ok()?;
-list.into_iter().filter(|c| c.wiki_id.is_none()).take(3);
+list.into_iter().filter(|c| c.wiki_id.is_none()).take(3)
+.filter_map(|c| wiki.get_wiki(InterWiki::new("en",c.name)).ok());
         Some(())
     }
 
