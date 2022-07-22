@@ -25,7 +25,7 @@ impl UpdateCountries {
 
     fn get_wiki(&self, name: &str) -> Page {
         let inter_wiki = InterWiki::new("en".to_string(), name.to_string());
-        wiki::get_wiki(inter_wiki).ok().unwrap_or(Page {
+        wiki::get_wiki(inter_wiki).await.unwrap_or(Page {
             lang: "en".to_string(),
             title: name.to_string(),
         })
