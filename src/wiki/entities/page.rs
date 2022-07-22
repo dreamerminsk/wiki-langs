@@ -4,23 +4,8 @@ pub struct Page {
     pub title: String,
 }
 
-
-
-
-impl Page{
-
-
-fn new(lang    : String,    title    :     String)     ->  Self  {
-
-Page{
-       
-lang,title
-
-}
-
-
-}
-
-
-
+impl Page {
+    fn new(lang: String, title: String) -> Self {
+        Page { lang, title }
+    }
 }
