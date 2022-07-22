@@ -1,4 +1,4 @@
-use crate::services::web::entities::Link;
+use crate::app::web::entities::Link;
 use scraper::{Html, Selector};
 use std::collections::{BTreeSet, HashMap};
 use url::Url;

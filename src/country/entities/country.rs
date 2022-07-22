@@ -1,3 +1,4 @@
+use crate::wiki::entities::Page;
 use serde::{Deserialize, Serialize};
 use std::cmp::Ordering;
 use std::convert::From;
@@ -13,6 +14,21 @@ pub struct Country {
     pub fifa_cc: Option<String>,
     pub wiki_data_id: Option<String>,
     pub wiki_id: Option<String>,
+}
+
+impl Country {
+    pub fn wiki(&self, page: &Page) -> Self {
+        Country {
+            name: self.name.clone(),
+            iso_num: self.iso_num.clone(),
+            iso_2: self.iso_2.clone(),
+            iso_3: self.iso_3.clone(),
+            ioc_cc: self.ioc_cc.clone(),
+            fifa_cc: self.fifa_cc.clone(),
+            wiki_data_id: self.wiki_data_id.clone(),
+            wiki_id: Some(page.title.clone()),
+        }
+    }
 }
 
 impl Ord for Country {

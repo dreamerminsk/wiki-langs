@@ -1,6 +1,6 @@
-use crate::services::web;
-use crate::services::web::entities::Link;
-use crate::services::web::html::Extract;
+use crate::app::web;
+use crate::app::web::entities::Link;
+use crate::app::web::html::Extract;
 use crate::snooker::entities::Player;
 use chrono::NaiveDate;
 use lazy_static::lazy_static;
