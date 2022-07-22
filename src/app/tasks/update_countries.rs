@@ -17,7 +17,9 @@ impl UpdateCountries {
             .filter(|c| c.wiki_id.is_none())
             .take(3)
             .map(|c| c.wiki(&self.get_wiki(c.name.as_str())))
-            .for_each(|c| {tables::add_country(&c);});
+            .for_each(|c| {
+                tables::add_country(&c);
+            });
         Some(())
     }
 
