@@ -8,8 +8,6 @@ mod app;
 
 mod country;
 
-mod services;
-
 mod snooker;
 
 mod tables;
