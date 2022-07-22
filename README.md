@@ -8,7 +8,7 @@
 ### players
 | births | players |
 | :----: | ------: |
-| 0000.births.csv | [28170](players/0000.births.csv) |
+| 0000.births.csv | [28472](players/0000.births.csv) |
 | 1940.births.csv | [240](players/1940.births.csv) |
 | 1950.births.csv | [274](players/1950.births.csv) |
 | 1960.births.csv | [734](players/1960.births.csv) |
