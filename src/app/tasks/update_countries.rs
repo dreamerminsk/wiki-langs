@@ -1,4 +1,4 @@
-use crate::wiki::{self, InterWiki};
+use crate::wiki::{self, Page,InterWiki};
 use country::tables;
 
 pub struct UpdateCountries {}
@@ -13,8 +13,13 @@ impl UpdateCountries {
         list.into_iter()
             .filter(|c| c.wiki_id.is_none())
             .take(3)
-            .filter_map(|c| wiki.get_wiki(InterWiki::new("en", c.name)).ok());
+            .map(|c| c.wiki(self.get_wiki(c.name.as_str())));
         Some(())
+    }
+
+    fn get_wiki(name:&str)->Page{
+      let inter_wiki = InterWiki::new("en" , name);
+      wiki.get_wiki(inter_wiki).ok().unwrap_or(Page{lang:"en".to_string(),title:name.to_string()})
     }
 }
 
