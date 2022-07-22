@@ -13,13 +13,11 @@ impl UpdateCountries {
 
     pub fn execute(&self) -> Option<()> {
         let list = tables::get_all_countries().ok()?;
-        let filtered=list.into_iter()
-            .filter(|c| c.wiki_id.is_none())
-            .take(3);
-for &c in filtered {
-let updated = c.wiki(&self.get_wiki(c.name.as_str()).await);
-tables::add_country(&updated);
-}
+        let filtered = list.into_iter().filter(|c| c.wiki_id.is_none()).take(3);
+        for &c in filtered {
+            let updated = c.wiki(&self.get_wiki(c.name.as_str()).await);
+            tables::add_country(&updated);
+        }
         Some(())
     }
 
