@@ -1,1 +1,4 @@
-pub struct InterWiki;
+pub struct InterWiki{
+pub lang:String;
+pub title:String;
+}
