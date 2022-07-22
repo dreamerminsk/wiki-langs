@@ -15,6 +15,17 @@ pub struct Country {
     pub wiki_id: Option<String>,
 }
 
+
+
+
+impl for Country{
+
+fn wiki(page:&Page) -> Self{
+Country{wiki_id:page.title, ..self}
+}
+
+}
+
 impl Ord for Country {
     fn cmp(&self, other: &Self) -> Ordering {
         self.name.cmp(&other.name)
