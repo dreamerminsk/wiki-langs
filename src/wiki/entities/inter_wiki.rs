@@ -12,7 +12,7 @@ impl InterWiki {
     }
 }
 
-impl fmt::Display for      InterWiki    {
+impl fmt::Display for InterWiki {
     fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
         write!(f, "https://{}.wikipedia.org/wiki/", self.lang, self.title)
     }
