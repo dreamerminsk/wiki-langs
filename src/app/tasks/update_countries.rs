@@ -16,7 +16,7 @@ impl UpdateCountries {
         list.into_iter()
             .filter(|c| c.wiki_id.is_none())
             .take(3)
-            .map(|c| async { c.wiki(&self.get_wiki(c.name.as_str())).await })
+            .map(|c| async { c.wiki(&self.get_wiki(c.name.as_str()).await) })
             .for_each(|c| {
                 tables::add_country(&c);
             });
