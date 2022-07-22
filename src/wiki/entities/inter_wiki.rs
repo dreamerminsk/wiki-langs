@@ -8,7 +8,7 @@ pub struct InterWiki {
 }
 
 impl InterWiki {
-    fn new(lang: String, title: String) -> Self {
+    pub fn new(lang: String, title: String) -> Self {
         InterWiki { lang, title }
     }
 }
