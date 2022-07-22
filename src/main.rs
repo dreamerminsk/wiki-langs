@@ -36,7 +36,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
     //.for_each(|it| add_country(&it).ok().unwrap_or_default());
 
     let update_countries = UpdateCountries::new();
-    update_countries.execute();
+    update_countries.execute().await;
 
     let update_readme = UpdateReadMe::new();
     update_readme.execute();
