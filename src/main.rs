@@ -31,9 +31,9 @@ async fn main() -> Result<(), Box<dyn Error>> {
         }
     }
     //vec!["Australia"]
-        //.into_iter()
-        //.map(|it| Country::from(it.to_string()))
-        //.for_each(|it| add_country(&it).ok().unwrap_or_default());
+    //.into_iter()
+    //.map(|it| Country::from(it.to_string()))
+    //.for_each(|it| add_country(&it).ok().unwrap_or_default());
 
     let update_countries = UpdateCountries::new();
     update_countries.execute();
