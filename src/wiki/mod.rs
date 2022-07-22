@@ -1,4 +1,4 @@
-use app::web;
+use crate::app::web;
 use entities::{InterWiki, Page};
 use std::error::Error;
 
