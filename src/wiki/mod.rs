@@ -10,6 +10,6 @@ pub async fn get_wiki(inter_wiki: InterWiki) -> Result<Page, Box<dyn Error>> {
 
     Ok(Page {
         lang: inter_wiki.lang,
-        title: page.extract_text("#firstHeading")?,
+        title: page.extract_text("#firstHeading").unwrap_or_else(||"".to_string()),
     })
 }
