@@ -1,8 +1,8 @@
+use crate::wiki::entities::Page;
 use serde::{Deserialize, Serialize};
 use std::cmp::Ordering;
 use std::convert::From;
 use std::hash::{Hash, Hasher};
-use crate::wiki::entities::Page;
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Country {
@@ -16,15 +16,13 @@ pub struct Country {
     pub wiki_id: Option<String>,
 }
 
-
-
-
-impl  Country{
-
-fn wiki(page:&Page) -> Self{
-Country{wiki_id:page.title, ..self}
-}
-
+impl Country {
+    fn wiki(page: &Page) -> Self {
+        Country {
+            wiki_id: page.title,
+            ..self
+        }
+    }
 }
 
 impl Ord for Country {
