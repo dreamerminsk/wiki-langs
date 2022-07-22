@@ -4,9 +4,9 @@ pub mod entities;
 
 pub async fn get_wiki(inter_wiki: InterWiki) -> Result<Page, Box<dyn Error>> {
     let page = web::get(inter_wiki.to_string()).await?;
-    let page_title = "firstHeading";
+
     Ok(Page {
         lang: inter_wiki.lang,
-        title: inter_wiki.title,
+        title: page.extract_text("#firstHeading")?,
     })
 }
