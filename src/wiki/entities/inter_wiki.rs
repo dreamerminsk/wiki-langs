@@ -1,7 +1,7 @@
-use std::cmp;
+use std::cmp::{Ord,PartialOrd,Eq,PartialEq};
 use std::fmt;
 
-#[derive(Debug, cmp::Ord, cmp::PartialOrd, cmp::Eq, cmp::PartialEq)]
+#[derive(Debug, Ord, PartialOrd, Eq, PartialEq)]
 pub struct InterWiki {
     pub lang: String,
     pub title: String,
