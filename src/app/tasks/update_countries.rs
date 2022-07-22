@@ -8,7 +8,7 @@ impl UpdateCountries {
     }
 
     pub fn execute(&self) -> Option<()> {
-        let list = tables::get_all_countries()?;
+        let list = tables::get_all_countries().ok()?;
 list.into_iter().filter(|c| c.wiki_id.is_none()).take(3);
         Some(())
     }
