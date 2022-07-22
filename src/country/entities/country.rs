@@ -19,17 +19,15 @@ pub struct Country {
 impl Country {
     pub fn wiki(&self, page: &Page) -> Self {
         Country {
-name:self.name.clone(),
-iso_num: self.iso_num.clone(),
-     iso_2: self.iso_2.clone(),
-    iso_3: self.iso_3.clone(),
-     ioc_cc: self.ioc_cc.clone(),
-     fifa_cc: self.fifa_cc.clone(),
-    wiki_data_id: self.wiki_data_id.clone(),
+            name: self.name.clone(),
+            iso_num: self.iso_num.clone(),
+            iso_2: self.iso_2.clone(),
+            iso_3: self.iso_3.clone(),
+            ioc_cc: self.ioc_cc.clone(),
+            fifa_cc: self.fifa_cc.clone(),
+            wiki_data_id: self.wiki_data_id.clone(),
             wiki_id: Some(page.title),
-            
         }
-        
     }
 }
 
