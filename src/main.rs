@@ -25,8 +25,10 @@ async fn main() -> Result<(), Box<dyn Error>> {
         });
         let player = snooker::get_player(usize::try_from(random_id)?).await?;
         tables::add_player(&player)?;
+if player.nation.len() > 0 {
         let country = Country::from(player.nation);
         add_country(&country)?;
+}
     }
     vec!["Australia"]
         .into_iter()
