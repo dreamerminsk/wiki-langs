@@ -1,13 +1,10 @@
-pub struct InterWiki{
-pub lang:String,
-pub title:String,
+pub struct InterWiki {
+    pub lang: String,
+    pub title: String,
 }
 
-
-
-
-impl InterWiki{
-fn new(lang:String,title:String)->Self{
-InterWiki{lang,title,}
-}
+impl InterWiki {
+    fn new(lang: String, title: String) -> Self {
+        InterWiki { lang, title }
+    }
 }
