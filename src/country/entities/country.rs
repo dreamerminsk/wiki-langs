@@ -19,7 +19,7 @@ pub struct Country {
 impl Country {
     pub fn wiki(&self, page: &Page) -> Self {
         Country {
-            wiki_id: page.title,
+            wiki_id: Some(page.title),
             ..*self
         }
     }
