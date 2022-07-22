@@ -1,7 +1,7 @@
-use std::fmt;
 use std::cmp;
+use std::fmt;
 
-#[derive(Debug,cmp::Ord)]
+#[derive(Debug, cmp::Ord)]
 pub struct InterWiki {
     pub lang: String,
     pub title: String,
