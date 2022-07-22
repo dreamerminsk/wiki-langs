@@ -21,7 +21,7 @@ impl Country {
         Country {
             wiki_id: Some(page.title),
             ..*self
-        }
+        }.as_ref()
     }
 }
 
