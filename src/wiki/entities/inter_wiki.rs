@@ -1,4 +1,4 @@
-use std::cmp::{Ord,PartialOrd,Eq,PartialEq};
+use std::cmp::{Eq, Ord, PartialEq, PartialOrd};
 use std::fmt;
 
 #[derive(Debug, Ord, PartialOrd, Eq, PartialEq)]
