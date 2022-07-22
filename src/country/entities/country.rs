@@ -20,7 +20,7 @@ impl Country {
     fn wiki(&self, page: &Page) -> Self {
         Country {
             wiki_id: page.title,
-            ..self
+            ..*self
         }
     }
 }
