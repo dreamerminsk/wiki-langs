@@ -3,6 +3,7 @@ use crate::country::tables::add_country;
 use app::tasks::UpdateReadMe;
 use rand::Rng;
 use std::error::Error;
+use app::tasks::UpdateCountries;
 
 mod app;
 
@@ -31,6 +32,9 @@ async fn main() -> Result<(), Box<dyn Error>> {
         .into_iter()
         .map(|it| Country::from(it.to_string()))
         .for_each(|it| add_country(&it).ok().unwrap_or_default());
+
+let update_countries = UpdateCountries::new();
+    update_countries.execute();
 
     let update_readme = UpdateReadMe::new();
     update_readme.execute();
