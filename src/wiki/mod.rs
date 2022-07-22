@@ -1,5 +1,5 @@
-use entities::{InterWiki, Page};
 use app::web;
+use entities::{InterWiki, Page};
 use std::error::Error;
 
 pub mod entities;
