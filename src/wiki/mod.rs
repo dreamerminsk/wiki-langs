@@ -4,6 +4,7 @@ use entities::{InterWiki, Page};
 use regex::Regex;
 use scraper::Html;
 use std::error::Error;
+use lazy_static::lazy_static;
 
 pub mod entities;
 
@@ -23,7 +24,7 @@ fn extract_wikidata(page: &Html) -> Option<String> {
     page.extract_links()
         .into_iter()
         .filter(|l| l.title == "Wikidata item")
-        .map(|l| extract_wikidata_id(&l.url))
+        .and_then(|l| extract_wikidata_id(&l.url))
         .next()
 }
 
