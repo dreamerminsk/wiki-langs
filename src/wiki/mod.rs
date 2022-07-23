@@ -2,6 +2,7 @@ use crate::app::web;
 use crate::app::web::html::Extract;
 use entities::{InterWiki, Page};
 use std::error::Error;
+use scraper::Html;
 
 pub mod entities;
 
