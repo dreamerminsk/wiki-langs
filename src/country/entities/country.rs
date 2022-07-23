@@ -25,7 +25,7 @@ impl Country {
             iso_3: self.iso_3.clone(),
             ioc_cc: self.ioc_cc.clone(),
             fifa_cc: self.fifa_cc.clone(),
-            wiki_data_id: self.wiki_data_id.clone(),
+            wiki_data_id: page.wikidata.clone(),
             wiki_id: Some(page.title.clone()),
         }
     }
