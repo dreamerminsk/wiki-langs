@@ -25,9 +25,6 @@ fn extract_wikidata(page: &Html) -> Option<String> {
     None
 }
 
-
-
-
 fn _extract_wikidata_id(text: &str) -> Option<String> {
     lazy_static! {
         static ref WDID_RE: Regex = Regex::new(r"SpecialEntity/(?P<wdid>[^/]+)").unwrap();
