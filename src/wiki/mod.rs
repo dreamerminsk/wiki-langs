@@ -13,11 +13,10 @@ pub async fn get_wiki(inter_wiki: InterWiki) -> Result<Page, Box<dyn Error>> {
         title: page
             .extract_text("#firstHeading")
             .unwrap_or_else(|| inter_wiki.title.to_string()),
-wikidata:extract_wikidata(&page),
+        wikidata: extract_wikidata(&page),
     })
 }
 
-
-fn extract_wikidata(page:&Html)->Option<String>{
-None
+fn extract_wikidata(page: &Html) -> Option<String> {
+    None
 }
