@@ -25,7 +25,7 @@ fn extract_wikidata(page: &Html) -> Option<String> {
         .into_iter()
         .filter(|l| l.title == "Wikidata item")
         .map(|l| extract_wikidata_id(&l.url))
-.flatten()
+        .flatten()
         .next()
 }
 
