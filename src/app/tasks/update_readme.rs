@@ -49,7 +49,7 @@ impl UpdateReadMe {
             .map(|di| {
                 format!(
                     "| {}s | [{}](players/{}) |",
-                    self.osstring_to_year(&di.file_name().clone()),
+                    self.osstring_to_year(&di.file_name()),
                     di.metadata().unwrap().len(),
                     di.file_name().into_string().unwrap()
                 )
@@ -63,7 +63,7 @@ impl UpdateReadMe {
         ))
     }
 
-    fn osstring_to_year(&self, r#fn: &OsString) -> String {
+    fn osstring_to_year(&self, r#fn: &mut OsString) -> String {
         r#fn.into_string()
             .unwrap_or("0000".to_string())
             .chars()
