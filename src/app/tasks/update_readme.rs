@@ -1,5 +1,6 @@
 use std::fs::{self, OpenOptions};
 use std::io::Write;
+use std::ffi::OSString;
 
 static README_PATH: &str = "./README.md";
 
@@ -47,8 +48,8 @@ impl UpdateReadMe {
             .filter_map(|di| di.ok())
             .map(|di| {
                 format!(
-                    "| {} | [{}](players/{}) |",
-                    di.file_name().into_string().unwrap(),
+                    "| {}s | [{}](players/{}) |",
+                    osstring_to_year(di.file_name()),
                     di.metadata().unwrap().len(),
                     di.file_name().into_string().unwrap()
                 )
@@ -61,4 +62,10 @@ impl UpdateReadMe {
             rows.join("\r\n")
         ))
     }
+
+
+
+fn osstring_to_year(fn:&OSString)->String{
+fn.into_string().unwrap_or("0000").chars().take(4).collect()
+}
 }
