@@ -17,6 +17,3 @@
 | 1990s | [3539](players/1990.births.csv) |
 | 2000s | [159](players/2000.births.csv) |
 
-ers/1990.births.csv) |
-| 2000.births.csv | [159](players/2000.births.csv) |
-
