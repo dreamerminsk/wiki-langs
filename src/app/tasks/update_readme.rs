@@ -1,6 +1,6 @@
 use std::fs::{self, OpenOptions};
 use std::io::Write;
-use std::ffi::OSString;
+use std::ffi::OsString;
 
 static README_PATH: &str = "./README.md";
 
@@ -65,7 +65,7 @@ impl UpdateReadMe {
 
 
 
-fn osstring_to_year(fn:&OSString)->String{
+fn osstring_to_year(fn:&OsString)->String{
 fn.into_string().unwrap_or("0000").chars().take(4).collect()
 }
 }
