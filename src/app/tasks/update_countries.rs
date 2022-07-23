@@ -26,7 +26,7 @@ impl UpdateCountries {
         wiki::get_wiki(inter_wiki).await.unwrap_or(Page {
             lang: "en".to_string(),
             title: name.to_string(),
-wikidata:None,
+            wikidata: None,
         })
     }
 }
