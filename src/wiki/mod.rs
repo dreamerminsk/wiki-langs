@@ -24,7 +24,8 @@ fn extract_wikidata(page: &Html) -> Option<String> {
     page.extract_links()
         .into_iter()
         .filter(|l| l.title == "Wikidata item")
-        .and_then(|l| extract_wikidata_id(&l.url))
+        .map(|l| extract_wikidata_id(&l.url))
+        .flatten()
         .next()
 }
 
