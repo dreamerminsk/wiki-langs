@@ -24,3 +24,15 @@ fn extract_wikidata(page: &Html) -> Option<String> {
         .filter(|l| l.title == "Wikidata item");
     None
 }
+
+
+
+
+fn _extract_wikidata_id(text: &str) -> Option<String> {
+    lazy_static! {
+        static ref WDID_RE: Regex = Regex::new(r"SpecialEntity/(?P<wdid>[^/]+)").unwrap();
+    }
+    WDID_RE
+        .captures(text)
+        .and_then(|cap| cap.name("wdid").map(|wdid| wdid.as_str().to_string()))
+}
