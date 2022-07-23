@@ -1,4 +1,4 @@
-use std::ffi::{    OsStr     ,    OsString    };
+use std::ffi::{OsStr, OsString};
 use std::fs::{self, OpenOptions};
 use std::io::Write;
 
