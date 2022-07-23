@@ -1,6 +1,7 @@
 use crate::app::web;
 use crate::app::web::html::Extract;
 use entities::{InterWiki, Page};
+use regex::Regex;
 use scraper::Html;
 use std::error::Error;
 
@@ -21,11 +22,12 @@ pub async fn get_wiki(inter_wiki: InterWiki) -> Result<Page, Box<dyn Error>> {
 fn extract_wikidata(page: &Html) -> Option<String> {
     page.extract_links()
         .into_iter()
-        .filter(|l| l.title == "Wikidata item");
-    None
+        .filter(|l| l.title == "Wikidata item")
+        .map(|l| extract_wikidata_id(&l.url))
+        .next()
 }
 
-fn _extract_wikidata_id(text: &str) -> Option<String> {
+fn extract_wikidata_id(text: &str) -> Option<String> {
     lazy_static! {
         static ref WDID_RE: Regex = Regex::new(r"SpecialEntity/(?P<wdid>[^/]+)").unwrap();
     }
