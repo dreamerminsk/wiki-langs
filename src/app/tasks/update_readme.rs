@@ -63,9 +63,9 @@ impl UpdateReadMe {
         ))
     }
 
-    fn osstring_to_year(r#fn: &OsString) -> String {
+    fn osstring_to_year(&self,r#fn: &OsString) -> String {
         r#fn.into_string()
-            .unwrap_or("0000")
+            .unwrap_or("0000".to_string())
             .chars()
             .take(4)
             .collect()
