@@ -18,5 +18,6 @@ pub async fn get_wiki(inter_wiki: InterWiki) -> Result<Page, Box<dyn Error>> {
 }
 
 fn extract_wikidata(page: &Html) -> Option<String> {
+page.extract_links().into_iter().filter(|l|l.title=="Wikidata item");
     None
 }
