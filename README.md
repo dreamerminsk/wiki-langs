@@ -8,12 +8,15 @@
 ### players
 | births | players |
 | :----: | ------: |
-| 0000.births.csv | [30354](players/0000.births.csv) |
-| 1940.births.csv | [251](players/1940.births.csv) |
-| 1950.births.csv | [282](players/1950.births.csv) |
-| 1960.births.csv | [756](players/1960.births.csv) |
-| 1970.births.csv | [3107](players/1970.births.csv) |
-| 1980.births.csv | [4119](players/1980.births.csv) |
-| 1990.births.csv | [3462](players/1990.births.csv) |
+| 0000s | [30451](players/0000.births.csv) |
+| 1940s | [251](players/1940.births.csv) |
+| 1950s | [282](players/1950.births.csv) |
+| 1960s | [756](players/1960.births.csv) |
+| 1970s | [3107](players/1970.births.csv) |
+| 1980s | [4174](players/1980.births.csv) |
+| 1990s | [3539](players/1990.births.csv) |
+| 2000s | [159](players/2000.births.csv) |
+
+ers/1990.births.csv) |
 | 2000.births.csv | [159](players/2000.births.csv) |
 
