@@ -1,5 +1,9 @@
-use std::{io::Write,fs::{self, OpenOptions},ffi::OsStr};
 use chrono::NaiveDateTime;
+use std::{
+    ffi::OsStr,
+    fs::{self, OpenOptions},
+    io::Write,
+};
 
 static README_PATH: &str = "./README.md";
 
@@ -58,7 +62,7 @@ impl UpdateReadMe {
         rows.sort();
         Some(format!(
             "## players <sub>last modified: {}</sub>\r\n{}\r\n{}\r\n",
-               NaiveDateTime::new().to_rfc2822(),
+            NaiveDateTime::new().to_rfc2822(),
             PLAYERS_HEADER,
             rows.join("\r\n")
         ))
