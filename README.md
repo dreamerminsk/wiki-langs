@@ -12,7 +12,7 @@
 ### players
 | births | players |
 | :----: | ------: |
-| 0000s | [33221](players/0000.births.csv) |
+| 0000s | [33543](players/0000.births.csv) |
 | 1940s | [251](players/1940.births.csv) |
 | 1950s | [282](players/1950.births.csv) |
 | 1960s | [865](players/1960.births.csv) |
