@@ -62,7 +62,7 @@ impl UpdateReadMe {
         rows.sort();
         Some(format!(
             "## players <sub>last modified: {}</sub>\r\n{}\r\n{}\r\n",
-            NaiveDateTime::new().to_rfc2822(),
+            Utc::now().to_rfc2822(),
             PLAYERS_HEADER,
             rows.join("\r\n")
         ))
