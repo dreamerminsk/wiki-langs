@@ -1,6 +1,6 @@
-use crate::snooker::{EventLink, PlayerLink,entities::Player};
+use crate::snooker::{entities::Player, EventLink, PlayerLink};
 use chrono::{Datelike, NaiveDate};
-use std::{path::Path,cmp::Ordering,error::Error,fs};
+use std::{cmp::Ordering, error::Error, fs, path::Path};
 use uuid::Uuid;
 
 pub struct PlayerTable {
