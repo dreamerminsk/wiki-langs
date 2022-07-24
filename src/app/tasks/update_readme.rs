@@ -50,7 +50,7 @@ impl UpdateReadMe {
             .map(|di| {
                 format!(
                     "| {}s | [{}](players/{}) |",
-                    self.osstr_to_year(&di.file_name().as_os_str()),
+                    self.osstr_to_year(di.file_name().as_os_str()),
                     di.metadata().unwrap().len(),
                     di.file_name().into_string().unwrap()
                 )
