@@ -1,4 +1,4 @@
-use std::ffi::{OsStr, OsString};
+use std::ffi::OsStr;
 use std::fs::{self, OpenOptions};
 use std::io::Write;
 
@@ -19,6 +19,7 @@ impl UpdateReadMe {
         let mut file = OpenOptions::new()
             .read(true)
             .write(true)
+            .truncate(true)
             .open(README_PATH)
             .ok()?;
 
