@@ -1,4 +1,4 @@
-use crate::app::web::{self,html::Extract};
+use crate::app::web::{self, html::Extract};
 use entities::{InterWiki, Page};
 use lazy_static::lazy_static;
 use regex::Regex;
