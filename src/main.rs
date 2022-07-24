@@ -1,7 +1,5 @@
-use crate::country::entities::Country;
-use crate::country::tables::add_country;
-use app::tasks::UpdateCountries;
-use app::tasks::UpdateReadMe;
+use crate::country::{entities::Country, tables::add_country};
+use app::tasks::{UpdateCountries, UpdateReadMe};
 use rand::Rng;
 use std::error::Error;
 
