@@ -19,7 +19,7 @@ impl UpdateReadMe {
         let mut file = OpenOptions::new()
             .read(true)
             .write(true)
-            .trancate(true)
+            .truncate(true)
             .open(README_PATH)
             .ok()?;
 
