@@ -1,8 +1,6 @@
-use chrono::naive::MIN_DATE;
-use chrono::NaiveDate;
+use chrono::{NaiveDate,naive::MIN_DATE};
 use serde::{Deserialize, Serialize};
-use std::cmp::Ordering;
-use std::hash::{Hash, Hasher};
+use std::{hash::{Hash, Hasher},cmp::Ordering};
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Player {
