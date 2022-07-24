@@ -1,6 +1,10 @@
 use crate::wiki::entities::Page;
 use serde::{Deserialize, Serialize};
-use std::{hash::{Hash, Hasher},convert::From,cmp::Ordering};
+use std::{
+    cmp::Ordering,
+    convert::From,
+    hash::{Hash, Hasher},
+};
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Country {
