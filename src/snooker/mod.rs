@@ -1,16 +1,12 @@
-use crate::app::web;
-use crate::app::web::entities::Link;
-use crate::app::web::html::Extract;
+use crate::app::web::{self,html::HtmlExt,entities::Link};
 use crate::snooker::entities::Player;
 use chrono::NaiveDate;
 use lazy_static::lazy_static;
 use regex::Regex;
 use scraper::Html;
 use serde::{Deserialize, Serialize};
-use std::cmp::Ordering;
-use std::convert::TryFrom;
-use std::error::Error;
-use std::hash::{Hash, Hasher};
+use std::{cmp::Ordering,convert::TryFrom,error::Error,hash::{Hash, Hasher}};
+
 
 pub mod urls;
 
