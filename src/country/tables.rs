@@ -1,12 +1,9 @@
-use crate::country::entities::Country;
-use std::cmp::Ordering;
-use std::error::Error;
-use std::fs;
-use std::path::Path;
+use entities::Country;
+use std::{path::Path,fs,cmp::Ordering,error::Error};
 use uuid::Uuid;
 
 pub fn get_all_countries() -> Result<Vec<Country>, Box<dyn Error>> {
-    let source_name = format!("./countries/{}", "names.eng.csv");
+    let source_name = format!("./countries/codes/{}", "en.csv");
     let mut countries = vec![];
     if Path::new(&source_name).exists() {
         let mut source_reader = csv::Reader::from_path(&source_name)?;
@@ -19,8 +16,8 @@ pub fn get_all_countries() -> Result<Vec<Country>, Box<dyn Error>> {
 }
 
 pub fn add_country(country: &Country) -> Result<(), Box<dyn Error>> {
-    fs::create_dir_all("./countries/")?;
-    let source_name = format!("./countries/{}", "names.eng.csv");
+    fs::create_dir_all("./countries/codes/")?;
+    let source_name = format!("./countries/codes/{}", "en.csv");
     if Path::new(&source_name).exists() {
         update_segment(&source_name, country)?;
     } else {
@@ -32,7 +29,7 @@ pub fn add_country(country: &Country) -> Result<(), Box<dyn Error>> {
 }
 
 fn update_segment(segment: &str, country: &Country) -> Result<(), Box<dyn Error>> {
-    let temp_name = format!("./countries/{}.csv", Uuid::new_v4());
+    let temp_name = format!("./countries/codes/{}.csv", Uuid::new_v4());
     {
         let mut source_reader = csv::Reader::from_path(&segment)?;
         let mut temp_writer = csv::Writer::from_path(&temp_name)?;
