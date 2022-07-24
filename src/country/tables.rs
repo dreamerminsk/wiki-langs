@@ -1,5 +1,5 @@
 use entities::Country;
-use std::{path::Path,fs,cmp::Ordering,error::Error};
+use std::{cmp::Ordering, error::Error, fs, path::Path};
 use uuid::Uuid;
 
 pub fn get_all_countries() -> Result<Vec<Country>, Box<dyn Error>> {
