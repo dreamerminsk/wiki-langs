@@ -1,6 +1,9 @@
-use std::ffi::OsStr;
-use std::fs::{self, OpenOptions};
-use std::io::Write;
+use chrono::Utc;
+use std::{
+    ffi::OsStr,
+    fs::{self, OpenOptions},
+    io::Write,
+};
 
 static README_PATH: &str = "./README.md";
 
@@ -23,7 +26,7 @@ impl UpdateReadMe {
             .open(README_PATH)
             .ok()?;
 
-        let content = format!("## wiki-langs\r\n{}\r\n", self.content());
+        let content = format!("## wiki-langs\r\n{}", self.content());
 
         file.write_all(content.as_bytes()).ok()?;
         file.flush().ok()?;
@@ -32,7 +35,7 @@ impl UpdateReadMe {
 
     fn content(&self) -> String {
         format!(
-            "{}\r\n{}",
+            "{}\r\n{}\r\n",
             self.shields().unwrap_or_else(|| "".to_string()),
             self.players().unwrap_or_else(|| "".to_string())
         )
@@ -58,7 +61,8 @@ impl UpdateReadMe {
             .collect();
         rows.sort();
         Some(format!(
-            "### players\r\n{}\r\n{}\r\n",
+            "## players <sub>last modified: {}</sub>\r\n{}\r\n{}\r\n",
+            Utc::now().to_rfc2822(),
             PLAYERS_HEADER,
             rows.join("\r\n")
         ))
