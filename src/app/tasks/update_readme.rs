@@ -61,7 +61,7 @@ impl UpdateReadMe {
             .collect();
         rows.sort();
         Some(format!(
-            "## players <sub>last modified: {}</sub>\r\n{}\r\n{}\r\n",
+            "## players\r\n<sub>last modified: {}</sub>\r\n{}\r\n{}\r\n",
             Utc::now().to_rfc2822(),
             PLAYERS_HEADER,
             rows.join("\r\n")
