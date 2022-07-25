@@ -3,7 +3,8 @@ use entities::{InterWiki, Page};
 use lazy_static::lazy_static;
 use regex::Regex;
 use scraper::Html;
-use std::error::Error;
+use std::{collections::BTreeSet,error::Error};
+
 
 pub mod entities;
 
