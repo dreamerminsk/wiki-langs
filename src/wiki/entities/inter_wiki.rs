@@ -4,6 +4,8 @@ use std::{
     fmt,
     hash::Hash,
 };
+use lazy_static::lazy_static;
+use regex::Regex;
 
 #[derive(Debug, Ord, PartialOrd, Eq, PartialEq, Hash)]
 pub struct InterWiki {
@@ -30,5 +32,12 @@ impl<'a> From<ElementRef<'a>> for InterWiki {
             title: extract_title(item.value().attr("title").unwrap_or_default()),
         }
     }
-    fn extract_title(text: &str) -> String {}
+    fn extract_title(text: &str) -> String {
+lazy_static! {
+        static ref TITLE_RE: Regex = Regex::new(r"(?P<title>.*?) - .*?").unwrap();
+    }
+    TITLE_RE
+        .captures(input)
+        .and_then(|cap| cap.name("name").map(|name| name.as_str().to_string()))
+}}
 }
