@@ -1,12 +1,12 @@
 use lazy_static::lazy_static;
 use regex::Regex;
+use scraper::ElementRef;
 use std::{
     cmp::{Eq, Ord, PartialEq, PartialOrd},
     convert::From,
     fmt,
     hash::Hash,
 };
-use scraper::ElementRef;
 
 #[derive(Debug, Ord, PartialOrd, Eq, PartialEq, Hash)]
 pub struct InterWiki {
