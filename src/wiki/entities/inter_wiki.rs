@@ -39,5 +39,5 @@ lazy_static! {
     TITLE_RE
         .captures(input)
         .and_then(|cap| cap.name("name").map(|name| name.as_str().to_string()))
-}}
+}
 }
