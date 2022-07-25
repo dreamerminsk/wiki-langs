@@ -2,7 +2,7 @@ use crate::app::web::{self, html::HtmlExt};
 use entities::{InterWiki, Page};
 use lazy_static::lazy_static;
 use regex::Regex;
-use scraper::Html;
+use scraper::{Html,Selector};
 use std::{collections::BTreeSet, error::Error};
 
 pub mod entities;
@@ -39,7 +39,7 @@ fn extract_wikidata_id(text: &str) -> Option<String> {
 
 fn extract_inter_wikis(page: &Html) -> BTreeSet<InterWiki> {
     let selector = Selector::parse(r#"a.interlanguage-link-target"#).unwrap();
-    self.select(&selector)
+    page.select(&selector)
         .map(InterWiki::from)
         .collect::<BTreeSet<InterWiki>>()
 }
