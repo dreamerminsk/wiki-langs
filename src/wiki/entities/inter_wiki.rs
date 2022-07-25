@@ -34,17 +34,13 @@ impl<'a> From<ElementRef<'a>> for InterWiki {
                 .unwrap_or_default(),
         }
     }
-    
 }
 
-
-
-
 fn extract_title(text: &str) -> Option<String> {
-        lazy_static! {
-            static ref TITLE_RE: Regex = Regex::new(r"(?P<title>.*?) - .*?").unwrap();
-        }
-        TITLE_RE
-            .captures(text)
-            .and_then(|cap| cap.name("title").map(|title| title.as_str().to_string()))
+    lazy_static! {
+        static ref TITLE_RE: Regex = Regex::new(r"(?P<title>.*?) - .*?").unwrap();
     }
+    TITLE_RE
+        .captures(text)
+        .and_then(|cap| cap.name("title").map(|title| title.as_str().to_string()))
+}
