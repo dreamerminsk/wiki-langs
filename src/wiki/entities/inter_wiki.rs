@@ -6,6 +6,7 @@ use std::{
     fmt,
     hash::Hash,
 };
+use scraper::ElementRef;
 
 #[derive(Debug, Ord, PartialOrd, Eq, PartialEq, Hash)]
 pub struct InterWiki {
