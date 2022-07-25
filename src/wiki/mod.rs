@@ -37,6 +37,9 @@ fn extract_wikidata_id(text: &str) -> Option<String> {
         .and_then(|cap| cap.name("wdid").map(|wdid| wdid.as_str().to_string()))
 }
 
-fn extract_inter_wikis(page: &Html) -> BTreeSet {
-    BTreeSet::new()
+fn extract_inter_wikis(page: &Html) -> BTreeSet<InterWiki> {
+let selector = Selector::parse(r#"a.interlanguage-link-target"#).unwrap();
+        self.select(&selector)
+            .map(InterWiki::from)
+            .collect::<BTreeSet<InterWiki>>()
 }
