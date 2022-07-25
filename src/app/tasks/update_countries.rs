@@ -3,6 +3,7 @@ use crate::wiki::{
     self,
     entities::{InterWiki, Page},
 };
+use std::collections::BTreeSet;
 
 pub struct UpdateCountries {}
 
@@ -30,6 +31,7 @@ impl UpdateCountries {
             lang: "en".to_string(),
             title: name.to_string(),
             wikidata: None,
+            inter_wikis: BTreeSet::new(),
         })
     }
 }
