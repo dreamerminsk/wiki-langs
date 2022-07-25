@@ -1,7 +1,8 @@
 use std::{
     cmp::{Eq, Ord, PartialEq, PartialOrd},
+    convert::From,
     fmt,
-    hash::Hash,convert::From,
+    hash::Hash,
 };
 
 #[derive(Debug, Ord, PartialOrd, Eq, PartialEq, Hash)]
@@ -22,10 +23,6 @@ impl fmt::Display for InterWiki {
     }
 }
 
-
-
-
-
 impl<'a> From<ElementRef<'a>> for InterWiki {
     fn from(item: ElementRef<'a>) -> Self {
         InterWiki {
@@ -33,6 +30,5 @@ impl<'a> From<ElementRef<'a>> for InterWiki {
             title: extract_title(item.value().attr("title").unwrap_or_default()),
         }
     }
-fn extract_title(text:&str)->String{
-}
+    fn extract_title(text: &str) -> String {}
 }
