@@ -38,8 +38,8 @@ fn extract_wikidata_id(text: &str) -> Option<String> {
 }
 
 fn extract_inter_wikis(page: &Html) -> BTreeSet<InterWiki> {
-let selector = Selector::parse(r#"a.interlanguage-link-target"#).unwrap();
-        self.select(&selector)
-            .map(InterWiki::from)
-            .collect::<BTreeSet<InterWiki>>()
+    let selector = Selector::parse(r#"a.interlanguage-link-target"#).unwrap();
+    self.select(&selector)
+        .map(InterWiki::from)
+        .collect::<BTreeSet<InterWiki>>()
 }
