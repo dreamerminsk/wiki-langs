@@ -14,7 +14,7 @@ impl Page {
         lang: String,
         title: String,
         wikidata: Option<String>,
-        inter_wikis: BtreeSet<InterWiki>,
+        inter_wikis: BTreeSet<InterWiki>,
     ) -> Self {
         Page {
             lang,
