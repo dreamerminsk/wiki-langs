@@ -16,7 +16,7 @@ pub async fn get_wiki(inter_wiki: InterWiki) -> Result<Page, Box<dyn Error>> {
             .extract_text("#firstHeading")
             .unwrap_or_else(|| inter_wiki.title.to_string()),
         wikidata: extract_wikidata(&page),
-inter_wikis:     extract_inter_wikis(&page),
+        inter_wikis: extract_inter_wikis(&page),
     })
 }
 
@@ -36,11 +36,6 @@ fn extract_wikidata_id(text: &str) -> Option<String> {
         .captures(text)
         .and_then(|cap| cap.name("wdid").map(|wdid| wdid.as_str().to_string()))
 }
-
-
-
-
-
 
 fn extract_inter_wikis(page: &Html) -> BTreeSet {
     BTreeSet::new()
