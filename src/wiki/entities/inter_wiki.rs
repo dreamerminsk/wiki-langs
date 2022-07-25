@@ -1,7 +1,7 @@
-use std::cmp::{Eq, Ord, PartialEq, PartialOrd};
-use std::fmt;
+use std::{fmt,hash::Hash,cmp::{Eq, Ord, PartialEq, PartialOrd}};
 
-#[derive(Debug, Ord, PartialOrd, Eq, PartialEq)]
+
+#[derive(Debug, Ord, PartialOrd, Eq, PartialEq,Hash)]
 pub struct InterWiki {
     pub lang: String,
     pub title: String,
