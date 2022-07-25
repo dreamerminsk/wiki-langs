@@ -29,7 +29,8 @@ impl<'a> From<ElementRef<'a>> for InterWiki {
     fn from(item: ElementRef<'a>) -> Self {
         InterWiki {
             lang: item.value().attr("lang").unwrap_or_default().to_string(),
-            title: extract_title(item.value().attr("title").unwrap_or_default()).unwrap_or_default(),
+            title: extract_title(item.value().attr("title").unwrap_or_default())
+                .unwrap_or_default(),
         }
     }
     fn extract_title(text: &str) -> Option<String> {
