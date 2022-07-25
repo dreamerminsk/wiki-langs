@@ -1,11 +1,11 @@
+use lazy_static::lazy_static;
+use regex::Regex;
 use std::{
     cmp::{Eq, Ord, PartialEq, PartialOrd},
     convert::From,
     fmt,
     hash::Hash,
 };
-use lazy_static::lazy_static;
-use regex::Regex;
 
 #[derive(Debug, Ord, PartialOrd, Eq, PartialEq, Hash)]
 pub struct InterWiki {
@@ -33,11 +33,11 @@ impl<'a> From<ElementRef<'a>> for InterWiki {
         }
     }
     fn extract_title(text: &str) -> String {
-lazy_static! {
-        static ref TITLE_RE: Regex = Regex::new(r"(?P<title>.*?) - .*?").unwrap();
+        lazy_static! {
+            static ref TITLE_RE: Regex = Regex::new(r"(?P<title>.*?) - .*?").unwrap();
+        }
+        TITLE_RE
+            .captures(input)
+            .and_then(|cap| cap.name("name").map(|name| name.as_str().to_string()))
     }
-    TITLE_RE
-        .captures(input)
-        .and_then(|cap| cap.name("name").map(|name| name.as_str().to_string()))
-}
 }
