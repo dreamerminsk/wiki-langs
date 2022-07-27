@@ -62,3 +62,34 @@ fn update_segment(segment: &str, country: &Country) -> Result<(), Box<dyn Error>
     fs::rename(&temp_name, &segment)?;
     Ok(())
 }
+
+
+
+
+pub fn remove_country(lang:&str,country: &Country) -> Result<(), Box<dyn Error>> {
+    fs::create_dir_all("./countries/codes/")?;
+    let source_name = format!("./countries/codes/{}.csv", lang);
+    if Path::new(&source_name).exists() {
+        remove_from_segment(&source_name, country)?;
+    }
+    Ok(())
+}
+
+fn remove_from_segment(segment: &str, country: &Country) -> Result<(), Box<dyn Error>> {
+    let temp_name = format!("./countries/codes/{}.csv", Uuid::new_v4());
+    {
+        let mut source_reader = csv::Reader::from_path(&segment)?;
+        let mut temp_writer = csv::Writer::from_path(&temp_name)?;
+        for c in source_reader.deserialize() {
+            let c: Country = c?;
+               if !c.eq(country) {
+                        temp_writer.serialize(&c)?;
+                }
+        }
+        temp_writer.flush()?;
+    }
+    fs::remove_file(&segment)?;
+    fs::rename(&temp_name, &segment)?;
+    Ok(())
+}
+
