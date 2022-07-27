@@ -47,7 +47,63 @@ impl PartialOrd for Country {
 
 impl PartialEq for Country {
     fn eq(&self, other: &Self) -> bool {
-        self.name == other.name
+        let mut some_pairs = 0;
+        let mut eq_pairs = 0;
+
+        if self.iso_num.is_some() && other.iso_num.is_some() {
+            some_pairs += 1;
+            if self.iso_num == other.iso_num {
+                eq_pairs += 1;
+            }
+        }
+
+        if self.iso_2.is_some() && other.iso_2.is_some() {
+            some_pairs += 1;
+            if self.iso_2 == other.iso_2 {
+                eq_pairs += 1;
+            }
+        }
+
+        if self.iso_3.is_some() && other.iso_3.is_some() {
+            some_pairs += 1;
+            if self.iso_3 == other.iso_3 {
+                eq_pairs += 1;
+            }
+        }
+
+        if self.ioc_cc.is_some() && other.ioc_cc.is_some() {
+            some_pairs += 1;
+            if self.ioc_cc == other.ioc_cc {
+                eq_pairs += 1;
+            }
+        }
+
+        if self.fifa_cc.is_some() && other.fifa_cc.is_some() {
+            some_pairs += 1;
+            if self.fifa_cc == other.fifa_cc {
+                eq_pairs += 1;
+            }
+        }
+
+        if self.wiki_data_id.is_some() && other.wiki_data_id.is_some() {
+            some_pairs += 1;
+            if self.wiki_data_id == other.wiki_data_id {
+                eq_pairs += 1;
+            }
+        }
+
+        if self.wiki_id.is_some() && other.wiki_id.is_some() {
+            some_pairs += 1;
+            if self.wiki_id == other.wiki_id {
+                eq_pairs += 1;
+            }
+        }
+
+        if some_pairs > 0 {
+            some_pairs == eq_pairs
+        } else {
+            false
+        }
     }
 }
 
