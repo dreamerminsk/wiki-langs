@@ -49,11 +49,14 @@ impl PartialEq for Country {
     fn eq(&self, other: &Self) -> bool {
         let mut some_pairs = 0;
         let mut eq_pairs = 0;
+
         if self.iso_num.is_some() && other.iso_num.is_some() {
             some_pairs += 1;
         }
 
-        self.name == other.name
+        if some_pairs>0 {
+some_pairs==eq_pairs
+}  else  { false }
     }
 }
 
