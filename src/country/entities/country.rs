@@ -54,9 +54,11 @@ impl PartialEq for Country {
             some_pairs += 1;
         }
 
-        if some_pairs>0 {
-some_pairs==eq_pairs
-}  else  { false }
+        if some_pairs > 0 {
+            some_pairs == eq_pairs
+        } else {
+            false
+        }
     }
 }
 
