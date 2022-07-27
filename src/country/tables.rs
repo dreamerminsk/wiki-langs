@@ -63,10 +63,7 @@ fn update_segment(segment: &str, country: &Country) -> Result<(), Box<dyn Error>
     Ok(())
 }
 
-
-
-
-pub fn remove_country(lang:&str,country: &Country) -> Result<(), Box<dyn Error>> {
+pub fn remove_country(lang: &str, country: &Country) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./countries/codes/")?;
     let source_name = format!("./countries/codes/{}.csv", lang);
     if Path::new(&source_name).exists() {
@@ -82,9 +79,9 @@ fn remove_from_segment(segment: &str, country: &Country) -> Result<(), Box<dyn E
         let mut temp_writer = csv::Writer::from_path(&temp_name)?;
         for c in source_reader.deserialize() {
             let c: Country = c?;
-               if !c.eq(country) {
-                        temp_writer.serialize(&c)?;
-                }
+            if !c.eq(country) {
+                temp_writer.serialize(&c)?;
+            }
         }
         temp_writer.flush()?;
     }
@@ -92,4 +89,3 @@ fn remove_from_segment(segment: &str, country: &Country) -> Result<(), Box<dyn E
     fs::rename(&temp_name, &segment)?;
     Ok(())
 }
-
