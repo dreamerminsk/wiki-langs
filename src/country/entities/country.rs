@@ -52,7 +52,9 @@ impl PartialEq for Country {
 
         if self.iso_num.is_some() && other.iso_num.is_some() {
             some_pairs += 1;
-           if self.iso_num ==    other.iso_num {eq_pairs+=1;}
+            if self.iso_num == other.iso_num {
+                eq_pairs += 1;
+            }
         }
 
         if some_pairs > 0 {
