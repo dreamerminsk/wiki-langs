@@ -50,6 +50,13 @@ impl PartialEq for Country {
         let mut some_pairs = 0;
         let mut eq_pairs = 0;
 
+if let (Some(this),Some(that))=(self.iso_num,other.iso_num){
+some_pairs += 1;
+            if this == that {
+                eq_pairs += 1;
+            }
+}
+
         if self.iso_num.is_some() && other.iso_num.is_some() {
             some_pairs += 1;
             if self.iso_num == other.iso_num {
