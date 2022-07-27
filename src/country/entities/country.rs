@@ -57,35 +57,36 @@ impl PartialEq for Country {
             }
         }
 
-      if let (Some(this), Some(that)) = (self.iso_2.as_ref(), other.iso_2.as_ref()) {
+        if let (Some(this), Some(that)) = (self.iso_2.as_ref(), other.iso_2.as_ref()) {
             some_pairs += 1;
             if this == that {
                 eq_pairs += 1;
             }
         }
 
-if let (Some(this), Some(that)) = (self.iso_3.as_ref(), other.iso_3.as_ref()) {
+        if let (Some(this), Some(that)) = (self.iso_3.as_ref(), other.iso_3.as_ref()) {
             some_pairs += 1;
             if this == that {
                 eq_pairs += 1;
             }
         }
 
-if let (Some(this), Some(that)) = (self.ioc_cc.as_ref(), other.ioc_cc.as_ref()) {
+        if let (Some(this), Some(that)) = (self.ioc_cc.as_ref(), other.ioc_cc.as_ref()) {
             some_pairs += 1;
             if this == that {
                 eq_pairs += 1;
             }
         }
 
-       if let (Some(this), Some(that)) = (self.fifa_cc.as_ref(), other.fifa_cc.as_ref()) {
+        if let (Some(this), Some(that)) = (self.fifa_cc.as_ref(), other.fifa_cc.as_ref()) {
             some_pairs += 1;
             if this == that {
                 eq_pairs += 1;
             }
         }
 
-if let (Some(this), Some(that)) = (self.wiki_data_id.as_ref(), other.wiki_data_id.as_ref()) {
+        if let (Some(this), Some(that)) = (self.wiki_data_id.as_ref(), other.wiki_data_id.as_ref())
+        {
             some_pairs += 1;
             if this == that {
                 eq_pairs += 1;
