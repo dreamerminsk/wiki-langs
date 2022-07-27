@@ -57,51 +57,44 @@ impl PartialEq for Country {
             }
         }
 
-        if self.iso_num.is_some() && other.iso_num.is_some() {
+      if let (Some(this), Some(that)) = (self.iso_2.as_ref(), other.iso_2.as_ref()) {
             some_pairs += 1;
-            if self.iso_num == other.iso_num {
+            if this == that {
                 eq_pairs += 1;
             }
         }
 
-        if self.iso_2.is_some() && other.iso_2.is_some() {
+if let (Some(this), Some(that)) = (self.iso_3.as_ref(), other.iso_3.as_ref()) {
             some_pairs += 1;
-            if self.iso_2 == other.iso_2 {
+            if this == that {
                 eq_pairs += 1;
             }
         }
 
-        if self.iso_3.is_some() && other.iso_3.is_some() {
+if let (Some(this), Some(that)) = (self.ioc_cc.as_ref(), other.ioc_cc.as_ref()) {
             some_pairs += 1;
-            if self.iso_3 == other.iso_3 {
+            if this == that {
                 eq_pairs += 1;
             }
         }
 
-        if self.ioc_cc.is_some() && other.ioc_cc.is_some() {
+       if let (Some(this), Some(that)) = (self.fifa_cc.as_ref(), other.fifa_cc.as_ref()) {
             some_pairs += 1;
-            if self.ioc_cc == other.ioc_cc {
+            if this == that {
                 eq_pairs += 1;
             }
         }
 
-        if self.fifa_cc.is_some() && other.fifa_cc.is_some() {
+if let (Some(this), Some(that)) = (self.wiki_data_id.as_ref(), other.wiki_data_id.as_ref()) {
             some_pairs += 1;
-            if self.fifa_cc == other.fifa_cc {
+            if this == that {
                 eq_pairs += 1;
             }
         }
 
-        if self.wiki_data_id.is_some() && other.wiki_data_id.is_some() {
+        if let (Some(this), Some(that)) = (self.wiki_id.as_ref(), other.wiki_id.as_ref()) {
             some_pairs += 1;
-            if self.wiki_data_id == other.wiki_data_id {
-                eq_pairs += 1;
-            }
-        }
-
-        if self.wiki_id.is_some() && other.wiki_id.is_some() {
-            some_pairs += 1;
-            if self.wiki_id == other.wiki_id {
+            if this == that {
                 eq_pairs += 1;
             }
         }
