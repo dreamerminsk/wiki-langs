@@ -49,7 +49,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
         "Faroe Islands",
         "Kosovo",
         "Transnistria",
-        "Åland",
+        "Åland","Somaliland","Svalbard"
     ]
     .into_iter()
     .map(|it| Country::from(it.to_string()))
