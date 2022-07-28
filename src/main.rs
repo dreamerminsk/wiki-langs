@@ -21,7 +21,8 @@ async fn main() -> Result<(), Box<dyn Error>> {
             start: 300 * i,
             end: 300 * (i + 1),
         });
-        let player = snooker::get_player(usize::try_from(random_id)?).await?;
+let pid=i+1;
+        let player = snooker::get_player(usize::try_from(pid)?).await?;
         tables::add_player(&player)?;
         if !player.nation.is_empty() {
             let country = Country::from(player.nation);
