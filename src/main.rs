@@ -44,7 +44,9 @@ async fn main() -> Result<(), Box<dyn Error>> {
         "Cocos (Keeling) Islands",
         "Guernsey",
         "Jersey",
-        "Isle of Man","Gibraltar","Faroe Islands",
+        "Isle of Man",
+        "Gibraltar",
+        "Faroe Islands",
     ]
     .into_iter()
     .map(|it| Country::from(it.to_string()))
