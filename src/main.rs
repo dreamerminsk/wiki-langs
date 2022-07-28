@@ -39,7 +39,8 @@ async fn main() -> Result<(), Box<dyn Error>> {
         "Hong Kong",
         "Macau",
         "Akrotiri and Dhekelia",
-        "British Indian Ocean Territory","Christmas Island",
+        "British Indian Ocean Territory",
+        "Christmas Island",
     ]
     .into_iter()
     .map(|it| Country::from(it.to_string()))
