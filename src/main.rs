@@ -21,7 +21,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
             start: 300 * i,
             end: 300 * (i + 1),
         });
-        let pid = i + 1;
+        let pid = i + 8;
         let player = snooker::get_player(usize::try_from(pid)?).await?;
         tables::add_player(&player)?;
         if !player.nation.is_empty() {
@@ -31,28 +31,6 @@ async fn main() -> Result<(), Box<dyn Error>> {
     }
     vec![
         "State of Palestine",
-        "Taiwan",
-        "Abkhazia",
-        "Artsakh",
-        "Northern Cyprus",
-        "South Ossetia",
-        "Hong Kong",
-        "Macau",
-        "Akrotiri and Dhekelia",
-        "British Indian Ocean Territory",
-        "Christmas Island",
-        "Cocos (Keeling) Islands",
-        "Guernsey",
-        "Jersey",
-        "Isle of Man",
-        "Gibraltar",
-        "Faroe Islands",
-        "Kosovo",
-        "Transnistria",
-        "Åland",
-        "Somaliland",
-        "Svalbard",
-        "Sahrawi Arab Democratic Republic",
     ]
     .into_iter()
     .map(|it| Country::from(it.to_string()))
