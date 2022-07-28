@@ -29,12 +29,10 @@ async fn main() -> Result<(), Box<dyn Error>> {
             //add_country(&country)?;
         }
     }
-    vec![
-        "State of Palestine",
-    ]
-    .into_iter()
-    .map(|it| Country::from(it.to_string()))
-    .for_each(|it| add_country(&it).ok().unwrap_or_default());
+    vec!["State of Palestine"]
+        .into_iter()
+        .map(|it| Country::from(it.to_string()))
+        .for_each(|it| add_country(&it).ok().unwrap_or_default());
 
     let update_countries = UpdateCountries::new();
     update_countries.execute().await;
