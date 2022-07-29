@@ -2,8 +2,9 @@ use crate::wiki::entities::Page;
 use serde::{Deserialize, Serialize};
 use std::{
     cmp::Ordering,
+    convert::AsRef,
     convert::From,
-    hash::{Hash, Hasher},convert::AsRef,
+    hash::{Hash, Hasher},
 };
 
 #[derive(Debug, Serialize, Deserialize)]
