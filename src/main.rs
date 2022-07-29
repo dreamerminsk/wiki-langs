@@ -28,7 +28,7 @@ impl NextPlayer {
     }
     fn put(&mut self, np: usize) -> io::Result<()> {
         self.0 = np;
-        write("./next-player.csv", self.0.to_string().to_bytes())?;
+        write("./next-player.csv", self.0.to_string().bytes())?;
         Ok(())
     }
 }
