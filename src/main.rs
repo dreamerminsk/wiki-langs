@@ -37,7 +37,7 @@ impl NextPlayer {
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
-    let next_player = NextPlayer(0);
+    let mut next_player = NextPlayer(0);
     let mut rng = rand::thread_rng();
     for i in 0..7 {
         let random_id: u32 = rng.gen_range(std::ops::Range {
