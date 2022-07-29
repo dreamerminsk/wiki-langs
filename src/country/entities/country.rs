@@ -2,6 +2,7 @@ use crate::wiki::entities::Page;
 use serde::{Deserialize, Serialize};
 use std::{
     cmp::Ordering,
+    convert::AsRef,
     convert::From,
     hash::{Hash, Hasher},
 };
@@ -116,17 +117,17 @@ impl Hash for Country {
     }
 }
 
-impl From<String> for Country {
-    fn from(value: String) -> Self {
+impl<T: AsRef<str>> From<T> for Country {
+    fn from(value: T) -> Self {
         Country {
-            name: value,
+            name: String::from(value.as_ref()),
             iso_num: None,
             iso_2: None,
             iso_3: None,
             ioc_cc: None,
             fifa_cc: None,
             wiki_data_id: None,
-            wiki_id: None,
+            wiki_id: Some(String::from(value.as_ref())),
         }
     }
 }
