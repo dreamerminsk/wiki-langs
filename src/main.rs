@@ -19,7 +19,7 @@ mod wiki;
 struct NextPlayer(usize);
 impl NextPlayer {
     fn get(&self) -> usize {
-        self.0 = read_to_string("./next-player.csv")
+        self.0 = read_to_string("./next-player.csv").ok()
             .and_then(|t| t.parse::<usize>().ok())
             .unwrap_or_default();
         self.0
