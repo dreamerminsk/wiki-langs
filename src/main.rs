@@ -4,7 +4,7 @@ use rand::Rng;
 use std::{
     error::Error,
     fs::{read_to_string, write},
-    io::Result,
+    io,
 };
 
 mod app;
@@ -26,7 +26,7 @@ impl NextPlayer {
             .unwrap_or_default();
         self.0
     }
-    fn put(&mut self, np: usize) -> Result<()> {
+    fn put(&mut self, np: usize) -> io::Result<()> {
         self.0 = np;
         write("./next-player.csv", self.0.to_string().to_bytes())?;
         Ok(())
