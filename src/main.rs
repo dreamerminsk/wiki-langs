@@ -23,7 +23,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
             start: 300 * i,
             end: 300 * (i + 1),
         });
-        let pid = i + 22;
+        let pid = i + 29;
         let player = snooker::get_player(usize::try_from(pid)?).await?;
         tables::add_player(&player)?;
         if !player.nation.is_empty() {
