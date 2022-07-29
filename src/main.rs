@@ -20,10 +20,11 @@ mod wiki;
 struct NextPlayer(usize);
 impl NextPlayer {
     fn get(&mut self) -> usize {
+if self.0 == 0 {
         self.0 = read_to_string("./next-player.csv")
             .ok()
             .and_then(|t| t.parse::<usize>().ok())
-            .unwrap_or_default();
+            .unwrap_or_default();}
         self.0
     }
     fn put(&mut self, np: usize) -> io::Result<()> {
@@ -35,13 +36,14 @@ impl NextPlayer {
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
+let next_player = NextPlayer(0);
     let mut rng = rand::thread_rng();
     for i in 0..7 {
         let random_id: u32 = rng.gen_range(std::ops::Range {
             start: 300 * i,
             end: 300 * (i + 1),
         });
-        let pid = i + 29;
+        let pid = i + next_player.get();
         let player = snooker::get_player(usize::try_from(pid)?).await?;
         tables::add_player(&player)?;
         if !player.nation.is_empty() {
@@ -49,6 +51,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
             //add_country(&country)?;
         }
     }
+next_player.put(next_player.get()+7)?;
     vec![
         "Aruba",
         "Bonaire",
