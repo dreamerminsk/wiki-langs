@@ -52,7 +52,8 @@ async fn main() -> Result<(), Box<dyn Error>> {
             //add_country(&country)?;
         }
     }
-    next_player.put(next_player.get() + 7)?;
+let next_id = next_player.get();
+    next_player.put(next_id + 7)?;
     vec![
         "Aruba",
         "Bonaire",
