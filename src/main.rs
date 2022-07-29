@@ -43,20 +43,36 @@ async fn main() -> Result<(), Box<dyn Error>> {
             //add_country(&country)?;
         }
     }
-    vec!["Aruba","Bonaire","Clipperton Island","Curaçao",
-"French Guiana","Greenland","Guadeloupe",
-"Martinique","Saba","Saint Barthelemy",
-"Saint Martin","Saint Pierre and Miquelon",
-"Sint Eustatius","Sint Maarten",
-"Anguilla","Bermuda","British Virgin Islands",
-"Cayman Islands","Falkland Islands","Montserrat",
-"Navassa Island","Puerto Rico",
-"South Georgia and the South Sandwich Islands",
-"Turks and Caicos Islands",
-"United States Virgin Islands"]
-        .into_iter()
-        .map(|it| Country::from(it.to_string()))
-        .for_each(|it| add_country(&it).ok().unwrap_or_default());
+    vec![
+        "Aruba",
+        "Bonaire",
+        "Clipperton Island",
+        "Curaçao",
+        "French Guiana",
+        "Greenland",
+        "Guadeloupe",
+        "Martinique",
+        "Saba",
+        "Saint Barthelemy",
+        "Saint Martin",
+        "Saint Pierre and Miquelon",
+        "Sint Eustatius",
+        "Sint Maarten",
+        "Anguilla",
+        "Bermuda",
+        "British Virgin Islands",
+        "Cayman Islands",
+        "Falkland Islands",
+        "Montserrat",
+        "Navassa Island",
+        "Puerto Rico",
+        "South Georgia and the South Sandwich Islands",
+        "Turks and Caicos Islands",
+        "United States Virgin Islands",
+    ]
+    .into_iter()
+    .map(|it| Country::from(it.to_string()))
+    .for_each(|it| add_country(&it).ok().unwrap_or_default());
 
     let update_countries = UpdateCountries::new();
     update_countries.execute().await;
