@@ -1,7 +1,10 @@
 use crate::country::{entities::Country, tables::add_country};
 use app::tasks::{UpdateCountries, UpdateReadMe};
 use rand::Rng;
-use std::error::Error;
+use std::{
+    error::Error,
+    fs::{read_to_string, write},
+};
 
 mod app;
 
@@ -14,6 +17,15 @@ mod tables;
 mod wiki;
 
 struct NextPlayer(usize);
+impl NextPlayer {
+    fn get(&mut self) -> usize {
+        self.0 = read_to_string("./next-player.csv")
+            .ok()
+            .and_then(|t| t.parse::<usize>().ok())
+            .unwrap_or_default();
+        self.0
+    }
+}
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
