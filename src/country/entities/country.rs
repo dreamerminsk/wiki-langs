@@ -126,7 +126,7 @@ impl From<String> for Country {
             ioc_cc: None,
             fifa_cc: None,
             wiki_data_id: None,
-            wiki_id:      value.clone(),
+            wiki_id: value.clone(),
         }
     }
 }
