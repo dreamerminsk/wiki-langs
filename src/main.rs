@@ -17,18 +17,18 @@ mod tables;
 
 mod wiki;
 
-struct NextPlayer(usize);
+struct NextPlayer(u32);
 impl NextPlayer {
-    fn get(&mut self) -> usize {
+    fn get(&mut self) -> u32 {
         if self.0 == 0 {
             self.0 = read_to_string("./next-player.csv")
                 .ok()
-                .and_then(|t| t.parse::<usize>().ok())
+                .and_then(|t| t.parse::<u32>().ok())
                 .unwrap_or_default();
         }
         self.0
     }
-    fn put(&mut self, np: usize) -> io::Result<()> {
+    fn put(&mut self, np: u32) -> io::Result<()> {
         self.0 = np;
         write("./next-player.csv", self.0.to_string())?;
         Ok(())
