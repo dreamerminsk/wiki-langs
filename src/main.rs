@@ -20,11 +20,12 @@ mod wiki;
 struct NextPlayer(usize);
 impl NextPlayer {
     fn get(&mut self) -> usize {
-if self.0 == 0 {
-        self.0 = read_to_string("./next-player.csv")
-            .ok()
-            .and_then(|t| t.parse::<usize>().ok())
-            .unwrap_or_default();}
+        if self.0 == 0 {
+            self.0 = read_to_string("./next-player.csv")
+                .ok()
+                .and_then(|t| t.parse::<usize>().ok())
+                .unwrap_or_default();
+        }
         self.0
     }
     fn put(&mut self, np: usize) -> io::Result<()> {
@@ -36,7 +37,7 @@ if self.0 == 0 {
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
-let next_player = NextPlayer(0);
+    let next_player = NextPlayer(0);
     let mut rng = rand::thread_rng();
     for i in 0..7 {
         let random_id: u32 = rng.gen_range(std::ops::Range {
@@ -51,7 +52,7 @@ let next_player = NextPlayer(0);
             //add_country(&country)?;
         }
     }
-next_player.put(next_player.get()+7)?;
+    next_player.put(next_player.get() + 7)?;
     vec![
         "Aruba",
         "Bonaire",
