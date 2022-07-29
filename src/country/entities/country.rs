@@ -118,7 +118,7 @@ impl Hash for Country {
 }
 
 impl From<String> for Country {
-    fn from(value: AsRef<str>) -> Self {
+    fn from(value: dyn AsRef<str>) -> Self {
         Country {
             name: String::from(value.as_ref()),
             iso_num: None,
