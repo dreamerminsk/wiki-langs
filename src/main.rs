@@ -13,6 +13,13 @@ mod tables;
 
 mod wiki;
 
+
+
+
+
+
+struct NextPlayer(usize);
+
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
     let mut rng = rand::thread_rng();
