@@ -7,15 +7,13 @@ use std::{
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct Event {
-    
     pub snooker_id: usize,
-pub title: String,
+    pub title: String,
 }
 
 impl Ord for Event {
     fn cmp(&self, other: &Self) -> Ordering {
-        self.snooker_id
-            .cmp(&other.snooker_id)
+        self.snooker_id.cmp(&other.snooker_id)
     }
 }
 
