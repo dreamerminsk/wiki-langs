@@ -3,7 +3,7 @@ use serde::{Deserialize, Serialize};
 use std::{
     cmp::Ordering,
     convert::From,
-    hash::{Hash, Hasher},
+    hash::{Hash, Hasher},convert::AsRef,
 };
 
 #[derive(Debug, Serialize, Deserialize)]
@@ -117,16 +117,16 @@ impl Hash for Country {
 }
 
 impl From<String> for Country {
-    fn from(value: String) -> Self {
+    fn from(value: AsRef<str>) -> Self {
         Country {
-            name: value,
+            name: String::from(value.as_ref()),
             iso_num: None,
             iso_2: None,
             iso_3: None,
             ioc_cc: None,
             fifa_cc: None,
             wiki_data_id: None,
-            wiki_id: Some(value.clone()),
+            wiki_id: Some(String::from(value.as_ref())),
         }
     }
 }
