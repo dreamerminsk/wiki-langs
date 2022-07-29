@@ -54,12 +54,10 @@ async fn main() -> Result<(), Box<dyn Error>> {
     }
     let next_id = next_player.get();
     next_player.put(next_id + 7)?;
-    vec![
-        "Aruba",
-    ]
-    .into_iter()
-    .map(|it| Country::from(it.to_string()))
-    .for_each(|it| add_country(&it).ok().unwrap_or_default());
+    vec!["Aruba"]
+        .into_iter()
+        .map(|it| Country::from(it.to_string()))
+        .for_each(|it| add_country(&it).ok().unwrap_or_default());
 
     let update_countries = UpdateCountries::new();
     update_countries.execute().await;
