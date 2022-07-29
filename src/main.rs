@@ -2,6 +2,7 @@ use crate::country::{entities::Country, tables::add_country};
 use app::tasks::{UpdateCountries, UpdateReadMe};
 use rand::Rng;
 use std::{
+io::Result,
     error::Error,
     fs::{read_to_string, write},
 };
@@ -25,6 +26,11 @@ impl NextPlayer {
             .unwrap_or_default();
         self.0
     }
+fn put(&mut self, np:usize) ->Result<()>{
+self.0=np;
+write("./next-player.csv", self.0.to_string().to_bytes())?;
+Ok(())
+}
 }
 
 #[tokio::main]
