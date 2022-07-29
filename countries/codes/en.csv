@@ -6,10 +6,12 @@ Albania,,,,,,Q222,Albania
 Algeria,,,,,,Q262,Algeria
 Andorra,,,,,,Q228,Andorra
 Angola,,,,,,Q916,Angola
+Anguilla,,,,,,Q25228,Anguilla
 Antigua and Barbuda,,,,,,Q781,Antigua and Barbuda
 Argentina,,,,,,Q414,Argentina
 Armenia,,,,,,Q399,Armenia
 Artsakh,,,,,,Q4070921,Artsakh
+Aruba,,,,,,Q21203,Aruba
 Australia,,,,,,Q408,Australia
 Austria,040,AT,AUT,AUT,AUT,Q40,Austria
 Azerbaijan,,,,,,Q227,Azerbaijan
@@ -20,12 +22,15 @@ Belarus,,,,,,Q184,Belarus
 Belgium,,,,,,Q31,Belgium
 Belize,,,,,,Q242,Belize
 Benin,,,,,,Q962,Benin
+Bermuda,,,,,,Q23635,Bermuda
 Bhutan,,,,,,Q917,Bhutan
 Bolivia,,,,,,Q750,Bolivia
+Bonaire,,,,,,,Bonaire
 Bosnia and Herzegovina,,,,,,Q225,Bosnia and Herzegovina
 Botswana,,,,,,Q963,Botswana
 Brazil,,,,,,Q155,Brazil
 British Indian Ocean Territory,,,,,,Q43448,British Indian Ocean Territory
+British Virgin Islands,,,,,,,British Virgin Islands
 Brunei,,,,,,Q921,Brunei
 Bulgaria,,,,,,Q219,Bulgaria
 Burkina Faso,,,,,,Q965,Burkina Faso
@@ -34,17 +39,20 @@ Cambodia,,,,,,Q424,Cambodia
 Cameroon,,,,,,Q1009,Cameroon
 Canada,,,,,,Q16,Canada
 Cape Verde,,,,,,Q1011,Cape Verde
+Cayman Islands,,,,,,,Cayman Islands
 Central African Republic,,,,,,Q929,Central African Republic
 Chad,,,,,,Q657,Chad
 Chile,,,,,,Q298,Chile
 China,,,,,,Q148,China
 Christmas Island,,,,,,Q31063,Christmas Island
+Clipperton Island,,,,,,,Clipperton Island
 Cocos (Keeling) Islands,,,,,,Q36004,Cocos (Keeling) Islands
 Colombia,,,,,,Q739,Colombia
 Comoros,,,,,,Q970,Comoros
 Costa Rica,,,,,,Q800,Costa Rica
 Croatia,,,,,,Q224,Croatia
 Cuba,,,,,,Q241,Cuba
+Curaçao,,,,,,,Curaçao
 Cyprus,,,,,,Q229,Cyprus
 Czech Republic,,,,,,Q213,Czech Republic
 Democratic Republic of the Congo,,,,,,Q974,Democratic Republic of the Congo
@@ -62,18 +70,22 @@ Eritrea,,,,,,Q986,Eritrea
 Estonia,,,,,,Q191,Estonia
 Eswatini,,,,,,Q1050,Eswatini
 Ethiopia,,,,,,Q115,Ethiopia
+Falkland Islands,,,,,,,Falkland Islands
 Faroe Islands,,,,,,Q4628,Faroe Islands
 Federated States of Micronesia,,,,,,Q702,Federated States of Micronesia
 Fiji,,,,,,Q712,Fiji
 Finland,,,,,,Q33,Finland
 France,,,,,,Q142,France
+French Guiana,,,,,,,French Guiana
 Gabon,,,,,,Q1000,Gabon
 Georgia,,,,,,Q230,Georgia (country)
 Germany,,,,,,Q183,Germany
 Ghana,,,,,,Q117,Ghana
 Gibraltar,,,,,,Q1410,Gibraltar
 Greece,,,,,,Q41,Greece
+Greenland,,,,,,,Greenland
 Grenada,,,,,,Q769,Grenada
+Guadeloupe,,,,,,,Guadeloupe
 Guatemala,,,,,,Q774,Guatemala
 Guernsey,,,,,,Q3311985,Guernsey
 Guinea,,,,,,Q1006,Guinea
@@ -120,6 +132,7 @@ Maldives,,,,,,Q826,Maldives
 Mali,,,,,,Q912,Mali
 Malta,,,,,,Q233,Malta
 Marshall Islands,,,,,,Q709,Marshall Islands
+Martinique,,,,,,,Martinique
 Mauritania,,,,,,Q1025,Mauritania
 Mauritius,,,,,,Q1027,Mauritius
 Mexico,,,,,,Q96,Mexico
@@ -127,11 +140,13 @@ Moldova,,,,,,Q217,Moldova
 Monaco,,,,,,Q235,Monaco
 Mongolia,,,,,,Q711,Mongolia
 Montenegro,,,,,,Q236,Montenegro
+Montserrat,,,,,,,Montserrat
 Morocco,,,,,,Q1028,Morocco
 Mozambique,,,,,,Q1029,Mozambique
 Myanmar,,,,,,Q836,Myanmar
 Namibia,,,,,,Q1030,Namibia
 Nauru,,,,,,Q697,Nauru
+Navassa Island,,,,,,,Navassa Island
 Nepal,,,,,,Q837,Nepal
 Netherlands,,,,,,Q55,Netherlands
 New Zealand,,,,,,Q664,New Zealand
@@ -153,14 +168,19 @@ Peru,,,,,,Q419,Peru
 Philippines,,,,,,Q928,Philippines
 Poland,,,,,,Q36,Poland
 Portugal,,,,,,Q45,Portugal
+Puerto Rico,,,,,,,Puerto Rico
 Qatar,,,,,,Q846,Qatar
 Republic of the Congo,,,,,,Q971,Republic of the Congo
 Romania,,,,,,Q218,Romania
 Russia,,,,,,Q159,Russia
 Rwanda,,,,,,Q1037,Rwanda
+Saba,,,,,,,Saba
 Sahrawi Arab Democratic Republic,,,,,,Q40362,Sahrawi Arab Democratic Republic
+Saint Barthelemy,,,,,,,Saint Barthelemy
 Saint Kitts and Nevis,,,,,,Q763,Saint Kitts and Nevis
 Saint Lucia,,,,,,Q760,Saint Lucia
+Saint Martin,,,,,,,Saint Martin
+Saint Pierre and Miquelon,,,,,,,Saint Pierre and Miquelon
 Saint Vincent and the Grenadines,,,,,,Q757,Saint Vincent and the Grenadines
 Samoa,,,,,,Q683,Samoa
 San Marino,,,,,,Q238,San Marino
@@ -171,12 +191,15 @@ Serbia,,,,,,Q403,Serbia
 Seychelles,,,,,,Q1042,Seychelles
 Sierra Leone,,,,,,Q1044,Sierra Leone
 Singapore,,,,,,Q334,Singapore
+Sint Eustatius,,,,,,,Sint Eustatius
+Sint Maarten,,,,,,,Sint Maarten
 Slovakia,,,,,,Q214,Slovakia
 Slovenia,,,,,,Q215,Slovenia
 Solomon Islands,,,,,,Q685,Solomon Islands
 Somalia,,,,,,Q1045,Somalia
 Somaliland,,,,,,Q34754,Somaliland
 South Africa,,,,,,Q258,South Africa
+South Georgia and the South Sandwich Islands,,,,,,,South Georgia and the South Sandwich Islands
 South Korea,,,,,,Q884,South Korea
 South Ossetia,,,,,,Q23427,South Ossetia
 South Sudan,,,,,,Q958,South Sudan
@@ -203,12 +226,14 @@ Trinidad and Tobago,,,,,,Q754,Trinidad and Tobago
 Tunisia,,,,,,Q948,Tunisia
 Turkey,,,,,,Q43,Turkey
 Turkmenistan,,,,,,Q874,Turkmenistan
+Turks and Caicos Islands,,,,,,,Turks and Caicos Islands
 Tuvalu,,,,,,Q672,Tuvalu
 Uganda,,,,,,Q1036,Uganda
 Ukraine,,,,,,Q212,Ukraine
 United Arab Emirates,,,,,,Q878,United Arab Emirates
 United Kingdom,,,,,,Q145,United Kingdom
 United States,,,,,,Q30,United States
+United States Virgin Islands,,,,,,,United States Virgin Islands
 Unknown,,,,,,Q400506,Unknown
 Uruguay,,,,,,Q77,Uruguay
 Uzbekistan,,,,,,Q265,Uzbekistan
