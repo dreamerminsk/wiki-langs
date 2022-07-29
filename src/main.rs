@@ -13,11 +13,6 @@ mod tables;
 
 mod wiki;
 
-
-
-
-
-
 struct NextPlayer(usize);
 
 #[tokio::main]
