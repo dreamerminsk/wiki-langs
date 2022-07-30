@@ -16,11 +16,21 @@ impl UpdateCountries {
         let list = tables::get_all_countries("uk").ok()?;
         let filtered = list
             .into_iter()
-            .filter(|c| c.wiki_data_id.is_none())
+            .filter(|c| c.wiki_id.as_ref().unwrap().contains(&c.name))
             .take(5);
-        for c in filtered {
-            let updated = c.wiki(&self.get_wiki(c.name.as_str()).await);
-            tables::add_country("uk", &updated);
+        for mut c in filtered {
+            let updated = self.get_wiki(c.name.as_str()).await;
+            let oiw = updated
+                .inter_wikis
+                .into_iter()
+                .filter(|u| u.lang == "uk")
+                .next();
+            if oiw.is_some() {
+                let iw = oiw.unwrap();
+                c.name = iw.title.clone();
+                c.wiki_id = Some(iw.title.clone());
+                tables::add_country("uk", &c);
+            }
         }
         Some(())
     }
