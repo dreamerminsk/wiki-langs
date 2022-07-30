@@ -38,7 +38,7 @@ impl<'a> From<ElementRef<'a>> for InterWiki {
 
 fn extract_title(text: &str) -> Option<String> {
     lazy_static! {
-        static ref TITLE_RE: Regex = Regex::new(r"(?P<title>.*?) - .*?").unwrap();
+        static ref TITLE_RE: Regex = Regex::new(r"(?P<title>.*?) – .*?").unwrap();
     }
     TITLE_RE
         .captures(text)
