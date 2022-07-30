@@ -20,7 +20,7 @@ impl UpdateCountries {
             .take(5);
         for c in filtered {
             let updated = c.wiki(&self.get_wiki(c.name.as_str()).await);
-            tables::add_country("uk",&updated);
+            tables::add_country("uk", &updated);
         }
         Some(())
     }
