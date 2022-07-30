@@ -36,6 +36,7 @@ fn update_segment(segment: &str, country: &Country) -> Result<(), Box<dyn Error>
         let mut saved = false;
         for c in source_reader.deserialize() {
             let c: Country = c?;
+if c.eq(country) {   continue;}
             if saved {
                 temp_writer.serialize(c)?;
             } else {
