@@ -36,18 +36,17 @@ fn update_segment(segment: &str, country: &Country) -> Result<(), Box<dyn Error>
         let mut saved = false;
         for c in source_reader.deserialize() {
             let c: Country = c?;
+            if c.eq(&country) {
+                continue;
+            }
             if saved {
-                temp_writer.serialize(c)?;
+                temp_writer.serialize(&c)?;
             } else {
-                match c.cmp(country) {
-                    Ordering::Greater => {
+                match c.cmp(&country) {
+                    Ordering::Less => temp_writer.serialize(&c)?,
+                    _ => {
                         temp_writer.serialize(&country)?;
                         temp_writer.serialize(&c)?;
-                        saved = true;
-                    }
-                    Ordering::Less => temp_writer.serialize(&c)?,
-                    Ordering::Equal => {
-                        temp_writer.serialize(&country)?;
                         saved = true;
                     }
                 }
