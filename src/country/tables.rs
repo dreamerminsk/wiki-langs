@@ -2,7 +2,7 @@ use super::entities::Country;
 use std::{cmp::Ordering, error::Error, fs, path::Path};
 use uuid::Uuid;
 
-pub fn get_all_countries(lang:&str) -> Result<Vec<Country>, Box<dyn Error>> {
+pub fn get_all_countries(lang: &str) -> Result<Vec<Country>, Box<dyn Error>> {
     let source_name = format!("./countries/codes/{}.csv", lang);
     let mut countries = vec![];
     if Path::new(&source_name).exists() {
@@ -15,7 +15,7 @@ pub fn get_all_countries(lang:&str) -> Result<Vec<Country>, Box<dyn Error>> {
     Ok(countries)
 }
 
-pub fn add_country(lang:&str,country: &Country) -> Result<(), Box<dyn Error>> {
+pub fn add_country(lang: &str, country: &Country) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./countries/codes/")?;
     let source_name = format!("./countries/codes/{}.csv", lang);
     if Path::new(&source_name).exists() {
