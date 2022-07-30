@@ -26,7 +26,7 @@ impl UpdateCountries {
                 .filter(|u| u.lang == "uk")
                 .next();
             if oiw.is_some() {
-let iw   = oiw.unwrap();
+                let iw = oiw.unwrap();
                 c.name = iw.title.clone();
                 c.wiki_id = Some(iw.title.clone());
                 tables::add_country("uk", &c);
