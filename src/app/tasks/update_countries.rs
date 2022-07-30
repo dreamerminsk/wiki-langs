@@ -16,7 +16,7 @@ impl UpdateCountries {
         let list = tables::get_all_countries("uk").ok()?;
         let filtered = list
             .into_iter()
-            .filter(|c| c.wiki_id.unwrap().contains(c.name))
+            .filter(|c| c.wiki_id.unwrap().contains(&c.name))
             .take(5);
         for c in filtered {
             let updated = self.get_wiki(c.name.as_str()).await;
