@@ -20,7 +20,13 @@ impl UpdateCountries {
             .take(5);
         for c in filtered {
             let updated = self.get_wiki(c.name.as_str()).await;
-            //tables::add_country("uk", &updated);
+let iw = updated.inter_wikis.into_iter().filter(|u|u.lang=="uk").next();
+if iw.is_some(){
+updated.name = iw.title.clone();
+updated.wiki_id   =   Some(iw.title.clone());
+tables::add_country("uk", &updated);
+        
+}
         }
         Some(())
     }
