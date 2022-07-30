@@ -43,7 +43,7 @@ fn update_segment(segment: &str, country: &Country) -> Result<(), Box<dyn Error>
                 temp_writer.serialize(&c)?;
             } else {
                 match c.cmp(&country) {
-                    Ordering::Greater => {
+               
                        
                     Ordering::Less => temp_writer.serialize(&c)?,
                     _ => {
