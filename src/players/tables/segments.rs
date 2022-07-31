@@ -8,7 +8,7 @@ pub struct Segments {}
 
 impl Iterator for Segments{
 
-type Item   = ()
+type Item   = ();
 
        pub next(&mut self)   ->    Self::Item {
 ()
