@@ -7,7 +7,7 @@ impl Segments {
 
 
 
-pub fn new (   ) -   > Self{Segments{}}
+pub fn new (   ) -> Self{Segments{}}
 
 }
 
