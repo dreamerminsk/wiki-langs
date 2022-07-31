@@ -1,3 +1,3 @@
-mod segmemts;
+mod segments;
 
 pub use segments::Segments;
