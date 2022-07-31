@@ -1,4 +1,5 @@
 use std::{ffi::OsStr, iter::Iterator, path::PathBuf};
+use crate::players::tables::Segment;
 
 pub struct Segments {
     root: PathBuf,
