@@ -13,7 +13,13 @@ impl UpdateCountries {
     }
 
     pub async fn execute(&self) -> Option<()> {
-        let list = tables::get_all_countries("uk").ok()?;
+        self.execute_lang("uk").await?;
+        self.execute_lang("bg").await?;
+        Some(())
+    }
+
+    async fn execute_lang(&self, lang: &str) -> Option<()> {
+        let list = tables::get_all_countries(lang).ok()?;
         let filtered = list
             .into_iter()
             .filter(|c| c.wiki_id.as_ref().unwrap().contains(&c.name))
@@ -23,14 +29,14 @@ impl UpdateCountries {
             let oiw = updated
                 .inter_wikis
                 .into_iter()
-                .filter(|u| u.lang == "uk")
+                .filter(|u| u.lang == lang)
                 .next();
             if oiw.is_some() {
-                tables::remove_country("uk", &c);
+                tables::remove_country(lang, &c);
                 let iw = oiw.unwrap();
                 c.name = iw.title.clone();
                 c.wiki_id = Some(iw.title.clone());
-                tables::add_country("uk", &c);
+                tables::add_country(lang, &c);
             }
         }
         Some(())
