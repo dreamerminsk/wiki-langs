@@ -6,7 +6,7 @@ root:Path,
 }
 
 impl Segments {
-    pub fn<S:AsRef<OsStr>> new(root:&S) -> Segments {
+    pub fn   new<S:AsRef<OsStr>> (root:&S) -> Segments {
         Segments {root:Path::new(root),}
     }
 }
