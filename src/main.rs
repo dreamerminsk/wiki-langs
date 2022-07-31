@@ -11,6 +11,8 @@ mod app;
 
 mod country;
 
+mod players;
+
 mod snooker;
 
 mod tables;
