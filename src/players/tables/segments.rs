@@ -1,10 +1,13 @@
-use std::iter::Iterator;
+use std::{iter::Iterator,path::Path};
 
-pub struct Segments {}
+
+pub struct Segments {
+root:Path;
+}
 
 impl Segments {
-    pub fn new() -> Self {
-        Segments {}
+    pub fn<S:AsRef<OsStr>> new(root:&S) -> Self {
+        Segments {root:Path::new(root)}
     }
 }
 
