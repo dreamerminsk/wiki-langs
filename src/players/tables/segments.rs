@@ -5,7 +5,7 @@ pub struct Segments {
 }
 
 impl Segments {
-    pub fn new<S: AsRef<OsStr>>(path: S) -> Segments {
+    pub fn new(path: String) -> Segments {
         Segments {
             root: PathBuf::from(path),
         }
