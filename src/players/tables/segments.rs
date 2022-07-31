@@ -1,7 +1,7 @@
 use std::{ffi::OsStr, iter::Iterator, path::Path};
 
 pub struct Segments {
-    root: Path,
+    root: &Path,
 }
 
 impl Segments {
