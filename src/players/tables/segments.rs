@@ -2,12 +2,12 @@ use std::{iter::Iterator,path::Path};
 
 
 pub struct Segments {
-root:Path;
+root:Path,
 }
 
 impl Segments {
     pub fn<S:AsRef<OsStr>> new(root:&S) -> Self {
-        Segments {root:Path::new(root)}
+        Segments {root:Path::new(root),}
     }
 }
 
