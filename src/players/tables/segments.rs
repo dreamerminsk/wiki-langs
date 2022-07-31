@@ -10,7 +10,7 @@ impl Iterator for Segments{
 
 type Item   = ();
 
-       pub next(&mut self)   ->    Self::Item {
+       pub fn    next(&mut self)   ->    Self::Item {
 ()
 }
 
