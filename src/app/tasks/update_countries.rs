@@ -26,7 +26,7 @@ impl UpdateCountries {
             .take(5);
         for mut c in filtered {
             let updated = self
-                .get_wiki(c.wiki_id.unwrap_or_else(|| c.name.as_ref()).as_str())
+                .get_wiki(c.wiki_id.as_ref().unwrap_or_else(|| c.name.as_ref()))
                 .await;
             let oiw = updated
                 .inter_wikis
