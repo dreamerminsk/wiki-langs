@@ -1,13 +1,13 @@
-use std::{ffi::OsStr, iter::Iterator, path::Path};
+use std::{ffi::OsStr, iter::Iterator, path::PathBuf};
 
 pub struct Segments {
-    root: Path,
+    root: PathBuf,
 }
 
 impl Segments {
     pub fn new<S: AsRef<OsStr> + ?Sized>(path: S) -> Segments {
         Segments {
-            root: *Path::new(path),
+            root: PathBuf::from(path),
         }
     }
 }
