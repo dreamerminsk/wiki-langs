@@ -14,11 +14,11 @@ impl UpdateCountries {
 
     pub async fn execute(&self) -> Option<()> {
         self.execute_lang("uk").await?;
-self.execute_lang("bg").await?;
+        self.execute_lang("bg").await?;
         Some(())
     }
 
-async fn execute_lang(&self,    lang:&str) -> Option<()> {
+    async fn execute_lang(&self, lang: &str) -> Option<()> {
         let list = tables::get_all_countries(lang).ok()?;
         let filtered = list
             .into_iter()
@@ -41,7 +41,6 @@ async fn execute_lang(&self,    lang:&str) -> Option<()> {
         }
         Some(())
     }
-
 
     async fn get_wiki(&self, name: &str) -> Page {
         let inter_wiki = InterWiki::new("en".to_string(), name.to_string());
