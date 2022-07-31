@@ -1,1 +1,1 @@
-pub struct Segment{}
+pub struct Segment {}
