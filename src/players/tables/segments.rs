@@ -1,4 +1,4 @@
-use std::{iter::Iterator, path::Path,ffi::OsStr};
+use std::{ffi::OsStr, iter::Iterator, path::Path};
 
 pub struct Segments {
     root: Path,
