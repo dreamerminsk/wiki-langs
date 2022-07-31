@@ -13,9 +13,9 @@ impl Segments {
 }
 
 impl Iterator for Segments {
-    type Item = ();
+    type Item = Segment;
 
     fn next(&mut self) -> Option<Self::Item> {
-        Some(())
+        Some(Segment{})
     }
 }
