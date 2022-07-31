@@ -2,6 +2,15 @@ use std::iter::Iterator;
 
 pub struct Segments {}
 
+
+impl Segments {
+
+
+
+pub fn new (   ) -   > Self{Segments{}}
+
+}
+
 impl Iterator for Segments {
     type Item = ();
 
