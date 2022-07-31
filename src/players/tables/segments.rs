@@ -5,7 +5,7 @@ pub struct Segments {
 }
 
 impl Segments {
-    pub fn new<S: AsRef<OsStr>+?Sized>(root: &S) -> Segments {
+    pub fn new<S: AsRef<OsStr> + ?Sized>(root: &S) -> Segments {
         Segments {
             root: Path::new(root),
         }
