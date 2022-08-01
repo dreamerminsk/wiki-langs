@@ -20,10 +20,4 @@ impl Segments {
     }
 }
 
-impl Iterator for Segments {
-    type Item = io::Result<DirEntry>;
 
-    fn next(&mut self) -> Option<Self::Item> {
-        self.inner.next()
-    }
-}
