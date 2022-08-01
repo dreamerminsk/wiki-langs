@@ -74,5 +74,6 @@ impl UpdateReadMe {
 
     fn players(&self) -> Option<String> {
         let segs = Segments::open("./players").ok()?;
+segs.into_iter();
     }
 }
