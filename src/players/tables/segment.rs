@@ -1,6 +1,6 @@
+use crate::snooker::entities::Player;
 use csv;
 use std::{io, path::Path};
-use crate::snooker::entities::Player;
 
 pub struct Segment {
     items: Vec<Player>,
