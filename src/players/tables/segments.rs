@@ -1,7 +1,6 @@
 use crate::players::tables::Segment;
 use std::{
-    ffi::OsStr,
-    fs::{self, ReadDir},
+    fs::{self, DirEntry, ReadDir},
     io,
     iter::Iterator,
     path::Path,
@@ -18,9 +17,9 @@ impl Segments {
 }
 
 impl Iterator for Segments {
-    type Item = Segment;
+    type Item = io::Result<DirEntry>;
 
     fn next(&mut self) -> Option<Self::Item> {
-        Some(Segment {})
+        self.inner.next()
     }
 }
