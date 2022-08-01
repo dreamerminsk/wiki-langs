@@ -71,4 +71,8 @@ impl UpdateReadMe {
     fn osstr_to_year(&self, r#fn: &OsStr) -> String {
         r#fn.to_str().unwrap_or("0000").chars().take(4).collect()
     }
+
+fn players(&self) -> Option<String> {
+let segs   =    Segments::open("./players").ok()?;
+ }
 }
