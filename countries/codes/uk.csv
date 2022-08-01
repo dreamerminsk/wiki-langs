@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 Guernsey,,,,,,Q3311985,Guernsey
-Guinea,,,,,,Q1006,Guinea
-Guinea-Bissau,,,,,,Q1007,Guinea-Bissau
-Guyana,,,,,,Q734,Guyana
-Haiti,,,,,,Q790,Haiti
 Honduras,,,,,,Q783,Honduras
 Hong Kong,,,,,,Q8646,Hong Kong
 Hungary,,,,,,Q28,Hungary
@@ -197,8 +193,12 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 Вірменія,,,,,,Q399,Вірменія
 Габон,,,,,,Q1000,Габон
 Гана,,,,,,Q117,Гана
+Гаяна,,,,,,Q734,Гаяна
+Гаїті,,,,,,Q790,Гаїті
 Гваделупа,,,,,,Q17012,Гваделупа
 Гватемала,,,,,,Q774,Гватемала
+Гвінея,,,,,,Q1006,Гвінея
+Гвінея-Бісау,,,,,,Q1007,Гвінея-Бісау
 Гренада,,,,,,Q769,Гренада
 Гренландія,,,,,,Q223,Гренландія
 Греція,,,,,,Q41,Греція
