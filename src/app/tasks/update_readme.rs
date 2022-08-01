@@ -2,8 +2,9 @@ use chrono::Utc;
 use std::{
     ffi::OsStr,
     fs::{self, OpenOptions},
-    io::Write,
+    io::Write,collections::BTreeMap
 };
+use crate::players::tables::Segments;
 
 static README_PATH: &str = "./README.md";
 
@@ -74,7 +75,7 @@ impl UpdateReadMe {
 
     fn players2(&self) -> Option<String> {
         let segs = Segments::open("./players").ok()?;
-        let mut years = BTreeMap::<&str, uint>::new();
+        let mut years = BTreeMap::<&str, usize>::new();
         segs.into_iter().flat_map(|s| s.into_iter()).for_each(|p| {
             let y = p
                 .birthday
