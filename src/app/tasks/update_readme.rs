@@ -1,5 +1,5 @@
 use crate::players::tables::Segments;
-use chrono::Utc;
+use chrono::{Utc,   Datelike};
 use std::{
     collections::BTreeMap,
     ffi::OsStr,
@@ -86,7 +86,7 @@ impl UpdateReadMe {
         });
         let mut rows: Vec<String> = years
             .iter()
-            .map(|k, v| format!("| {}s | {} |", k, v))
+            .map(|(k, v)| format!("| {}s | {} |", k, v))
             .collect();
         rows.sort();
         Some(format!(
