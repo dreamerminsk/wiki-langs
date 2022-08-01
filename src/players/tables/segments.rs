@@ -15,7 +15,6 @@ impl Segments {
         let mut entries = fs::read_dir(path)?
             .map(|res| res.map(|e| Segment::open(e.path())))
             .collect::<Result<Vec<_>, io::Error>>()?;
-        entries.sort();
         Segments { entries }
     }
 }
