@@ -80,9 +80,7 @@ impl UpdateReadMe {
                 .birthday
                 .map(|bd| bd.year().to_string())
                 .unwrap_or_else(|| "0000".to_string());
-years.entry(y.as_str())
-   .and_modify(|e| { *e += 1 })
-   .or_insert(1);
+            years.entry(y.as_str()).and_modify(|e| *e += 1).or_insert(1);
         });
     }
 }
