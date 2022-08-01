@@ -1,6 +1,6 @@
 use crate::players::tables::Segment;
 use std::{
-    fs::{self, ReadDir,DirEntry},
+    fs::{self, DirEntry, ReadDir},
     io,
     iter::Iterator,
     path::Path,
