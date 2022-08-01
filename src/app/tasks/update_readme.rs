@@ -76,13 +76,13 @@ impl UpdateReadMe {
 
     fn players2(&self) -> Option<String> {
         let segs = Segments::open("./players").ok()?;
-        let mut years = BTreeMap::<&str, usize>::new();
+        let mut years = BTreeMap::<String, usize>::new();
         segs.into_iter().flat_map(|s| s.into_iter()).for_each(|p| {
             let y = p
                 .birthday
                 .map(|bd| bd.year().to_string())
                 .unwrap_or_else(|| "0000".to_string());
-            years.entry(y.as_str()).and_modify(|e| *e += 1).or_insert(1);
+            years.entry(y).and_modify(|e| *e += 1).or_insert(1);
         });
         let mut rows: Vec<String> = years
             .iter()
