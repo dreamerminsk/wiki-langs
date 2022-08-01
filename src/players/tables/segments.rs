@@ -7,13 +7,16 @@ use std::{
 };
 
 pub struct Segments {
-    inner: ReadDir,
+    entries: Vec<&Path>,
 }
 
 impl Segments {
     pub fn open<P: AsRef<Path>>(path: P) -> io::Result<Segments> {
-        let read_dir = fs::read_dir(path)?;
-        let paths = read_dir.into_iter().map(|rd| rd.path()).collect();
+        let mut entries = fs::read_dir(path)?
+        .map(|res| res.map(|e| e.path()))
+        .collect::<Result<Vec<_>, io::Error>>()?;
+    entries.sort();
+Segments{entries,}
     }
 }
 
