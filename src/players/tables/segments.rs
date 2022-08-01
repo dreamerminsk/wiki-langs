@@ -19,5 +19,3 @@ impl Segments {
         Segments { entries }
     }
 }
-
-
