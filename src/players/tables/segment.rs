@@ -3,7 +3,7 @@ use csv;
 use std::{io, path::Path};
 
 pub struct Segment {
-    items: Vec<&Player>,
+    items: Vec<Player>,
 }
 
 impl Segment {
@@ -13,7 +13,7 @@ impl Segment {
             let mut source_reader = csv::Reader::from_path(&path)?;
             for p in source_reader.deserialize() {
                 let p: Player = p?;
-                items.push(&p);
+                items.push(p);
             }
         }
         Ok(Segment { items })
