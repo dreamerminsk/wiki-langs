@@ -1,5 +1,5 @@
 use crate::players::tables::Segments;
-use chrono::{Utc,   Datelike};
+use chrono::{Datelike, Utc};
 use std::{
     collections::BTreeMap,
     ffi::OsStr,
