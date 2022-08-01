@@ -1,5 +1,11 @@
 use crate::players::tables::Segment;
-use std::{ffi::OsStr, fs::{self,ReadDir}, io, iter::Iterator, path::Path};
+use std::{
+    ffi::OsStr,
+    fs::{self, ReadDir},
+    io,
+    iter::Iterator,
+    path::Path,
+};
 
 pub struct Segments {
     inner: ReadDir,
