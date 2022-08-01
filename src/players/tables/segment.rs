@@ -19,3 +19,12 @@ impl Segment {
         Ok(Segment { items })
     }
 }
+
+impl IntoIterator for Segment {
+    type Item = Player;
+    type IntoIter = std::vec::IntoIter<Self::Item>;
+
+    fn into_iter(self) -> Self::IntoIter {
+        self.items.into_iter()
+    }
+}

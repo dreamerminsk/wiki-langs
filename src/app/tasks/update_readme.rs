@@ -1,5 +1,7 @@
-use chrono::Utc;
+use crate::players::tables::Segments;
+use chrono::{Datelike, Utc};
 use std::{
+    collections::BTreeMap,
     ffi::OsStr,
     fs::{self, OpenOptions},
     io::Write,
@@ -37,7 +39,7 @@ impl UpdateReadMe {
         format!(
             "{}\r\n{}\r\n",
             self.shields().unwrap_or_else(|| "".to_string()),
-            self.players().unwrap_or_else(|| "".to_string())
+            self.players2().unwrap_or_else(|| "".to_string())
         )
     }
 
@@ -70,5 +72,28 @@ impl UpdateReadMe {
 
     fn osstr_to_year(&self, r#fn: &OsStr) -> String {
         r#fn.to_str().unwrap_or("0000").chars().take(4).collect()
+    }
+
+    fn players2(&self) -> Option<String> {
+        let segs = Segments::open("./players").ok()?;
+        let mut years = BTreeMap::<String, usize>::new();
+        segs.into_iter().flat_map(|s| s.into_iter()).for_each(|p| {
+            let y = p
+                .birthday
+                .map(|bd| bd.year().to_string())
+                .unwrap_or_else(|| "0000".to_string());
+            years.entry(y).and_modify(|e| *e += 1).or_insert(1);
+        });
+        let mut rows: Vec<String> = years
+            .iter()
+            .map(|(k, v)| format!("| {}s | {} |", k, v))
+            .collect();
+        rows.sort();
+        Some(format!(
+            "## players\r\n<sup>last modified: {}</sup>\r\n{}\r\n{}\r\n",
+            Utc::now().to_rfc2822(),
+            PLAYERS_HEADER,
+            rows.join("\r\n")
+        ))
     }
 }
