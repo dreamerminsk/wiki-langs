@@ -18,3 +18,20 @@ impl Segments {
         Ok(Segments { entries })
     }
 }
+
+
+
+
+
+
+
+
+
+impl IntoIterator for Segments {
+    type Item = Segment;
+    type IntoIter = std::vec::IntoIter<Self::Item>;
+
+    fn into_iter(self) -> Self::IntoIter {
+        self.entries.into_iter()
+    }
+}
