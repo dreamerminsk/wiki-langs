@@ -13,10 +13,10 @@ pub struct Segments {
 impl Segments {
     pub fn open<P: AsRef<Path>>(path: P) -> io::Result<Segments> {
         let mut entries = fs::read_dir(path)?
-        .map(|res| res.map(|e| e.path()))
-        .collect::<Result<Vec<_>, io::Error>>()?;
-    entries.sort();
-Segments{entries,}
+            .map(|res| res.map(|e| e.path()))
+            .collect::<Result<Vec<_>, io::Error>>()?;
+        entries.sort();
+        Segments { entries }
     }
 }
 
