@@ -19,14 +19,6 @@ impl Segments {
     }
 }
 
-
-
-
-
-
-
-
-
 impl IntoIterator for Segments {
     type Item = Segment;
     type IntoIter = std::vec::IntoIter<Self::Item>;
