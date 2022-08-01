@@ -7,7 +7,7 @@ use std::{
 };
 
 pub struct Segments {
-    entries: Vec<&Path>,
+    entries: Vec<Segment>,
 }
 
 impl Segments {
