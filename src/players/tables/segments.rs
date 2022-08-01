@@ -12,7 +12,8 @@ pub struct Segments {
 
 impl Segments {
     pub fn open<P: AsRef<Path>>(path: P) -> io::Result<Segments> {
-        fs::read_dir(path).map(|rd| Segments { inner: rd })
+        let read_dir    =           fs::read_dir(path)?;
+let paths=read_dir.into_iter().map(|rd|rd.path()).collect();
     }
 }
 
