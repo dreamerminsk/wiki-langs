@@ -1,10 +1,11 @@
+use crate::players::tables::Segments;
 use chrono::Utc;
 use std::{
+    collections::BTreeMap,
     ffi::OsStr,
     fs::{self, OpenOptions},
-    io::Write,collections::BTreeMap
+    io::Write,
 };
-use crate::players::tables::Segments;
 
 static README_PATH: &str = "./README.md";
 
