@@ -80,7 +80,7 @@ impl UpdateReadMe {
         segs.into_iter().flat_map(|s| s.into_iter()).for_each(|p| {
             let y = p
                 .birthday
-                .map(|bd| bd.year().to_string())
+                .map(|bd| (10*(bd.year()/10)).to_string())
                 .unwrap_or_else(|| "0000".to_string());
             years.entry(y).and_modify(|e| *e += 1).or_insert(1);
         });
