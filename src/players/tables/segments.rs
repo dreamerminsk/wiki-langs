@@ -1,15 +1,19 @@
 use crate::players::tables::Segment;
-use std::{ffi::OsStr, iter::Iterator, path::PathBuf};
+use std::{
+    ffi::OsStr,
+    fs::{self, ReadDir},
+    io,
+    iter::Iterator,
+    path::Path,
+};
 
 pub struct Segments {
-    root: PathBuf,
+    inner: ReadDir,
 }
 
 impl Segments {
-    pub fn new(path: String) -> Segments {
-        Segments {
-            root: PathBuf::from(path),
-        }
+    pub fn open<P: AsRef<Path>>(path: P) -> io::Result<Segments> {
+        fs::read_dir(path).map(|rd| Segments { inner: rd })
     }
 }
 
