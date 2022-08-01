@@ -82,8 +82,11 @@ impl UpdateReadMe {
                 .unwrap_or_else(|| "0000".to_string());
             years.entry(y.as_str()).and_modify(|e| *e += 1).or_insert(1);
         });
-let mut rows:Vec<String> = years.iter().map(|k,v|{format!("| {}s | {} |",k,v)}).collect();
-rows.sort();
+        let mut rows: Vec<String> = years
+            .iter()
+            .map(|k, v| format!("| {}s | {} |", k, v))
+            .collect();
+        rows.sort();
         Some(format!(
             "## players\r\n<sup>last modified: {}</sup>\r\n{}\r\n{}\r\n",
             Utc::now().to_rfc2822(),
