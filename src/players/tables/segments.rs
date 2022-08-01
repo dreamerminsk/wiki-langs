@@ -15,6 +15,6 @@ impl Segments {
         let mut entries = fs::read_dir(path)?
             .map(|res| res.and_then(|e| Segment::open(e.path())))
             .collect::<Result<Vec<_>, io::Error>>()?;
-        Segments { entries }
+        Ok(Segments { entries })
     }
 }
