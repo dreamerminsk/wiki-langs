@@ -74,6 +74,6 @@ impl UpdateReadMe {
 
     fn players(&self) -> Option<String> {
         let segs = Segments::open("./players").ok()?;
-        segs.into_iter();
+        segs.into_iter().flat_map(|s|s.into_iter());
     }
 }
