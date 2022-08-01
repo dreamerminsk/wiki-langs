@@ -37,7 +37,7 @@ impl UpdateReadMe {
         format!(
             "{}\r\n{}\r\n",
             self.shields().unwrap_or_else(|| "".to_string()),
-            self.players().unwrap_or_else(|| "".to_string())
+            self.players2().unwrap_or_else(|| "".to_string())
         )
     }
 
@@ -72,7 +72,7 @@ impl UpdateReadMe {
         r#fn.to_str().unwrap_or("0000").chars().take(4).collect()
     }
 
-    fn players(&self) -> Option<String> {
+    fn players2(&self) -> Option<String> {
         let segs = Segments::open("./players").ok()?;
         let mut years = BTreeMap::<&str, uint>::new();
         segs.into_iter().flat_map(|s| s.into_iter()).for_each(|p| {
