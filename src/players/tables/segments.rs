@@ -7,19 +7,14 @@ use std::{
 };
 
 pub struct Segments {
-    inner: ReadDir,
+    entries: Vec<Segment>,
 }
 
 impl Segments {
     pub fn open<P: AsRef<Path>>(path: P) -> io::Result<Segments> {
-        fs::read_dir(path).map(|rd| Segments { inner: rd })
-    }
-}
-
-impl Iterator for Segments {
-    type Item = io::Result<DirEntry>;
-
-    fn next(&mut self) -> Option<Self::Item> {
-        self.inner.next()
+        let mut entries = fs::read_dir(path)?
+            .map(|res| res.and_then(|e| Segment::open(e.path())))
+            .collect::<Result<Vec<_>, io::Error>>()?;
+        Ok(Segments { entries })
     }
 }
