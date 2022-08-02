@@ -70,7 +70,19 @@ impl UpdateReadMe {
             .map(|(k, v)| format!("| {}s | {} |", k, v))
             .collect();
         rows.sort();
-        let mut brows: Vec<String> = births
+        
+        Some(format!(
+            "## players\r\n<sup>last modified: {}</sup>\r\n{}\r\n{}\r\n\r\n{}\r\n",
+            Utc::now().to_rfc2822(),
+            PLAYERS_HEADER,rows.join("\r\n"),self.births(births),
+        ))
+    }
+
+
+
+fn births(&self,players:&BTreeSet<Player>)->String{
+let now = Utc::now();
+let mut brows: Vec<String> = players
             .iter()
             .map(|v| {
                 format!(
@@ -81,12 +93,11 @@ impl UpdateReadMe {
                 )
             })
             .collect();
-        brows.sort();
-        Some(format!(
-            "## players\r\n<sup>last modified: {}</sup>\r\n{}\r\n{}\r\n\r\n##  born on {}\r\n{}\r\n",
-            Utc::now().to_rfc2822(),
-            PLAYERS_HEADER,rows.join("\r\n"),now.format("%B %e").to_string(),
+brows.sort();
+Some(format!(
+            "##  born on {}\r\n{}\r\n",
+           now.format("%B %e").to_string(),
             brows.join("\r\n")
         ))
-    }
+}
 }
