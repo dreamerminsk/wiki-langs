@@ -70,11 +70,16 @@ impl UpdateReadMe {
             .map(|(k, v)| format!("| {}s | {} |", k, v))
             .collect();
         rows.sort();
+let mut brows: Vec<String> = births
+            .iter()
+            .map(| v| format!("{} {}", v.full_name,now.year()-v.birthday.unwrap().year()))
+            .collect();
         Some(format!(
-            "## players\r\n<sup>last modified: {}</sup>\r\n{}\r\n{}\r\n",
+            "## players\r\n<sup>last modified: {}</sup>\r\n{}\r\n{}\r\n##today birth\r\n{}\r\n",
             Utc::now().to_rfc2822(),
             PLAYERS_HEADER,
-            rows.join("\r\n")
+            rows.join("\r\n"),
+brows.join("\r\n")
         ))
     }
 }
