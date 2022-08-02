@@ -2,7 +2,7 @@ use crate::players::tables::Segments;
 use crate::snooker::entities::Player;
 use chrono::{Datelike, Utc};
 use std::{
-    collections::{BTreeMap,BTreeSet},
+    collections::{BTreeMap, BTreeSet},
     fs::{self, OpenOptions},
     io::Write,
 };
