@@ -94,7 +94,7 @@ impl UpdateReadMe {
             })
             .collect();
         brows.sort();
-      format!(
+        format!(
             "##  born on {}\r\n{}\r\n",
             now.format("%B %e").to_string(),
             brows.join("\r\n")
