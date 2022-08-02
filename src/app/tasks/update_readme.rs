@@ -56,7 +56,7 @@ impl UpdateReadMe {
             if p.birthday.is_some() {
                 let bd = p.birthday.unwrap();
                 if bd.month().eq(&now.month()) && bd.day().eq(&now.day()) {
-                    births.insert(p);
+                    births.insert(&p);
                 }
             }
             let y = p
