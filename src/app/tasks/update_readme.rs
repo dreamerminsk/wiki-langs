@@ -47,9 +47,6 @@ impl UpdateReadMe {
         fs::read_to_string(SHIELDS_PATH).ok()
     }
 
-    
-
-
     fn players(&self) -> Option<String> {
         let segs = Segments::open("./players").ok()?;
         let mut years = BTreeMap::<String, usize>::new();
