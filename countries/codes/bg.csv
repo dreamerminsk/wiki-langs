@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 Guernsey,,,,,,Q3311985,Guernsey
-Indonesia,,,,,,Q252,Indonesia
-Iran,,,,,,Q794,Iran
-Iraq,,,,,,Q796,Iraq
-Ireland,,,,,,Q27,Republic of Ireland
 Isle of Man,,,,,,Q9676,Isle of Man
 Israel,,,,,,Q801,Israel
 Italy,,,,,,Q38,Italy
@@ -212,6 +208,10 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 Етиопия,,,,,,Q115,Етиопия
 Източен Тимор,,,,,,Q574,Източен Тимор
 Индия,,,,,,Q668,Индия
+Индонезия,,,,,,Q252,Индонезия
+Ирак,,,,,,Q796,Ирак
+Иран,,,,,,Q794,Иран
+Ирландия,,,,,,Q27,Ирландия
 Исландия,,,,,,Q189,Исландия
 Кабо Верде,,,,,,Q1011,Кабо Верде
 Кайманови острови,,,,,,Q5785,Кайманови острови
