@@ -75,7 +75,7 @@ impl UpdateReadMe {
             .map(|v| {
                 format!(
                                     "{}, {}, {} y. o.",
-                v.birthday.unwrap().year()
+                v.birthday.unwrap().year(),
                                     v.full_name,
                                     now.year() - v.birthday.unwrap().year()
                                 )
