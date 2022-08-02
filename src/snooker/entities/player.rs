@@ -5,7 +5,7 @@ use std::{
     hash::{Hash, Hasher},
 };
 
-#[derive(Debug, Serialize, Deserialize,Clone)]
+#[derive(Debug, Serialize, Deserialize, Clone)]
 pub struct Player {
     pub full_name: String,
     pub nation: String,
