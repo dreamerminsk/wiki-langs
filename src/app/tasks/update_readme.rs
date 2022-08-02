@@ -70,19 +70,19 @@ impl UpdateReadMe {
             .map(|(k, v)| format!("| {}s | {} |", k, v))
             .collect();
         rows.sort();
-        
+
         Some(format!(
             "## players\r\n<sup>last modified: {}</sup>\r\n{}\r\n{}\r\n\r\n{}\r\n",
             Utc::now().to_rfc2822(),
-            PLAYERS_HEADER,rows.join("\r\n"),self.births(births),
+            PLAYERS_HEADER,
+            rows.join("\r\n"),
+            self.births(births),
         ))
     }
 
-
-
-fn births(&self,players:&BTreeSet<Player>)->String{
-let now = Utc::now();
-let mut brows: Vec<String> = players
+    fn births(&self, players: &BTreeSet<Player>) -> String {
+        let now = Utc::now();
+        let mut brows: Vec<String> = players
             .iter()
             .map(|v| {
                 format!(
@@ -93,11 +93,11 @@ let mut brows: Vec<String> = players
                 )
             })
             .collect();
-brows.sort();
-Some(format!(
+        brows.sort();
+        Some(format!(
             "##  born on {}\r\n{}\r\n",
-           now.format("%B %e").to_string(),
+            now.format("%B %e").to_string(),
             brows.join("\r\n")
         ))
-}
+    }
 }
