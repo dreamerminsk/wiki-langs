@@ -74,11 +74,11 @@ impl UpdateReadMe {
             .iter()
             .map(|v| {
                 format!(
-                    "{}, {}, {} y. o.",
-v.birthday.unwrap().year()
-                    v.full_name,
-                    now.year() - v.birthday.unwrap().year()
-                )
+                                    "{}, {}, {} y. o.",
+                v.birthday.unwrap().year()
+                                    v.full_name,
+                                    now.year() - v.birthday.unwrap().year()
+                                )
             })
             .collect();
         Some(format!(
