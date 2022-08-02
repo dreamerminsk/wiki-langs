@@ -81,12 +81,11 @@ impl UpdateReadMe {
                 )
             })
             .collect();
+        brows.sort();
         Some(format!(
             "## players\r\n<sup>last modified: {}</sup>\r\n{}\r\n{}\r\n\r\n##  born on {}\r\n{}\r\n",
             Utc::now().to_rfc2822(),
-            PLAYERS_HEADER,
-            rows.join("\r\n"),
-now.format("%B %e").to_string(),
+            PLAYERS_HEADER,rows.join("\r\n"),now.format("%B %e").to_string(),
             brows.join("\r\n")
         ))
     }
