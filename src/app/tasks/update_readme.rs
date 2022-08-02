@@ -50,7 +50,7 @@ impl UpdateReadMe {
     fn players(&self) -> Option<String> {
         let segs = Segments::open("./players").ok()?;
         let mut years = BTreeMap::<String, usize>::new();
-        let mut births = BTreeSet::<Player>::new();
+        let mut births = BTreeSet::<&Player>::new();
         let now = Utc::now();
         segs.into_iter().flat_map(|s| s.into_iter()).for_each(|p| {
             if p.birthday.is_some() {
