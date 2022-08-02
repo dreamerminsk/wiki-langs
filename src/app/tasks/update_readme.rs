@@ -81,6 +81,7 @@ impl UpdateReadMe {
                 )
             })
             .collect();
+brows.sort();
         Some(format!(
             "## players\r\n<sup>last modified: {}</sup>\r\n{}\r\n{}\r\n\r\n##  born on {}\r\n{}\r\n",
             Utc::now().to_rfc2822(),
