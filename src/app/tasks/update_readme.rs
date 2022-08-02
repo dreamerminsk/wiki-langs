@@ -1,8 +1,8 @@
 use crate::players::tables::Segments;
+use crate::snooker::entities::Player;
 use chrono::{Datelike, Utc};
 use std::{
-    collections::BTreeMap,
-    ffi::OsStr,
+    collections::{BTreeMap, BTreeSet},
     fs::{self, OpenOptions},
     io::Write,
 };
@@ -50,7 +50,15 @@ impl UpdateReadMe {
     fn players(&self) -> Option<String> {
         let segs = Segments::open("./players").ok()?;
         let mut years = BTreeMap::<String, usize>::new();
+        let mut births = BTreeSet::<Player>::new();
+        let now = Utc::now();
         segs.into_iter().flat_map(|s| s.into_iter()).for_each(|p| {
+            if p.birthday.is_some() {
+                let bd = p.birthday.unwrap();
+                if bd.month().eq(&now.month()) && bd.day().eq(&now.day()) {
+                    births.insert(p.clone());
+                }
+            }
             let y = p
                 .birthday
                 .map(|bd| (10 * (bd.year() / 10)).to_string())
