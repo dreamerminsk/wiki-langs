@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 Guernsey,,,,,,Q3311985,Guernsey
-Liechtenstein,,,,,,Q347,Liechtenstein
-Lithuania,,,,,,Q37,Lithuania
-Luxembourg,,,,,,Q32,Luxembourg
-Macau,,,,,,Q14773,Macau
 Madagascar,,,,,,Q1019,Madagascar
 Malawi,,,,,,Q1020,Malawi
 Malaysia,,,,,,Q833,Malaysia
@@ -223,6 +219,10 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 Либерия,,,,,,Q1014,Либерия
 Либия,,,,,,Q1016,Либия
 Ливан,,,,,,Q822,Ливан
+Литва,,,,,,Q37,Литва
+Лихтенщайн,,,,,,Q347,Лихтенщайн
+Люксембург,,,,,,Q32,Люксембург
+Макао,,,,,,Q14773,Макао
 Ман (остров),,,,,,Q9676,Ман (остров)
 Микронезия (държава),,,,,,Q702,Микронезия (държава)
 Нагорно-Карабахска република,,,,,,Q244165,Нагорно-Карабахска република
