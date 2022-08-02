@@ -76,7 +76,7 @@ impl UpdateReadMe {
             Utc::now().to_rfc2822(),
             PLAYERS_HEADER,
             rows.join("\r\n"),
-            self.births(births),
+            self.births(&births),
         ))
     }
 
@@ -94,10 +94,10 @@ impl UpdateReadMe {
             })
             .collect();
         brows.sort();
-        Some(format!(
+      format!(
             "##  born on {}\r\n{}\r\n",
             now.format("%B %e").to_string(),
             brows.join("\r\n")
-        ))
+        )
     }
 }
