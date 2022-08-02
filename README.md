@@ -10,16 +10,18 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Tue, 02 Aug 2022 12:19:21 +0000</sup>
+<sup>last modified: Tue, 02 Aug 2022 14:08:41 +0000</sup>
 | births | players |
 | :----: | ------: |
 | -262140s | 366 |
-| 0000s | 811 |
+| 0000s | 817 |
 | 1940s | 5 |
 | 1950s | 6 |
 | 1960s | 26 |
 | 1970s | 79 |
-| 1980s | 108 |
+| 1980s | 109 |
 | 1990s | 92 |
 | 2000s | 4 |
+##today birth
+Keith Keldie 41
 
