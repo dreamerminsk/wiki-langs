@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-Abkhazia,,,,,,Q23334,Abkhazia
-Afghanistan,004,AF,AFG,AFG,AFG,Q889,Afghanistan
-Akrotiri and Dhekelia,,,,,,Q37362,Akrotiri and Dhekelia
-Albania,,,,,,Q222,Albania
-Algeria,,,,,,Q262,Algeria
 Andorra,,,,,,Q228,Andorra
 Angola,,,,,,Q916,Angola
 Anguilla,,,,,,Q25228,Anguilla
@@ -246,3 +241,8 @@ Yemen,,,,,,Q805,Yemen
 Zambia,,,,,,Q953,Zambia
 Zimbabwe,,,,,,Q954,Zimbabwe
 Åland,,,,,,Q5689,Åland
+アクロティリおよびデケリア,,,,,,Q37362,アクロティリおよびデケリア
+アフガニスタン,004,AF,AFG,AFG,AFG,Q889,アフガニスタン
+アブハジア,,,,,,Q23334,アブハジア
+アルジェリア,,,,,,Q262,アルジェリア
+アルバニア,,,,,,Q222,アルバニア
