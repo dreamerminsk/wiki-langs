@@ -84,11 +84,7 @@ impl UpdateReadMe {
         let mut brows: Vec<String> = players
             .iter()
             .map(|v| {
-                format!("{}, {}, {} y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player={})</sup><sub>\r\n",
-v.birthday.unwrap().year(),
-v.full_name,
-now.year() - v.birthday.unwrap().year(),
-v.snooker_id,)
+                self.birth_row(&v)
             })
             .collect();
         brows.sort();
@@ -98,4 +94,18 @@ v.snooker_id,)
             brows.join("\r\n")
         )
     }
+
+
+
+
+
+fn birth_row(&self,player:&Player)->String{
+let snooker_link = format!("<sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player={})</sup><sub>",player.snooker_id);
+format!("{}, {}, {} y. o. {}\r\n",
+v.birthday.unwrap().year(),
+v.full_name,
+now.year() - v.birthday.unwrap().year(),
+snooker_link,)
+
+}
 }
