@@ -10,10 +10,10 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Wed, 03 Aug 2022 22:08:36 +0000</sup>
+<sup>last modified: Thu, 04 Aug 2022 00:46:02 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 1253 |
+| 0000s | 1260 |
 | 1940s | 5 |
 | 1950s | 6 |
 | 1960s | 27 |
@@ -22,7 +22,10 @@
 | 1990s | 93 |
 | 2000s | 4 |
 
-##  born on August  3
-
+##  born on August  4
+1971, Jimmy Michie, 51 y. o.
+1972, Joe Delaney, 50 y. o.
+1975, Joe Meara, 47 y. o.
+1994, Elliot Slessor, 28 y. o.
 
 
