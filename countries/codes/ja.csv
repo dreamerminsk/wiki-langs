@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-Czech Republic,,,,,,Q213,Czech Republic
-Democratic Republic of the Congo,,,,,,Q974,Democratic Republic of the Congo
-Denmark,,,,,,Q35,Denmark
-Djibouti,,,,,,Q977,Djibouti
-Dominica,,,,,,Q784,Dominica
 Dominican Republic,,,,,,Q786,Dominican Republic
 East Timor,,,,,,Q574,East Timor
 Ecuador,,,,,,Q736,Ecuador
@@ -224,8 +219,13 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 コスタリカ,,,,,,Q800,コスタリカ
 コモロ,,,,,,Q970,コモロ
 コロンビア,,,,,,Q739,コロンビア
+コンゴ民主共和国,,,,,,Q974,コンゴ民主共和国
+ジブチ,,,,,,Q977,ジブチ
+チェコ,,,,,,Q213,チェコ
 チャド,,,,,,Q657,チャド
 チリ,,,,,,Q298,チリ
+デンマーク,,,,,,Q35,デンマーク
+ドミニカ国,,,,,,Q784,ドミニカ国
 バミューダ諸島,,,,,,Q23635,バミューダ諸島
 バルバドス,,,,,,Q244,バルバドス
 バングラデシュ,,,,,,Q902,バングラデシュ
