@@ -85,12 +85,7 @@ impl UpdateReadMe {
         let mut brows: Vec<String> = players
             .iter()
             .map(|v| {
-                format!(
-                    "{}, {}, {} y. o.<sup>(snooker)[http://www.snooker.org/res/index.asp?player={}]</sup>\r\n",
-                    v.birthday.unwrap().year(),
-                    v.full_name,
-                    now.year() - v.birthday.unwrap().year(),
-v.snooker_id,
+                format!("{}, {}, {} y. o. <sub><sup>(Snooker)[http://www.snooker.org/res/index.asp?player={}]</sup><sub>\r\n",v.birthday.unwrap().year(),v.full_name,now.year() - v.birthday.unwrap().year(),v.snooker_id,
                 )
             })
             .collect();
