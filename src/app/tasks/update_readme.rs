@@ -98,7 +98,7 @@ impl UpdateReadMe {
             "{}, {}, {} y. o. {}\r\n",
             player.birthday.unwrap().year(),
             player.full_name,
-            Utc::now().year() - v.birthday.unwrap().year(),
+            Utc::now().year()    -   player.birthday.unwrap().year(),
             snooker_link,
         )
     }
