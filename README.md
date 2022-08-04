@@ -10,22 +10,26 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Thu, 04 Aug 2022 14:07:31 +0000</sup>
+<sup>last modified: Thu, 04 Aug 2022 16:11:26 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 1290 |
+| 0000s | 1294 |
 | 1940s | 5 |
 | 1950s | 6 |
-| 1960s | 28 |
+| 1960s | 30 |
 | 1970s | 83 |
 | 1980s | 110 |
 | 1990s | 94 |
 | 2000s | 4 |
 
 ##  born on August  4
-- 1971, Jimmy Michie, 51 y. o.
-- 1972, Joe Delaney, 50 y. o.
-- 1975, Joe Meara, 47 y. o.
-- 1994, Elliot Slessor, 28 y. o.
+1971, Jimmy Michie, 51 y. o.<sup>(snooker)[http://www.snooker.org/res/index.asp?player=36]</sup>
+
+1972, Joe Delaney, 50 y. o.<sup>(snooker)[http://www.snooker.org/res/index.asp?player=194]</sup>
+
+1975, Joe Meara, 47 y. o.<sup>(snooker)[http://www.snooker.org/res/index.asp?player=591]</sup>
+
+1994, Elliot Slessor, 28 y. o.<sup>(snooker)[http://www.snooker.org/res/index.asp?player=608]</sup>
+
 
 
