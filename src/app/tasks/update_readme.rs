@@ -81,12 +81,7 @@ impl UpdateReadMe {
 
     fn births(&self, players: &BTreeSet<Player>) -> String {
         let now = Utc::now();
-        let mut brows: Vec<String> = players
-            .iter()
-            .map(|v| {
-                self.birth_row(&v)
-            })
-            .collect();
+        let mut brows: Vec<String> = players.iter().map(|v| self.birth_row(&v)).collect();
         brows.sort();
         format!(
             "##  born on {}\r\n{}\r\n",
@@ -95,17 +90,17 @@ impl UpdateReadMe {
         )
     }
 
-
-
-
-
-fn birth_row(&self,player:&Player)->String{
-let snooker_link = format!("<sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player={})</sup><sub>",player.snooker_id);
-format!("{}, {}, {} y. o. {}\r\n",
-v.birthday.unwrap().year(),
-v.full_name,
-now.year() - v.birthday.unwrap().year(),
-snooker_link,)
-
-}
+    fn birth_row(&self, player: &Player) -> String {
+        let snooker_link = format!(
+            "<sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player={})</sup><sub>",
+            player.snooker_id
+        );
+        format!(
+            "{}, {}, {} y. o. {}\r\n",
+            v.birthday.unwrap().year(),
+            v.full_name,
+            now.year() - v.birthday.unwrap().year(),
+            snooker_link,
+        )
+    }
 }
