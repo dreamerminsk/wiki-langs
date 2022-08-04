@@ -86,17 +86,18 @@ impl UpdateReadMe {
             .iter()
             .map(|v| {
                 format!(
-                    "- {}, {}, {} y. o.",
+                    "{}, {}, {} y. o.<sup>(snooker)[http://www.snooker.org/res/index.asp?player={}]</sup>\r\n",
                     v.birthday.unwrap().year(),
                     v.full_name,
-                    now.year() - v.birthday.unwrap().year()
+                    now.year() - v.birthday.unwrap().year(),
+v.snooker_id,
                 )
             })
             .collect();
         brows.sort();
         format!(
             "##  born on {}\r\n{}\r\n",
-            now.format("%B %e").to_string(),
+            now.format("%B %e"),
             brows.join("\r\n")
         )
     }
