@@ -23,13 +23,13 @@
 | 2000s | 4 |
 
 ##  born on August  4
-1971, Jimmy Michie, 51 y. o. <sub><sup>(Snooker)[http://www.snooker.org/res/index.asp?player=36]</sup><sub>
+1971, Jimmy Michie, 51 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=36)</sup><sub>
 
-1972, Joe Delaney, 50 y. o. <sub><sup>(Snooker)[http://www.snooker.org/res/index.asp?player=194]</sup><sub>
+1972, Joe Delaney, 50 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=194)</sup><sub>
 
-1975, Joe Meara, 47 y. o. <sub><sup>(Snooker)[http://www.snooker.org/res/index.asp?player=591]</sup><sub>
+1975, Joe Meara, 47 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=591)</sup><sub>
 
-1994, Elliot Slessor, 28 y. o. <sub><sup>(Snooker)[http://www.snooker.org/res/index.asp?player=608]</sup><sub>
+1994, Elliot Slessor, 28 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=608)</sup><sub>
 
 
 
