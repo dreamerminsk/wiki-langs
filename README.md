@@ -10,26 +10,22 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Thu, 04 Aug 2022 22:08:09 +0000</sup>
+<sup>last modified: Fri, 05 Aug 2022 00:48:35 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 1302 |
+| 0000s | 1307 |
 | 1940s | 5 |
 | 1950s | 6 |
 | 1960s | 30 |
 | 1970s | 84 |
-| 1980s | 112 |
+| 1980s | 113 |
 | 1990s | 94 |
 | 2000s | 4 |
 
-##  born on August  4
-1971, Jimmy Michie, 51 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=36)</sup><sub>
+##  born on August  5
+1990, Hu Hao, 32 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1102)</sup><sub>
 
-1972, Joe Delaney, 50 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=194)</sup><sub>
-
-1975, Joe Meara, 47 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=591)</sup><sub>
-
-1994, Elliot Slessor, 28 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=608)</sup><sub>
+1997, Wang Yuchen, 25 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=954)</sup><sub>
 
 
 
