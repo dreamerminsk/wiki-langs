@@ -23,7 +23,7 @@
 | 2000s | 4 |
 
 ##  born on August  5
-1990, Hu Hao, 32 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1102),[CueTracker](http://cuetracker.net/Players/hu-hao/)</sup></sub>
+1990, Hu Hao, 32 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1102), [CueTracker](http://cuetracker.net/Players/hu-hao/)</sup></sub>
 
 1997, Wang Yuchen, 25 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=954)</sup></sub>
 
