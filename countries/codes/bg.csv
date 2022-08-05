@@ -2,9 +2,6 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 Guernsey,,,,,,Q3311985,Guernsey
 Saint Barthelemy,,,,,,Q25362,Saint Barthélemy
 Saint Martin,,,,,,Q126125,Saint Martin
-United Arab Emirates,,,,,,Q878,United Arab Emirates
-United Kingdom,,,,,,Q145,United Kingdom
-United States,,,,,,Q30,United States
 United States Virgin Islands,,,,,,Q11703,United States Virgin Islands
 Unknown,,,,,,Q400506,Unknown
 Uruguay,,,,,,Q77,Uruguay
@@ -155,6 +152,8 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 Никарагуа,,,,,,Q811,Никарагуа
 Нова Зеландия,,,,,,Q664,Нова Зеландия
 Норвегия,,,,,,Q20,Норвегия
+Обединени арабски емирства,,,,,,Q878,Обединени арабски емирства
+Обединено кралство Великобритания и Северна Ирландия,,,,,,Q145,Обединено кралство Великобритания и Северна Ирландия
 Оман,,,,,,Q842,Оман
 Пакистан,,,,,,Q843,Пакистан
 Палау,,,,,,Q695,Палау
@@ -205,6 +204,7 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 Сомалия,,,,,,Q1045,Сомалия
 Судан,,,,,,Q1049,Судан
 Суринам,,,,,,Q730,Суринам
+Съединени американски щати,,,,,,Q30,Съединени американски щати
 Сърбия,,,,,,Q403,Сърбия
 Таджикистан,,,,,,Q863,Таджикистан
 Тайланд,,,,,,Q869,Тайланд
