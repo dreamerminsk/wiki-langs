@@ -90,7 +90,7 @@ impl UpdateReadMe {
     }
 
     fn birth_row(&self, player: &Player) -> String {
-        let links = format!(
+        let mut links = format!(
             "[Snooker](http://www.snooker.org/res/index.asp?player={})",
             player.snooker_id
         );
@@ -98,7 +98,7 @@ impl UpdateReadMe {
             links = format!(
                 "{},[CueTracker](http://cuetracker.net/Players/{}/)",
                 links,
-                player.cuetracker_id.unwrap()
+                player.cuetracker_id.as_ref().unwrap()
             );
         }
         format!(
