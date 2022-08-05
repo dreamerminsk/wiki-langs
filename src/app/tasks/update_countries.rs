@@ -14,7 +14,7 @@ impl UpdateCountries {
 
     pub async fn execute(&self) -> Option<()> {
         self.execute_lang("ar").await?;
-        self.execute_lang("bg").await?;
+        self.execute_lang("lt").await?;
         self.execute_lang("ja").await?;
         Some(())
     }
@@ -23,7 +23,7 @@ impl UpdateCountries {
         let list = tables::get_all_countries(lang).ok()?;
         let filtered = list
             .into_iter()
-            .filter(|c| c.wiki_id.as_ref().unwrap().contains(&c.name))
+            .filter(|c| c.name.is_empty() || c.wiki_id.as_ref().unwrap().contains(&c.name))
             .take(5);
         for mut c in filtered {
             let updated = self
