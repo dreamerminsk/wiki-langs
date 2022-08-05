@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-Bolivia,,,,,,Q750,Bolivia
-Bonaire,,,,,,Q25396,Bonaire
-Bosnia and Herzegovina,,,,,,Q225,Bosnia and Herzegovina
-Botswana,,,,,,Q963,Botswana
-Brazil,,,,,,Q155,Brazil
 British Indian Ocean Territory,,,,,,Q43448,British Indian Ocean Territory
 British Virgin Islands,,,,,,Q25305,British Virgin Islands
 Brunei,,,,,,Q921,Brunei
@@ -235,6 +230,8 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 أنغويلا,,,,,,Q25228,أنغويلا
 الأرجنتين,,,,,,Q414,الأرجنتين
 البحرين,,,,,,Q398,البحرين
+البرازيل,,,,,,Q155,البرازيل
+البوسنة والهرسك,,,,,,Q225,البوسنة والهرسك
 الجزائر,,,,,,Q262,الجزائر
 النمسا,040,AT,AUT,AUT,AUT,Q40,النمسا
 باربادوس,,,,,,Q244,باربادوس
@@ -244,5 +241,8 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 بنغلاديش,,,,,,Q902,بنغلاديش
 بنين,,,,,,Q962,بنين
 بوتان,,,,,,Q917,بوتان
+بوتسوانا,,,,,,Q963,بوتسوانا
+بوليفيا,,,,,,Q750,بوليفيا
+بونير,,,,,,Q25396,بونير
 بيلاروس,,,,,,Q184,بيلاروس
 جمهورية أرتساخ,,,,,,Q244165,جمهورية أرتساخ
