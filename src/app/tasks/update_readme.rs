@@ -94,9 +94,8 @@ impl UpdateReadMe {
             "[Snooker](http://www.snooker.org/res/index.asp?player={})",
             player.snooker_id
         );
-if player.ct_id.is_some(){
-links = format!("{},[CueTracker](http://cuetracker.net/Players/{}/)",links,player.ct_id.unwrap());}
-let ct_link = "http://cuetracker.net/Players/lu-ning/2022-2023"
+if player.cuetracker_id.is_some(){
+links = format!("{},[CueTracker](http://cuetracker.net/Players/{}/)",links,player.cuetracker_id.unwrap());}
         format!(
             "{}, {}, {} y. o. <sub><sup>{}</sup></sub>\r\n",
             player.birthday.unwrap().year(),
