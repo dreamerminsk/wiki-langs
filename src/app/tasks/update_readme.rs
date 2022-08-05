@@ -90,16 +90,19 @@ impl UpdateReadMe {
     }
 
     fn birth_row(&self, player: &Player) -> String {
-        let snooker_link = format!(
-            "<sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player={})</sup><sub>",
+        let links = format!(
+            "[Snooker](http://www.snooker.org/res/index.asp?player={})",
             player.snooker_id
         );
+if player.ct_id.is_some(){
+links = format!("{},[CueTracker](http://cuetracker.net/Players/{}/)",links,player.ct_id.unwrap());}
+let ct_link = "http://cuetracker.net/Players/lu-ning/2022-2023"
         format!(
-            "{}, {}, {} y. o. {}\r\n",
+            "{}, {}, {} y. o. <sub><sup>{}</sup></sub>\r\n",
             player.birthday.unwrap().year(),
             player.full_name,
             Utc::now().year() - player.birthday.unwrap().year(),
-            snooker_link,
+            links,
         )
     }
 }
