@@ -96,7 +96,7 @@ impl UpdateReadMe {
         );
         if player.cuetracker_id.is_some() {
             links = format!(
-                "{},[CueTracker](http://cuetracker.net/Players/{}/)",
+                "{}, [CueTracker](http://cuetracker.net/Players/{}/)",
                 links,
                 player.cuetracker_id.as_ref().unwrap()
             );
