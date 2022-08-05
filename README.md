@@ -10,10 +10,10 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Fri, 05 Aug 2022 10:08:52 +0000</sup>
+<sup>last modified: Fri, 05 Aug 2022 12:16:34 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 1335 |
+| 0000s | 1338 |
 | 1940s | 5 |
 | 1950s | 6 |
 | 1960s | 30 |
@@ -23,9 +23,9 @@
 | 2000s | 4 |
 
 ##  born on August  5
-1990, Hu Hao, 32 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1102)</sup><sub>
+1990, Hu Hao, 32 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1102),[CueTracker](http://cuetracker.net/Players/hu-hao/)</sup></sub>
 
-1997, Wang Yuchen, 25 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=954)</sup><sub>
+1997, Wang Yuchen, 25 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=954)</sup></sub>
 
 
 
