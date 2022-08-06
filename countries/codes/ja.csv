@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 Guernsey,,,,,,Q3311985,Guernsey
-Mauritania,,,,,,Q1025,Mauritania
-Mauritius,,,,,,Q1027,Mauritius
-Mexico,,,,,,Q96,Mexico
-Moldova,,,,,,Q217,Moldova
 Monaco,,,,,,Q235,Monaco
 Mongolia,,,,,,Q711,Mongolia
 Montenegro,,,,,,Q236,Montenegro
@@ -229,7 +225,11 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 マン島,,,,,,Q9676,マン島
 マーシャル諸島,,,,,,Q709,マーシャル諸島
 ミクロネシア連邦,,,,,,Q702,ミクロネシア連邦
+メキシコ,,,,,,Q96,メキシコ
 モルディブ,,,,,,Q826,モルディブ
+モルドバ,,,,,,Q217,モルドバ
+モーリシャス,,,,,,Q1027,モーリシャス
+モーリタニア,,,,,,Q1025,モーリタニア
 ヨルダン,,,,,,Q810,ヨルダン
 ラオス,,,,,,Q819,ラオス
 ラトビア,,,,,,Q211,ラトビア
