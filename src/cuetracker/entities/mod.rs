@@ -3,4 +3,4 @@ mod       player;
 
 
 
-pub use        player::Player;
+pub use        crate::cuetracker::entities::player::Player;
