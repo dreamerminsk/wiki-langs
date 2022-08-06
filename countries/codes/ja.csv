@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 Guernsey,,,,,,Q3311985,Guernsey
-Nauru,,,,,,Q697,Nauru
-Navassa Island,,,,,,Q25359,Navassa Island
-Nepal,,,,,,Q837,Nepal
-Netherlands,,,,,,Q55,Netherlands
 New Zealand,,,,,,Q664,New Zealand
 Nicaragua,,,,,,Q811,Nicaragua
 Niger,,,,,,Q1032,Niger
@@ -133,6 +129,7 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 エチオピア,,,,,,Q115,エチオピア
 エリトリア,,,,,,Q986,エリトリア
 エルサルバドル,,,,,,Q792,エルサルバドル
+オランダ,,,,,,Q55,オランダ
 オーストラリア,,,,,,Q408,オーストラリア
 オーストリア,040,AT,AUT,AUT,AUT,Q40,オーストリア
 カザフスタン,,,,,,Q232,カザフスタン
@@ -180,7 +177,10 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 ドイツ,,,,,,Q183,ドイツ
 ドミニカ共和国,,,,,,Q786,ドミニカ共和国
 ドミニカ国,,,,,,Q784,ドミニカ国
+ナウル,,,,,,Q697,ナウル
 ナミビア,,,,,,Q1030,ナミビア
+ナヴァッサ島,,,,,,Q25359,ナヴァッサ島
+ネパール,,,,,,Q837,ネパール
 ハイチ,,,,,,Q790,ハイチ
 ハンガリー,,,,,,Q28,ハンガリー
 バミューダ諸島,,,,,,Q23635,バミューダ諸島
