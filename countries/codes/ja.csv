@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 Guernsey,,,,,,Q3311985,Guernsey
-Qatar,,,,,,Q846,Qatar
-Republic of the Congo,,,,,,Q971,Republic of the Congo
-Romania,,,,,,Q218,Romania
-Russia,,,,,,Q159,Russia
 Rwanda,,,,,,Q1037,Rwanda
 Saba,,,,,,Q25528,Saba
 Sahrawi Arab Democratic Republic,,,,,,Q40362,Sahrawi Arab Democratic Republic
@@ -114,6 +110,7 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 オーストラリア,,,,,,Q408,オーストラリア
 オーストリア,040,AT,AUT,AUT,AUT,Q40,オーストリア
 カザフスタン,,,,,,Q232,カザフスタン
+カタール,,,,,,Q846,カタール
 カナダ,,,,,,Q16,カナダ
 カメルーン,,,,,,Q1009,カメルーン
 カンボジア,,,,,,Q424,カンボジア
@@ -144,6 +141,7 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 コソボ,,,,,,Q1246,コソボ
 コモロ,,,,,,Q970,コモロ
 コロンビア,,,,,,Q739,コロンビア
+コンゴ共和国,,,,,,Q971,コンゴ共和国
 コンゴ民主共和国,,,,,,Q974,コンゴ民主共和国
 コートジボワール,,,,,,Q1008,コートジボワール
 ジブチ,,,,,,Q977,ジブチ
@@ -234,8 +232,10 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 リビア,,,,,,Q1016,リビア
 リベリア,,,,,,Q1014,リベリア
 ルクセンブルク,,,,,,Q32,ルクセンブルク
+ルーマニア,,,,,,Q218,ルーマニア
 レソト,,,,,,Q1013,レソト
 レバノン,,,,,,Q822,レバノン
+ロシア,,,,,,Q159,ロシア
 中央アフリカ共和国,,,,,,Q929,中央アフリカ共和国
 中華人民共和国,,,,,,Q148,中華人民共和国
 北アイルランド,,,,,,Q26,北アイルランド
