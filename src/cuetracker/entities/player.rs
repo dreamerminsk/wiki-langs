@@ -1,1 +1,1 @@
-pub     struct     Player{pub cuetracker_id:String,};
+pub     struct     Player{pub cuetracker_id:String,}
