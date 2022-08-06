@@ -10,20 +10,22 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Sat, 06 Aug 2022 08:10:05 +0000</sup>
+<sup>last modified: Sat, 06 Aug 2022 10:08:12 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 969 |
+| 0000s | 973 |
 | 1940s | 5 |
 | 1950s | 6 |
-| 1960s | 31 |
+| 1960s | 32 |
 | 1970s | 87 |
-| 1980s | 116 |
-| 1990s | 96 |
+| 1980s | 117 |
+| 1990s | 97 |
 | 2000s | 4 |
 
 ##  born on August  6
 1967, Paul Cavney, 55 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=484), [CueTracker](http://cuetracker.net/Players/paul-cavney/)</sup></sub>
+
+1982, Gregory Herbrecht, 40 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2269), [CueTracker](http://cuetracker.net/Players/gregory-herbrecht/)</sup></sub>
 
 
 
