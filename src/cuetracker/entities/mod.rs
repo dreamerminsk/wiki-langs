@@ -1,6 +1,6 @@
-mod entities;
+mod       player;
 
 
 
 
-pub use entities::player::Player;
+pub use        player::Player;
