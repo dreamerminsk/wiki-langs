@@ -1,6 +1,6 @@
 [package]
 name = "wiki-langs"
-version = "0.1.5"
+version = "0.1.6"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
@@ -8,6 +8,7 @@ edition = "2021"
 [dependencies]
 async-stream = "*"
 chrono = { version = "*", features = ["serde"] }
+chrono_humanize = "*"
 csv = "*"
 html5ever = "*"
 lazy_static = "*"
