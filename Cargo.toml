@@ -8,7 +8,7 @@ edition = "2021"
 [dependencies]
 async-stream = "*"
 chrono = { version = "*", features = ["serde"] }
-chrono_humanize = "*"
+chrono-humanize = "*"
 csv = "*"
 html5ever = "*"
 lazy_static = "*"
