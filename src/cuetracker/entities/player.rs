@@ -1,6 +1,1 @@
-mod player;
-
-
-
-
-pub use player::Player;
+pub     struct     Player;
