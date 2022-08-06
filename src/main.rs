@@ -11,6 +11,8 @@ mod app;
 
 mod country;
 
+mod cuetracker;
+
 mod players;
 
 mod snooker;
