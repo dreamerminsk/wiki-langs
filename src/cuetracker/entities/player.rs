@@ -1,12 +1,12 @@
+use chrono::NaiveDate;
 use serde::{Deserialize, Serialize};
 use std::{
     cmp::Ordering,
     hash::{Hash, Hasher},
 };
-use chrono::NaiveDate;
 
 #[derive(Debug, Serialize, Deserialize, Clone)]
-pub struct Player{
+pub struct Player {
     pub cuetracker_id: String,
     pub full_name: String,
     pub birthday: Option<NaiveDate>,
@@ -14,8 +14,7 @@ pub struct Player{
 
 impl Ord for Player {
     fn cmp(&self, other: &Self) -> Ordering {
-        self.cuetracker_id
-            .cmp(&other.cuetracker_id)
+        self.cuetracker_id.cmp(&other.cuetracker_id)
     }
 }
 
