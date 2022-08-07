@@ -1,4 +1,4 @@
-pub           struct Event{
-pub cuetracker_id: String,
-pub title:String,
+pub struct Event {
+    pub cuetracker_id: String,
+    pub title: String,
 }
