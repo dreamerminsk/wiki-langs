@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 Guernsey,,,,,,Q3311985,Guernsey
-Mauritania,,,,,,Q1025,Mauritania
-Mauritius,,,,,,Q1027,Mauritius
-Mexico,,,,,,Q96,Mexico
-Moldova,,,,,,Q217,Moldova
 Monaco,,,,,,Q235,Monaco
 Mongolia,,,,,,Q711,Mongolia
 Montenegro,,,,,,Q236,Montenegro
@@ -154,6 +150,7 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 الكويت,,,,,,Q817,الكويت
 المالديف,,,,,,Q826,المالديف
 المجر,,,,,,Q28,المجر
+المكسيك,,,,,,Q96,المكسيك
 النمسا,040,AT,AUT,AUT,AUT,Q40,النمسا
 الهند,,,,,,Q668,الهند
 اليابان,,,,,,Q17,اليابان
@@ -242,6 +239,9 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 ماليزيا,,,,,,Q833,ماليزيا
 مدغشقر,,,,,,Q1019,مدغشقر
 مصر,,,,,,Q79,مصر
+موريتانيا,,,,,,Q1025,موريتانيا
+موريشيوس,,,,,,Q1027,موريشيوس
+مولدوفا,,,,,,Q217,مولدوفا
 هايتي,,,,,,Q790,هايتي
 هندوراس,,,,,,Q783,هندوراس
 هونغ كونغ,,,,,,Q8646,هونغ كونغ
