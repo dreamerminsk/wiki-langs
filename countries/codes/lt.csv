@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q3769,French Guiana
-,,,,,,Q1000,Gabon
-,,,,,,Q230,Georgia (country)
-,,,,,,Q183,Germany
-,,,,,,Q117,Ghana
 ,,,,,,Q1410,Gibraltar
 ,,,,,,Q41,Greece
 ,,,,,,Q223,Greenland
@@ -217,6 +212,9 @@ Etiopija,,,,,,Q115,Etiopija
 Farerai,,,,,,Q4628,Farerai
 Fidžis,,,,,,Q712,Fidžis
 Folklando (Malvinų) Salos,,,,,,Q9648,Folklando (Malvinų) Salos
+Gabonas,,,,,,Q1000,Gabonas
+Gana,,,,,,Q117,Gana
+Gruzija,,,,,,Q230,Gruzija
 Indijos Vandenyno Britų Sritis,,,,,,Q43448,Indijos Vandenyno Britų Sritis
 Kaimanų Salos,,,,,,Q5785,Kaimanų Salos
 Kalnų Karabacho Respublika,,,,,,Q244165,Kalnų Karabacho Respublika
@@ -238,10 +236,12 @@ Kuba,,,,,,Q241,Kuba
 Mergelių Salos (Didžioji Britanija),,,,,,Q25305,Mergelių Salos (Didžioji Britanija)
 Mikronezijos Federacinės Valstijos,,,,,,Q702,Mikronezijos Federacinės Valstijos
 Prancūzija,,,,,,Q142,Prancūzija
+Prancūzijos Gviana,,,,,,Q3769,Prancūzijos Gviana
 Pusiaujo Gvinėja,,,,,,Q983,Pusiaujo Gvinėja
 Rytų Timoras,,,,,,Q574,Rytų Timoras
 Salvadoras,,,,,,Q792,Salvadoras
 Suomija,,,,,,Q33,Suomija
+Vokietija,,,,,,Q183,Vokietija
 Čadas,,,,,,Q657,Čadas
 Čekija,,,,,,Q213,Čekija
 Čilė,,,,,,Q298,Čilė
