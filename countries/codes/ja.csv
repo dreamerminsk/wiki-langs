@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-Turkmenistan,,,,,,Q874,Turkmenistan
-Turks and Caicos Islands,,,,,,Q18221,Turks and Caicos Islands
-Tuvalu,,,,,,Q672,Tuvalu
-Uganda,,,,,,Q1036,Uganda
-Ukraine,,,,,,Q212,Ukraine
 United Arab Emirates,,,,,,Q878,United Arab Emirates
 United Kingdom,,,,,,Q145,United Kingdom
 United States,,,,,,Q30,United States
@@ -45,6 +40,8 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 イングランド,,,,,,Q21,イングランド
 インド,,,,,,Q668,インド
 インドネシア,,,,,,Q252,インドネシア
+ウガンダ,,,,,,Q1036,ウガンダ
+ウクライナ,,,,,,Q212,ウクライナ
 エクアドル,,,,,,Q736,エクアドル
 エジプト,,,,,,Q79,エジプト
 エストニア,,,,,,Q191,エストニア
@@ -132,12 +129,15 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 タイ王国,,,,,,Q869,タイ王国
 タジキスタン,,,,,,Q863,タジキスタン
 タンザニア,,,,,,Q924,タンザニア
+タークス・カイコス諸島,,,,,,Q18221,タークス・カイコス諸島
 チェコ,,,,,,Q213,チェコ
 チャド,,,,,,Q657,チャド
 チュニジア,,,,,,Q948,チュニジア
 チリ,,,,,,Q298,チリ
+ツバル,,,,,,Q672,ツバル
 デンマーク,,,,,,Q35,デンマーク
 トリニダード・トバゴ,,,,,,Q754,トリニダード・トバゴ
+トルクメニスタン,,,,,,Q874,トルクメニスタン
 トルコ,,,,,,Q43,トルコ
 トンガ,,,,,,Q678,トンガ
 トーゴ,,,,,,Q945,トーゴ
