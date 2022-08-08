@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q785,Jersey
-,,,,,,Q810,Jordan
-,,,,,,Q232,Kazakhstan
-,,,,,,Q114,Kenya
 ,,,,,,Q710,Kiribati
 ,,,,,,Q1246,Kosovo
 ,,,,,,Q817,Kuwait
@@ -180,6 +176,7 @@ Danija,,,,,,Q35,Danija
 Dominika,,,,,,Q784,Dominika
 Dominikos Respublika,,,,,,Q786,Dominikos Respublika
 Dramblio Kaulo Krantas,,,,,,Q1008,Dramblio Kaulo Krantas
+Džersis,,,,,,Q785,Džersis
 Džibutis,,,,,,Q977,Džibutis
 Egiptas,,,,,,Q79,Egiptas
 Ekvadoras,,,,,,Q736,Ekvadoras
@@ -214,12 +211,15 @@ Italija,,,,,,Q38,Italija
 Izraelis,,,,,,Q801,Izraelis
 Jamaika,,,,,,Q766,Jamaika
 Japonija,,,,,,Q17,Japonija
+Jordanija,,,,,,Q810,Jordanija
 Kaimanų Salos,,,,,,Q5785,Kaimanų Salos
 Kalnų Karabacho Respublika,,,,,,Q244165,Kalnų Karabacho Respublika
 Kalėdų sala,,,,,,Q31063,Kalėdų sala
 Kambodža,,,,,,Q424,Kambodža
 Kamerūnas,,,,,,Q1009,Kamerūnas
 Kanada,,,,,,Q16,Kanada
+Kazachstanas,,,,,,Q232,Kazachstanas
+Kenija,,,,,,Q114,Kenija
 Kinijos Liaudies Respublika,,,,,,Q148,Kinijos Liaudies Respublika
 Kipras,,,,,,Q229,Kipras
 Kiurasao,,,,,,Q25279,Kiurasao

@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-Tonga,,,,,,Q678,Tonga
-Transnistria,,,,,,Q907112,Transnistria
-Trinidad and Tobago,,,,,,Q754,Trinidad and Tobago
-Tunisia,,,,,,Q948,Tunisia
-Turkey,,,,,,Q43,Turkey
 Turkmenistan,,,,,,Q874,Turkmenistan
 Turks and Caicos Islands,,,,,,Q18221,Turks and Caicos Islands
 Tuvalu,,,,,,Q672,Tuvalu
@@ -139,8 +134,12 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 タンザニア,,,,,,Q924,タンザニア
 チェコ,,,,,,Q213,チェコ
 チャド,,,,,,Q657,チャド
+チュニジア,,,,,,Q948,チュニジア
 チリ,,,,,,Q298,チリ
 デンマーク,,,,,,Q35,デンマーク
+トリニダード・トバゴ,,,,,,Q754,トリニダード・トバゴ
+トルコ,,,,,,Q43,トルコ
+トンガ,,,,,,Q678,トンガ
 トーゴ,,,,,,Q945,トーゴ
 ドイツ,,,,,,Q183,ドイツ
 ドミニカ共和国,,,,,,Q786,ドミニカ共和国
@@ -241,5 +240,6 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 日本,,,,,,Q17,日本
 朝鮮民主主義人民共和国,,,,,,Q423,朝鮮民主主義人民共和国
 東ティモール,,,,,,Q574,東ティモール
+沿ドニエストル共和国,,,,,,Q907112,沿ドニエストル共和国
 赤道ギニア,,,,,,Q983,赤道ギニア
 香港,,,,,,Q8646,香港
