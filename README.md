@@ -10,10 +10,10 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Sun, 07 Aug 2022 22:08:19 +0000</sup>
+<sup>last modified: Mon, 08 Aug 2022 00:40:15 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 1080 |
+| 0000s | 1086 |
 | 1940s | 5 |
 | 1950s | 7 |
 | 1960s | 33 |
@@ -22,8 +22,10 @@
 | 1990s | 101 |
 | 2000s | 4 |
 
-##  born on August  7
-1978, Michael Holt, 44 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=125), [CueTracker](http://cuetracker.net/Players/michael-holt/)</sup></sub>
+##  born on August  8
+1983, Kurt Maflin, 39 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=61), [CueTracker](http://cuetracker.net/Players/kurt-maflin/)</sup></sub>
+
+1990, Scott Bell, 32 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=663), [CueTracker](http://cuetracker.net/Players/scott-bell/)</sup></sub>
 
 
 
