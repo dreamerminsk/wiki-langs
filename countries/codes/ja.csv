@@ -2,9 +2,6 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 Guernsey,,,,,,Q3311985,Guernsey
 Saint Barthelemy,,,,,,Q25362,Saint Barthélemy
 Saint Martin,,,,,,Q126125,Saint Martin
-São Tomé and Príncipe,,,,,,Q1039,São Tomé and Príncipe
-Taiwan,,,,,,Q865,Taiwan
-Tajikistan,,,,,,Q863,Tajikistan
 Tanzania,,,,,,Q924,Tanzania
 Thailand,,,,,,Q869,Thailand
 The Bahamas,,,,,,Q778,The Bahamas
@@ -112,6 +109,7 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 サハラ・アラブ民主共和国,,,,,,Q40362,サハラ・アラブ民主共和国
 サバ島,,,,,,Q25528,サバ島
 サモア,,,,,,Q683,サモア
+サントメ・プリンシペ,,,,,,Q1039,サントメ・プリンシペ
 サンピエール島・ミクロン島,,,,,,Q34617,サンピエール島・ミクロン島
 サンマリノ,,,,,,Q238,サンマリノ
 シエラレオネ,,,,,,Q1044,シエラレオネ
@@ -143,6 +141,7 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 ソマリア,,,,,,Q1045,ソマリア
 ソマリランド,,,,,,Q34754,ソマリランド
 ソロモン諸島,,,,,,Q685,ソロモン諸島
+タジキスタン,,,,,,Q863,タジキスタン
 チェコ,,,,,,Q213,チェコ
 チャド,,,,,,Q657,チャド
 チリ,,,,,,Q298,チリ
@@ -234,6 +233,7 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 ロシア,,,,,,Q159,ロシア
 中央アフリカ共和国,,,,,,Q929,中央アフリカ共和国
 中華人民共和国,,,,,,Q148,中華人民共和国
+中華民国,,,,,,Q865,中華民国
 北アイルランド,,,,,,Q26,北アイルランド
 北キプロス・トルコ共和国,,,,,,Q23681,北キプロス・トルコ共和国
 北マケドニア,,,,,,Q221,北マケドニア
