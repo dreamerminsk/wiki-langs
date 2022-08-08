@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q32,Luxembourg
-,,,,,,Q14773,Macau
-,,,,,,Q1019,Madagascar
-,,,,,,Q1020,Malawi
 ,,,,,,Q833,Malaysia
 ,,,,,,Q826,Maldives
 ,,,,,,Q912,Mali
@@ -231,6 +227,10 @@ Liberija,,,,,,Q1014,Liberija
 Libija,,,,,,Q1016,Libija
 Lichtenšteinas,,,,,,Q347,Lichtenšteinas
 Lietuva,,,,,,Q37,Lietuva
+Liuksemburgas,,,,,,Q32,Liuksemburgas
+Madagaskaras,,,,,,Q1019,Madagaskaras
+Makao,,,,,,Q14773,Makao
+Malavis,,,,,,Q1020,Malavis
 Meno sala,,,,,,Q9676,Meno sala
 Mergelių Salos (Didžioji Britanija),,,,,,Q25305,Mergelių Salos (Didžioji Britanija)
 Mikronezijos Federacinės Valstijos,,,,,,Q702,Mikronezijos Federacinės Valstijos
