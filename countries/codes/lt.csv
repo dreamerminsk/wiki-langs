@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q218,Romania
-,,,,,,Q159,Russia
-,,,,,,Q1037,Rwanda
-,,,,,,Q25528,Saba
 ,,,,,,Q40362,Sahrawi Arab Democratic Republic
 ,,,,,,Q25362,Saint Barthélemy
 ,,,,,,Q763,Saint Kitts and Nevis
@@ -233,7 +229,11 @@ Prancūzija,,,,,,Q142,Prancūzija
 Prancūzijos Gviana,,,,,,Q3769,Prancūzijos Gviana
 Puerto Rikas,,,,,,Q1183,Puerto Rikas
 Pusiaujo Gvinėja,,,,,,Q983,Pusiaujo Gvinėja
+Ruanda,,,,,,Q1037,Ruanda
+Rumunija,,,,,,Q218,Rumunija
+Rusija,,,,,,Q159,Rusija
 Rytų Timoras,,,,,,Q574,Rytų Timoras
+Saba,,,,,,Q25528,Saba
 Salvadoras,,,,,,Q792,Salvadoras
 Suomija,,,,,,Q33,Suomija
 Turkų Kipras,,,,,,Q23681,Turkų Kipras
