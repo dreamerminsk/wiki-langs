@@ -10,20 +10,20 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Tue, 09 Aug 2022 18:11:09 +0000</sup>
+<sup>last modified: Tue, 09 Aug 2022 20:09:10 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 1203 |
+| 0000s | 1208 |
 | 1940s | 6 |
 | 1950s | 8 |
 | 1960s | 37 |
 | 1970s | 87 |
 | 1980s | 120 |
-| 1990s | 108 |
+| 1990s | 109 |
 | 2000s | 4 |
 
 ##  born on August  9
-1996, Wang Zepeng, 26 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1111), [CueTracker](http://cuetracker.net/Players/wang-zepeng/)</sup></sub>
+1996, Wang Zepeng, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1111), [CueTracker](http://cuetracker.net/Players/wang-zepeng/)</sup></sub>
 
 
 
