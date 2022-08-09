@@ -10,10 +10,10 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Mon, 08 Aug 2022 22:09:20 +0000</sup>
+<sup>last modified: Tue, 09 Aug 2022 00:47:44 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 1148 |
+| 0000s | 1155 |
 | 1940s | 6 |
 | 1950s | 8 |
 | 1960s | 36 |
@@ -22,10 +22,8 @@
 | 1990s | 101 |
 | 2000s | 4 |
 
-##  born on August  8
-1983, Kurt Maflin, 39 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=61), [CueTracker](http://cuetracker.net/Players/kurt-maflin/)</sup></sub>
-
-1990, Scott Bell, 32 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=663), [CueTracker](http://cuetracker.net/Players/scott-bell/)</sup></sub>
+##  born on August  9
+1996, Wang Zepeng, 26 y. o. <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1111), [CueTracker](http://cuetracker.net/Players/wang-zepeng/)</sup></sub>
 
 
 
