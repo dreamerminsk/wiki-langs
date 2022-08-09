@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q800,Costa Rica
-,,,,,,Q224,Croatia
-,,,,,,Q241,Cuba
-,,,,,,Q25279,Curaçao
-,,,,,,Q229,Cyprus
 ,,,,,,Q213,Czech Republic
 ,,,,,,Q974,Democratic Republic of the Congo
 ,,,,,,Q23334,Abkhazia
@@ -242,7 +237,12 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 캐나다,,,,,,Q16,캐나다
 케이맨 제도,,,,,,Q5785,케이맨 제도
 코모로,,,,,,Q970,코모로
+코스타리카,,,,,,Q800,코스타리카
 코코스 (킬링) 제도,,,,,,Q36004,코코스 (킬링) 제도
 콜롬비아,,,,,,Q739,콜롬비아
+쿠바,,,,,,Q241,쿠바
+퀴라소,,,,,,Q25279,퀴라소
+크로아티아,,,,,,Q224,크로아티아
 크리스마스섬,,,,,,Q31063,크리스마스섬
 클리퍼턴섬,,,,,,Q161258,클리퍼턴섬
+키프로스,,,,,,Q229,키프로스
