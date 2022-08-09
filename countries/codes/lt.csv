@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q40362,Sahrawi Arab Democratic Republic
-,,,,,,Q25362,Saint Barthélemy
-,,,,,,Q763,Saint Kitts and Nevis
-,,,,,,Q760,Saint Lucia
 ,,,,,,Q126125,Saint Martin
 ,,,,,,Q34617,Saint Pierre and Miquelon
 ,,,,,,Q757,Saint Vincent and the Grenadines
@@ -234,7 +230,10 @@ Rumunija,,,,,,Q218,Rumunija
 Rusija,,,,,,Q159,Rusija
 Rytų Timoras,,,,,,Q574,Rytų Timoras
 Saba,,,,,,Q25528,Saba
+Sacharos Arabų Demokratinė Respublika,,,,,,Q40362,Sacharos Arabų Demokratinė Respublika
 Salvadoras,,,,,,Q792,Salvadoras
+Sent Kitsas ir Nevis,,,,,,Q763,Sent Kitsas ir Nevis
+Sent Lusija,,,,,,Q760,Sent Lusija
 Suomija,,,,,,Q33,Suomija
 Turkų Kipras,,,,,,Q23681,Turkų Kipras
 Vengrija,,,,,,Q28,Vengrija
@@ -245,4 +244,5 @@ Vokietija,,,,,,Q183,Vokietija
 Šiaurės Airija,,,,,,Q26,Šiaurės Airija
 Šiaurės Korėja,,,,,,Q423,Šiaurės Korėja
 Šiaurės Makedonija,,,,,,Q221,Šiaurės Makedonija
+Šv. Bartolomėjaus sala,,,,,,Q25362,Šv. Bartolomėjaus sala
 Žaliasis Kyšulys,,,,,,Q1011,Žaliasis Kyšulys
