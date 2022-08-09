@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q733,Paraguay
-,,,,,,Q419,Peru
-,,,,,,Q928,Philippines
-,,,,,,Q36,Poland
 ,,,,,,Q45,Portugal
 ,,,,,,Q1183,Puerto Rico
 ,,,,,,Q846,Qatar
@@ -134,6 +130,7 @@ Esvatinis,,,,,,Q1050,Esvatinis
 Etiopija,,,,,,Q115,Etiopija
 Farerai,,,,,,Q4628,Farerai
 Fidžis,,,,,,Q712,Fidžis
+Filipinai,,,,,,Q928,Filipinai
 Folklando (Malvinų) Salos,,,,,,Q9648,Folklando (Malvinų) Salos
 Gabonas,,,,,,Q1000,Gabonas
 Gajana,,,,,,Q734,Gajana
@@ -186,6 +183,7 @@ Kuba,,,,,,Q241,Kuba
 Kuveitas,,,,,,Q817,Kuveitas
 Laosas,,,,,,Q819,Laosas
 Latvija,,,,,,Q211,Latvija
+Lenkija,,,,,,Q36,Lenkija
 Lesotas,,,,,,Q1013,Lesotas
 Libanas,,,,,,Q822,Libanas
 Liberija,,,,,,Q1014,Liberija
@@ -230,6 +228,8 @@ Pakistanas,,,,,,Q843,Pakistanas
 Palau,,,,,,Q695,Palau
 Panama,,,,,,Q804,Panama
 Papua Naujoji Gvinėja,,,,,,Q691,Papua Naujoji Gvinėja
+Paragvajus,,,,,,Q733,Paragvajus
+Peru,,,,,,Q419,Peru
 Prancūzija,,,,,,Q142,Prancūzija
 Prancūzijos Gviana,,,,,,Q3769,Prancūzijos Gviana
 Pusiaujo Gvinėja,,,,,,Q983,Pusiaujo Gvinėja
