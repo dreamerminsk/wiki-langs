@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q236,Montenegro
-,,,,,,Q13353,Montserrat
-,,,,,,Q1028,Morocco
-,,,,,,Q1029,Mozambique
 ,,,,,,Q836,Myanmar
 ,,,,,,Q1030,Namibia
 ,,,,,,Q697,Nauru
@@ -184,6 +180,7 @@ Izraelis,,,,,,Q801,Izraelis
 Jamaika,,,,,,Q766,Jamaika
 Japonija,,,,,,Q17,Japonija
 Jordanija,,,,,,Q810,Jordanija
+Juodkalnija,,,,,,Q236,Juodkalnija
 Kaimanų Salos,,,,,,Q5785,Kaimanų Salos
 Kalnų Karabacho Respublika,,,,,,Q244165,Kalnų Karabacho Respublika
 Kalėdų sala,,,,,,Q31063,Kalėdų sala
@@ -223,6 +220,7 @@ Malavis,,,,,,Q1020,Malavis
 Maldyvai,,,,,,Q826,Maldyvai
 Malis,,,,,,Q912,Malis
 Malta,,,,,,Q233,Malta
+Marokas,,,,,,Q1028,Marokas
 Martinika,,,,,,Q17054,Martinika
 Maršalo Salos,,,,,,Q709,Maršalo Salos
 Mauricijus,,,,,,Q1027,Mauricijus
@@ -234,6 +232,8 @@ Mikronezijos Federacinės Valstijos,,,,,,Q702,Mikronezijos Federacinės Valstijo
 Moldavija,,,,,,Q217,Moldavija
 Monakas,,,,,,Q235,Monakas
 Mongolija,,,,,,Q711,Mongolija
+Montseratas,,,,,,Q13353,Montseratas
+Mozambikas,,,,,,Q1029,Mozambikas
 Prancūzija,,,,,,Q142,Prancūzija
 Prancūzijos Gviana,,,,,,Q3769,Prancūzijos Gviana
 Pusiaujo Gvinėja,,,,,,Q983,Pusiaujo Gvinėja
