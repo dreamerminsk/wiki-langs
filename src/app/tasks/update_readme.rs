@@ -102,7 +102,7 @@ impl UpdateReadMe {
             );
         }
         format!(
-            "{}, {}, {} y. o. <sub><sup>{}</sup></sub>\r\n",
+            "{}, {}, {} <sub><sup>{}</sup></sub>\r\n",
             player.birthday.unwrap().year(),
             player.full_name,
             Utc::now().year() - player.birthday.unwrap().year(),
