@@ -2,9 +2,6 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 Guernsey,,,,,,Q3311985,Guernsey
 Saint Barthelemy,,,,,,Q25362,Saint Barthélemy
 Saint Martin,,,,,,Q126125,Saint Martin
-Somaliland,,,,,,Q34754,Somaliland
-South Africa,,,,,,Q258,South Africa
-South Georgia and the South Sandwich Islands,,,,,,Q35086,South Georgia and the South Sandwich Islands
 South Korea,,,,,,Q884,South Korea
 South Ossetia,,,,,,Q23427,South Ossetia
 South Sudan,,,,,,Q958,South Sudan
@@ -157,7 +154,9 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 جمهورية الدومينيكان,,,,,,Q786,جمهورية الدومينيكان
 جمهورية الكونغو,,,,,,Q971,جمهورية الكونغو
 جمهورية الكونغو الديمقراطية,,,,,,Q974,جمهورية الكونغو الديمقراطية
+جنوب أفريقيا,,,,,,Q258,جنوب أفريقيا
 جورجيا,,,,,,Q230,جورجيا
+جورجيا الجنوبية وجزر ساندويتش الجنوبية,,,,,,Q35086,جورجيا الجنوبية وجزر ساندويتش الجنوبية
 جيبوتي,,,,,,Q977,جيبوتي
 جيرزي,,,,,,Q785,جيرزي
 دومينيكا,,,,,,Q784,دومينيكا
@@ -181,6 +180,7 @@ Zimbabwe,,,,,,Q954,Zimbabwe
 سينت أوستاتيوس,,,,,,Q26180,سينت أوستاتيوس
 سينت مارتن,,,,,,Q26273,سينت مارتن
 صربيا,,,,,,Q403,صربيا
+صوماليلاند,,,,,,Q34754,صوماليلاند
 غانا,,,,,,Q117,غانا
 غرينادا,,,,,,Q769,غرينادا
 غواتيمالا,,,,,,Q774,غواتيمالا
