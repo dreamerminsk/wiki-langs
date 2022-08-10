@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q244165,Republic of Artsakh
-,,,,,,Q967,Burundi
-,,,,,,Q424,Cambodia
-,,,,,,Q1009,Cameroon
-,,,,,,Q16,Canada
 ,,,,,,Q1011,Cape Verde
 ,,,,,,Q5785,Cayman Islands
 ,,,,,,Q929,Central African Republic
@@ -234,6 +230,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 בוליביה,,,,,,Q750,בוליביה
 בונייר,,,,,,Q25396,בונייר
 בוסניה והרצגובינה,,,,,,Q225,בוסניה והרצגובינה
+בורונדי,,,,,,Q967,בורונדי
 בורקינה פאסו,,,,,,Q965,בורקינה פאסו
 בחריין,,,,,,Q398,בחריין
 בלארוס,,,,,,Q184,בלארוס
@@ -246,3 +243,6 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ברזיל,,,,,,Q155,ברזיל
 ברמודה,,,,,,Q23635,ברמודה
 הטריטוריה הבריטית באוקיינוס ההודי,,,,,,Q43448,הטריטוריה הבריטית באוקיינוס ההודי
+קמבודיה,,,,,,Q424,קמבודיה
+קמרון,,,,,,Q1009,קמרון
+קנדה,,,,,,Q16,קנדה

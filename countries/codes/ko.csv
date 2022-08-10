@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q252,Indonesia
-,,,,,,Q794,Iran
-,,,,,,Q796,Iraq
-,,,,,,Q27,Republic of Ireland
 ,,,,,,Q9676,Isle of Man
 ,,,,,,Q801,Israel
 ,,,,,,Q38,Italy
@@ -189,6 +185,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 아르헨티나,,,,,,Q414,아르헨티나
 아이슬란드,,,,,,Q189,아이슬란드
 아이티,,,,,,Q790,아이티
+아일랜드,,,,,,Q27,아일랜드
 아제르바이잔,,,,,,Q227,아제르바이잔
 아크로티리 데켈리아,,,,,,Q37362,아크로티리 데켈리아
 아프가니스탄,004,AF,AFG,AFG,AFG,Q889,아프가니스탄
@@ -210,8 +207,11 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 오스트레일리아,,,,,,Q408,오스트레일리아
 오스트리아,040,AT,AUT,AUT,AUT,Q40,오스트리아
 온두라스,,,,,,Q783,온두라스
+이라크,,,,,,Q796,이라크
+이란,,,,,,Q794,이란
 이집트,,,,,,Q79,이집트
 인도,,,,,,Q668,인도
+인도네시아,,,,,,Q252,인도네시아
 잉글랜드,,,,,,Q21,잉글랜드
 적도 기니,,,,,,Q983,적도 기니
 조지아,,,,,,Q230,조지아
