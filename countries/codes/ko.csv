@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q33,Finland
-,,,,,,Q142,France
-,,,,,,Q3769,French Guiana
-,,,,,,Q1000,Gabon
-,,,,,,Q230,Georgia (country)
 ,,,,,,Q183,Germany
 ,,,,,,Q117,Ghana
 ,,,,,,Q1410,Gibraltar
@@ -171,6 +166,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q953,Zambia
 ,,,,,,Q954,Zimbabwe
 ,,,,,,Q5689,Åland
+가봉,,,,,,Q1000,가봉
 덴마크,,,,,,Q35,덴마크
 도미니카 공화국,,,,,,Q786,도미니카 공화국
 도미니카 연방,,,,,,Q784,도미니카 연방
@@ -221,6 +217,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 이집트,,,,,,Q79,이집트
 잉글랜드,,,,,,Q21,잉글랜드
 적도 기니,,,,,,Q983,적도 기니
+조지아,,,,,,Q230,조지아
 중앙아프리카 공화국,,,,,,Q929,중앙아프리카 공화국
 중화인민공화국,,,,,,Q148,중화인민공화국
 지부티,,,,,,Q977,지부티
@@ -245,4 +242,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 키프로스,,,,,,Q229,키프로스
 페로 제도,,,,,,Q4628,페로 제도
 포클랜드 제도,,,,,,Q9648,포클랜드 제도
+프랑스,,,,,,Q142,프랑스
+프랑스령 기아나,,,,,,Q3769,프랑스령 기아나
 피지,,,,,,Q712,피지
+핀란드,,,,,,Q33,핀란드
