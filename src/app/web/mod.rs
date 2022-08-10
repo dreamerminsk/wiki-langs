@@ -12,7 +12,7 @@ static APP_USER_AGENT : &str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleW
 lazy_static! {
     static ref CLIENT: Client = Client::builder()
         .user_agent(APP_USER_AGENT)
-        .timeout(Duration::from_secs(60))
+        .connect_timeout(Duration::from_secs(60))
         .build()
         .unwrap();
 }
