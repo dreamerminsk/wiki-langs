@@ -39,4 +39,5 @@ jobs:
           name: log-artifacts
           path: |
                 *.log
+                *.txt
 
