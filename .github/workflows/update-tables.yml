@@ -1,0 +1,43 @@
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+
+name: Update CSV tables
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions-rs/toolchain@v1
+        with:
+          profile: minimal
+          toolchain: stable
+          components: rustfmt, clippy
+      - uses: Swatinem/rust-cache@v1
+      - name: Update CSV tables
+        uses: actions-rs/cargo@v1
+        with:
+          command: run
+      - name: Commit CSV tables
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: micah teeuws
+          author_email: tutmirage@gmail.com
+          message: 'Update CSV tables'
+          add: '*.csv'
+      - name: Commit README
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: micah teeuws
+          author_email: tutmirage@gmail.com
+          message: 'Update README'
+          add: '*.md'
+      - name: Archive log artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: log-artifacts
+          path: |
+                *.log
+                *.txt
+
