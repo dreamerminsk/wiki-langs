@@ -1,9 +1,6 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q39,Switzerland
-,,,,,,Q858,Syria
-,,,,,,Q1039,São Tomé and Príncipe
 ,,,,,,Q865,Taiwan
 ,,,,,,Q863,Tajikistan
 ,,,,,,Q924,Tanzania
@@ -212,6 +209,7 @@ Saliamono Salos,,,,,,Q685,Saliamono Salos
 Salvadoras,,,,,,Q792,Salvadoras
 Samoa,,,,,,Q683,Samoa
 San Marinas,,,,,,Q238,San Marinas
+San Tomė ir Prinsipė,,,,,,Q1039,San Tomė ir Prinsipė
 Saudo Arabija,,,,,,Q851,Saudo Arabija
 Seišeliai,,,,,,Q1042,Seišeliai
 Sen Pjeras ir Mikelonas,,,,,,Q34617,Sen Pjeras ir Mikelonas
@@ -224,6 +222,7 @@ Siera Leonė,,,,,,Q1044,Siera Leonė
 Singapūras,,,,,,Q334,Singapūras
 Sint Eustatijus,,,,,,Q26180,Sint Eustatijus
 Sint Martenas,,,,,,Q26273,Sint Martenas
+Sirija,,,,,,Q858,Sirija
 Slovakija,,,,,,Q214,Slovakija
 Slovėnija,,,,,,Q215,Slovėnija
 Somalilandas,,,,,,Q34754,Somalilandas
@@ -245,4 +244,5 @@ Vokietija,,,,,,Q183,Vokietija
 Šri Lanka,,,,,,Q854,Šri Lanka
 Šv. Bartolomėjaus sala,,,,,,Q25362,Šv. Bartolomėjaus sala
 Švedija,,,,,,Q34,Švedija
+Šveicarija,,,,,,Q39,Šveicarija
 Žaliasis Kyšulys,,,,,,Q1011,Žaliasis Kyšulys
