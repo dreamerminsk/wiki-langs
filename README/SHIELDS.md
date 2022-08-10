@@ -1,4 +1,4 @@
-[![run](https://github.com/dreamerminsk/wiki-langs/actions/workflows/run.yml/badge.svg)](https://github.com/dreamerminsk/wiki-langs/actions/workflows/run.yml)
+[![update](https://github.com/dreamerminsk/wiki-langs/actions/workflows/update-tables.yml/badge.svg)](https://github.com/dreamerminsk/wiki-langs/actions/workflows/update-tables.yml)
 [![build](https://github.com/dreamerminsk/wiki-langs/actions/workflows/build.yml/badge.svg)](https://github.com/dreamerminsk/wiki-langs/actions/workflows/build.yml)
 
 ![commits](https://img.shields.io/github/commit-activity/y/dreamerminsk/wiki-langs)
