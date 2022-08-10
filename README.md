@@ -10,20 +10,24 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Tue, 09 Aug 2022 22:08:29 +0000</sup>
+<sup>last modified: Wed, 10 Aug 2022 00:41:11 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 1213 |
+| 0000s | 1218 |
 | 1940s | 6 |
 | 1950s | 8 |
 | 1960s | 37 |
 | 1970s | 87 |
 | 1980s | 121 |
-| 1990s | 110 |
+| 1990s | 111 |
 | 2000s | 4 |
 
-##  born on August  9
-1996, Wang Zepeng, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1111), [CueTracker](http://cuetracker.net/Players/wang-zepeng/)</sup></sub>
+##  born on August 10
+1973, Andy Hicks, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=51), [CueTracker](http://cuetracker.net/Players/andy-hicks/)</sup></sub>
+
+1982, Shaun Murphy, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=97), [CueTracker](http://cuetracker.net/Players/shaun-murphy/)</sup></sub>
+
+1987, Chau Hon Man, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1090)</sup></sub>
 
 
 
