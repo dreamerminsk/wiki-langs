@@ -1,8 +1,8 @@
 use crate::country::{entities::Country, tables::add_country};
 use app::tasks::{UpdateCountries, UpdateReadMe};
-use rand::Rng;
 use fern;
 use log::{debug, error, info, trace, warn};
+use rand::Rng;
 use std::{
     error::Error,
     fs::{read_to_string, write},
@@ -43,7 +43,7 @@ impl NextPlayer {
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
-setup_logger()?;
+    setup_logger()?;
 
     let mut next_player = NextPlayer(0);
     let mut rng = rand::thread_rng();
@@ -75,16 +75,6 @@ setup_logger()?;
 
     Ok(())
 }
-
-
-
-
-
-
-
-
-
-
 
 fn setup_logger() -> Result<(), fern::InitError> {
     fern::Dispatch::new()
