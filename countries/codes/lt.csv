@@ -1,9 +1,6 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q685,Solomon Islands
-,,,,,,Q1045,Somalia
-,,,,,,Q34754,Somaliland
 ,,,,,,Q258,South Africa
 ,,,,,,Q35086,South Georgia and the South Sandwich Islands
 ,,,,,,Q884,South Korea
@@ -216,6 +213,7 @@ Rusija,,,,,,Q159,Rusija
 Rytų Timoras,,,,,,Q574,Rytų Timoras
 Saba,,,,,,Q25528,Saba
 Sacharos Arabų Demokratinė Respublika,,,,,,Q40362,Sacharos Arabų Demokratinė Respublika
+Saliamono Salos,,,,,,Q685,Saliamono Salos
 Salvadoras,,,,,,Q792,Salvadoras
 Samoa,,,,,,Q683,Samoa
 San Marinas,,,,,,Q238,San Marinas
@@ -233,6 +231,8 @@ Sint Eustatijus,,,,,,Q26180,Sint Eustatijus
 Sint Martenas,,,,,,Q26273,Sint Martenas
 Slovakija,,,,,,Q214,Slovakija
 Slovėnija,,,,,,Q215,Slovėnija
+Somalilandas,,,,,,Q34754,Somalilandas
+Somalis,,,,,,Q1045,Somalis
 Suomija,,,,,,Q33,Suomija
 Turkų Kipras,,,,,,Q23681,Turkų Kipras
 Vengrija,,,,,,Q28,Vengrija
