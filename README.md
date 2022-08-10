@@ -1,5 +1,5 @@
 ## wiki-langs
-[![run](https://github.com/dreamerminsk/wiki-langs/actions/workflows/run.yml/badge.svg)](https://github.com/dreamerminsk/wiki-langs/actions/workflows/run.yml)
+[![update](https://github.com/dreamerminsk/wiki-langs/actions/workflows/update-tables.yml/badge.svg)](https://github.com/dreamerminsk/wiki-langs/actions/workflows/update-tables.yml)
 [![build](https://github.com/dreamerminsk/wiki-langs/actions/workflows/build.yml/badge.svg)](https://github.com/dreamerminsk/wiki-langs/actions/workflows/build.yml)
 
 ![commits](https://img.shields.io/github/commit-activity/y/dreamerminsk/wiki-langs)
@@ -10,15 +10,15 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Wed, 10 Aug 2022 14:10:16 +0000</sup>
+<sup>last modified: Wed, 10 Aug 2022 22:13:31 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 1254 |
+| 0000s | 1259 |
 | 1940s | 6 |
 | 1950s | 8 |
 | 1960s | 37 |
 | 1970s | 88 |
-| 1980s | 123 |
+| 1980s | 124 |
 | 1990s | 114 |
 | 2000s | 4 |
 
