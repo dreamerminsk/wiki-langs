@@ -15,22 +15,27 @@ jobs:
           toolchain: stable
           components: rustfmt, clippy
       - uses: Swatinem/rust-cache@v1
-      - name: run
+      - name: Update CSV tables
         uses: actions-rs/cargo@v1
         with:
           command: run
-      - name: commit csv tables
+      - name: Commit CSV tables
         uses: EndBug/add-and-commit@v9
         with:
           author_name: micah teeuws
           author_email: tutmirage@gmail.com
-          message: 'update csv tables'
+          message: 'Update CSV tables'
           add: '*.csv'
-      - name: commit readme
+      - name: Commit README
         uses: EndBug/add-and-commit@v9
         with:
           author_name: micah teeuws
           author_email: tutmirage@gmail.com
-          message: 'update readme'
+          message: 'Update README'
           add: '*.md'
+      - name: Archive log artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: log-artifacts
+          path: *.log
 
