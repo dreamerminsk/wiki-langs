@@ -1,6 +1,8 @@
 use crate::country::{entities::Country, tables::add_country};
 use app::tasks::{UpdateCountries, UpdateReadMe};
 use rand::Rng;
+use fern;
+use log::{debug, error, info, trace, warn};
 use std::{
     error::Error,
     fs::{read_to_string, write},
@@ -41,6 +43,8 @@ impl NextPlayer {
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
+setup_logger()?;
+
     let mut next_player = NextPlayer(0);
     let mut rng = rand::thread_rng();
     for i in 0..7 {
@@ -69,5 +73,33 @@ async fn main() -> Result<(), Box<dyn Error>> {
     let update_readme = UpdateReadMe::new();
     update_readme.execute();
 
+    Ok(())
+}
+
+
+
+
+
+
+
+
+
+
+
+fn setup_logger() -> Result<(), fern::InitError> {
+    fern::Dispatch::new()
+        .format(|out, message, record| {
+            out.finish(format_args!(
+                "{}[{}][{}] {}",
+                chrono::Local::now().format("[%Y-%m-%d][%H:%M:%S]"),
+                record.target(),
+                record.level(),
+                message
+            ))
+        })
+        .level(log::LevelFilter::Debug)
+        .chain(std::io::stdout())
+        .chain(fern::log_file("main.log")?)
+        .apply()?;
     Ok(())
 }
