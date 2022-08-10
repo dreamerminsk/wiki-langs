@@ -47,7 +47,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
     let mut next_player = NextPlayer(0);
     let mut rng = rand::thread_rng();
-let mut updated = 0;
+    let mut updated = 0;
     for i in 0..7 {
         let random_id: u32 = rng.gen_range(std::ops::Range {
             start: 300 * i,
@@ -55,16 +55,15 @@ let mut updated = 0;
         });
         let pid = i + next_player.get();
         let player = snooker::get_player(usize::try_from(pid)?).await;
-if player.is_ok(){
-let pl = player.unwrap();
-tables::add_player(&pl)?;
-updated+=1;
-        if !pl.nation.is_empty() {
-            let country = Country::from(pl.nation);
-            //add_country(&country)?;
+        if player.is_ok() {
+            let pl = player.unwrap();
+            tables::add_player(&pl)?;
+            updated += 1;
+            if !pl.nation.is_empty() {
+                let country = Country::from(pl.nation);
+                //add_country(&country)?;
+            }
         }
-}
-        
     }
     let next_id = next_player.get();
     next_player.put(next_id + updated)?;
