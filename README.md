@@ -10,10 +10,10 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Wed, 10 Aug 2022 22:13:31 +0000</sup>
+<sup>last modified: Thu, 11 Aug 2022 00:53:50 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 1259 |
+| 0000s | 1266 |
 | 1940s | 6 |
 | 1950s | 8 |
 | 1960s | 37 |
@@ -22,12 +22,10 @@
 | 1990s | 114 |
 | 2000s | 4 |
 
-##  born on August 10
-1973, Andy Hicks, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=51), [CueTracker](http://cuetracker.net/Players/andy-hicks/)</sup></sub>
+##  born on August 11
+1983, Mark Joyce, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=48), [CueTracker](http://cuetracker.net/Players/mark-joyce/)</sup></sub>
 
-1982, Shaun Murphy, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=97), [CueTracker](http://cuetracker.net/Players/shaun-murphy/)</sup></sub>
-
-1987, Chau Hon Man, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1090)</sup></sub>
+1985, Gary Wilson, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=546), [CueTracker](http://cuetracker.net/Players/gary-wilson/)</sup></sub>
 
 
 
