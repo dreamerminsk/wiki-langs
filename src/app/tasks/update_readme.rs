@@ -80,7 +80,8 @@ impl UpdateReadMe {
             Utc::now().to_rfc2822(),
             PLAYERS_HEADER,
             rows.join("\r\n"),
-            self.births(&births),self.milles(&milles)
+            self.births(&births),
+            self.milles(&milles)
         ))
     }
 
@@ -115,7 +116,7 @@ impl UpdateReadMe {
         )
     }
 
-fn milles(&self, players: &BTreeSet<Player>) -> String {
+    fn milles(&self, players: &BTreeSet<Player>) -> String {
         let mut mrows: Vec<String> = players.iter().map(|v| self.mille_row(&v)).collect();
         mrows.sort();
         format!(
@@ -141,7 +142,12 @@ fn milles(&self, players: &BTreeSet<Player>) -> String {
             "{}, {}, {} <sub><sup>{}</sup></sub>\r\n",
             player.birthday.unwrap().year(),
             player.full_name,
-Utc::now().naive_utc().date().signed_duration_since(player.birthday.unwrap()).num_days()+1,
+            Utc::now()
+                .naive_utc()
+                .date()
+                .signed_duration_since(player.birthday.unwrap())
+                .num_days()
+                + 1,
             links,
         )
     }
