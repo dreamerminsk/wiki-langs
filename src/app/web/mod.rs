@@ -1,8 +1,8 @@
 use lazy_static::lazy_static;
+use log::info;
 use reqwest::Client;
 use scraper::Html;
 use std::error::Error;
-use log::info;
 
 pub mod entities;
 
@@ -18,7 +18,7 @@ lazy_static! {
 }
 
 pub async fn get(url: String) -> Result<Html, Box<dyn Error>> {
-info!(url);
+    info!(url);
     let resp = CLIENT.get(url).send().await?;
     let content = resp.text().await?;
     Ok(Html::parse_document(&content))
