@@ -76,11 +76,11 @@ impl UpdateReadMe {
         rows.sort();
 
         Some(format!(
-            "## players\r\n<sup>last modified: {}</sup>\r\n{}\r\n{}\r\n\r\n{}\r\n",
+            "## players\r\n<sup>last modified: {}</sup>\r\n{}\r\n{}\r\n\r\n{}\r\n{}\r\n",
             Utc::now().to_rfc2822(),
             PLAYERS_HEADER,
             rows.join("\r\n"),
-            self.births(&births),
+            self.births(&births),self.milles(&milles)
         ))
     }
 
@@ -111,6 +111,37 @@ impl UpdateReadMe {
             player.birthday.unwrap().year(),
             player.full_name,
             Utc::now().year() - player.birthday.unwrap().year(),
+            links,
+        )
+    }
+
+fn milles(&self, players: &BTreeSet<Player>) -> String {
+        let mut mrows: Vec<String> = players.iter().map(|v| self.mille_row(&v)).collect();
+        mrows.sort();
+        format!(
+            "##  milleversary on {}\r\n{}\r\n",
+            Utc::now().format("%B %e"),
+            mrows.join("\r\n")
+        )
+    }
+
+    fn mille_row(&self, player: &Player) -> String {
+        let mut links = format!(
+            "[Snooker](http://www.snooker.org/res/index.asp?player={})",
+            player.snooker_id
+        );
+        if player.cuetracker_id.is_some() {
+            links = format!(
+                "{}, [CueTracker](http://cuetracker.net/Players/{}/)",
+                links,
+                player.cuetracker_id.as_ref().unwrap()
+            );
+        }
+        format!(
+            "{}, {}, {} <sub><sup>{}</sup></sub>\r\n",
+            player.birthday.unwrap().year(),
+            player.full_name,
+Utc::now().naive_utc().date().signed_duration_since(player.birthday.unwrap()).num_days()+1,
             links,
         )
     }
