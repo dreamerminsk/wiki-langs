@@ -1,9 +1,6 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q1036,Uganda
-,,,,,,Q212,Ukraine
-,,,,,,Q878,United Arab Emirates
 ,,,,,,Q145,United Kingdom
 ,,,,,,Q30,United States
 ,,,,,,Q11703,United States Virgin Islands
@@ -100,6 +97,7 @@ Izraelis,,,,,,Q801,Izraelis
 Jamaika,,,,,,Q766,Jamaika
 Japonija,,,,,,Q17,Japonija
 Jordanija,,,,,,Q810,Jordanija
+Jungtiniai Arabų Emyratai,,,,,,Q878,Jungtiniai Arabų Emyratai
 Juodkalnija,,,,,,Q236,Juodkalnija
 Kaimanų Salos,,,,,,Q5785,Kaimanų Salos
 Kalnų Karabacho Respublika,,,,,,Q244165,Kalnų Karabacho Respublika
@@ -232,6 +230,8 @@ Turkija,,,,,,Q43,Turkija
 Turkmėnija,,,,,,Q874,Turkmėnija
 Turkų Kipras,,,,,,Q23681,Turkų Kipras
 Tuvalu,,,,,,Q672,Tuvalu
+Uganda,,,,,,Q1036,Uganda
+Ukraina,,,,,,Q212,Ukraina
 Vengrija,,,,,,Q28,Vengrija
 Vokietija,,,,,,Q183,Vokietija
 Čadas,,,,,,Q657,Čadas
