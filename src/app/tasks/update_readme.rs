@@ -58,7 +58,7 @@ impl UpdateReadMe {
                 if bd.month().eq(&now.month()) && bd.day().eq(&now.day()) {
                     births.insert(p.clone());
                 }
-let   d  =   now.naive_utc().date().signed_duration_since(bd);
+                let d = now.naive_utc().date().signed_duration_since(bd);
                 if (d.num_days + 1) % 1000 == 0 {
                     milles.insert(p.clone());
                 }
