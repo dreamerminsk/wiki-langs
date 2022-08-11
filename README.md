@@ -22,13 +22,13 @@
 | 1990s | 117 |
 | 2000s | 4 |
 
-##  born on August 11
+### ***born on August 11***
 1983, Mark Joyce, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=48), [CueTracker](http://cuetracker.net/Players/mark-joyce/)</sup></sub>
 
 1985, Gary Wilson, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=546), [CueTracker](http://cuetracker.net/Players/gary-wilson/)</sup></sub>
 
 
-##  milleversary on August 11
+### ***milleversary on August 11***
 1989, Tomasz Skalski, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=358), [CueTracker](http://cuetracker.net/Players/tomasz-skalski/)</sup></sub>
 
 
