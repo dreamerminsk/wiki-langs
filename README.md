@@ -10,10 +10,10 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Thu, 11 Aug 2022 16:15:09 +0000</sup>
+<sup>last modified: Thu, 11 Aug 2022 18:12:31 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 1306 |
+| 0000s | 1313 |
 | 1940s | 6 |
 | 1950s | 8 |
 | 1960s | 37 |
@@ -26,6 +26,10 @@
 1983, Mark Joyce, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=48), [CueTracker](http://cuetracker.net/Players/mark-joyce/)</sup></sub>
 
 1985, Gary Wilson, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=546), [CueTracker](http://cuetracker.net/Players/gary-wilson/)</sup></sub>
+
+
+##  milleversary on August 11
+1989, Tomasz Skalski, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=358), [CueTracker](http://cuetracker.net/Players/tomasz-skalski/)</sup></sub>
 
 
 
