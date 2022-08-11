@@ -1,9 +1,6 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q869,Thailand
-,,,,,,Q778,The Bahamas
-,,,,,,Q1005,The Gambia
 ,,,,,,Q945,Togo
 ,,,,,,Q678,Tonga
 ,,,,,,Q907112,Transnistria
@@ -48,6 +45,7 @@ Aruba,,,,,,Q21203,Aruba
 Australija,,,,,,Q408,Australija
 Austrija,040,AT,AUT,AUT,AUT,Q40,Austrija
 Azerbaidžanas,,,,,,Q227,Azerbaidžanas
+Bahamos,,,,,,Q778,Bahamos
 Bahreinas,,,,,,Q398,Bahreinas
 Baltarusija,,,,,,Q184,Baltarusija
 Bangladešas,,,,,,Q902,Bangladešas
@@ -86,6 +84,7 @@ Filipinai,,,,,,Q928,Filipinai
 Folklando (Malvinų) Salos,,,,,,Q9648,Folklando (Malvinų) Salos
 Gabonas,,,,,,Q1000,Gabonas
 Gajana,,,,,,Q734,Gajana
+Gambija,,,,,,Q1005,Gambija
 Gana,,,,,,Q117,Gana
 Gibraltaras,,,,,,Q1410,Gibraltaras
 Graikija,,,,,,Q41,Graikija
@@ -229,6 +228,7 @@ Suomija,,,,,,Q33,Suomija
 Surinamas,,,,,,Q730,Surinamas
 Svalbardas,,,,,,Q25231,Svalbardas
 Tadžikija,,,,,,Q863,Tadžikija
+Tailandas,,,,,,Q869,Tailandas
 Taivanas,,,,,,Q865,Taivanas
 Tanzanija,,,,,,Q924,Tanzanija
 Turkų Kipras,,,,,,Q23681,Turkų Kipras
