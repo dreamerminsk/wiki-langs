@@ -1,4 +1,5 @@
 use lazy_static::lazy_static;
+use log::info;
 use reqwest::Client;
 use scraper::Html;
 use std::{error::Error, time::Duration};
@@ -18,6 +19,7 @@ lazy_static! {
 }
 
 pub async fn get(url: String) -> Result<Html, Box<dyn Error>> {
+    info!(url);
     let resp = CLIENT.get(url).send().await?;
     let content = resp.text().await?;
     Ok(Html::parse_document(&content))

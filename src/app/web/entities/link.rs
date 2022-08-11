@@ -3,7 +3,7 @@ use std::cmp::Ordering;
 use std::convert::From;
 use std::hash::{Hash, Hasher};
 
-#[derive(Debug)]
+#[derive(Debug, Clone)]
 pub struct Link {
     pub url: String,
     pub title: String,
