@@ -50,7 +50,7 @@ impl UpdateReadMe {
         let segs = Segments::open("./players").ok()?;
         let mut years = BTreeMap::<String, usize>::new();
         let mut births = BTreeSet::<Player>::new();
-let mut milles   = BTreeSet::<Player>::new();
+        let mut milles = BTreeSet::<Player>::new();
         let now = Utc::now();
         segs.into_iter().flat_map(|s| s.into_iter()).for_each(|p| {
             if p.birthday.is_some() {
@@ -58,8 +58,10 @@ let mut milles   = BTreeSet::<Player>::new();
                 if bd.month().eq(&now.month()) && bd.day().eq(&now.day()) {
                     births.insert(p.clone());
                 }
-let d = bd.signed_duration_since(now);
-if (d.num_days+1) % 1000 == 0   {milles.insert(p.clone());}
+                let d = bd.signed_duration_since(now);
+                if (d.num_days + 1) % 1000 == 0 {
+                    milles.insert(p.clone());
+                }
             }
             let y = p
                 .birthday
