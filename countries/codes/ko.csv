@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q423,North Korea
-,,,,,,Q221,North Macedonia
-,,,,,,Q23681,Northern Cyprus
-,,,,,,Q26,Northern Ireland
 ,,,,,,Q20,Norway
 ,,,,,,Q842,Oman
 ,,,,,,Q843,Pakistan
@@ -163,6 +159,9 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 부룬디,,,,,,Q967,부룬디
 부르키나파소,,,,,,Q965,부르키나파소
 부탄,,,,,,Q917,부탄
+북마케도니아,,,,,,Q221,북마케도니아
+북아일랜드,,,,,,Q26,북아일랜드
+북키프로스,,,,,,Q23681,북키프로스
 불가리아,,,,,,Q219,불가리아
 브라질,,,,,,Q155,브라질
 브루나이,,,,,,Q921,브루나이
@@ -207,6 +206,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 자메이카,,,,,,Q766,자메이카
 저지섬,,,,,,Q785,저지섬
 적도 기니,,,,,,Q983,적도 기니
+조선민주주의인민공화국,,,,,,Q423,조선민주주의인민공화국
 조지아,,,,,,Q230,조지아
 중앙아프리카 공화국,,,,,,Q929,중앙아프리카 공화국
 중화인민공화국,,,,,,Q148,중화인민공화국
