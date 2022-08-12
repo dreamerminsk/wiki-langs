@@ -10,10 +10,10 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Thu, 11 Aug 2022 22:10:01 +0000</sup>
+<sup>last modified: Fri, 12 Aug 2022 00:49:03 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 1326 |
+| 0000s | 1332 |
 | 1940s | 6 |
 | 1950s | 8 |
 | 1960s | 37 |
@@ -22,14 +22,12 @@
 | 1990s | 117 |
 | 2000s | 4 |
 
-### ***born on August 11***
-1983, Mark Joyce, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=48), [CueTracker](http://cuetracker.net/Players/mark-joyce/)</sup></sub>
-
-1985, Gary Wilson, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=546), [CueTracker](http://cuetracker.net/Players/gary-wilson/)</sup></sub>
+### ***born on August 12***
+1972, Mark Davis, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=15), [CueTracker](http://cuetracker.net/Players/mark-davis/)</sup></sub>
 
 
-### ***milleversary on August 11***
-1989, Tomasz Skalski, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=358), [CueTracker](http://cuetracker.net/Players/tomasz-skalski/)</sup></sub>
+### ***milleversary on August 12***
+1995, George Pragnell, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=733), [CueTracker](http://cuetracker.net/Players/george-pragnall/)</sup></sub>
 
 
 
