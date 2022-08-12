@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q21,England
-,,,,,,Q983,Equatorial Guinea
-,,,,,,Q986,Eritrea
-,,,,,,Q191,Estonia
-,,,,,,Q1050,Eswatini
 ,,,,,,Q115,Ethiopia
 ,,,,,,Q9648,Falkland Islands
 ,,,,,,Q4628,Faroe Islands
@@ -187,6 +182,7 @@ Akrotíri és Dekélia,,,,,,Q37362,Akrotíri és Dekélia
 Albánia,,,,,,Q222,Albánia
 Algéria,,,,,,Q262,Algéria
 Andorra,,,,,,Q228,Andorra
+Anglia,,,,,,Q21,Anglia
 Angola,,,,,,Q916,Angola
 Anguilla,,,,,,Q25228,Anguilla
 Antigua és Barbuda,,,,,,Q781,Antigua és Barbuda
@@ -227,7 +223,9 @@ Dominikai Közösség,,,,,,Q784,Dominikai Közösség
 Dzsibuti,,,,,,Q977,Dzsibuti
 Dánia,,,,,,Q35,Dánia
 Ecuador,,,,,,Q736,Ecuador
+Egyenlítői-Guinea,,,,,,Q983,Egyenlítői-Guinea
 Egyiptom,,,,,,Q79,Egyiptom
+Eritrea,,,,,,Q986,Eritrea
 Fehéroroszország,,,,,,Q184,Fehéroroszország
 Hegyi-Karabah Köztársaság,,,,,,Q244165,Hegyi-Karabah Köztársaság
 Horvátország,,,,,,Q224,Horvátország
@@ -244,5 +242,7 @@ Kína,,,,,,Q148,Kína
 Kókusz (Keeling)-szigetek,,,,,,Q36004,Kókusz (Keeling)-szigetek
 Közép-afrikai Köztársaság,,,,,,Q929,Közép-afrikai Köztársaság
 Salvador,,,,,,Q792,Salvador
+Szváziföld,,,,,,Q1050,Szváziföld
 Zöld-foki Köztársaság,,,,,,Q1011,Zöld-foki Köztársaság
+Észtország,,,,,,Q191,Észtország
 Örményország,,,,,,Q399,Örményország
