@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q1044,Sierra Leone
-,,,,,,Q334,Singapore
-,,,,,,Q26180,Sint Eustatius
-,,,,,,Q26273,Sint Maarten
-,,,,,,Q214,Slovakia
 ,,,,,,Q215,Slovenia
 ,,,,,,Q685,Solomon Islands
 ,,,,,,Q1045,Somalia
@@ -150,6 +145,11 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 세인트빈센트 그레나딘,,,,,,Q757,세인트빈센트 그레나딘
 세인트키츠 네비스,,,,,,Q763,세인트키츠 네비스
 스코틀랜드,,,,,,Q22,스코틀랜드
+슬로바키아,,,,,,Q214,슬로바키아
+시에라리온,,,,,,Q1044,시에라리온
+신트마르턴,,,,,,Q26273,신트마르턴
+신트외스타티위스섬,,,,,,Q26180,신트외스타티위스섬
+싱가포르,,,,,,Q334,싱가포르
 아루바,,,,,,Q21203,아루바
 아르메니아,,,,,,Q399,아르메니아
 아르차흐 공화국,,,,,,Q244165,아르차흐 공화국
