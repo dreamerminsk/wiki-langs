@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q928,Philippines
-,,,,,,Q36,Poland
-,,,,,,Q45,Portugal
-,,,,,,Q1183,Puerto Rico
 ,,,,,,Q846,Qatar
 ,,,,,,Q971,Republic of the Congo
 ,,,,,,Q218,Romania
@@ -239,10 +235,14 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 팔라우,,,,,,Q695,팔라우
 페로 제도,,,,,,Q4628,페로 제도
 페루,,,,,,Q419,페루
+포르투갈,,,,,,Q45,포르투갈
 포클랜드 제도,,,,,,Q9648,포클랜드 제도
+폴란드,,,,,,Q36,폴란드
+푸에르토리코,,,,,,Q1183,푸에르토리코
 프랑스,,,,,,Q142,프랑스
 프랑스령 기아나,,,,,,Q3769,프랑스령 기아나
 피지,,,,,,Q712,피지
 핀란드,,,,,,Q33,핀란드
+필리핀,,,,,,Q928,필리핀
 헝가리,,,,,,Q28,헝가리
 홍콩,,,,,,Q8646,홍콩
