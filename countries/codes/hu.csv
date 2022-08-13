@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q28,Hungary
-,,,,,,Q189,Iceland
-,,,,,,Q668,India
-,,,,,,Q252,Indonesia
-,,,,,,Q794,Iran
 ,,,,,,Q796,Iraq
 ,,,,,,Q27,Republic of Ireland
 ,,,,,,Q9676,Isle of Man
@@ -227,6 +222,10 @@ Hegyi-Karabah Köztársaság,,,,,,Q244165,Hegyi-Karabah Köztársaság
 Honduras,,,,,,Q783,Honduras
 Hongkong,,,,,,Q8646,Hongkong
 Horvátország,,,,,,Q224,Horvátország
+India,,,,,,Q668,India
+Indonézia,,,,,,Q252,Indonézia
+Irán,,,,,,Q794,Irán
+Izland,,,,,,Q189,Izland
 Kajmán-szigetek,,,,,,Q5785,Kajmán-szigetek
 Kambodzsa,,,,,,Q424,Kambodzsa
 Kamerun,,,,,,Q1009,Kamerun
@@ -239,6 +238,7 @@ Kuba,,,,,,Q241,Kuba
 Kína,,,,,,Q148,Kína
 Kókusz (Keeling)-szigetek,,,,,,Q36004,Kókusz (Keeling)-szigetek
 Közép-afrikai Köztársaság,,,,,,Q929,Közép-afrikai Köztársaság
+Magyarország,,,,,,Q28,Magyarország
 Mikronéziai Szövetségi Államok,,,,,,Q702,Mikronéziai Szövetségi Államok
 Németország,,,,,,Q183,Németország
 Salvador,,,,,,Q792,Salvador
