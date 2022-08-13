@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q1027,Mauritius
-,,,,,,Q96,Mexico
-,,,,,,Q217,Moldova
-,,,,,,Q235,Monaco
-,,,,,,Q711,Mongolia
 ,,,,,,Q236,Montenegro
 ,,,,,,Q13353,Montserrat
 ,,,,,,Q1028,Morocco
@@ -235,8 +230,13 @@ Mali,,,,,,Q912,Mali
 Man-sziget,,,,,,Q9676,Man-sziget
 Marshall-szigetek,,,,,,Q709,Marshall-szigetek
 Martinique,,,,,,Q17054,Martinique
+Mauritius,,,,,,Q1027,Mauritius
 Mauritánia,,,,,,Q1025,Mauritánia
+Mexikó,,,,,,Q96,Mexikó
 Mikronéziai Szövetségi Államok,,,,,,Q702,Mikronéziai Szövetségi Államok
+Moldova,,,,,,Q217,Moldova
+Monaco,,,,,,Q235,Monaco
+Mongólia,,,,,,Q711,Mongólia
 Málta,,,,,,Q233,Málta
 Németország,,,,,,Q183,Németország
 Olaszország,,,,,,Q38,Olaszország
