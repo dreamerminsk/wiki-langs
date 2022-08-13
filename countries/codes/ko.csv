@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q212,Ukraine
-,,,,,,Q878,United Arab Emirates
-,,,,,,Q145,United Kingdom
-,,,,,,Q30,United States
-,,,,,,Q11703,United States Virgin Islands
 ,,,,,,Q400506,Unknown
 ,,,,,,Q77,Uruguay
 ,,,,,,Q265,Uzbekistan
@@ -78,6 +73,8 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 몰디브,,,,,,Q826,몰디브
 몰타,,,,,,Q233,몰타
 몽골,,,,,,Q711,몽골
+미국,,,,,,Q30,미국
+미국령 버진아일랜드,,,,,,Q11703,미국령 버진아일랜드
 미얀마,,,,,,Q836,미얀마
 미크로네시아 연방,,,,,,Q702,미크로네시아 연방
 바레인,,,,,,Q398,바레인
@@ -135,6 +132,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 신트마르턴,,,,,,Q26273,신트마르턴
 신트외스타티위스섬,,,,,,Q26180,신트외스타티위스섬
 싱가포르,,,,,,Q334,싱가포르
+아랍에미리트,,,,,,Q878,아랍에미리트
 아루바,,,,,,Q21203,아루바
 아르메니아,,,,,,Q399,아르메니아
 아르차흐 공화국,,,,,,Q244165,아르차흐 공화국
@@ -158,6 +156,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 에콰도르,,,,,,Q736,에콰도르
 에티오피아,,,,,,Q115,에티오피아
 엘살바도르,,,,,,Q792,엘살바도르
+영국,,,,,,Q145,영국
 영국령 버진아일랜드,,,,,,Q25305,영국령 버진아일랜드
 영국령 인도양 지역,,,,,,Q43448,영국령 인도양 지역
 오만,,,,,,Q842,오만
@@ -166,6 +165,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 온두라스,,,,,,Q783,온두라스
 요르단,,,,,,Q810,요르단
 우간다,,,,,,Q1036,우간다
+우크라이나,,,,,,Q212,우크라이나
 이라크,,,,,,Q796,이라크
 이란,,,,,,Q794,이란
 이스라엘,,,,,,Q801,이스라엘
