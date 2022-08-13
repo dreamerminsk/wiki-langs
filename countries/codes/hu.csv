@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q1007,Guinea-Bissau
-,,,,,,Q734,Guyana
-,,,,,,Q790,Haiti
-,,,,,,Q783,Honduras
-,,,,,,Q8646,Hong Kong
 ,,,,,,Q28,Hungary
 ,,,,,,Q189,Iceland
 ,,,,,,Q668,India
@@ -179,6 +174,7 @@ Belize,,,,,,Q242,Belize
 Benin,,,,,,Q962,Benin
 Bermuda,,,,,,Q23635,Bermuda
 Bhután,,,,,,Q917,Bhután
+Bissau-Guinea,,,,,,Q1007,Bissau-Guinea
 Bolívia,,,,,,Q750,Bolívia
 Bonaire,,,,,,Q25396,Bonaire
 Bosznia-Hercegovina,,,,,,Q225,Bosznia-Hercegovina
@@ -224,8 +220,12 @@ Guadeloupe,,,,,,Q17012,Guadeloupe
 Guatemala,,,,,,Q774,Guatemala
 Guernsey,,,,,,Q3311985,Guernsey
 Guinea,,,,,,Q1006,Guinea
+Guyana,,,,,,Q734,Guyana
 Görögország,,,,,,Q41,Görögország
+Haiti,,,,,,Q790,Haiti
 Hegyi-Karabah Köztársaság,,,,,,Q244165,Hegyi-Karabah Köztársaság
+Honduras,,,,,,Q783,Honduras
+Hongkong,,,,,,Q8646,Hongkong
 Horvátország,,,,,,Q224,Horvátország
 Kajmán-szigetek,,,,,,Q5785,Kajmán-szigetek
 Kambodzsa,,,,,,Q424,Kambodzsa
