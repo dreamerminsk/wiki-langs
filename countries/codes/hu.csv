@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q14773,Macau
-,,,,,,Q1019,Madagascar
-,,,,,,Q1020,Malawi
-,,,,,,Q833,Malaysia
-,,,,,,Q826,Maldives
 ,,,,,,Q912,Mali
 ,,,,,,Q233,Malta
 ,,,,,,Q709,Marshall Islands
@@ -235,7 +230,12 @@ Liechtenstein,,,,,,Q347,Liechtenstein
 Litvánia,,,,,,Q37,Litvánia
 Luxemburg,,,,,,Q32,Luxemburg
 Líbia,,,,,,Q1016,Líbia
+Madagaszkár,,,,,,Q1019,Madagaszkár
 Magyarország,,,,,,Q28,Magyarország
+Makaó,,,,,,Q14773,Makaó
+Malajzia,,,,,,Q833,Malajzia
+Malawi,,,,,,Q1020,Malawi
+Maldív-szigetek,,,,,,Q826,Maldív-szigetek
 Man-sziget,,,,,,Q9676,Man-sziget
 Mikronéziai Szövetségi Államok,,,,,,Q702,Mikronéziai Szövetségi Államok
 Németország,,,,,,Q183,Németország
