@@ -10,10 +10,10 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Fri, 12 Aug 2022 22:12:00 +0000</sup>
+<sup>last modified: Sat, 13 Aug 2022 00:46:30 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 1393 |
+| 0000s | 1399 |
 | 1940s | 6 |
 | 1950s | 8 |
 | 1960s | 37 |
@@ -22,12 +22,15 @@
 | 1990s | 121 |
 | 2000s | 4 |
 
-### ***born on August 12***
-1972, Mark Davis, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=15), [CueTracker](http://cuetracker.net/Players/mark-davis/)</sup></sub>
+### ***born on August 13***
+1974, Joe Perry, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=168), [CueTracker](http://cuetracker.net/Players/joe-perry/)</sup></sub>
+
+1992, Jake Nicholson, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=138), [CueTracker](http://cuetracker.net/Players/jake-nicholson/)</sup></sub>
+
+1995, Owais Ali, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1724), [CueTracker](http://cuetracker.net/Players/owais-ali/)</sup></sub>
 
 
-### ***milleversary on August 12***
-1995, George Pragnell, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=733), [CueTracker](http://cuetracker.net/Players/george-pragnall/)</sup></sub>
+### ***milleversary on August 13***
 
 
 
