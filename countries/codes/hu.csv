@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q1030,Namibia
-,,,,,,Q697,Nauru
-,,,,,,Q25359,Navassa Island
-,,,,,,Q837,Nepal
-,,,,,,Q55,Netherlands
 ,,,,,,Q664,New Zealand
 ,,,,,,Q811,Nicaragua
 ,,,,,,Q1032,Niger
@@ -175,6 +170,7 @@ Guyana,,,,,,Q734,Guyana
 Görögország,,,,,,Q41,Görögország
 Haiti,,,,,,Q790,Haiti
 Hegyi-Karabah Köztársaság,,,,,,Q244165,Hegyi-Karabah Köztársaság
+Hollandia,,,,,,Q55,Hollandia
 Honduras,,,,,,Q783,Honduras
 Hongkong,,,,,,Q8646,Hongkong
 Horvátország,,,,,,Q224,Horvátország
@@ -238,6 +234,10 @@ Montenegró,,,,,,Q236,Montenegró
 Montserrat (sziget),,,,,,Q13353,Montserrat (sziget)
 Mozambik,,,,,,Q1029,Mozambik
 Málta,,,,,,Q233,Málta
+Namíbia,,,,,,Q1030,Namíbia
+Nauru,,,,,,Q697,Nauru
+Navassa-sziget,,,,,,Q25359,Navassa-sziget
+Nepál,,,,,,Q837,Nepál
 Németország,,,,,,Q183,Németország
 Olaszország,,,,,,Q38,Olaszország
 Salvador,,,,,,Q792,Salvador
