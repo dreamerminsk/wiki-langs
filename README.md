@@ -10,15 +10,15 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Sun, 14 Aug 2022 14:10:12 +0000</sup>
+<sup>last modified: Sun, 14 Aug 2022 16:12:45 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 1505 |
+| 0000s | 1511 |
 | 1940s | 6 |
 | 1950s | 8 |
 | 1960s | 40 |
 | 1970s | 93 |
-| 1980s | 129 |
+| 1980s | 130 |
 | 1990s | 125 |
 | 2000s | 6 |
 
