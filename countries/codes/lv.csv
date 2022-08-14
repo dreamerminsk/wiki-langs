@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q1028,Morocco
-,,,,,,Q1029,Mozambique
-,,,,,,Q836,Myanmar
-,,,,,,Q1030,Namibia
 ,,,,,,Q697,Nauru
 ,,,,,,Q25359,Navassa Island
 ,,,,,,Q837,Nepal
@@ -222,6 +218,7 @@ Maldīvija,,,,,,Q826,Maldīvija
 Mali,,,,,,Q912,Mali
 Malta,,,,,,Q233,Malta
 Malāvija,,,,,,Q1020,Malāvija
+Maroka,,,,,,Q1028,Maroka
 Martinika,,,,,,Q17054,Martinika
 Mauritānija,,,,,,Q1025,Mauritānija
 Maurīcija,,,,,,Q1027,Maurīcija
@@ -229,11 +226,14 @@ Meksika,,,,,,Q96,Meksika
 Melnkalne,,,,,,Q236,Melnkalne
 Menas Sala,,,,,,Q9676,Menas Sala
 Mikronēzija (valsts),,,,,,Q702,Mikronēzija (valsts)
+Mjanma,,,,,,Q836,Mjanma
 Moldova,,,,,,Q217,Moldova
 Monako,,,,,,Q235,Monako
 Mongolija,,,,,,Q711,Mongolija
 Montserrata,,,,,,Q13353,Montserrata
+Mozambika,,,,,,Q1029,Mozambika
 Māršala Salas,,,,,,Q709,Māršala Salas
+Namībija,,,,,,Q1030,Namībija
 Salvadora,,,,,,Q792,Salvadora
 Somija,,,,,,Q33,Somija
 Svatini,,,,,,Q1050,Svatini
