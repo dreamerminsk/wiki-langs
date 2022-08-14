@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q846,Qatar
-,,,,,,Q971,Republic of the Congo
-,,,,,,Q218,Romania
-,,,,,,Q159,Russia
-,,,,,,Q1037,Rwanda
 ,,,,,,Q25528,Saba
 ,,,,,,Q40362,Sahrawi Arab Democratic Republic
 ,,,,,,Q25362,Saint Barthélemy
@@ -170,6 +165,7 @@ Kambodzsa,,,,,,Q424,Kambodzsa
 Kamerun,,,,,,Q1009,Kamerun
 Kanada,,,,,,Q16,Kanada
 Karácsony-sziget,,,,,,Q31063,Karácsony-sziget
+Katar,,,,,,Q846,Katar
 Kazahsztán,,,,,,Q232,Kazahsztán
 Kelet-Timor,,,,,,Q574,Kelet-Timor
 Kenya,,,,,,Q114,Kenya
@@ -177,6 +173,7 @@ Kirgizisztán,,,,,,Q813,Kirgizisztán
 Kiribati,,,,,,Q710,Kiribati
 Kolumbia,,,,,,Q739,Kolumbia
 Kongói Demokratikus Köztársaság,,,,,,Q974,Kongói Demokratikus Köztársaság
+Kongói Köztársaság,,,,,,Q971,Kongói Köztársaság
 Koszovó,,,,,,Q1246,Koszovó
 Kuba,,,,,,Q241,Kuba
 Kuvait,,,,,,Q817,Kuvait
@@ -227,6 +224,7 @@ Norvégia,,,,,,Q20,Norvégia
 Németország,,,,,,Q183,Németország
 Olaszország,,,,,,Q38,Olaszország
 Omán,,,,,,Q842,Omán
+Oroszország,,,,,,Q159,Oroszország
 Pakisztán,,,,,,Q843,Pakisztán
 Palau (állam),,,,,,Q695,Palau (állam)
 Panama,,,,,,Q804,Panama
@@ -235,6 +233,8 @@ Peru,,,,,,Q419,Peru
 Portugália,,,,,,Q45,Portugália
 Puerto Rico,,,,,,Q1183,Puerto Rico
 Pápua Új-Guinea,,,,,,Q691,Pápua Új-Guinea
+Románia,,,,,,Q218,Románia
+Ruanda,,,,,,Q1037,Ruanda
 Salvador,,,,,,Q792,Salvador
 Szváziföld,,,,,,Q1050,Szváziföld
 Zöld-foki Köztársaság,,,,,,Q1011,Zöld-foki Köztársaság
