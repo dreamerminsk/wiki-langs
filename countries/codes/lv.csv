@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q1025,Mauritania
-,,,,,,Q1027,Mauritius
-,,,,,,Q96,Mexico
-,,,,,,Q217,Moldova
 ,,,,,,Q235,Monaco
 ,,,,,,Q711,Mongolia
 ,,,,,,Q236,Montenegro
@@ -231,8 +227,12 @@ Mali,,,,,,Q912,Mali
 Malta,,,,,,Q233,Malta
 Malāvija,,,,,,Q1020,Malāvija
 Martinika,,,,,,Q17054,Martinika
+Mauritānija,,,,,,Q1025,Mauritānija
+Maurīcija,,,,,,Q1027,Maurīcija
+Meksika,,,,,,Q96,Meksika
 Menas Sala,,,,,,Q9676,Menas Sala
 Mikronēzija (valsts),,,,,,Q702,Mikronēzija (valsts)
+Moldova,,,,,,Q217,Moldova
 Māršala Salas,,,,,,Q709,Māršala Salas
 Salvadora,,,,,,Q792,Salvadora
 Somija,,,,,,Q33,Somija
