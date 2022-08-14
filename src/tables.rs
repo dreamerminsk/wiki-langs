@@ -79,13 +79,26 @@ fn get_segment(player: &Player) -> String {
     get_id_segment(player.snooker_id)
 }
 
-fn get_ct_segment(ctid: String) -> String {
-    format!("{:0}aaa.ids.csv", ctid.chars().next())
-}
+
 
 fn get_year_segment(date: NaiveDate) -> String {
     let decade = 10 * (date.year() / 10);
     format!("{:0>4}.births.csv", (decade).to_string())
+}
+
+
+
+
+fn get_ct_segment(ctid: String) -> String {
+    format!("{:0}aaa.ids.csv", ctid.chars().next().unwrap_or('_'))
+}
+
+
+
+
+
+fn get_id_segment(id: usize) -> String {
+    format!("ids.{:0>4}.csv", (100 * (id / 100) + 99).to_string())
 }
 
 pub struct PlayerLinkTable {
@@ -202,6 +215,4 @@ fn update_esegment(segment: &str, el: &EventLink) -> Result<(), Box<dyn Error>> 
     Ok(())
 }
 
-fn get_id_segment(id: usize) -> String {
-    format!("ids.{:0>4}.csv", (100 * (id / 100) + 99).to_string())
-}
+
