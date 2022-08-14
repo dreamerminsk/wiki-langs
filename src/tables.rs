@@ -9,13 +9,7 @@ pub struct Players {
 
 pub fn add_player(player: &Player) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./players/")?;
-    let source_name = format!(
-        "./players/{}",
-      get_segment(
-            player
-             
-        )
-    );
+    let source_name = format!("./players/{}", get_segment(player));
     if Path::new(&source_name).exists() {
         update_player_segment(&source_name, player)?;
     } else {
@@ -73,8 +67,8 @@ fn get_segment(player: &Player) -> String {
         None => match player.cuetracker_id {
             Some(ctid) => get_ct_segment(ctid),
             None => get_id_segment(player.snooker_id),
-   }
-}
+        },
+    }
 }
 
 fn get_year_segment(date: NaiveDate) -> String {
