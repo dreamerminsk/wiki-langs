@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q34754,Somaliland
-,,,,,,Q258,South Africa
-,,,,,,Q35086,South Georgia and the South Sandwich Islands
-,,,,,,Q884,South Korea
-,,,,,,Q23427,South Ossetia
 ,,,,,,Q958,South Sudan
 ,,,,,,Q29,Spain
 ,,,,,,Q854,Sri Lanka
@@ -95,6 +90,10 @@ Dominikai Köztársaság,,,,,,Q786,Dominikai Köztársaság
 Dominikai Közösség,,,,,,Q784,Dominikai Közösség
 Dzsibuti,,,,,,Q977,Dzsibuti
 Dánia,,,,,,Q35,Dánia
+Dél-Korea,,,,,,Q884,Dél-Korea
+Dél-Oszétia,,,,,,Q23427,Dél-Oszétia
+Dél-afrikai Köztársaság,,,,,,Q258,Dél-afrikai Köztársaság
+Déli-Georgia és Déli-Sandwich-szigetek,,,,,,Q35086,Déli-Georgia és Déli-Sandwich-szigetek
 Ecuador,,,,,,Q736,Ecuador
 Egyenlítői-Guinea,,,,,,Q983,Egyenlítői-Guinea
 Egyiptom,,,,,,Q79,Egyiptom
@@ -234,6 +233,7 @@ Szingapúr,,,,,,Q334,Szingapúr
 Szlovákia,,,,,,Q214,Szlovákia
 Szlovénia,,,,,,Q215,Szlovénia
 Szomália,,,,,,Q1045,Szomália
+Szomáliföld,,,,,,Q34754,Szomáliföld
 Szváziföld,,,,,,Q1050,Szváziföld
 Zöld-foki Köztársaság,,,,,,Q1011,Zöld-foki Köztársaság
 Észak-Ciprus,,,,,,Q23681,Észak-Ciprus
