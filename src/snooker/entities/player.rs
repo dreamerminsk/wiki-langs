@@ -30,24 +30,19 @@ impl PartialOrd for Player {
     }
 }
 
-
-
-
-
-
-
-impl PartialEq for     Player    {
+impl PartialEq for Player {
     fn eq(&self, other: &Self) -> bool {
         let mut some_pairs = 0;
         let mut eq_pairs = 0;
 
-            some_pairs += 1;
-            if    self.snooker_id ==      other.snooker_id    {
-                eq_pairs += 1;
-            }
-        
+        some_pairs += 1;
+        if self.snooker_id == other.snooker_id {
+            eq_pairs += 1;
+        }
 
-        if let (Some(this), Some(that)) = (self.cuetracker_id.as_ref(), other.cuetracker_id.as_ref()) {
+        if let (Some(this), Some(that)) =
+            (self.cuetracker_id.as_ref(), other.cuetracker_id.as_ref())
+        {
             some_pairs += 1;
             if this == that {
                 eq_pairs += 1;
@@ -75,11 +70,6 @@ impl PartialEq for     Player    {
         }
     }
 }
-
-
-
-
-
 
 impl Eq for Player {}
 
