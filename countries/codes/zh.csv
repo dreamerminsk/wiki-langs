@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q750,Bolivia
-,,,,,,Q25396,Bonaire
-,,,,,,Q225,Bosnia and Herzegovina
-,,,,,,Q963,Botswana
-,,,,,,Q155,Brazil
 ,,,,,,Q43448,British Indian Ocean Territory
 ,,,,,,Q25305,British Virgin Islands
 ,,,,,,Q921,Brunei
@@ -225,6 +220,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 亞克羅提利與德凱利亞,,,,,,Q37362,亞克羅提利與德凱利亞
 亞美尼亞,,,,,,Q399,亞美尼亞
 伯利兹,,,,,,Q242,伯利兹
+博奈尔,,,,,,Q25396,博奈尔
 奥地利,040,AT,AUT,AUT,AUT,Q40,奥地利
 孟加拉国,,,,,,Q902,孟加拉国
 安哥拉,,,,,,Q916,安哥拉
@@ -233,8 +229,12 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 安道尔,,,,,,Q228,安道尔
 巴巴多斯,,,,,,Q244,巴巴多斯
 巴林,,,,,,Q398,巴林
+巴西,,,,,,Q155,巴西
 比利时,,,,,,Q31,比利时
+波斯尼亚和黑塞哥维那,,,,,,Q225,波斯尼亚和黑塞哥维那
+波札那,,,,,,Q963,波札那
 澳大利亚,,,,,,Q408,澳大利亚
+玻利維亞,,,,,,Q750,玻利維亞
 白俄罗斯,,,,,,Q184,白俄罗斯
 百慕大,,,,,,Q23635,百慕大
 贝宁,,,,,,Q962,贝宁
