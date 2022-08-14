@@ -11,10 +11,9 @@ pub fn add_player(player: &Player) -> Result<(), Box<dyn Error>> {
     fs::create_dir_all("./players/")?;
     let source_name = format!(
         "./players/{}",
-        get_year_segment(
+      get_segment(
             player
-                .birthday
-                .unwrap_or_else(|| NaiveDate::from_ymd(0, 1, 1))
+             
         )
     );
     if Path::new(&source_name).exists() {
@@ -74,9 +73,8 @@ fn get_segment(player: &Player) -> String {
         None => match player.cuetracker_id {
             Some(ctid) => get_ct_segment(ctid),
             None => get_id_segment(player.snooker_id),
-        },
-    }
-    get_id_segment(player.snooker_id)
+   }
+}
 }
 
 fn get_year_segment(date: NaiveDate) -> String {
