@@ -10,27 +10,23 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Sat, 13 Aug 2022 22:10:22 +0000</sup>
+<sup>last modified: Sun, 14 Aug 2022 00:54:45 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 1461 |
+| 0000s | 1467 |
 | 1940s | 6 |
 | 1950s | 8 |
 | 1960s | 39 |
 | 1970s | 93 |
 | 1980s | 129 |
 | 1990s | 122 |
-| 2000s | 4 |
+| 2000s | 5 |
 
-### ***born on August 13***
-1974, Joe Perry, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=168), [CueTracker](http://cuetracker.net/Players/joe-perry/)</sup></sub>
-
-1992, Jake Nicholson, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=138), [CueTracker](http://cuetracker.net/Players/jake-nicholson/)</sup></sub>
-
-1995, Owais Ali, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1724), [CueTracker](http://cuetracker.net/Players/owais-ali/)</sup></sub>
+### ***born on August 14***
+1986, Chris Norbury, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=69), [CueTracker](http://cuetracker.net/Players/chris-norbury/)</sup></sub>
 
 
-### ***milleversary on August 13***
+### ***milleversary on August 14***
 
 
 
