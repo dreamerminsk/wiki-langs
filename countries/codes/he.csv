@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q678,Tonga
-,,,,,,Q907112,Transnistria
-,,,,,,Q754,Trinidad and Tobago
-,,,,,,Q948,Tunisia
 ,,,,,,Q43,Turkey
 ,,,,,,Q874,Turkmenistan
 ,,,,,,Q18221,Turks and Caicos Islands
@@ -123,7 +119,10 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 טאיוואן,,,,,,Q865,טאיוואן
 טג'יקיסטן,,,,,,Q863,טג'יקיסטן
 טוגו,,,,,,Q945,טוגו
+טונגה,,,,,,Q678,טונגה
 טנזניה,,,,,,Q924,טנזניה
+טרינידד וטובגו,,,,,,Q754,טרינידד וטובגו
+טרנסניסטריה,,,,,,Q907112,טרנסניסטריה
 יוון,,,,,,Q41,יוון
 יפן,,,,,,Q17,יפן
 ירדן,,,,,,Q810,ירדן
@@ -244,3 +243,4 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 שוודיה,,,,,,Q34,שוודיה
 שווייץ,,,,,,Q39,שווייץ
 תאילנד,,,,,,Q869,תאילנד
+תוניסיה,,,,,,Q948,תוניסיה
