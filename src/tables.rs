@@ -84,7 +84,7 @@ fn get_id_segment(id: usize) -> String {
     format!("ids.{:0>4}.csv", (100 * (id / 100) + 99).to_string())
 }
 
-pub struct PlayerLinkTable {
+pub struct PlayerLinks {
     folder: String,
 }
 
@@ -139,11 +139,11 @@ fn update_segment(segment: &str, pl: &PlayerLink) -> Result<(), Box<dyn Error>> 
     Ok(())
 }
 
-pub struct EventTable {
+pub struct Events {
     folder: String,
 }
 
-pub struct EventLinkTable {
+pub struct EventLinks {
     folder: String,
 }
 
