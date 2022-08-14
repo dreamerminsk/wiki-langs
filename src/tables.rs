@@ -3,7 +3,7 @@ use chrono::{Datelike, NaiveDate};
 use std::{cmp::Ordering, error::Error, fs, path::Path};
 use uuid::Uuid;
 
-pub struct Players{
+pub struct Players {
     folder: String,
 }
 
@@ -68,12 +68,8 @@ fn update_player_segment(segment: &str, player: &Player) -> Result<(), Box<dyn E
     Ok(())
 }
 
-
-
-
-
-fn get_segment(player:&Player)->String{
-get_id_segment(player.snooker_id)
+fn get_segment(player: &Player) -> String {
+    get_id_segment(player.snooker_id)
 }
 
 fn get_year_segment(date: NaiveDate) -> String {
