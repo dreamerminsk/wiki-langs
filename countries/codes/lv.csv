@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q1045,Somalia
-,,,,,,Q34754,Somaliland
-,,,,,,Q258,South Africa
-,,,,,,Q35086,South Georgia and the South Sandwich Islands
 ,,,,,,Q884,South Korea
 ,,,,,,Q23427,South Ossetia
 ,,,,,,Q958,South Sudan
@@ -89,6 +85,8 @@ Burkinafaso,,,,,,Q965,Burkinafaso
 Burundija,,,,,,Q967,Burundija
 Butāna,,,,,,Q917,Butāna
 Centrālāfrikas Republika,,,,,,Q929,Centrālāfrikas Republika
+Dienviddžordžija un Dienvidsendviču Salas,,,,,,Q35086,Dienviddžordžija un Dienvidsendviču Salas
+Dienvidāfrika,,,,,,Q258,Dienvidāfrika
 Dominika,,,,,,Q784,Dominika
 Dominikāna,,,,,,Q786,Dominikāna
 Dānija,,,,,,Q35,Dānija
@@ -230,6 +228,8 @@ Skotija,,,,,,Q22,Skotija
 Slovākija,,,,,,Q214,Slovākija
 Slovēnija,,,,,,Q215,Slovēnija
 Somija,,,,,,Q33,Somija
+Somālija,,,,,,Q1045,Somālija
+Somālilenda,,,,,,Q34754,Somālilenda
 Svatini,,,,,,Q1050,Svatini
 Ungārija,,,,,,Q28,Ungārija
 Vācija,,,,,,Q183,Vācija
