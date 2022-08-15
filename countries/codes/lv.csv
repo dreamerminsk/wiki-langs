@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q854,Sri Lanka
-,,,,,,Q219060,State of Palestine
-,,,,,,Q1049,Sudan
-,,,,,,Q730,Suriname
 ,,,,,,Q25231,Svalbard
 ,,,,,,Q34,Sweden
 ,,,,,,Q39,Switzerland
@@ -196,6 +192,7 @@ Nīderlande,,,,,,Q55,Nīderlande
 Omāna,,,,,,Q842,Omāna
 Pakistāna,,,,,,Q843,Pakistāna
 Palau,,,,,,Q695,Palau
+Palestīnas Valsts,,,,,,Q219060,Palestīnas Valsts
 Panama,,,,,,Q804,Panama
 Papua-Jaungvineja,,,,,,Q691,Papua-Jaungvineja
 Paragvaja,,,,,,Q733,Paragvaja
@@ -230,6 +227,8 @@ Somija,,,,,,Q33,Somija
 Somālija,,,,,,Q1045,Somālija
 Somālilenda,,,,,,Q34754,Somālilenda
 Spānija,,,,,,Q29,Spānija
+Sudāna,,,,,,Q1049,Sudāna
+Surinama,,,,,,Q730,Surinama
 Svatini,,,,,,Q1050,Svatini
 Ungārija,,,,,,Q28,Ungārija
 Vācija,,,,,,Q183,Vācija
@@ -245,3 +244,4 @@ Zālamana Salas,,,,,,Q685,Zālamana Salas
 Ēģipte,,,,,,Q79,Ēģipte
 Īrija,,,,,,Q27,Īrija
 Ķīna,,,,,,Q148,Ķīna
+Šrilanka,,,,,,Q854,Šrilanka
