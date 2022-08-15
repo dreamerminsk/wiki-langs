@@ -18,11 +18,15 @@ pub struct Player {
 
 impl Ord for Player {
     fn cmp(&self, other: &Self) -> Ordering {
-     if let (Some(this), Some(that)) = (self.birthday.as_ref(), other.birthday.as_ref()) {
-        this.cmp(that)
-        } else if let (Some(this), Some(that)) = (self.cuetracker_id.as_ref(), other.cuetracker_id.as_ref()) {
-        this.cmp(that)
-        }else {self.snooker_id.cmp(other.snooker_id)}
+        if let (Some(this), Some(that)) = (self.birthday.as_ref(), other.birthday.as_ref()) {
+            this.cmp(that)
+        } else if let (Some(this), Some(that)) =
+            (self.cuetracker_id.as_ref(), other.cuetracker_id.as_ref())
+        {
+            this.cmp(that)
+        } else {
+            self.snooker_id.cmp(other.snooker_id)
+        }
     }
 }
 
