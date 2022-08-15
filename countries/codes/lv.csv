@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q846,Qatar
-,,,,,,Q971,Republic of the Congo
-,,,,,,Q218,Romania
-,,,,,,Q159,Russia
-,,,,,,Q1037,Rwanda
 ,,,,,,Q25528,Saba
 ,,,,,,Q40362,Sahrawi Arab Democratic Republic
 ,,,,,,Q25362,Saint Barthélemy
@@ -163,6 +158,7 @@ Kaimanu Salas,,,,,,Q5785,Kaimanu Salas
 Kambodža,,,,,,Q424,Kambodža
 Kamerūna,,,,,,Q1009,Kamerūna
 Kanāda,,,,,,Q16,Kanāda
+Katara,,,,,,Q846,Katara
 Kazahstāna,,,,,,Q232,Kazahstāna
 Kenija,,,,,,Q114,Kenija
 Kipra,,,,,,Q229,Kipra
@@ -174,9 +170,11 @@ Kokosu (Kīlinga) Salas,,,,,,Q36004,Kokosu (Kīlinga) Salas
 Kolumbija,,,,,,Q739,Kolumbija
 Komoras,,,,,,Q970,Komoras
 Kongo Demokrātiskā Republika,,,,,,Q974,Kongo Demokrātiskā Republika
+Kongo Republika,,,,,,Q971,Kongo Republika
 Kosova,,,,,,Q1246,Kosova
 Kostarika,,,,,,Q800,Kostarika
 Kotdivuāra,,,,,,Q1008,Kotdivuāra
+Krievija,,,,,,Q159,Krievija
 Kuba,,,,,,Q241,Kuba
 Kuveita,,,,,,Q817,Kuveita
 Laosa,,,,,,Q819,Laosa
@@ -229,6 +227,8 @@ Peru,,,,,,Q419,Peru
 Polija,,,,,,Q36,Polija
 Portugāle,,,,,,Q45,Portugāle
 Puertoriko,,,,,,Q1183,Puertoriko
+Ruanda,,,,,,Q1037,Ruanda
+Rumānija,,,,,,Q218,Rumānija
 Salvadora,,,,,,Q792,Salvadora
 Somija,,,,,,Q33,Somija
 Svatini,,,,,,Q1050,Svatini
