@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q778,The Bahamas
-,,,,,,Q1005,The Gambia
-,,,,,,Q945,Togo
-,,,,,,Q678,Tonga
-,,,,,,Q907112,Transnistria
 ,,,,,,Q754,Trinidad and Tobago
 ,,,,,,Q948,Tunisia
 ,,,,,,Q43,Turkey
@@ -43,6 +38,7 @@ Aruba,,,,,,Q21203,Aruba
 Ausztria,040,AT,AUT,AUT,AUT,Q40,Ausztria
 Ausztrália (ország),,,,,,Q408,Ausztrália (ország)
 Azerbajdzsán,,,,,,Q227,Azerbajdzsán
+Bahama-szigetek,,,,,,Q778,Bahama-szigetek
 Bahrein,,,,,,Q398,Bahrein
 Banglades,,,,,,Q902,Banglades
 Barbados,,,,,,Q244,Barbados
@@ -71,6 +67,7 @@ Costa Rica,,,,,,Q800,Costa Rica
 Csehország,,,,,,Q213,Csehország
 Csád,,,,,,Q657,Csád
 Curaçao,,,,,,Q25279,Curaçao
+Dnyeszter Menti Köztársaság,,,,,,Q907112,Dnyeszter Menti Köztársaság
 Dominikai Köztársaság,,,,,,Q786,Dominikai Köztársaság
 Dominikai Közösség,,,,,,Q784,Dominikai Közösség
 Dzsibuti,,,,,,Q977,Dzsibuti
@@ -95,6 +92,7 @@ Francia Guyana,,,,,,Q3769,Francia Guyana
 Franciaország,,,,,,Q142,Franciaország
 Fülöp-szigetek,,,,,,Q928,Fülöp-szigetek
 Gabon,,,,,,Q1000,Gabon
+Gambia,,,,,,Q1005,Gambia
 Ghána,,,,,,Q117,Ghána
 Gibraltár (brit tengerentúli terület),,,,,,Q1410,Gibraltár (brit tengerentúli terület)
 Grenada,,,,,,Q769,Grenada
@@ -234,6 +232,8 @@ Szíria,,,,,,Q858,Szíria
 São Tomé és Príncipe,,,,,,Q1039,São Tomé és Príncipe
 Tanzánia,,,,,,Q924,Tanzánia
 Thaiföld,,,,,,Q869,Thaiföld
+Togo,,,,,,Q945,Togo
+Tonga,,,,,,Q678,Tonga
 Tádzsikisztán,,,,,,Q863,Tádzsikisztán
 Zöld-foki Köztársaság,,,,,,Q1011,Zöld-foki Köztársaság
 Észak-Ciprus,,,,,,Q23681,Észak-Ciprus
