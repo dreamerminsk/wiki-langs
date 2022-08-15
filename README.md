@@ -10,10 +10,10 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Sun, 14 Aug 2022 22:10:45 +0000</sup>
+<sup>last modified: Mon, 15 Aug 2022 00:52:48 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 1530 |
+| 0000s | 1537 |
 | 1940s | 6 |
 | 1950s | 8 |
 | 1960s | 40 |
@@ -22,11 +22,10 @@
 | 1990s | 127 |
 | 2000s | 6 |
 
-### ***born on August 14***
-1986, Chris Norbury, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=69), [CueTracker](http://cuetracker.net/Players/chris-norbury/)</sup></sub>
+### ***born on August 15***
 
 
-### ***milleversary on August 14***
+### ***milleversary on August 15***
 
 
 
