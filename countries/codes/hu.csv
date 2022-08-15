@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q672,Tuvalu
-,,,,,,Q1036,Uganda
-,,,,,,Q212,Ukraine
-,,,,,,Q878,United Arab Emirates
-,,,,,,Q145,United Kingdom
 ,,,,,,Q30,United States
 ,,,,,,Q11703,United States Virgin Islands
 ,,,,,,Q400506,Unknown
@@ -74,6 +69,8 @@ Dél-afrikai Köztársaság,,,,,,Q258,Dél-afrikai Köztársaság
 Déli-Georgia és Déli-Sandwich-szigetek,,,,,,Q35086,Déli-Georgia és Déli-Sandwich-szigetek
 Ecuador,,,,,,Q736,Ecuador
 Egyenlítői-Guinea,,,,,,Q983,Egyenlítői-Guinea
+Egyesült Arab Emírségek,,,,,,Q878,Egyesült Arab Emírségek
+Egyesült Királyság,,,,,,Q145,Egyesült Királyság
 Egyiptom,,,,,,Q79,Egyiptom
 Elefántcsontpart,,,,,,Q1008,Elefántcsontpart
 Eritrea,,,,,,Q986,Eritrea
@@ -232,9 +229,12 @@ Tonga,,,,,,Q678,Tonga
 Trinidad és Tobago,,,,,,Q754,Trinidad és Tobago
 Tunézia,,,,,,Q948,Tunézia
 Turks- és Caicos-szigetek,,,,,,Q18221,Turks- és Caicos-szigetek
+Tuvalu,,,,,,Q672,Tuvalu
 Tádzsikisztán,,,,,,Q863,Tádzsikisztán
 Törökország,,,,,,Q43,Törökország
 Türkmenisztán,,,,,,Q874,Türkmenisztán
+Uganda,,,,,,Q1036,Uganda
+Ukrajna,,,,,,Q212,Ukrajna
 Zöld-foki Köztársaság,,,,,,Q1011,Zöld-foki Köztársaság
 Észak-Ciprus,,,,,,Q23681,Észak-Ciprus
 Észak-Korea,,,,,,Q423,Észak-Korea
