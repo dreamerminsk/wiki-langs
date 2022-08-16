@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q1039,São Tomé and Príncipe
-,,,,,,Q865,Taiwan
-,,,,,,Q863,Tajikistan
-,,,,,,Q924,Tanzania
 ,,,,,,Q869,Thailand
 ,,,,,,Q778,The Bahamas
 ,,,,,,Q1005,The Gambia
@@ -203,6 +199,7 @@ Sahāras Arābu Demokrātiskā Republika,,,,,,Q40362,Sahāras Arābu Demokrātis
 Salvadora,,,,,,Q792,Salvadora
 Samoa,,,,,,Q683,Samoa
 Sanmarīno,,,,,,Q238,Sanmarīno
+Santome un Prinsipi,,,,,,Q1039,Santome un Prinsipi
 Saūda Arābija,,,,,,Q851,Saūda Arābija
 Seišelas,,,,,,Q1042,Seišelas
 Senbartelmī,,,,,,Q25362,Senbartelmī
@@ -228,6 +225,8 @@ Surinama,,,,,,Q730,Surinama
 Svalbāra,,,,,,Q25231,Svalbāra
 Svatini,,,,,,Q1050,Svatini
 Sīrija,,,,,,Q858,Sīrija
+Tadžikistāna,,,,,,Q863,Tadžikistāna
+Tanzānija,,,,,,Q924,Tanzānija
 Ungārija,,,,,,Q28,Ungārija
 Vācija,,,,,,Q183,Vācija
 Ziemeļkipra,,,,,,Q23681,Ziemeļkipra
@@ -243,5 +242,6 @@ Zālamana Salas,,,,,,Q685,Zālamana Salas
 Ēģipte,,,,,,Q79,Ēģipte
 Īrija,,,,,,Q27,Īrija
 Ķīna,,,,,,Q148,Ķīna
+Ķīnas Republika,,,,,,Q865,Ķīnas Republika
 Šrilanka,,,,,,Q854,Šrilanka
 Šveice,,,,,,Q39,Šveice
