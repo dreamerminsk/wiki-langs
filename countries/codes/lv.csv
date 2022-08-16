@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,WAL,Q25,Wales
-,,,,,,Q805,Yemen
-,,,,,,Q953,Zambia
-,,,,,,Q954,Zimbabwe
-,,,,,,Q5689,Åland
 ASV Virdžīnas,,,,,,Q11703,ASV Virdžīnas
 Abhāzija,,,,,,Q23334,Abhāzija
 Afganistāna,004,AF,AFG,AFG,AFG,Q889,Afganistāna
@@ -96,6 +91,7 @@ Izraēla,,,,,,Q801,Izraēla
 Jamaika,,,,,,Q766,Jamaika
 Japāna,,,,,,Q17,Japāna
 Jaunzēlande,,,,,,Q664,Jaunzēlande
+Jemena,,,,,,Q805,Jemena
 Jordānija,,,,,,Q810,Jordānija
 Kaboverde,,,,,,Q1011,Kaboverde
 Kaimanu Salas,,,,,,Q5785,Kaimanu Salas
@@ -161,6 +157,7 @@ Nigērija,,,,,,Q1033,Nigērija
 Nikaragva,,,,,,Q811,Nikaragva
 Norvēģija,,,,,,Q20,Norvēģija
 Nīderlande,,,,,,Q55,Nīderlande
+Olande,,,,,,Q5689,Olande
 Omāna,,,,,,Q842,Omāna
 Pakistāna,,,,,,Q843,Pakistāna
 Palau,,,,,,Q695,Palau
@@ -224,14 +221,17 @@ Urugvaja,,,,,,Q77,Urugvaja
 Uzbekistāna,,,,,,Q265,Uzbekistāna
 Vanuatu,,,,,,Q686,Vanuatu
 Vatikāns,,,,,,Q237,Vatikāns
+Velsa,,,,,WAL,Q25,Velsa
 Venecuēla,,,,,,Q717,Venecuēla
 Vjetnama,,,,,,Q881,Vjetnama
 Vācija,,,,,,Q183,Vācija
+Zambija,,,,,,Q953,Zambija
 Ziemeļkipra,,,,,,Q23681,Ziemeļkipra
 Ziemeļkoreja,,,,,,Q423,Ziemeļkoreja
 Ziemeļmaķedonija,,,,,,Q221,Ziemeļmaķedonija
 Ziemeļīrija,,,,,,Q26,Ziemeļīrija
 Ziemsvētku Sala,,,,,,Q31063,Ziemsvētku Sala
+Zimbabve,,,,,,Q954,Zimbabve
 Zviedrija,,,,,,Q34,Zviedrija
 Zālamana Salas,,,,,,Q685,Zālamana Salas
 Čada,,,,,,Q657,Čada
