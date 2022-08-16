@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q869,Thailand
-,,,,,,Q778,The Bahamas
-,,,,,,Q1005,The Gambia
-,,,,,,Q945,Togo
 ,,,,,,Q678,Tonga
 ,,,,,,Q907112,Transnistria
 ,,,,,,Q754,Trinidad and Tobago
@@ -48,6 +44,7 @@ Austrija,040,AT,AUT,AUT,AUT,Q40,Austrija
 Austrumtimora,,,,,,Q574,Austrumtimora
 Austrālija,,,,,,Q408,Austrālija
 Azerbaidžāna,,,,,,Q227,Azerbaidžāna
+Bahamu Salas,,,,,,Q778,Bahamu Salas
 Bahreina,,,,,,Q398,Bahreina
 Baltkrievija,,,,,,Q184,Baltkrievija
 Bangladeša,,,,,,Q902,Bangladeša
@@ -90,6 +87,7 @@ Francija,,,,,,Q142,Francija
 Fēru Salas,,,,,,Q4628,Fēru Salas
 Gabona,,,,,,Q1000,Gabona
 Gajāna,,,,,,Q734,Gajāna
+Gambija,,,,,,Q1005,Gambija
 Gana,,,,,,Q117,Gana
 Gibraltārs,,,,,,Q1410,Gibraltārs
 Grenlande,,,,,,Q223,Grenlande
@@ -226,7 +224,9 @@ Svalbāra,,,,,,Q25231,Svalbāra
 Svatini,,,,,,Q1050,Svatini
 Sīrija,,,,,,Q858,Sīrija
 Tadžikistāna,,,,,,Q863,Tadžikistāna
+Taizeme,,,,,,Q869,Taizeme
 Tanzānija,,,,,,Q924,Tanzānija
+Togo,,,,,,Q945,Togo
 Ungārija,,,,,,Q28,Ungārija
 Vācija,,,,,,Q183,Vācija
 Ziemeļkipra,,,,,,Q23681,Ziemeļkipra
