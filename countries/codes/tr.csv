@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q5785,Cayman Islands
-,,,,,,Q929,Central African Republic
-,,,,,,Q657,Chad
-,,,,,,Q298,Chile
-,,,,,,Q148,China
 ,,,,,,Q31063,Christmas Island
 ,,,,,,Q161258,Clipperton Island
 ,,,,,,Q36004,Cocos (Keeling) Islands
@@ -239,10 +234,15 @@ Brunei,,,,,,Q921,Brunei
 Bulgaristan,,,,,,Q219,Bulgaristan
 Burkina Faso,,,,,,Q965,Burkina Faso
 Burundi,,,,,,Q967,Burundi
+Cayman Adaları,,,,,,Q5785,Cayman Adaları
 Cezayir,,,,,,Q262,Cezayir
 Dağlık Karabağ Cumhuriyeti,,,,,,Q244165,Dağlık Karabağ Cumhuriyeti
 Ermenistan,,,,,,Q399,Ermenistan
 Kamboçya,,,,,,Q424,Kamboçya
 Kamerun,,,,,,Q1009,Kamerun
 Kanada,,,,,,Q16,Kanada
+Orta Afrika Cumhuriyeti,,,,,,Q929,Orta Afrika Cumhuriyeti
 Yeşil Burun Adaları,,,,,,Q1011,Yeşil Burun Adaları
+Çad,,,,,,Q657,Çad
+Çin,,,,,,Q148,Çin
+Şili,,,,,,Q298,Şili
