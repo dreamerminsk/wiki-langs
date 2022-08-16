@@ -10,17 +10,17 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Tue, 16 Aug 2022 16:13:34 +0000</sup>
+<sup>last modified: Tue, 16 Aug 2022 18:16:23 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 1654 |
+| 0000s | 1659 |
 | 1940s | 6 |
-| 1950s | 8 |
+| 1950s | 9 |
 | 1960s | 41 |
 | 1970s | 93 |
 | 1980s | 130 |
 | 1990s | 134 |
-| 2000s | 7 |
+| 2000s | 8 |
 
 ### ***born on August 16***
 1974, Robin Hull, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=549), [CueTracker](http://cuetracker.net/Players/robin-hull/)</sup></sub>
