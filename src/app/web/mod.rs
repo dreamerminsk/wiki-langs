@@ -23,7 +23,7 @@ pub async fn get(url: String) -> Result<Html, Box<dyn Error>> {
     info!(
         "get('{}') -> {},{}",
         url,
-        resp.status().as_str().unwrap(),
+        resp.status().as_str(),
         resp.status().canonical_reason().unwrap()
     );
     let content = resp.text().await?;
