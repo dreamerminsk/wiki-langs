@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q750,Bolivia
-,,,,,,Q25396,Bonaire
-,,,,,,Q225,Bosnia and Herzegovina
-,,,,,,Q963,Botswana
-,,,,,,Q155,Brazil
 ,,,,,,Q43448,British Indian Ocean Territory
 ,,,,,,Q25305,British Virgin Islands
 ,,,,,,Q921,Brunei
@@ -244,5 +239,10 @@ Belize,,,,,,Q242,Belize
 Benin,,,,,,Q962,Benin
 Bermuda,,,,,,Q23635,Bermuda
 Bhutan,,,,,,Q917,Bhutan
+Bolivia,,,,,,Q750,Bolivia
+Bonaire,,,,,,Q25396,Bonaire
+Bosnia ja Hertsegovina,,,,,,Q225,Bosnia ja Hertsegovina
+Botswana,,,,,,Q963,Botswana
+Brasilia,,,,,,Q155,Brasilia
 Itävalta,040,AT,AUT,AUT,AUT,Q40,Itävalta
 Valko-Venäjä,,,,,,Q184,Valko-Venäjä

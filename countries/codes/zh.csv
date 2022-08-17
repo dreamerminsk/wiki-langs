@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q884,South Korea
-,,,,,,Q23427,South Ossetia
-,,,,,,Q958,South Sudan
-,,,,,,Q29,Spain
 ,,,,,,Q854,Sri Lanka
 ,,,,,,Q219060,State of Palestine
 ,,,,,,Q1049,Sudan
@@ -78,6 +74,8 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 北賽普勒斯,,,,,,Q23681,北賽普勒斯
 北馬其頓,,,,,,Q221,北馬其頓
 南乔治亚和南桑威奇群岛,,,,,,Q35086,南乔治亚和南桑威奇群岛
+南奥塞梯,,,,,,Q23427,南奥塞梯
+南蘇丹,,,,,,Q958,南蘇丹
 南非,,,,,,Q258,南非
 博奈尔,,,,,,Q25396,博奈尔
 卡塔尔,,,,,,Q846,卡塔尔
@@ -113,6 +111,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 墨西哥,,,,,,Q96,墨西哥
 多明尼加,,,,,,Q786,多明尼加
 多米尼克,,,,,,Q784,多米尼克
+大韩民国,,,,,,Q884,大韩民国
 奈及利亞,,,,,,Q1033,奈及利亞
 奥地利,040,AT,AUT,AUT,AUT,Q40,奥地利
 孟加拉国,,,,,,Q902,孟加拉国
@@ -222,6 +221,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 蒲隆地,,,,,,Q967,蒲隆地
 薩巴,,,,,,Q25528,薩巴
 蘇格蘭,,,,,,Q22,蘇格蘭
+西班牙,,,,,,Q29,西班牙
 諾魯,,,,,,Q697,諾魯
 賽普勒斯,,,,,,Q229,賽普勒斯
 贝宁,,,,,,Q962,贝宁
