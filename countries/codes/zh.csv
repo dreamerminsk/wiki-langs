@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q678,Tonga
-,,,,,,Q907112,Transnistria
-,,,,,,Q754,Trinidad and Tobago
-,,,,,,Q948,Tunisia
 ,,,,,,Q43,Turkey
 ,,,,,,Q874,Turkmenistan
 ,,,,,,Q18221,Turks and Caicos Islands
@@ -59,6 +55,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 北爱尔兰,,,,,,Q26,北爱尔兰
 北賽普勒斯,,,,,,Q23681,北賽普勒斯
 北馬其頓,,,,,,Q221,北馬其頓
+千里達及托巴哥,,,,,,Q754,千里達及托巴哥
 南乔治亚和南桑威奇群岛,,,,,,Q35086,南乔治亚和南桑威奇群岛
 南奥塞梯,,,,,,Q23427,南奥塞梯
 南蘇丹,,,,,,Q958,南蘇丹
@@ -129,6 +126,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 幾內亞比索,,,,,,Q1007,幾內亞比索
 库拉索,,,,,,Q25279,库拉索
 德国,,,,,,Q183,德国
+德涅斯特河沿岸,,,,,,Q907112,德涅斯特河沿岸
 意大利,,,,,,Q38,意大利
 所罗门群岛,,,,,,Q685,所罗门群岛
 拉脫維亞,,,,,,Q211,拉脫維亞
@@ -149,6 +147,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 智利,,,,,,Q298,智利
 曼島,,,,,,Q9676,曼島
 朝鲜民主主义人民共和国,,,,,,Q423,朝鲜民主主义人民共和国
+東加,,,,,,Q678,東加
 柬埔寨,,,,,,Q424,柬埔寨
 根西,,,,,,Q3311985,根西
 格林纳达,,,,,,Q769,格林纳达
@@ -188,6 +187,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 科科斯（基林）群島,,,,,,Q36004,科科斯（基林）群島
 科索沃,,,,,,Q1246,科索沃
 秘鲁,,,,,,Q419,秘鲁
+突尼西亞,,,,,,Q948,突尼西亞
 立陶宛,,,,,,Q37,立陶宛
 納弗沙島,,,,,,Q25359,納弗沙島
 索马里,,,,,,Q1045,索马里
