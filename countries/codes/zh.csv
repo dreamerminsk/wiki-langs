@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q851,Saudi Arabia
-,,,,,,Q22,Scotland
-,,,,,,Q1041,Senegal
-,,,,,,Q403,Serbia
 ,,,,,,Q1042,Seychelles
 ,,,,,,Q1044,Sierra Leone
 ,,,,,,Q334,Singapore
@@ -119,6 +115,8 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 埃及,,,,,,Q79,埃及
 埃塞俄比亚,,,,,,Q115,埃塞俄比亚
 基里巴斯,,,,,,Q710,基里巴斯
+塞内加尔,,,,,,Q1041,塞内加尔
+塞尔维亚,,,,,,Q403,塞尔维亚
 墨西哥,,,,,,Q96,墨西哥
 多明尼加,,,,,,Q786,多明尼加
 多米尼克,,,,,,Q784,多米尼克
@@ -169,6 +167,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 毛里塔尼亚,,,,,,Q1025,毛里塔尼亚
 毛里求斯,,,,,,Q1027,毛里求斯
 汶莱,,,,,,Q921,汶莱
+沙特阿拉伯,,,,,,Q851,沙特阿拉伯
 法国,,,,,,Q142,法国
 法屬圭亞那,,,,,,Q3769,法屬圭亞那
 法罗群岛,,,,,,Q4628,法罗群岛
@@ -222,6 +221,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 蒙特塞拉特,,,,,,Q13353,蒙特塞拉特
 蒲隆地,,,,,,Q967,蒲隆地
 薩巴,,,,,,Q25528,薩巴
+蘇格蘭,,,,,,Q22,蘇格蘭
 諾魯,,,,,,Q697,諾魯
 賽普勒斯,,,,,,Q229,賽普勒斯
 贝宁,,,,,,Q962,贝宁
