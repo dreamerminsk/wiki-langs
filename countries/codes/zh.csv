@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q43,Turkey
-,,,,,,Q874,Turkmenistan
-,,,,,,Q18221,Turks and Caicos Islands
-,,,,,,Q672,Tuvalu
 ,,,,,,Q1036,Uganda
 ,,,,,,Q212,Ukraine
 ,,,,,,Q878,United Arab Emirates
@@ -78,6 +74,9 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 哥伦比亚,,,,,,Q739,哥伦比亚
 哥斯达黎加,,,,,,Q800,哥斯达黎加
 喀麦隆,,,,,,Q1009,喀麦隆
+圖瓦盧,,,,,,Q672,圖瓦盧
+土库曼斯坦,,,,,,Q874,土库曼斯坦
+土耳其,,,,,,Q43,土耳其
 圣卢西亚,,,,,,Q760,圣卢西亚
 圣多美和普林西比,,,,,,Q1039,圣多美和普林西比
 圣尤斯特歇斯,,,,,,Q26180,圣尤斯特歇斯
@@ -174,6 +173,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 爱尔兰,,,,,,Q27,爱尔兰
 爱沙尼亚,,,,,,Q191,爱沙尼亚
 牙买加,,,,,,Q766,牙买加
+特克斯和凯科斯群岛,,,,,,Q18221,特克斯和凯科斯群岛
 玻利維亞,,,,,,Q750,玻利維亞
 瑞典,,,,,,Q34,瑞典
 瑞士,,,,,,Q39,瑞士
