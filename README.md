@@ -10,10 +10,10 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Tue, 16 Aug 2022 22:10:32 +0000</sup>
+<sup>last modified: Wed, 17 Aug 2022 00:58:14 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 1668 |
+| 0000s | 1674 |
 | 1940s | 6 |
 | 1950s | 9 |
 | 1960s | 41 |
@@ -22,15 +22,16 @@
 | 1990s | 136 |
 | 2000s | 8 |
 
-### ***born on August 16***
-1974, Robin Hull, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=549), [CueTracker](http://cuetracker.net/Players/robin-hull/)</sup></sub>
+### ***born on August 17***
+1958, Floyd Ziegler, 64 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=979), [CueTracker](http://cuetracker.net/Players/floyd-ziegler/)</sup></sub>
 
-1981, Cao Xinlong, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=514), [CueTracker](http://cuetracker.net/Players/cao-xinlong/)</sup></sub>
+1983, Tom Ford, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=8), [CueTracker](http://cuetracker.net/Players/tom-ford/)</sup></sub>
 
-1987, Tian Pengfei, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=218), [CueTracker](http://cuetracker.net/Players/tian-pengfei/)</sup></sub>
+1994, Rhys Clark, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=917), [CueTracker](http://cuetracker.net/Players/rhys-clark/)</sup></sub>
 
 
-### ***milleversary on August 16***
+### ***milleversary on August 17***
+1984, Jamie Curtis-Barrett, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=165), [CueTracker](http://cuetracker.net/Players/jamie-barrett/)</sup></sub>
 
 
 
