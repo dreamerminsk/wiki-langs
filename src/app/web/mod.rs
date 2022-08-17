@@ -19,10 +19,10 @@ lazy_static! {
 }
 
 pub async fn get(url: String) -> Result<Html, Box<dyn Error>> {
-    let resp = CLIENT.get(url).send().await?;
+    let resp = CLIENT.get(&url).send().await?;
     info!(
         "get('{}') -> {},{}",
-        url,
+        &url,
         resp.status().as_str(),
         resp.status().canonical_reason().unwrap()
     );
