@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q26273,Sint Maarten
-,,,,,,Q214,Slovakia
-,,,,,,Q215,Slovenia
-,,,,,,Q685,Solomon Islands
 ,,,,,,Q1045,Somalia
 ,,,,,,Q34754,Somaliland
 ,,,,,,Q258,South Africa
@@ -144,6 +140,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 库拉索,,,,,,Q25279,库拉索
 德国,,,,,,Q183,德国
 意大利,,,,,,Q38,意大利
+所罗门群岛,,,,,,Q685,所罗门群岛
 拉脫維亞,,,,,,Q211,拉脫維亞
 挪威,,,,,,Q20,挪威
 捷克,,,,,,Q213,捷克
@@ -152,6 +149,8 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 摩纳哥,,,,,,Q235,摩纳哥
 撒拉威阿拉伯民主共和國,,,,,,Q40362,撒拉威阿拉伯民主共和國
 斐濟,,,,,,Q712,斐濟
+斯洛伐克,,,,,,Q214,斯洛伐克
+斯洛文尼亚,,,,,,Q215,斯洛文尼亚
 新加坡,,,,,,Q334,新加坡
 新西兰,,,,,,Q664,新西兰
 日本,,,,,,Q17,日本
@@ -209,6 +208,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 英屬維爾京群島,,,,,,Q25305,英屬維爾京群島
 英格兰,,,,,,Q21,英格兰
 荷兰,,,,,,Q55,荷兰
+荷屬聖馬丁,,,,,,Q26273,荷屬聖馬丁
 莫桑比克,,,,,,Q1029,莫桑比克
 莱索托,,,,,,Q1013,莱索托
 菲律宾,,,,,,Q928,菲律宾
