@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q1036,Uganda
-,,,,,,Q212,Ukraine
-,,,,,,Q878,United Arab Emirates
-,,,,,,Q145,United Kingdom
 ,,,,,,Q30,United States
 ,,,,,,Q11703,United States Virgin Islands
 ,,,,,,Q400506,Unknown
@@ -24,6 +20,8 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 中華民國,,,,,,Q865,中華民國
 中非共和國,,,,,,Q929,中非共和國
 丹麦,,,,,,Q35,丹麦
+乌克兰,,,,,,Q212,乌克兰
+乌干达,,,,,,Q1036,乌干达
 乍得,,,,,,Q657,乍得
 亞克羅提利與德凱利亞,,,,,,Q37362,亞克羅提利與德凱利亞
 亞美尼亞,,,,,,Q399,亞美尼亞
@@ -202,6 +200,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 肯尼亚,,,,,,Q114,肯尼亚
 芬兰,,,,,,Q33,芬兰
 苏丹,,,,,,Q1049,苏丹
+英国,,,,,,Q145,英国
 英屬印度洋領地,,,,,,Q43448,英屬印度洋領地
 英屬維爾京群島,,,,,,Q25305,英屬維爾京群島
 英格兰,,,,,,Q21,英格兰
@@ -233,6 +232,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 阿尔察赫共和国,,,,,,Q244165,阿尔察赫共和国
 阿尔巴尼亚,,,,,,Q222,阿尔巴尼亚
 阿布哈茲,,,,,,Q23334,阿布哈茲
+阿拉伯联合酋长国,,,,,,Q878,阿拉伯联合酋长国
 阿曼,,,,,,Q842,阿曼
 阿根廷,,,,,,Q414,阿根廷
 阿魯巴,,,,,,Q21203,阿魯巴

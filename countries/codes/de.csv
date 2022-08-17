@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q822,Lebanon
-,,,,,,Q1013,Lesotho
-,,,,,,Q1014,Liberia
-,,,,,,Q1016,Libya
 ,,,,,,Q347,Liechtenstein
 ,,,,,,Q37,Lithuania
 ,,,,,,Q32,Luxembourg
@@ -232,7 +228,11 @@ Kroatien,,,,,,Q224,Kroatien
 Kuba,,,,,,Q241,Kuba
 Kuwait,,,,,,Q817,Kuwait
 Laos,,,,,,Q819,Laos
+Lesotho,,,,,,Q1013,Lesotho
 Lettland,,,,,,Q211,Lettland
+Libanon,,,,,,Q822,Libanon
+Liberia,,,,,,Q1014,Liberia
+Libyen,,,,,,Q1016,Libyen
 Osttimor,,,,,,Q574,Osttimor
 Republik Arzach,,,,,,Q244165,Republik Arzach
 Republik Zypern,,,,,,Q229,Republik Zypern
