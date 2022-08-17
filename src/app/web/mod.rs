@@ -20,7 +20,12 @@ lazy_static! {
 
 pub async fn get(url: String) -> Result<Html, Box<dyn Error>> {
     let resp = CLIENT.get(url).send().await?;
-info!("get('{}') -> {},{}", url,resp.status().as_str(),resp.status().canonical_reason());
+    info!(
+        "get('{}') -> {},{}",
+        url,
+        resp.status().as_str(),
+        resp.status().canonical_reason()
+    );
     let content = resp.text().await?;
     Ok(Html::parse_document(&content))
 }
