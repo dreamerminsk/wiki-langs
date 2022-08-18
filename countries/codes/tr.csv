@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q235,Monaco
-,,,,,,Q711,Mongolia
-,,,,,,Q236,Montenegro
-,,,,,,Q13353,Montserrat
 ,,,,,,Q1028,Morocco
 ,,,,,,Q1029,Mozambique
 ,,,,,,Q836,Myanmar
@@ -194,6 +190,7 @@ Jersey,,,,,,Q785,Jersey
 Kamboçya,,,,,,Q424,Kamboçya
 Kamerun,,,,,,Q1009,Kamerun
 Kanada,,,,,,Q16,Kanada
+Karadağ,,,,,,Q236,Karadağ
 Kazakistan,,,,,,Q232,Kazakistan
 Kenya,,,,,,Q114,Kenya
 Kiribati,,,,,,Q710,Kiribati
@@ -230,7 +227,10 @@ Mauritius,,,,,,Q1027,Mauritius
 Meksika,,,,,,Q96,Meksika
 Mikronezya Federal Devletleri,,,,,,Q702,Mikronezya Federal Devletleri
 Moldova,,,,,,Q217,Moldova
+Monako,,,,,,Q235,Monako
+Montserrat,,,,,,Q13353,Montserrat
 Moritanya,,,,,,Q1025,Moritanya
+Moğolistan,,,,,,Q711,Moğolistan
 Mısır,,,,,,Q79,Mısır
 Orta Afrika Cumhuriyeti,,,,,,Q929,Orta Afrika Cumhuriyeti
 Yeşil Burun Adaları,,,,,,Q1011,Yeşil Burun Adaları

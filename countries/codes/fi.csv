@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q33,Finland
-,,,,,,Q142,France
-,,,,,,Q3769,French Guiana
-,,,,,,Q1000,Gabon
-,,,,,,Q230,Georgia (country)
 ,,,,,,Q183,Germany
 ,,,,,,Q117,Ghana
 ,,,,,,Q1410,Gibraltar
@@ -222,6 +217,8 @@ Etiopia,,,,,,Q115,Etiopia
 Falklandinsaaret,,,,,,Q9648,Falklandinsaaret
 Fidži,,,,,,Q712,Fidži
 Färsaaret,,,,,,Q4628,Färsaaret
+Gabon,,,,,,Q1000,Gabon
+Georgia,,,,,,Q230,Georgia
 Itä-Timor,,,,,,Q574,Itä-Timor
 Itävalta,040,AT,AUT,AUT,AUT,Q40,Itävalta
 Joulusaari,,,,,,Q31063,Joulusaari
@@ -240,6 +237,9 @@ Kuuba,,,,,,Q241,Kuuba
 Kyproksen tasavalta,,,,,,Q229,Kyproksen tasavalta
 Mikronesian liittovaltio,,,,,,Q702,Mikronesian liittovaltio
 Päiväntasaajan Guinea,,,,,,Q983,Päiväntasaajan Guinea
+Ranska,,,,,,Q142,Ranska
+Ranskan Guayana,,,,,,Q3769,Ranskan Guayana
+Suomi,,,,,,Q33,Suomi
 Swazimaa,,,,,,Q1050,Swazimaa
 Tanska,,,,,,Q35,Tanska
 Tšad,,,,,,Q657,Tšad
