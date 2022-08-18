@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q1025,Mauritania
-,,,,,,Q1027,Mauritius
-,,,,,,Q96,Mexico
-,,,,,,Q217,Moldova
 ,,,,,,Q235,Monaco
 ,,,,,,Q711,Mongolia
 ,,,,,,Q236,Montenegro
@@ -233,8 +229,12 @@ Mali,,,,,,Q912,Mali
 Malta,,,,,,Q233,Malta
 Marshallinseln,,,,,,Q709,Marshallinseln
 Martinique,,,,,,Q17054,Martinique
+Mauretanien,,,,,,Q1025,Mauretanien
+Mauritius,,,,,,Q1027,Mauritius
+Mexiko,,,,,,Q96,Mexiko
 Osttimor,,,,,,Q574,Osttimor
 Republik Arzach,,,,,,Q244165,Republik Arzach
+Republik Moldau,,,,,,Q217,Republik Moldau
 Republik Zypern,,,,,,Q229,Republik Zypern
 Tschad,,,,,,Q657,Tschad
 Tschechien,,,,,,Q213,Tschechien
