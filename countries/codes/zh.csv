@@ -1,9 +1,6 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
 ,,,,,,Q400506,Unknown
-,,,,,,Q265,Uzbekistan
-,,,,,,Q686,Vanuatu
-,,,,,,Q237,Vatican City
 ,,,,,,Q717,Venezuela
 ,,,,,,Q881,Vietnam
 ,,,,,WAL,Q25,Wales
@@ -18,6 +15,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 中非共和國,,,,,,Q929,中非共和國
 丹麦,,,,,,Q35,丹麦
 乌克兰,,,,,,Q212,乌克兰
+乌兹别克斯坦,,,,,,Q265,乌兹别克斯坦
 乌干达,,,,,,Q1036,乌干达
 乌拉圭,,,,,,Q77,乌拉圭
 乍得,,,,,,Q657,乍得
@@ -148,6 +146,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 格林纳达,,,,,,Q769,格林纳达
 格陵兰,,,,,,Q223,格陵兰
 格鲁吉亚,,,,,,Q230,格鲁吉亚
+梵蒂冈,,,,,,Q237,梵蒂冈
 比利时,,,,,,Q31,比利时
 毛里塔尼亚,,,,,,Q1025,毛里塔尼亚
 毛里求斯,,,,,,Q1027,毛里求斯
@@ -174,6 +173,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 瑞典,,,,,,Q34,瑞典
 瑞士,,,,,,Q39,瑞士
 瓜德罗普,,,,,,Q17012,瓜德罗普
+瓦努阿图,,,,,,Q686,瓦努阿图
 白俄罗斯,,,,,,Q184,白俄罗斯
 百慕大,,,,,,Q23635,百慕大
 直布罗陀,,,,,,Q1410,直布罗陀

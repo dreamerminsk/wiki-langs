@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q1025,Mauritania
-,,,,,,Q1027,Mauritius
-,,,,,,Q96,Mexico
-,,,,,,Q217,Moldova
 ,,,,,,Q235,Monaco
 ,,,,,,Q711,Mongolia
 ,,,,,,Q236,Montenegro
@@ -230,7 +226,11 @@ Malta,,,,,,Q233,Malta
 Man Adası,,,,,,Q9676,Man Adası
 Marshall Adaları,,,,,,Q709,Marshall Adaları
 Martinik,,,,,,Q17054,Martinik
+Mauritius,,,,,,Q1027,Mauritius
+Meksika,,,,,,Q96,Meksika
 Mikronezya Federal Devletleri,,,,,,Q702,Mikronezya Federal Devletleri
+Moldova,,,,,,Q217,Moldova
+Moritanya,,,,,,Q1025,Moritanya
 Mısır,,,,,,Q79,Mısır
 Orta Afrika Cumhuriyeti,,,,,,Q929,Orta Afrika Cumhuriyeti
 Yeşil Burun Adaları,,,,,,Q1011,Yeşil Burun Adaları
