@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q23681,Northern Cyprus
-,,,,,,Q26,Northern Ireland
-,,,,,,Q20,Norway
-,,,,,,Q842,Oman
-,,,,,,Q843,Pakistan
 ,,,,,,Q695,Palau
 ,,,,,,Q804,Panama
 ,,,,,,Q691,Papua New Guinea
@@ -188,7 +183,9 @@ Kosova,,,,,,Q1246,Kosova
 Kosta Rika,,,,,,Q800,Kosta Rika
 Kuveyt,,,,,,Q817,Kuveyt
 Kuzey Kore,,,,,,Q423,Kuzey Kore
+Kuzey Kıbrıs Türk Cumhuriyeti,,,,,,Q23681,Kuzey Kıbrıs Türk Cumhuriyeti
 Kuzey Makedonya,,,,,,Q221,Kuzey Makedonya
+Kuzey İrlanda,,,,,,Q26,Kuzey İrlanda
 Küba,,,,,,Q241,Küba
 Kıbrıs Cumhuriyeti,,,,,,Q229,Kıbrıs Cumhuriyeti
 Kırgızistan,,,,,,Q813,Kırgızistan
@@ -230,7 +227,10 @@ Nepal,,,,,,Q837,Nepal
 Nijer,,,,,,Q1032,Nijer
 Nijerya,,,,,,Q1033,Nijerya
 Nikaragua,,,,,,Q811,Nikaragua
+Norveç,,,,,,Q20,Norveç
 Orta Afrika Cumhuriyeti,,,,,,Q929,Orta Afrika Cumhuriyeti
+Pakistan,,,,,,Q843,Pakistan
+Umman,,,,,,Q842,Umman
 Yeni Zelanda,,,,,,Q664,Yeni Zelanda
 Yeşil Burun Adaları,,,,,,Q1011,Yeşil Burun Adaları
 Yunanistan,,,,,,Q41,Yunanistan

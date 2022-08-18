@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q8646,Hong Kong
-,,,,,,Q28,Hungary
-,,,,,,Q189,Iceland
-,,,,,,Q668,India
 ,,,,,,Q252,Indonesia
 ,,,,,,Q794,Iran
 ,,,,,,Q796,Iraq
@@ -217,6 +213,9 @@ Guinea-Bissau,,,,,,Q1007,Guinea-Bissau
 Guyana,,,,,,Q734,Guyana
 Haiti,,,,,,Q790,Haiti
 Honduras,,,,,,Q783,Honduras
+Hongkong,,,,,,Q8646,Hongkong
+Intia,,,,,,Q668,Intia
+Islanti,,,,,,Q189,Islanti
 Itä-Timor,,,,,,Q574,Itä-Timor
 Itävalta,040,AT,AUT,AUT,AUT,Q40,Itävalta
 Joulusaari,,,,,,Q31063,Joulusaari
@@ -244,5 +243,6 @@ Swazimaa,,,,,,Q1050,Swazimaa
 Tanska,,,,,,Q35,Tanska
 Tšad,,,,,,Q657,Tšad
 Tšekki,,,,,,Q213,Tšekki
+Unkari,,,,,,Q28,Unkari
 Valko-Venäjä,,,,,,Q184,Valko-Venäjä
 Viro,,,,,,Q191,Viro
