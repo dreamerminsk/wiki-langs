@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q45,Portugal
-,,,,,,Q1183,Puerto Rico
-,,,,,,Q846,Qatar
-,,,,,,Q971,Republic of the Congo
-,,,,,,Q218,Romania
 ,,,,,,Q159,Russia
 ,,,,,,Q1037,Rwanda
 ,,,,,,Q25528,Saba
@@ -170,6 +165,7 @@ Kamerun,,,,,,Q1009,Kamerun
 Kanada,,,,,,Q16,Kanada
 Kap Verde,,,,,,Q1011,Kap Verde
 Kasachstan,,,,,,Q232,Kasachstan
+Katar,,,,,,Q846,Katar
 Kenia,,,,,,Q114,Kenia
 Kirgisistan,,,,,,Q813,Kirgisistan
 Kiribati,,,,,,Q710,Kiribati
@@ -231,9 +227,13 @@ Paraguay,,,,,,Q733,Paraguay
 Peru,,,,,,Q419,Peru
 Philippinen,,,,,,Q928,Philippinen
 Polen,,,,,,Q36,Polen
+Portugal,,,,,,Q45,Portugal
+Puerto Rico,,,,,,Q1183,Puerto Rico
 Republik Arzach,,,,,,Q244165,Republik Arzach
+Republik Kongo,,,,,,Q971,Republik Kongo
 Republik Moldau,,,,,,Q217,Republik Moldau
 Republik Zypern,,,,,,Q229,Republik Zypern
+Rumänien,,,,,,Q218,Rumänien
 Tschad,,,,,,Q657,Tschad
 Tschechien,,,,,,Q213,Tschechien
 Türkische Republik Nordzypern,,,,,,Q23681,Türkische Republik Nordzypern

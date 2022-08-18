@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q232,Kazakhstan
-,,,,,,Q114,Kenya
-,,,,,,Q710,Kiribati
-,,,,,,Q1246,Kosovo
 ,,,,,,Q817,Kuwait
 ,,,,,,Q813,Kyrgyzstan
 ,,,,,,Q819,Laos
@@ -221,12 +217,16 @@ Kambodža,,,,,,Q424,Kambodža
 Kamerun,,,,,,Q1009,Kamerun
 Kanada,,,,,,Q16,Kanada
 Kap Verde,,,,,,Q1011,Kap Verde
+Kazakstan,,,,,,Q232,Kazakstan
+Kenia,,,,,,Q114,Kenia
 Keski-Afrikan tasavalta,,,,,,Q929,Keski-Afrikan tasavalta
 Kiina,,,,,,Q148,Kiina
+Kiribati,,,,,,Q710,Kiribati
 Kolumbia,,,,,,Q739,Kolumbia
 Komorit,,,,,,Q970,Komorit
 Kongon demokraattinen tasavalta,,,,,,Q974,Kongon demokraattinen tasavalta
 Kookossaaret,,,,,,Q36004,Kookossaaret
+Kosovo,,,,,,Q1246,Kosovo
 Kreikka,,,,,,Q41,Kreikka
 Kroatia,,,,,,Q224,Kroatia
 Kuuba,,,,,,Q241,Kuuba
