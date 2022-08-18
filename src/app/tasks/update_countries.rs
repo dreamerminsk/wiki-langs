@@ -16,7 +16,7 @@ impl UpdateCountries {
         self.execute_lang("tr").await?;
         self.execute_lang("de").await?;
         self.execute_lang("fi").await?;
-        self.execute_lang("zh").await?;
+        self.execute_lang("vi").await?;
         Some(())
     }
 
