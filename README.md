@@ -10,10 +10,10 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Wed, 17 Aug 2022 22:09:49 +0000</sup>
+<sup>last modified: Thu, 18 Aug 2022 00:56:47 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 1738 |
+| 0000s | 1745 |
 | 1940s | 6 |
 | 1950s | 9 |
 | 1960s | 42 |
@@ -22,16 +22,11 @@
 | 1990s | 141 |
 | 2000s | 8 |
 
-### ***born on August 17***
-1958, Floyd Ziegler, 64 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=979), [CueTracker](http://cuetracker.net/Players/floyd-ziegler/)</sup></sub>
-
-1983, Tom Ford, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=8), [CueTracker](http://cuetracker.net/Players/tom-ford/)</sup></sub>
-
-1994, Rhys Clark, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=917), [CueTracker](http://cuetracker.net/Players/rhys-clark/)</sup></sub>
+### ***born on August 18***
+1994, Oliver Brown, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=146), [CueTracker](http://cuetracker.net/Players/oliver-brown/)</sup></sub>
 
 
-### ***milleversary on August 17***
-1984, Jamie Curtis-Barrett, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=165), [CueTracker](http://cuetracker.net/Players/jamie-barrett/)</sup></sub>
+### ***milleversary on August 18***
 
 
 
