@@ -64,7 +64,7 @@ fn update_player_segment(segment: &str, player: &Player) -> Result<(), Box<dyn E
 fn get_segment(player: &Player) -> String {
     match player.birthday {
         Some(bd) => get_year_segment(bd),
-        None => match player.cuetracker_id {
+        None => match &player.cuetracker_id {
             Some(ctid) => get_ct_segment(ctid),
             None => get_id_segment(player.snooker_id),
         },
