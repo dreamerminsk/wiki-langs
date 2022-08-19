@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q763,Saint Kitts and Nevis
-,,,,,,Q760,Saint Lucia
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q34617,Saint Pierre and Miquelon
-,,,,,,Q757,Saint Vincent and the Grenadines
 ,,,,,,Q683,Samoa
 ,,,,,,Q238,San Marino
 ,,,,,,Q851,Saudi Arabia
@@ -234,6 +230,10 @@ Rumänien,,,,,,Q218,Rumänien
 Russland,,,,,,Q159,Russland
 Saba (Insel),,,,,,Q25528,Saba (Insel)
 Saint-Barthélemy (Insel),,,,,,Q25362,Saint-Barthélemy (Insel)
+Saint-Pierre und Miquelon,,,,,,Q34617,Saint-Pierre und Miquelon
+St. Kitts und Nevis,,,,,,Q763,St. Kitts und Nevis
+St. Lucia,,,,,,Q760,St. Lucia
+St. Vincent und die Grenadinen,,,,,,Q757,St. Vincent und die Grenadinen
 Tschad,,,,,,Q657,Tschad
 Tschechien,,,,,,Q213,Tschechien
 Türkische Republik Nordzypern,,,,,,Q23681,Türkische Republik Nordzypern
