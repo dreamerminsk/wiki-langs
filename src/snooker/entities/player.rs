@@ -25,7 +25,7 @@ impl Ord for Player {
         {
             this.cmp(that)
         } else {
-            self.snooker_id.cmp(other.snooker_id)
+            self.snooker_id.cmp(&other.snooker_id)
         }
     }
 }
