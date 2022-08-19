@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q1039,São Tomé and Príncipe
-,,,,,,Q865,Taiwan
-,,,,,,Q863,Tajikistan
-,,,,,,Q924,Tanzania
 ,,,,,,Q869,Thailand
 ,,,,,,Q778,The Bahamas
 ,,,,,,Q1005,The Gambia
@@ -225,7 +221,11 @@ Surinam,,,,,,Q730,Surinam
 Suriye,,,,,,Q858,Suriye
 Suudi Arabistan,,,,,,Q851,Suudi Arabistan
 Svalbard,,,,,,Q25231,Svalbard
+São Tomé ve Príncipe,,,,,,Q1039,São Tomé ve Príncipe
 Sırbistan,,,,,,Q403,Sırbistan
+Tacikistan,,,,,,Q863,Tacikistan
+Tanzanya,,,,,,Q924,Tanzanya
+Tayvan,,,,,,Q865,Tayvan
 Umman,,,,,,Q842,Umman
 Yeni Zelanda,,,,,,Q664,Yeni Zelanda
 Yeşil Burun Adaları,,,,,,Q1011,Yeşil Burun Adaları

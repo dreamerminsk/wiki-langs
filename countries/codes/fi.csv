@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q697,Nauru
-,,,,,,Q25359,Navassa Island
-,,,,,,Q837,Nepal
-,,,,,,Q55,Netherlands
 ,,,,,,Q664,New Zealand
 ,,,,,,Q811,Nicaragua
 ,,,,,,Q1032,Niger
@@ -104,6 +100,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 Abhasia,,,,,,Q23334,Abhasia
 Afganistan,004,AF,AFG,AFG,AFG,Q889,Afganistan
 Akrotíri ja Dekéleia,,,,,,Q37362,Akrotíri ja Dekéleia
+Alankomaat,,,,,,Q55,Alankomaat
 Albania,,,,,,Q222,Albania
 Algeria,,,,,,Q262,Algeria
 Andorra,,,,,,Q228,Andorra
@@ -233,6 +230,9 @@ Montserrat,,,,,,Q13353,Montserrat
 Mosambik,,,,,,Q1029,Mosambik
 Myanmar,,,,,,Q836,Myanmar
 Namibia,,,,,,Q1030,Namibia
+Nauru,,,,,,Q697,Nauru
+Navassa,,,,,,Q25359,Navassa
+Nepal,,,,,,Q837,Nepal
 Norsunluurannikko,,,,,,Q1008,Norsunluurannikko
 Päiväntasaajan Guinea,,,,,,Q983,Päiväntasaajan Guinea
 Ranska,,,,,,Q142,Ranska
