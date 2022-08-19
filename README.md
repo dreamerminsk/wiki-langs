@@ -10,19 +10,21 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Fri, 19 Aug 2022 14:11:23 +0000</sup>
+<sup>last modified: Fri, 19 Aug 2022 16:15:12 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 1865 |
+| 0000s | 1869 |
 | 1940s | 6 |
 | 1950s | 9 |
 | 1960s | 43 |
-| 1970s | 99 |
+| 1970s | 100 |
 | 1980s | 134 |
 | 1990s | 146 |
 | 2000s | 9 |
 
 ### ***born on August 19***
+1970, Darren Barton, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1726), [CueTracker](http://cuetracker.net/Players/darren-barton/)</sup></sub>
+
 1986, Jamie O'Neill, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=79), [CueTracker](http://cuetracker.net/Players/jamie-oneill/)</sup></sub>
 
 1990, Shi Hanqing, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=508), [CueTracker](http://cuetracker.net/Players/shi-hanqing/)</sup></sub>
