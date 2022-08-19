@@ -10,10 +10,10 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Thu, 18 Aug 2022 22:10:55 +0000</sup>
+<sup>last modified: Fri, 19 Aug 2022 00:56:41 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 1813 |
+| 0000s | 1820 |
 | 1940s | 6 |
 | 1950s | 9 |
 | 1960s | 43 |
@@ -22,11 +22,14 @@
 | 1990s | 144 |
 | 2000s | 9 |
 
-### ***born on August 18***
-1994, Oliver Brown, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=146), [CueTracker](http://cuetracker.net/Players/oliver-brown/)</sup></sub>
+### ***born on August 19***
+1986, Jamie O'Neill, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=79), [CueTracker](http://cuetracker.net/Players/jamie-oneill/)</sup></sub>
+
+1990, Shi Hanqing, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=508), [CueTracker](http://cuetracker.net/Players/shi-hanqing/)</sup></sub>
 
 
-### ***milleversary on August 18***
+### ***milleversary on August 19***
+1973, Dermot McGlinchey, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=162), [CueTracker](http://cuetracker.net/Players/dermot-mcglinchey/)</sup></sub>
 
 
 
