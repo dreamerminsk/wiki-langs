@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q39,Switzerland
-,,,,,,Q858,Syria
-,,,,,,Q1039,São Tomé and Príncipe
-,,,,,,Q865,Taiwan
-,,,,,,Q863,Tajikistan
 ,,,,,,Q924,Tanzania
 ,,,,,,Q869,Thailand
 ,,,,,,Q778,The Bahamas
@@ -193,6 +188,7 @@ Polen,,,,,,Q36,Polen
 Portugal,,,,,,Q45,Portugal
 Puerto Rico,,,,,,Q1183,Puerto Rico
 Republik Arzach,,,,,,Q244165,Republik Arzach
+Republik China (Taiwan),,,,,,Q865,Republik China (Taiwan)
 Republik Kongo,,,,,,Q971,Republik Kongo
 Republik Moldau,,,,,,Q217,Republik Moldau
 Republik Zypern,,,,,,Q229,Republik Zypern
@@ -208,6 +204,7 @@ San Marino,,,,,,Q238,San Marino
 Saudi-Arabien,,,,,,Q851,Saudi-Arabien
 Schottland,,,,,,Q22,Schottland
 Schweden,,,,,,Q34,Schweden
+Schweiz,,,,,,Q39,Schweiz
 Senegal,,,,,,Q1041,Senegal
 Serbien,,,,,,Q403,Serbien
 Seychellen,,,,,,Q1042,Seychellen
@@ -228,11 +225,14 @@ St. Vincent und die Grenadinen,,,,,,Q757,St. Vincent und die Grenadinen
 Staat Palästina,,,,,,Q219060,Staat Palästina
 Sudan,,,,,,Q1049,Sudan
 Suriname,,,,,,Q730,Suriname
+Syrien,,,,,,Q858,Syrien
+São Tomé und Príncipe,,,,,,Q1039,São Tomé und Príncipe
 Südafrika,,,,,,Q258,Südafrika
 Südgeorgien und die Südlichen Sandwichinseln,,,,,,Q35086,Südgeorgien und die Südlichen Sandwichinseln
 Südkorea,,,,,,Q884,Südkorea
 Südossetien,,,,,,Q23427,Südossetien
 Südsudan,,,,,,Q958,Südsudan
+Tadschikistan,,,,,,Q863,Tadschikistan
 Tschad,,,,,,Q657,Tschad
 Tschechien,,,,,,Q213,Tschechien
 Türkische Republik Nordzypern,,,,,,Q23681,Türkische Republik Nordzypern
