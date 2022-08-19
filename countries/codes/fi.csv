@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q419,Peru
-,,,,,,Q928,Philippines
-,,,,,,Q36,Poland
-,,,,,,Q45,Portugal
-,,,,,,Q1183,Puerto Rico
 ,,,,,,Q846,Qatar
 ,,,,,,Q971,Republic of the Congo
 ,,,,,,Q218,Romania
@@ -132,6 +127,7 @@ Eritrea,,,,,,Q986,Eritrea
 Etiopia,,,,,,Q115,Etiopia
 Falklandinsaaret,,,,,,Q9648,Falklandinsaaret
 Fidži,,,,,,Q712,Fidži
+Filippiinit,,,,,,Q928,Filippiinit
 Färsaaret,,,,,,Q4628,Färsaaret
 Gabon,,,,,,Q1000,Gabon
 Georgia,,,,,,Q230,Georgia
@@ -229,9 +225,13 @@ Palau,,,,,,Q695,Palau
 Panama,,,,,,Q804,Panama
 Papua-Uusi-Guinea,,,,,,Q691,Papua-Uusi-Guinea
 Paraguay,,,,,,Q733,Paraguay
+Peru,,,,,,Q419,Peru
 Pohjois-Irlanti,,,,,,Q26,Pohjois-Irlanti
 Pohjois-Kyproksen turkkilainen tasavalta,,,,,,Q23681,Pohjois-Kyproksen turkkilainen tasavalta
 Pohjois-Makedonia,,,,,,Q221,Pohjois-Makedonia
+Portugali,,,,,,Q45,Portugali
+Puerto Rico,,,,,,Q1183,Puerto Rico
+Puola,,,,,,Q36,Puola
 Päiväntasaajan Guinea,,,,,,Q983,Päiväntasaajan Guinea
 Ranska,,,,,,Q142,Ranska
 Ranskan Guayana,,,,,,Q3769,Ranskan Guayana
