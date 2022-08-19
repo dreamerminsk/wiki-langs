@@ -65,7 +65,7 @@ fn get_segment(player: &Player) -> String {
     match player.birthday {
         Some(bd) => get_year_segment(bd),
         None => match &player.cuetracker_id {
-            Some(ctid) => get_ct_segment(ctid),
+            Some(ctid) => get_ct_segment(ctid.to_string()),
             None => get_id_segment(player.snooker_id),
         },
     }
