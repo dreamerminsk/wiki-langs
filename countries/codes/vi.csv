@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q31063,Christmas Island
-,,,,,,Q161258,Clipperton Island
-,,,,,,Q36004,Cocos (Keeling) Islands
-,,,,,,Q739,Colombia
-,,,,,,Q970,Comoros
 ,,,,,,Q800,Costa Rica
 ,,,,,,Q224,Croatia
 ,,,,,,Q241,Cuba
@@ -237,12 +232,17 @@ Cameroon,,,,,,Q1009,Cameroon
 Campuchia,,,,,,Q424,Campuchia
 Canada,,,,,,Q16,Canada
 Chile,,,,,,Q298,Chile
+Clipperton,,,,,,Q161258,Clipperton
+Colombia,,,,,,Q739,Colombia
+Comoros,,,,,,Q970,Comoros
 Cộng hòa Artsakh,,,,,,Q244165,Cộng hòa Artsakh
 Cộng hòa Trung Phi,,,,,,Q929,Cộng hòa Trung Phi
 Lãnh thổ Ấn Độ Dương thuộc Anh,,,,,,Q43448,Lãnh thổ Ấn Độ Dương thuộc Anh
 Quần đảo Cayman,,,,,,Q5785,Quần đảo Cayman
+Quần đảo Cocos (Keeling),,,,,,Q36004,Quần đảo Cocos (Keeling)
 Quần đảo Virgin thuộc Anh,,,,,,Q25305,Quần đảo Virgin thuộc Anh
 Tchad,,,,,,Q657,Tchad
 Trung Quốc,,,,,,Q148,Trung Quốc
 Áo,040,AT,AUT,AUT,AUT,Q40,Áo
 Úc,,,,,,Q408,Úc
+Đảo Giáng Sinh,,,,,,Q31063,Đảo Giáng Sinh
