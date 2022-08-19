@@ -81,7 +81,7 @@ fn get_ct_segment(ctid: String) -> String {
 }
 
 fn get_id_segment(id: usize) -> String {
-    format!("ids.{:0>4}.csv", (100 * (id / 100) + 99).to_string())
+    format!("{:0>4}.ids.csv", (100 * (id / 100) + 99).to_string())
 }
 
 pub struct PlayerLinks {
