@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q236,Montenegro
-,,,,,,Q13353,Montserrat
-,,,,,,Q1028,Morocco
-,,,,,,Q1029,Mozambique
-,,,,,,Q836,Myanmar
 ,,,,,,Q1030,Namibia
 ,,,,,,Q697,Nauru
 ,,,,,,Q25359,Navassa Island
@@ -219,11 +214,16 @@ Malaysia,,,,,,Q833,Malaysia
 Maldives,,,,,,Q826,Maldives
 Mali,,,,,,Q912,Mali
 Malta,,,,,,Q233,Malta
+Maroc,,,,,,Q1028,Maroc
 Martinique,,,,,,Q17054,Martinique
 Mauritanie,,,,,,Q1025,Mauritanie
 Mauritius,,,,,,Q1027,Mauritius
 Moldova,,,,,,Q217,Moldova
 Monaco,,,,,,Q235,Monaco
+Montenegro,,,,,,Q236,Montenegro
+Montserrat,,,,,,Q13353,Montserrat
+Mozambique,,,,,,Q1029,Mozambique
+Myanmar,,,,,,Q836,Myanmar
 México,,,,,,Q96,México
 Mông Cổ,,,,,,Q711,Mông Cổ
 Nhật Bản,,,,,,Q17,Nhật Bản
