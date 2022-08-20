@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q881,Vietnam
-,,,,,WAL,Q25,Wales
-,,,,,,Q805,Yemen
-,,,,,,Q953,Zambia
-,,,,,,Q954,Zimbabwe
 ,,,,,,Q5689,Åland
 Abchasien,,,,,,Q23334,Abchasien
 Afghanistan,004,AF,AFG,AFG,AFG,Q889,Afghanistan
@@ -94,6 +89,7 @@ Israel,,,,,,Q801,Israel
 Italien,,,,,,Q38,Italien
 Jamaika,,,,,,Q766,Jamaika
 Japan,,,,,,Q17,Japan
+Jemen,,,,,,Q805,Jemen
 Jersey,,,,,,Q785,Jersey
 Jordanien,,,,,,Q810,Jordanien
 Kambodscha,,,,,,Q424,Kambodscha
@@ -177,6 +173,7 @@ Saba (Insel),,,,,,Q25528,Saba (Insel)
 Saint-Barthélemy (Insel),,,,,,Q25362,Saint-Barthélemy (Insel)
 Saint-Pierre und Miquelon,,,,,,Q34617,Saint-Pierre und Miquelon
 Salomonen,,,,,,Q685,Salomonen
+Sambia,,,,,,Q953,Sambia
 Samoa,,,,,,Q683,Samoa
 San Marino,,,,,,Q238,San Marino
 Saudi-Arabien,,,,,,Q851,Saudi-Arabien
@@ -187,6 +184,7 @@ Senegal,,,,,,Q1041,Senegal
 Serbien,,,,,,Q403,Serbien
 Seychellen,,,,,,Q1042,Seychellen
 Sierra Leone,,,,,,Q1044,Sierra Leone
+Simbabwe,,,,,,Q954,Simbabwe
 Singapur,,,,,,Q334,Singapur
 Sint Eustatius,,,,,,Q26180,Sint Eustatius
 Sint Maarten,,,,,,Q26273,Sint Maarten
@@ -237,7 +235,9 @@ Venezuela,,,,,,Q717,Venezuela
 Vereinigte Arabische Emirate,,,,,,Q878,Vereinigte Arabische Emirate
 Vereinigte Staaten,,,,,,Q30,Vereinigte Staaten
 Vereinigtes Königreich,,,,,,Q145,Vereinigtes Königreich
+Vietnam,,,,,,Q881,Vietnam
 Volksrepublik China,,,,,,Q148,Volksrepublik China
+Wales,,,,,WAL,Q25,Wales
 Weihnachtsinsel (Australien),,,,,,Q31063,Weihnachtsinsel (Australien)
 Zentralafrikanische Republik,,,,,,Q929,Zentralafrikanische Republik
 Ägypten,,,,,,Q79,Ägypten
