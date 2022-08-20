@@ -10,28 +10,28 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Fri, 19 Aug 2022 22:11:48 +0000</sup>
+<sup>last modified: Sat, 20 Aug 2022 00:51:32 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 1887 |
+| 0000s | 1893 |
 | 1940s | 6 |
 | 1950s | 9 |
 | 1960s | 43 |
 | 1970s | 100 |
 | 1980s | 135 |
-| 1990s | 146 |
+| 1990s | 147 |
 | 2000s | 9 |
 
-### ***born on August 19***
-1970, Darren Barton, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1726), [CueTracker](http://cuetracker.net/Players/darren-barton/)</sup></sub>
+### ***born on August 20***
+1986, Jaspal Bamotra, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1425), [CueTracker](http://cuetracker.net/Players/jaspal-bamotra/)</sup></sub>
 
-1986, Jamie O'Neill, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=79), [CueTracker](http://cuetracker.net/Players/jamie-oneill/)</sup></sub>
-
-1990, Shi Hanqing, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=508), [CueTracker](http://cuetracker.net/Players/shi-hanqing/)</sup></sub>
+1989, Judd Trump, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=12), [CueTracker](http://cuetracker.net/Players/judd-trump/)</sup></sub>
 
 
-### ***milleversary on August 19***
-1973, Dermot McGlinchey, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=162), [CueTracker](http://cuetracker.net/Players/dermot-mcglinchey/)</sup></sub>
+### ***milleversary on August 20***
+1976, Stephen Rowlings, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=410), [CueTracker](http://cuetracker.net/Players/stephen-rowlings/)</sup></sub>
+
+1984, Raymond Fry, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=174), [CueTracker](http://cuetracker.net/Players/raymond-fry/)</sup></sub>
 
 
 
