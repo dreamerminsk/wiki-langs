@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q1030,Namibia
-,,,,,,Q697,Nauru
-,,,,,,Q25359,Navassa Island
-,,,,,,Q837,Nepal
-,,,,,,Q55,Netherlands
 ,,,,,,Q664,New Zealand
 ,,,,,,Q811,Nicaragua
 ,,,,,,Q1032,Niger
@@ -181,6 +176,7 @@ Haiti,,,,,,Q790,Haiti
 Honduras,,,,,,Q783,Honduras
 Hungary,,,,,,Q28,Hungary
 Hy Lạp,,,,,,Q41,Hy Lạp
+Hà Lan,,,,,,Q55,Hà Lan
 Hồng Kông,,,,,,Q8646,Hồng Kông
 Iceland,,,,,,Q189,Iceland
 Indonesia,,,,,,Q252,Indonesia
@@ -226,6 +222,9 @@ Mozambique,,,,,,Q1029,Mozambique
 Myanmar,,,,,,Q836,Myanmar
 México,,,,,,Q96,México
 Mông Cổ,,,,,,Q711,Mông Cổ
+Namibia,,,,,,Q1030,Namibia
+Nauru,,,,,,Q697,Nauru
+Nepal,,,,,,Q837,Nepal
 Nhật Bản,,,,,,Q17,Nhật Bản
 Pháp,,,,,,Q142,Pháp
 Phần Lan,,,,,,Q33,Phần Lan
@@ -244,5 +243,6 @@ Trung Quốc,,,,,,Q148,Trung Quốc
 Đông Timor,,,,,,Q574,Đông Timor
 Đảo Giáng Sinh,,,,,,Q31063,Đảo Giáng Sinh
 Đảo Man,,,,,,Q9676,Đảo Man
+Đảo Navassa,,,,,,Q25359,Đảo Navassa
 Đức,,,,,,Q183,Đức
 Ấn Độ,,,,,,Q668,Ấn Độ
