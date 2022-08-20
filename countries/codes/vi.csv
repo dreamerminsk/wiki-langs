@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q796,Iraq
-,,,,,,Q27,Republic of Ireland
-,,,,,,Q9676,Isle of Man
-,,,,,,Q801,Israel
-,,,,,,Q38,Italy
 ,,,,,,Q1008,Ivory Coast
 ,,,,,,Q766,Jamaica
 ,,,,,,Q17,Japan
@@ -194,6 +189,7 @@ Curaçao,,,,,,Q25279,Curaçao
 Cộng hòa Artsakh,,,,,,Q244165,Cộng hòa Artsakh
 Cộng hòa Dominica,,,,,,Q786,Cộng hòa Dominica
 Cộng hòa Dân chủ Congo,,,,,,Q974,Cộng hòa Dân chủ Congo
+Cộng hòa Ireland,,,,,,Q27,Cộng hòa Ireland
 Cộng hòa Séc,,,,,,Q213,Cộng hòa Séc
 Cộng hòa Síp,,,,,,Q229,Cộng hòa Síp
 Cộng hòa Trung Phi,,,,,,Q929,Cộng hòa Trung Phi
@@ -228,6 +224,8 @@ Hồng Kông,,,,,,Q8646,Hồng Kông
 Iceland,,,,,,Q189,Iceland
 Indonesia,,,,,,Q252,Indonesia
 Iran,,,,,,Q794,Iran
+Iraq,,,,,,Q796,Iraq
+Israel,,,,,,Q801,Israel
 Liên bang Micronesia,,,,,,Q702,Liên bang Micronesia
 Lãnh thổ Ấn Độ Dương thuộc Anh,,,,,,Q43448,Lãnh thổ Ấn Độ Dương thuộc Anh
 Pháp,,,,,,Q142,Pháp
@@ -241,8 +239,10 @@ Tchad,,,,,,Q657,Tchad
 Trung Quốc,,,,,,Q148,Trung Quốc
 Áo,040,AT,AUT,AUT,AUT,Q40,Áo
 Úc,,,,,,Q408,Úc
+Ý,,,,,,Q38,Ý
 Đan Mạch,,,,,,Q35,Đan Mạch
 Đông Timor,,,,,,Q574,Đông Timor
 Đảo Giáng Sinh,,,,,,Q31063,Đảo Giáng Sinh
+Đảo Man,,,,,,Q9676,Đảo Man
 Đức,,,,,,Q183,Đức
 Ấn Độ,,,,,,Q668,Ấn Độ
