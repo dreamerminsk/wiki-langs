@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q31063,Christmas Island
-,,,,,,Q161258,Clipperton Island
-,,,,,,Q36004,Cocos (Keeling) Islands
-,,,,,,Q739,Colombia
-,,,,,,Q970,Comoros
 ,,,,,,Q800,Costa Rica
 ,,,,,,Q224,Croatia
 ,,,,,,Q241,Cuba
@@ -240,9 +235,14 @@ Canada,,,,,,Q16,Canada
 Cap-Vert,,,,,,Q1011,Cap-Vert
 Chili,,,,,,Q298,Chili
 Chine,,,,,,Q148,Chine
+Colombie,,,,,,Q739,Colombie
+Comores (pays),,,,,,Q970,Comores (pays)
 République centrafricaine,,,,,,Q929,République centrafricaine
 République d'Artsakh,,,,,,Q244165,République d'Artsakh
 Tchad,,,,,,Q657,Tchad
 Territoire britannique de l'océan Indien,,,,,,Q43448,Territoire britannique de l'océan Indien
+Île Christmas (Australie),,,,,,Q31063,Île Christmas (Australie)
+Île Clipperton,,,,,,Q161258,Île Clipperton
 Îles Caïmans,,,,,,Q5785,Îles Caïmans
+Îles Cocos,,,,,,Q36004,Îles Cocos
 Îles Vierges britanniques,,,,,,Q25305,Îles Vierges britanniques
