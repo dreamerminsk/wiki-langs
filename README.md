@@ -25,7 +25,7 @@
 ### ***born on August 21***
 1967, Sean Lanigan, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1353), [CueTracker](http://cuetracker.net/Players/sean-lanigan/)</sup></sub>
 
-1986, Hatem Yassin, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1764), [CueTracker](http://cuetracker.net/Players/yassem-hatem/)</sup></sub>
+1986, Hatem Yassin, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1764), [CueTracker](http://cuetracker.net/Players/yassin-hatem/)</sup></sub>
 
 
 ### ***milleversary on August 21***
