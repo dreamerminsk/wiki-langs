@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q1007,Guinea-Bissau
-,,,,,,Q734,Guyana
-,,,,,,Q790,Haiti
-,,,,,,Q783,Honduras
-,,,,,,Q8646,Hong Kong
 ,,,,,,Q28,Hungary
 ,,,,,,Q189,Iceland
 ,,,,,,Q668,India
@@ -223,8 +218,13 @@ Guatemala,,,,,,Q774,Guatemala
 Guernesey,,,,,,Q3311985,Guernesey
 Guinée,,,,,,Q1006,Guinée
 Guinée équatoriale,,,,,,Q983,Guinée équatoriale
+Guinée-Bissau,,,,,,Q1007,Guinée-Bissau
+Guyana,,,,,,Q734,Guyana
 Guyane,,,,,,Q3769,Guyane
 Géorgie (pays),,,,,,Q230,Géorgie (pays)
+Haïti,,,,,,Q790,Haïti
+Honduras,,,,,,Q783,Honduras
+Hong Kong,,,,,,Q8646,Hong Kong
 République centrafricaine,,,,,,Q929,République centrafricaine
 République d'Artsakh,,,,,,Q244165,République d'Artsakh
 République dominicaine,,,,,,Q786,République dominicaine
