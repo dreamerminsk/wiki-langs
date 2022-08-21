@@ -1,9 +1,8 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q954,Zimbabwe
-,,,,,,Q5689,Åland
 Abhasia,,,,,,Q23334,Abhasia
 Afganistan,004,AF,AFG,AFG,AFG,Q889,Afganistan
+Ahvenanmaan maakunta,,,,,,Q5689,Ahvenanmaan maakunta
 Akrotíri ja Dekéleia,,,,,,Q37362,Akrotíri ja Dekéleia
 Alankomaat,,,,,,Q55,Alankomaat
 Albania,,,,,,Q222,Albania
@@ -245,3 +244,4 @@ Yhdistyneet arabiemiirikunnat,,,,,,Q878,Yhdistyneet arabiemiirikunnat
 Yhdistynyt kuningaskunta,,,,,,Q145,Yhdistynyt kuningaskunta
 Yhdysvallat,,,,,,Q30,Yhdysvallat
 Yhdysvaltain Neitsytsaaret,,,,,,Q11703,Yhdysvaltain Neitsytsaaret
+Zimbabwe,,,,,,Q954,Zimbabwe
