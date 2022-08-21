@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q213,Czech Republic
-,,,,,,Q974,Democratic Republic of the Congo
-,,,,,,Q35,Denmark
-,,,,,,Q977,Djibouti
-,,,,,,Q784,Dominica
 ,,,,,,Q786,Dominican Republic
 ,,,,,,Q574,East Timor
 ,,,,,,Q736,Ecuador
@@ -237,9 +232,14 @@ Costa Rica,,,,,,Q800,Costa Rica
 Croatie,,,,,,Q224,Croatie
 Cuba,,,,,,Q241,Cuba
 Curaçao,,,,,,Q25279,Curaçao
+Danemark (pays constitutif),,,,,,Q35,Danemark (pays constitutif)
+Djibouti,,,,,,Q977,Djibouti
+Dominique (pays),,,,,,Q784,Dominique (pays)
 République centrafricaine,,,,,,Q929,République centrafricaine
 République d'Artsakh,,,,,,Q244165,République d'Artsakh
+République démocratique du Congo,,,,,,Q974,République démocratique du Congo
 Tchad,,,,,,Q657,Tchad
+Tchéquie,,,,,,Q213,Tchéquie
 Territoire britannique de l'océan Indien,,,,,,Q43448,Territoire britannique de l'océan Indien
 Île Christmas (Australie),,,,,,Q31063,Île Christmas (Australie)
 Île Clipperton,,,,,,Q161258,Île Clipperton
