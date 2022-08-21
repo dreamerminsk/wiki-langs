@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q25231,Svalbard
-,,,,,,Q34,Sweden
-,,,,,,Q39,Switzerland
-,,,,,,Q858,Syria
 ,,,,,,Q1039,São Tomé and Príncipe
 ,,,,,,Q865,Taiwan
 ,,,,,,Q863,Tajikistan
@@ -231,8 +227,12 @@ Somaliland,,,,,,Q34754,Somaliland
 Sri Lanka,,,,,,Q854,Sri Lanka
 Sudan,,,,,,Q1049,Sudan
 Suriname,,,,,,Q730,Suriname
+Svalbard,,,,,,Q25231,Svalbard
+Syria,,,,,,Q858,Syria
 Sénégal,,,,,,Q1041,Sénégal
 Tchad,,,,,,Q657,Tchad
+Thụy Sĩ,,,,,,Q39,Thụy Sĩ
+Thụy Điển,,,,,,Q34,Thụy Điển
 Trung Quốc,,,,,,Q148,Trung Quốc
 Tây Ban Nha,,,,,,Q29,Tây Ban Nha
 Áo,040,AT,AUT,AUT,AUT,Q40,Áo
