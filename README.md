@@ -10,28 +10,25 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Sat, 20 Aug 2022 22:10:06 +0000</sup>
+<sup>last modified: Sun, 21 Aug 2022 00:53:25 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 1963 |
+| 0000s | 1969 |
 | 1940s | 6 |
 | 1950s | 9 |
 | 1960s | 43 |
 | 1970s | 100 |
 | 1980s | 135 |
 | 1990s | 151 |
-| 2000s | 10 |
+| 2000s | 11 |
 
-### ***born on August 20***
-1986, Jaspal Bamotra, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1425), [CueTracker](http://cuetracker.net/Players/jaspal-bamotra/)</sup></sub>
+### ***born on August 21***
+1967, Sean Lanigan, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1353), [CueTracker](http://cuetracker.net/Players/sean-lanigan/)</sup></sub>
 
-1989, Judd Trump, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=12), [CueTracker](http://cuetracker.net/Players/judd-trump/)</sup></sub>
+1986, Hatem Yassin, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1764), [CueTracker](http://cuetracker.net/Players/yassem-hatem/)</sup></sub>
 
 
-### ***milleversary on August 20***
-1976, Stephen Rowlings, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=410), [CueTracker](http://cuetracker.net/Players/stephen-rowlings/)</sup></sub>
-
-1984, Raymond Fry, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=174), [CueTracker](http://cuetracker.net/Players/raymond-fry/)</sup></sub>
+### ***milleversary on August 21***
 
 
 
