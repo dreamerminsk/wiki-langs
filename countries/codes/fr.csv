@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q183,Germany
-,,,,,,Q117,Ghana
-,,,,,,Q1410,Gibraltar
-,,,,,,Q41,Greece
-,,,,,,Q223,Greenland
 ,,,,,,Q769,Grenada
 ,,,,,,Q17012,Guadeloupe
 ,,,,,,Q774,Guatemala
@@ -171,6 +166,7 @@ Afghanistan,004,AF,AFG,AFG,AFG,Q889,Afghanistan
 Akrotiri et Dhekelia,,,,,,Q37362,Akrotiri et Dhekelia
 Albanie,,,,,,Q222,Albanie
 Algérie,,,,,,Q262,Algérie
+Allemagne,,,,,,Q183,Allemagne
 Andorre,,,,,,Q228,Andorre
 Angleterre,,,,,,Q21,Angleterre
 Angola,,,,,,Q916,Angola
@@ -222,6 +218,10 @@ Fidji,,,,,,Q712,Fidji
 Finlande,,,,,,Q33,Finlande
 France,,,,,,Q142,France
 Gabon,,,,,,Q1000,Gabon
+Ghana,,,,,,Q117,Ghana
+Gibraltar,,,,,,Q1410,Gibraltar
+Groenland,,,,,,Q223,Groenland
+Grèce,,,,,,Q41,Grèce
 Guinée équatoriale,,,,,,Q983,Guinée équatoriale
 Guyane,,,,,,Q3769,Guyane
 Géorgie (pays),,,,,,Q230,Géorgie (pays)
