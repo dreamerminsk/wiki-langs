@@ -10,17 +10,17 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Sun, 21 Aug 2022 03:33:02 +0000</sup>
+<sup>last modified: Sun, 21 Aug 2022 04:26:18 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 1975 |
+| 0000s | 1980 |
 | 1940s | 6 |
 | 1950s | 9 |
 | 1960s | 43 |
 | 1970s | 100 |
 | 1980s | 135 |
-| 1990s | 152 |
-| 2000s | 11 |
+| 1990s | 153 |
+| 2000s | 12 |
 
 ### ***born on August 21***
 1967, Sean Lanigan, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1353), [CueTracker](http://cuetracker.net/Players/sean-lanigan/)</sup></sub>
