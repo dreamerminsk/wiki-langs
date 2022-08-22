@@ -10,17 +10,17 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Mon, 22 Aug 2022 16:12:38 +0000</sup>
+<sup>last modified: Mon, 22 Aug 2022 18:12:11 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 2091 |
+| 0000s | 2095 |
 | 1940s | 6 |
 | 1950s | 9 |
-| 1960s | 43 |
+| 1960s | 44 |
 | 1970s | 100 |
 | 1980s | 136 |
 | 1990s | 162 |
-| 2000s | 14 |
+| 2000s | 16 |
 
 ### ***born on August 22***
 1957, Steve Davis, 65 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=212), [CueTracker](http://cuetracker.net/Players/steve-davis/)</sup></sub>
