@@ -10,25 +10,25 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Sun, 21 Aug 2022 22:10:04 +0000</sup>
+<sup>last modified: Mon, 22 Aug 2022 00:54:39 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 2035 |
+| 0000s | 2041 |
 | 1940s | 6 |
 | 1950s | 9 |
 | 1960s | 43 |
 | 1970s | 100 |
 | 1980s | 135 |
 | 1990s | 160 |
-| 2000s | 13 |
+| 2000s | 14 |
 
-### ***born on August 21***
-1967, Sean Lanigan, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1353), [CueTracker](http://cuetracker.net/Players/sean-lanigan/)</sup></sub>
+### ***born on August 22***
+1957, Steve Davis, 65 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=212), [CueTracker](http://cuetracker.net/Players/steve-davis/)</sup></sub>
 
-1986, Hatem Yassin, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1764), [CueTracker](http://cuetracker.net/Players/yassem-hatem/)</sup></sub>
+1977, Fung Kwok Wai, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=581), [CueTracker](http://cuetracker.net/Players/fung-kwok-wai/)</sup></sub>
 
 
-### ***milleversary on August 21***
+### ***milleversary on August 22***
 
 
 
