@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q863,Tajikistan
-,,,,,,Q924,Tanzania
-,,,,,,Q869,Thailand
-,,,,,,Q778,The Bahamas
-,,,,,,Q1005,The Gambia
 ,,,,,,Q945,Togo
 ,,,,,,Q678,Tonga
 ,,,,,,Q907112,Transnistria
@@ -50,6 +45,7 @@ Aruba,,,,,,Q21203,Aruba
 Australie,,,,,,Q408,Australie
 Autriche,040,AT,AUT,AUT,AUT,Q40,Autriche
 Azerbaïdjan,,,,,,Q227,Azerbaïdjan
+Bahamas,,,,,,Q778,Bahamas
 Bahreïn,,,,,,Q398,Bahreïn
 Bangladesh,,,,,,Q902,Bangladesh
 Barbade,,,,,,Q244,Barbade
@@ -96,6 +92,7 @@ Fidji,,,,,,Q712,Fidji
 Finlande,,,,,,Q33,Finlande
 France,,,,,,Q142,France
 Gabon,,,,,,Q1000,Gabon
+Gambie,,,,,,Q1005,Gambie
 Ghana,,,,,,Q117,Ghana
 Gibraltar,,,,,,Q1410,Gibraltar
 Grenade (pays),,,,,,Q769,Grenade (pays)
@@ -224,10 +221,13 @@ Suède,,,,,,Q34,Suède
 Svalbard,,,,,,Q25231,Svalbard
 Syrie,,,,,,Q858,Syrie
 Sénégal,,,,,,Q1041,Sénégal
+Tadjikistan,,,,,,Q863,Tadjikistan
+Tanzanie,,,,,,Q924,Tanzanie
 Taïwan,,,,,,Q865,Taïwan
 Tchad,,,,,,Q657,Tchad
 Tchéquie,,,,,,Q213,Tchéquie
 Territoire britannique de l'océan Indien,,,,,,Q43448,Territoire britannique de l'océan Indien
+Thaïlande,,,,,,Q869,Thaïlande
 Timor oriental,,,,,,Q574,Timor oriental
 Écosse,,,,,,Q22,Écosse
 Égypte,,,,,,Q79,Égypte
