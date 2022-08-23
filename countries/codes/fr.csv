@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q25528,Saba
-,,,,,,Q40362,Sahrawi Arab Democratic Republic
-,,,,,,Q25362,Saint Barthélemy
-,,,,,,Q763,Saint Kitts and Nevis
-,,,,,,Q760,Saint Lucia
 ,,,,,,Q126125,Saint Martin
 ,,,,,,Q34617,Saint Pierre and Miquelon
 ,,,,,,Q757,Saint Vincent and the Grenadines
@@ -221,11 +216,16 @@ Qatar,,,,,,Q846,Qatar
 Roumanie,,,,,,Q218,Roumanie
 Russie,,,,,,Q159,Russie
 Rwanda,,,,,,Q1037,Rwanda
+République arabe sahraouie démocratique,,,,,,Q40362,République arabe sahraouie démocratique
 République centrafricaine,,,,,,Q929,République centrafricaine
 République d'Artsakh,,,,,,Q244165,République d'Artsakh
 République dominicaine,,,,,,Q786,République dominicaine
 République du Congo,,,,,,Q971,République du Congo
 République démocratique du Congo,,,,,,Q974,République démocratique du Congo
+Saba,,,,,,Q25528,Saba
+Saint-Barthélemy (Antilles françaises),,,,,,Q25362,Saint-Barthélemy (Antilles françaises)
+Saint-Christophe-et-Niévès,,,,,,Q763,Saint-Christophe-et-Niévès
+Sainte-Lucie,,,,,,Q760,Sainte-Lucie
 Salvador,,,,,,Q792,Salvador
 Tchad,,,,,,Q657,Tchad
 Tchéquie,,,,,,Q213,Tchéquie
