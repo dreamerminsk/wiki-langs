@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q34,Sweden
-,,,,,,Q39,Switzerland
-,,,,,,Q858,Syria
-,,,,,,Q1039,São Tomé and Príncipe
-,,,,,,Q865,Taiwan
 ,,,,,,Q863,Tajikistan
 ,,,,,,Q924,Tanzania
 ,,,,,,Q869,Thailand
@@ -211,6 +206,7 @@ Saint-Vincent-et-les-Grenadines,,,,,,Q757,Saint-Vincent-et-les-Grenadines
 Sainte-Lucie,,,,,,Q760,Sainte-Lucie
 Salvador,,,,,,Q792,Salvador
 Samoa,,,,,,Q683,Samoa
+Sao Tomé-et-Principe,,,,,,Q1039,Sao Tomé-et-Principe
 Serbie,,,,,,Q403,Serbie
 Seychelles,,,,,,Q1042,Seychelles
 Sierra Leone,,,,,,Q1044,Sierra Leone
@@ -222,9 +218,13 @@ Somaliland,,,,,,Q34754,Somaliland
 Soudan,,,,,,Q1049,Soudan
 Soudan du Sud,,,,,,Q958,Soudan du Sud
 Sri Lanka,,,,,,Q854,Sri Lanka
+Suisse,,,,,,Q39,Suisse
 Suriname,,,,,,Q730,Suriname
+Suède,,,,,,Q34,Suède
 Svalbard,,,,,,Q25231,Svalbard
+Syrie,,,,,,Q858,Syrie
 Sénégal,,,,,,Q1041,Sénégal
+Taïwan,,,,,,Q865,Taïwan
 Tchad,,,,,,Q657,Tchad
 Tchéquie,,,,,,Q213,Tchéquie
 Territoire britannique de l'océan Indien,,,,,,Q43448,Territoire britannique de l'océan Indien
