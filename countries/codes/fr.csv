@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q854,Sri Lanka
-,,,,,,Q219060,State of Palestine
-,,,,,,Q1049,Sudan
-,,,,,,Q730,Suriname
-,,,,,,Q25231,Svalbard
 ,,,,,,Q34,Sweden
 ,,,,,,Q39,Switzerland
 ,,,,,,Q858,Syria
@@ -184,6 +179,7 @@ Oman,,,,,,Q842,Oman
 Ossétie du Sud-Alanie,,,,,,Q23427,Ossétie du Sud-Alanie
 Pakistan,,,,,,Q843,Pakistan
 Palaos,,,,,,Q695,Palaos
+Palestine (État),,,,,,Q219060,Palestine (État)
 Panama,,,,,,Q804,Panama
 Papouasie-Nouvelle-Guinée,,,,,,Q691,Papouasie-Nouvelle-Guinée
 Paraguay,,,,,,Q733,Paraguay
@@ -223,7 +219,11 @@ Slovaquie,,,,,,Q214,Slovaquie
 Slovénie,,,,,,Q215,Slovénie
 Somalie,,,,,,Q1045,Somalie
 Somaliland,,,,,,Q34754,Somaliland
+Soudan,,,,,,Q1049,Soudan
 Soudan du Sud,,,,,,Q958,Soudan du Sud
+Sri Lanka,,,,,,Q854,Sri Lanka
+Suriname,,,,,,Q730,Suriname
+Svalbard,,,,,,Q25231,Svalbard
 Sénégal,,,,,,Q1041,Sénégal
 Tchad,,,,,,Q657,Tchad
 Tchéquie,,,,,,Q213,Tchéquie
