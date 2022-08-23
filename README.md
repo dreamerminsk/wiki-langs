@@ -10,17 +10,17 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Tue, 23 Aug 2022 20:11:41 +0000</sup>
+<sup>last modified: Tue, 23 Aug 2022 22:10:39 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 2163 |
+| 0000s | 2168 |
 | 1940s | 6 |
 | 1950s | 9 |
 | 1960s | 44 |
 | 1970s | 101 |
 | 1980s | 138 |
 | 1990s | 169 |
-| 2000s | 17 |
+| 2000s | 18 |
 
 ### ***born on August 23***
 1963, Gary Filtness, 59 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1357), [CueTracker](http://cuetracker.net/Players/gary-filtness/)</sup></sub>
