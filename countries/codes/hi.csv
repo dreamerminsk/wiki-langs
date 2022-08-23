@@ -1,8 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q244165,Republic of Artsakh
-,,,,,,Q23635,Bermuda
-,,,,,,Q917,Bhutan
-,,,,,,Q750,Bolivia
 ,,,,,,Q25396,Bonaire
 ,,,,,,Q225,Bosnia and Herzegovina
 ,,,,,,Q963,Botswana
@@ -239,6 +236,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 आर्मीनिया,,,,,,Q399,आर्मीनिया
 ऑस्ट्रिया,040,AT,AUT,AUT,AUT,Q40,ऑस्ट्रिया
 ऑस्ट्रेलिया,,,,,,Q408,ऑस्ट्रेलिया
+बरमूडा,,,,,,Q23635,बरमूडा
 बहरीन,,,,,,Q398,बहरीन
 बांग्लादेश,,,,,,Q902,बांग्लादेश
 बारबाडोस,,,,,,Q244,बारबाडोस
@@ -246,3 +244,5 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 बेलारूस,,,,,,Q184,बेलारूस
 बेलीज़,,,,,,Q242,बेलीज़
 बेल्जियम,,,,,,Q31,बेल्जियम
+बोलिविया,,,,,,Q750,बोलिविया
+भूटान,,,,,,Q917,भूटान
