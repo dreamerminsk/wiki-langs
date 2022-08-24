@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q25279,Curaçao
-,,,,,,Q986,Eritrea
-,,,,,,Q191,Estonia
-,,,,,,Q1050,Eswatini
-,,,,,,Q115,Ethiopia
 ,,,,,,Q9648,Falkland Islands
 ,,,,,,Q4628,Faroe Islands
 ,,,,,,Q702,Federated States of Micronesia
@@ -195,7 +191,11 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 अल्बानिया,,,,,,Q222,अल्बानिया
 आर्मीनिया,,,,,,Q399,आर्मीनिया
 इंग्लैण्ड,,,,,,Q21,इंग्लैण्ड
+इथोपिया,,,,,,Q115,इथोपिया
+इरित्रिया,,,,,,Q986,इरित्रिया
 ईक्वाडोर,,,,,,Q736,ईक्वाडोर
+एस्टोनिया,,,,,,Q191,एस्टोनिया
+एस्वातीनी,,,,,,Q1050,एस्वातीनी
 ऑस्ट्रिया,040,AT,AUT,AUT,AUT,Q40,ऑस्ट्रिया
 ऑस्ट्रेलिया,,,,,,Q408,ऑस्ट्रेलिया
 कनाडा,,,,,,Q16,कनाडा
