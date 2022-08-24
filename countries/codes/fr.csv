@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q717,Venezuela
-,,,,,,Q881,Vietnam
-,,,,,WAL,Q25,Wales
-,,,,,,Q805,Yemen
-,,,,,,Q953,Zambia
 ,,,,,,Q954,Zimbabwe
 ,,,,,,Q5689,Åland
 Abkhazie,,,,,,Q23334,Abkhazie
@@ -157,6 +152,7 @@ Palestine (État),,,,,,Q219060,Palestine (État)
 Panama,,,,,,Q804,Panama
 Papouasie-Nouvelle-Guinée,,,,,,Q691,Papouasie-Nouvelle-Guinée
 Paraguay,,,,,,Q733,Paraguay
+Pays de Galles,,,,,WAL,Q25,Pays de Galles
 Pays-Bas (pays constitutif),,,,,,Q55,Pays-Bas (pays constitutif)
 Philippines,,,,,,Q928,Philippines
 Pologne,,,,,,Q36,Pologne
@@ -225,6 +221,10 @@ Unknown,,,,,,Q400506,Unknown
 Uruguay,,,,,,Q77,Uruguay
 Vanuatu,,,,,,Q686,Vanuatu
 Vatican,,,,,,Q237,Vatican
+Venezuela,,,,,,Q717,Venezuela
+Viêt Nam,,,,,,Q881,Viêt Nam
+Yémen,,,,,,Q805,Yémen
+Zambie,,,,,,Q953,Zambie
 Écosse,,,,,,Q22,Écosse
 Égypte,,,,,,Q79,Égypte
 Émirats arabes unis,,,,,,Q878,Émirats arabes unis
