@@ -10,30 +10,24 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Tue, 23 Aug 2022 22:10:39 +0000</sup>
+<sup>last modified: Wed, 24 Aug 2022 00:55:26 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 2168 |
+| 0000s | 2173 |
 | 1940s | 6 |
 | 1950s | 9 |
 | 1960s | 44 |
-| 1970s | 101 |
+| 1970s | 102 |
 | 1980s | 138 |
 | 1990s | 169 |
-| 2000s | 18 |
+| 2000s | 19 |
 
-### ***born on August 23***
-1963, Gary Filtness, 59 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1357), [CueTracker](http://cuetracker.net/Players/gary-filtness/)</sup></sub>
-
-1973, Tugba Irten, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1727), [CueTracker](http://cuetracker.net/Players/tugba-irten/)</sup></sub>
-
-1985, Adam Wicheard, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=86), [CueTracker](http://cuetracker.net/Players/adam-wicheard/)</sup></sub>
-
-1998, Richard Wienold, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1903), [CueTracker](http://cuetracker.net/Players/richard-wienold/)</sup></sub>
+### ***born on August 24***
+1972, Adrian Gunnell, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=55), [CueTracker](http://cuetracker.net/Players/adrian-gunnell/)</sup></sub>
 
 
-### ***milleversary on August 23***
-1987, Khalid Belaied Abumdas, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1292), [CueTracker](http://cuetracker.net/Players/khalid-belaied-abumdas/)</sup></sub>
+### ***milleversary on August 24***
+1976, Simon Bedford, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=119), [CueTracker](http://cuetracker.net/Players/simon-bedford/)</sup></sub>
 
 
 
