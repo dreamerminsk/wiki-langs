@@ -10,7 +10,7 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Wed, 24 Aug 2022 22:10:41 +0000</sup>
+<sup>last modified: Thu, 25 Aug 2022 04:11:57 +0000</sup>
 | births | players |
 | :----: | ------: |
 | 0000s | 2169 |
@@ -22,12 +22,16 @@
 | 1990s | 174 |
 | 2000s | 19 |
 
-### ***born on August 24***
-1972, Adrian Gunnell, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=55), [CueTracker](http://cuetracker.net/Players/adrian-gunnell/)</sup></sub>
+### ***born on August 25***
+1972, Steve Mifsud, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=580), [CueTracker](http://cuetracker.net/Players/steve-mifsud/)</sup></sub>
+
+1998, Zhang Jiankang, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2134), [CueTracker](http://cuetracker.net/Players/zhang-jiankang/)</sup></sub>
 
 
-### ***milleversary on August 24***
-1976, Simon Bedford, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=119), [CueTracker](http://cuetracker.net/Players/simon-bedford/)</sup></sub>
+### ***milleversary on August 25***
+1970, Darren Barton, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1726), [CueTracker](http://cuetracker.net/Players/darren-barton/)</sup></sub>
+
+1992, Billy Joe Castle, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=616), [CueTracker](http://cuetracker.net/Players/billy-joe-castle/)</sup></sub>
 
 
 
