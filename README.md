@@ -10,17 +10,17 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Thu, 25 Aug 2022 18:12:16 +0000</sup>
+<sup>last modified: Thu, 25 Aug 2022 20:11:46 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 2201 |
+| 0000s | 2207 |
 | 1940s | 6 |
 | 1950s | 10 |
 | 1960s | 44 |
 | 1970s | 107 |
 | 1980s | 149 |
 | 1990s | 178 |
-| 2000s | 21 |
+| 2000s | 22 |
 
 ### ***born on August 25***
 1972, Steve Mifsud, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=580), [CueTracker](http://cuetracker.net/Players/steve-mifsud/)</sup></sub>
