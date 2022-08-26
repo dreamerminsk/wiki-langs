@@ -10,28 +10,25 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Thu, 25 Aug 2022 22:11:50 +0000</sup>
+<sup>last modified: Fri, 26 Aug 2022 00:57:23 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 2212 |
+| 0000s | 2218 |
 | 1940s | 6 |
 | 1950s | 10 |
-| 1960s | 44 |
+| 1960s | 45 |
 | 1970s | 107 |
 | 1980s | 149 |
 | 1990s | 180 |
 | 2000s | 22 |
 
-### ***born on August 25***
-1972, Steve Mifsud, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=580), [CueTracker](http://cuetracker.net/Players/steve-mifsud/)</sup></sub>
-
-1998, Zhang Jiankang, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2134), [CueTracker](http://cuetracker.net/Players/zhang-jiankang/)</sup></sub>
+### ***born on August 26***
 
 
-### ***milleversary on August 25***
-1970, Darren Barton, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1726), [CueTracker](http://cuetracker.net/Players/darren-barton/)</sup></sub>
+### ***milleversary on August 26***
+1981, Keith Keldie, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1494), [CueTracker](http://cuetracker.net/Players/keith-keldie/)</sup></sub>
 
-1992, Billy Joe Castle, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=616), [CueTracker](http://cuetracker.net/Players/billy-joe-castle/)</sup></sub>
+1992, Noppon Saengkham, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=208), [CueTracker](http://cuetracker.net/Players/noppon-saengkham/)</sup></sub>
 
 
 
