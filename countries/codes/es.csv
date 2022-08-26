@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q252,Indonesia
-,,,,,,Q794,Iran
-,,,,,,Q796,Iraq
-,,,,,,Q27,Republic of Ireland
 ,,,,,,Q9676,Isle of Man
 ,,,,,,Q801,Israel
 ,,,,,,Q38,Italy
@@ -228,7 +224,11 @@ Honduras,,,,,,Q783,Honduras
 Hong Kong,,,,,,Q8646,Hong Kong
 Hungría,,,,,,Q28,Hungría
 India,,,,,,Q668,India
+Indonesia,,,,,,Q252,Indonesia
 Inglaterra,,,,,,Q21,Inglaterra
+Irak,,,,,,Q796,Irak
+Irlanda,,,,,,Q27,Irlanda
+Irán,,,,,,Q794,Irán
 Isla Clipperton,,,,,,Q161258,Isla Clipperton
 Isla de Navidad,,,,,,Q31063,Isla de Navidad
 Islandia,,,,,,Q189,Islandia
