@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q766,Jamaica
-,,,,,,Q17,Japan
-,,,,,,Q785,Jersey
-,,,,,,Q810,Jordan
-,,,,,,Q232,Kazakhstan
 ,,,,,,Q114,Kenya
 ,,,,,,Q710,Kiribati
 ,,,,,,Q1246,Kosovo
@@ -236,6 +231,11 @@ Islas Malvinas (territorio británico de ultramar),,,,,,Q9648,Islas Malvinas (te
 Islas Vírgenes Británicas,,,,,,Q25305,Islas Vírgenes Británicas
 Israel,,,,,,Q801,Israel
 Italia,,,,,,Q38,Italia
+Jamaica,,,,,,Q766,Jamaica
+Japón,,,,,,Q17,Japón
+Jersey,,,,,,Q785,Jersey
+Jordania,,,,,,Q810,Jordania
+Kazajistán,,,,,,Q232,Kazajistán
 República Centroafricana,,,,,,Q929,República Centroafricana
 República Checa,,,,,,Q213,República Checa
 República Democrática del Congo,,,,,,Q974,República Democrática del Congo
