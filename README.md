@@ -10,10 +10,10 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Fri, 26 Aug 2022 22:10:17 +0000</sup>
+<sup>last modified: Sat, 27 Aug 2022 03:58:05 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 2261 |
+| 0000s | 2268 |
 | 1940s | 6 |
 | 1950s | 10 |
 | 1960s | 45 |
@@ -22,13 +22,16 @@
 | 1990s | 182 |
 | 2000s | 24 |
 
-### ***born on August 26***
+### ***born on August 27***
+1970, Peter Ebdon, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=42), [CueTracker](http://cuetracker.net/Players/peter-ebdon/)</sup></sub>
+
+1992, Michael Williams, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1322), [CueTracker](http://cuetracker.net/Players/michael-williams/)</sup></sub>
 
 
-### ***milleversary on August 26***
-1981, Keith Keldie, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1494), [CueTracker](http://cuetracker.net/Players/keith-keldie/)</sup></sub>
+### ***milleversary on August 27***
+1976, Lee Walker, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=520), [CueTracker](http://cuetracker.net/Players/lee-walker/)</sup></sub>
 
-1992, Noppon Saengkham, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=208), [CueTracker](http://cuetracker.net/Players/noppon-saengkham/)</sup></sub>
+1989, Li Yuan, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=958), [CueTracker](http://cuetracker.net/Players/li-yuan/)</sup></sub>
 
 
 
