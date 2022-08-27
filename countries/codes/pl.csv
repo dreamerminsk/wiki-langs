@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q21,England
-,,,,,,Q983,Equatorial Guinea
-,,,,,,Q986,Eritrea
-,,,,,,Q191,Estonia
-,,,,,,Q1050,Eswatini
 ,,,,,,Q115,Ethiopia
 ,,,,,,Q9648,Falkland Islands
 ,,,,,,Q4628,Faroe Islands
@@ -187,6 +182,7 @@ Akrotiri i Dhekelia,,,,,,Q37362,Akrotiri i Dhekelia
 Albania,,,,,,Q222,Albania
 Algieria,,,,,,Q262,Algieria
 Andora,,,,,,Q228,Andora
+Anglia,,,,,,Q21,Anglia
 Angola,,,,,,Q916,Angola
 Anguilla,,,,,,Q25228,Anguilla
 Antigua i Barbuda,,,,,,Q781,Antigua i Barbuda
@@ -230,6 +226,10 @@ Dominikana,,,,,,Q786,Dominikana
 Dżibuti,,,,,,Q977,Dżibuti
 Egipt,,,,,,Q79,Egipt
 Ekwador,,,,,,Q736,Ekwador
+Erytrea,,,,,,Q986,Erytrea
+Estonia,,,,,,Q191,Estonia
+Eswatini,,,,,,Q1050,Eswatini
+Gwinea Równikowa,,,,,,Q983,Gwinea Równikowa
 Górski Karabach,,,,,,Q244165,Górski Karabach
 Kajmany (wyspy),,,,,,Q5785,Kajmany (wyspy)
 Kambodża,,,,,,Q424,Kambodża
