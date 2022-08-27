@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q183,Germany
-,,,,,,Q117,Ghana
-,,,,,,Q1410,Gibraltar
-,,,,,,Q41,Greece
-,,,,,,Q223,Greenland
 ,,,,,,Q769,Grenada
 ,,,,,,Q17012,Guadeloupe
 ,,,,,,Q774,Guatemala
@@ -225,6 +220,10 @@ Fidżi,,,,,,Q712,Fidżi
 Finlandia,,,,,,Q33,Finlandia
 Francja,,,,,,Q142,Francja
 Gabon,,,,,,Q1000,Gabon
+Ghana,,,,,,Q117,Ghana
+Gibraltar,,,,,,Q1410,Gibraltar
+Grecja,,,,,,Q41,Grecja
+Grenlandia,,,,,,Q223,Grenlandia
 Gruzja,,,,,,Q230,Gruzja
 Gujana Francuska,,,,,,Q3769,Gujana Francuska
 Gwinea Równikowa,,,,,,Q983,Gwinea Równikowa
@@ -238,6 +237,7 @@ Komory,,,,,,Q970,Komory
 Kostaryka,,,,,,Q800,Kostaryka
 Kuba,,,,,,Q241,Kuba
 Mikronezja,,,,,,Q702,Mikronezja
+Niemcy,,,,,,Q183,Niemcy
 Republika Zielonego Przylądka,,,,,,Q1011,Republika Zielonego Przylądka
 Republika Środkowoafrykańska,,,,,,Q929,Republika Środkowoafrykańska
 Salwador,,,,,,Q792,Salwador
