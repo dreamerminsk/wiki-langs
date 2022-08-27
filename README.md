@@ -10,17 +10,17 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Sat, 27 Aug 2022 03:58:05 +0000</sup>
+<sup>last modified: Sat, 27 Aug 2022 04:54:29 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 2268 |
+| 0000s | 2273 |
 | 1940s | 6 |
 | 1950s | 10 |
 | 1960s | 45 |
 | 1970s | 107 |
 | 1980s | 149 |
-| 1990s | 182 |
-| 2000s | 24 |
+| 1990s | 183 |
+| 2000s | 25 |
 
 ### ***born on August 27***
 1970, Peter Ebdon, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=42), [CueTracker](http://cuetracker.net/Players/peter-ebdon/)</sup></sub>
