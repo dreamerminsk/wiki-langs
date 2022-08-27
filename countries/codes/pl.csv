@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q115,Ethiopia
-,,,,,,Q9648,Falkland Islands
-,,,,,,Q4628,Faroe Islands
-,,,,,,Q702,Federated States of Micronesia
-,,,,,,Q712,Fiji
 ,,,,,,Q33,Finland
 ,,,,,,Q142,France
 ,,,,,,Q3769,French Guiana
@@ -229,6 +224,9 @@ Ekwador,,,,,,Q736,Ekwador
 Erytrea,,,,,,Q986,Erytrea
 Estonia,,,,,,Q191,Estonia
 Eswatini,,,,,,Q1050,Eswatini
+Etiopia,,,,,,Q115,Etiopia
+Falklandy,,,,,,Q9648,Falklandy
+Fidżi,,,,,,Q712,Fidżi
 Gwinea Równikowa,,,,,,Q983,Gwinea Równikowa
 Górski Karabach,,,,,,Q244165,Górski Karabach
 Kajmany (wyspy),,,,,,Q5785,Kajmany (wyspy)
@@ -239,6 +237,7 @@ Kolumbia,,,,,,Q739,Kolumbia
 Komory,,,,,,Q970,Komory
 Kostaryka,,,,,,Q800,Kostaryka
 Kuba,,,,,,Q241,Kuba
+Mikronezja,,,,,,Q702,Mikronezja
 Republika Zielonego Przylądka,,,,,,Q1011,Republika Zielonego Przylądka
 Republika Środkowoafrykańska,,,,,,Q929,Republika Środkowoafrykańska
 Salwador,,,,,,Q792,Salwador
@@ -246,3 +245,4 @@ Timor Wschodni,,,,,,Q574,Timor Wschodni
 Wyspa Bożego Narodzenia,,,,,,Q31063,Wyspa Bożego Narodzenia
 Wyspa Clippertona,,,,,,Q161258,Wyspa Clippertona
 Wyspy Kokosowe,,,,,,Q36004,Wyspy Kokosowe
+Wyspy Owcze,,,,,,Q4628,Wyspy Owcze

@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q695,Palau
-,,,,,,Q804,Panama
-,,,,,,Q691,Papua New Guinea
-,,,,,,Q733,Paraguay
-,,,,,,Q419,Peru
 ,,,,,,Q928,Philippines
 ,,,,,,Q36,Poland
 ,,,,,,Q45,Portugal
@@ -235,7 +230,12 @@ Nueva Zelanda,,,,,,Q664,Nueva Zelanda
 Níger,,,,,,Q1032,Níger
 Omán,,,,,,Q842,Omán
 Pakistán,,,,,,Q843,Pakistán
+Palaos,,,,,,Q695,Palaos
+Panamá,,,,,,Q804,Panamá
+Papúa Nueva Guinea,,,,,,Q691,Papúa Nueva Guinea
+Paraguay,,,,,,Q733,Paraguay
 Países Bajos,,,,,,Q55,Países Bajos
+Perú,,,,,,Q419,Perú
 República Centroafricana,,,,,,Q929,República Centroafricana
 República Checa,,,,,,Q213,República Checa
 República Democrática del Congo,,,,,,Q974,República Democrática del Congo
