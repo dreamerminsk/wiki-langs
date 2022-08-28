@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q884,South Korea
-,,,,,,Q23427,South Ossetia
-,,,,,,Q958,South Sudan
-,,,,,,Q29,Spain
 ,,,,,,Q854,Sri Lanka
 ,,,,,,Q219060,State of Palestine
 ,,,,,,Q1049,Sudan
@@ -95,6 +91,7 @@ Chipre del Norte,,,,,,Q23681,Chipre del Norte
 Colombia,,,,,,Q739,Colombia
 Comoras,,,,,,Q970,Comoras
 Corea del Norte,,,,,,Q423,Corea del Norte
+Corea del Sur,,,,,,Q884,Corea del Sur
 Costa Rica,,,,,,Q800,Costa Rica
 Costa de Marfil,,,,,,Q1008,Costa de Marfil
 Croacia,,,,,,Q224,Croacia
@@ -109,6 +106,7 @@ Eritrea,,,,,,Q986,Eritrea
 Escocia,,,,,,Q22,Escocia
 Eslovaquia,,,,,,Q214,Eslovaquia
 Eslovenia,,,,,,Q215,Eslovenia
+España,,,,,,Q29,España
 Estados Federados de Micronesia,,,,,,Q702,Estados Federados de Micronesia
 Estonia,,,,,,Q191,Estonia
 Etiopía,,,,,,Q115,Etiopía
@@ -204,6 +202,7 @@ Noruega,,,,,,Q20,Noruega
 Nueva Zelanda,,,,,,Q664,Nueva Zelanda
 Níger,,,,,,Q1032,Níger
 Omán,,,,,,Q842,Omán
+Osetia del Sur,,,,,,Q23427,Osetia del Sur
 Pakistán,,,,,,Q843,Pakistán
 Palaos,,,,,,Q695,Palaos
 Panamá,,,,,,Q804,Panamá
@@ -242,6 +241,7 @@ Somalia,,,,,,Q1045,Somalia
 Somalilandia,,,,,,Q34754,Somalilandia
 Suazilandia,,,,,,Q1050,Suazilandia
 Sudáfrica,,,,,,Q258,Sudáfrica
+Sudán del Sur,,,,,,Q958,Sudán del Sur
 Territorio Británico del Océano Índico,,,,,,Q43448,Territorio Británico del Océano Índico
 Timor Oriental,,,,,,Q574,Timor Oriental
 Yibuti,,,,,,Q977,Yibuti

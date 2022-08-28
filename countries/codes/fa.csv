@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q399,Armenia
-,,,,,,Q244165,Republic of Artsakh
-,,,,,,Q21203,Aruba
-,,,,,,Q408,Australia
-,040,AT,AUT,AUT,AUT,Q40,Austria
 ,,,,,,Q227,Azerbaijan
 ,,,,,,Q398,Bahrain
 ,,,,,,Q902,Bangladesh
@@ -237,6 +232,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q954,Zimbabwe
 ,,,,,,Q5689,Åland
 آبخاز,,,,,,Q23334,آبخاز
+آروبا,,,,,,Q21203,آروبا
 آرژانتین,,,,,,Q414,آرژانتین
 آلبانی,,,,,,Q222,آلبانی
 آنتیگوآ و باربودا,,,,,,Q781,آنتیگوآ و باربودا
@@ -244,5 +240,9 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 آنگولا,,,,,,Q916,آنگولا
 آنگویلا,,,,,,Q25228,آنگویلا
 آکراتاری و داکیلیا,,,,,,Q37362,آکراتاری و داکیلیا
+اتریش,040,AT,AUT,AUT,AUT,Q40,اتریش
+ارمنستان,,,,,,Q399,ارمنستان
+استرالیا,,,,,,Q408,استرالیا
 افغانستان,004,AF,AFG,AFG,AFG,Q889,افغانستان
 الجزایر,,,,,,Q262,الجزایر
+جمهوری آرتساخ,,,,,,Q244165,جمهوری آرتساخ
