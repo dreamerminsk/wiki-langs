@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q26273,Sint Maarten
-,,,,,,Q214,Slovakia
-,,,,,,Q215,Slovenia
-,,,,,,Q685,Solomon Islands
 ,,,,,,Q1045,Somalia
 ,,,,,,Q34754,Somaliland
 ,,,,,,Q258,South Africa
@@ -115,6 +111,8 @@ Egipto,,,,,,Q79,Egipto
 El Salvador,,,,,,Q792,El Salvador
 Eritrea,,,,,,Q986,Eritrea
 Escocia,,,,,,Q22,Escocia
+Eslovaquia,,,,,,Q214,Eslovaquia
+Eslovenia,,,,,,Q215,Eslovenia
 Estados Federados de Micronesia,,,,,,Q702,Estados Federados de Micronesia
 Estonia,,,,,,Q191,Estonia
 Etiopía,,,,,,Q115,Etiopía
@@ -158,6 +156,7 @@ Islas Cocos,,,,,,Q36004,Islas Cocos
 Islas Feroe,,,,,,Q4628,Islas Feroe
 Islas Malvinas (territorio británico de ultramar),,,,,,Q9648,Islas Malvinas (territorio británico de ultramar)
 Islas Marshall,,,,,,Q709,Islas Marshall
+Islas Salomón,,,,,,Q685,Islas Salomón
 Islas Vírgenes Británicas,,,,,,Q25305,Islas Vírgenes Británicas
 Israel,,,,,,Q801,Israel
 Italia,,,,,,Q38,Italia
@@ -233,6 +232,7 @@ San Bartolomé (Francia),,,,,,Q25362,San Bartolomé (Francia)
 San Cristóbal y Nieves,,,,,,Q763,San Cristóbal y Nieves
 San Eustaquio,,,,,,Q26180,San Eustaquio
 San Marino,,,,,,Q238,San Marino
+San Martín (Países Bajos),,,,,,Q26273,San Martín (Países Bajos)
 San Pedro y Miquelón,,,,,,Q34617,San Pedro y Miquelón
 San Vicente y las Granadinas,,,,,,Q757,San Vicente y las Granadinas
 Santa Lucía,,,,,,Q760,Santa Lucía
