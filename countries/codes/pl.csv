@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q817,Kuwait
-,,,,,,Q813,Kyrgyzstan
-,,,,,,Q819,Laos
-,,,,,,Q211,Latvia
 ,,,,,,Q822,Lebanon
 ,,,,,,Q1013,Lesotho
 ,,,,,,Q1014,Liberia
@@ -226,12 +222,15 @@ Kamerun,,,,,,Q1009,Kamerun
 Kanada,,,,,,Q16,Kanada
 Kazachstan,,,,,,Q232,Kazachstan
 Kenia,,,,,,Q114,Kenia
+Kirgistan,,,,,,Q813,Kirgistan
 Kiribati,,,,,,Q710,Kiribati
 Kolumbia,,,,,,Q739,Kolumbia
 Komory,,,,,,Q970,Komory
 Kosowo,,,,,,Q1246,Kosowo
 Kostaryka,,,,,,Q800,Kostaryka
 Kuba,,,,,,Q241,Kuba
+Kuwejt,,,,,,Q817,Kuwejt
+Laos,,,,,,Q819,Laos
 Mikronezja,,,,,,Q702,Mikronezja
 Niemcy,,,,,,Q183,Niemcy
 Republika Zielonego Przylądka,,,,,,Q1011,Republika Zielonego Przylądka
@@ -246,3 +245,4 @@ Wyspy Kokosowe,,,,,,Q36004,Wyspy Kokosowe
 Wyspy Owcze,,,,,,Q4628,Wyspy Owcze
 Węgry,,,,,,Q28,Węgry
 Włochy,,,,,,Q38,Włochy
+Łotwa,,,,,,Q211,Łotwa

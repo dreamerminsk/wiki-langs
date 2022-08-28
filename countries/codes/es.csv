@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q854,Sri Lanka
-,,,,,,Q219060,State of Palestine
-,,,,,,Q1049,Sudan
-,,,,,,Q730,Suriname
 ,,,,,,Q25231,Svalbard
 ,,,,,,Q34,Sweden
 ,,,,,,Q39,Switzerland
@@ -107,6 +103,7 @@ Escocia,,,,,,Q22,Escocia
 Eslovaquia,,,,,,Q214,Eslovaquia
 Eslovenia,,,,,,Q215,Eslovenia
 España,,,,,,Q29,España
+Estado de Palestina,,,,,,Q219060,Estado de Palestina
 Estados Federados de Micronesia,,,,,,Q702,Estados Federados de Micronesia
 Estonia,,,,,,Q191,Estonia
 Etiopía,,,,,,Q115,Etiopía
@@ -239,9 +236,12 @@ Sierra Leona,,,,,,Q1044,Sierra Leona
 Singapur,,,,,,Q334,Singapur
 Somalia,,,,,,Q1045,Somalia
 Somalilandia,,,,,,Q34754,Somalilandia
+Sri Lanka,,,,,,Q854,Sri Lanka
 Suazilandia,,,,,,Q1050,Suazilandia
 Sudáfrica,,,,,,Q258,Sudáfrica
+Sudán,,,,,,Q1049,Sudán
 Sudán del Sur,,,,,,Q958,Sudán del Sur
+Surinam,,,,,,Q730,Surinam
 Territorio Británico del Océano Índico,,,,,,Q43448,Territorio Británico del Océano Índico
 Timor Oriental,,,,,,Q574,Timor Oriental
 Yibuti,,,,,,Q977,Yibuti
