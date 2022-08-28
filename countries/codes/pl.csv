@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q912,Mali
-,,,,,,Q233,Malta
-,,,,,,Q709,Marshall Islands
-,,,,,,Q17054,Martinique
 ,,,,,,Q1025,Mauritania
 ,,,,,,Q1027,Mauritius
 ,,,,,,Q96,Mexico
@@ -231,6 +227,9 @@ Makau,,,,,,Q14773,Makau
 Malawi,,,,,,Q1020,Malawi
 Malediwy,,,,,,Q826,Malediwy
 Malezja,,,,,,Q833,Malezja
+Mali,,,,,,Q912,Mali
+Malta,,,,,,Q233,Malta
+Martynika,,,,,,Q17054,Martynika
 Mikronezja,,,,,,Q702,Mikronezja
 Niemcy,,,,,,Q183,Niemcy
 Republika Zielonego Przylądka,,,,,,Q1011,Republika Zielonego Przylądka
@@ -242,6 +241,7 @@ Wyspa Bożego Narodzenia,,,,,,Q31063,Wyspa Bożego Narodzenia
 Wyspa Clippertona,,,,,,Q161258,Wyspa Clippertona
 Wyspa Man,,,,,,Q9676,Wyspa Man
 Wyspy Kokosowe,,,,,,Q36004,Wyspy Kokosowe
+Wyspy Marshalla,,,,,,Q709,Wyspy Marshalla
 Wyspy Owcze,,,,,,Q4628,Wyspy Owcze
 Węgry,,,,,,Q28,Węgry
 Włochy,,,,,,Q38,Włochy
