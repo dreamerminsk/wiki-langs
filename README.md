@@ -10,17 +10,17 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Sun, 28 Aug 2022 03:52:26 +0000</sup>
+<sup>last modified: Sun, 28 Aug 2022 04:49:29 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 2324 |
+| 0000s | 2325 |
 | 1940s | 6 |
 | 1950s | 10 |
 | 1960s | 45 |
-| 1970s | 115 |
-| 1980s | 155 |
-| 1990s | 189 |
-| 2000s | 31 |
+| 1970s | 116 |
+| 1980s | 157 |
+| 1990s | 191 |
+| 2000s | 32 |
 
 ### ***born on August 28***
 1990, Ryan Causton, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=235), [CueTracker](http://cuetracker.net/Players/ryan-causton/)</sup></sub>
