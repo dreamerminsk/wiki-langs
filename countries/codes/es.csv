@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q1039,São Tomé and Príncipe
-,,,,,,Q865,Taiwan
-,,,,,,Q863,Tajikistan
-,,,,,,Q924,Tanzania
 ,,,,,,Q869,Thailand
 ,,,,,,Q778,The Bahamas
 ,,,,,,Q1005,The Gambia
@@ -211,6 +207,7 @@ República Checa,,,,,,Q213,República Checa
 República Democrática del Congo,,,,,,Q974,República Democrática del Congo
 República Dominicana,,,,,,Q786,República Dominicana
 República Popular China,,,,,,Q148,República Popular China
+República de China,,,,,,Q865,República de China
 República del Congo,,,,,,Q971,República del Congo
 República Árabe Saharaui Democrática,,,,,,Q40362,República Árabe Saharaui Democrática
 Ruanda,,,,,,Q1037,Ruanda
@@ -225,6 +222,7 @@ San Martín (Países Bajos),,,,,,Q26273,San Martín (Países Bajos)
 San Pedro y Miquelón,,,,,,Q34617,San Pedro y Miquelón
 San Vicente y las Granadinas,,,,,,Q757,San Vicente y las Granadinas
 Santa Lucía,,,,,,Q760,Santa Lucía
+Santo Tomé y Príncipe,,,,,,Q1039,Santo Tomé y Príncipe
 Senegal,,,,,,Q1041,Senegal
 Serbia,,,,,,Q403,Serbia
 Seychelles,,,,,,Q1042,Seychelles
@@ -242,6 +240,8 @@ Suecia,,,,,,Q34,Suecia
 Suiza,,,,,,Q39,Suiza
 Surinam,,,,,,Q730,Surinam
 Svalbard,,,,,,Q25231,Svalbard
+Tanzania,,,,,,Q924,Tanzania
+Tayikistán,,,,,,Q863,Tayikistán
 Territorio Británico del Océano Índico,,,,,,Q43448,Territorio Británico del Océano Índico
 Timor Oriental,,,,,,Q574,Timor Oriental
 Yibuti,,,,,,Q977,Yibuti
