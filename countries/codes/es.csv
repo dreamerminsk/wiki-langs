@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q1045,Somalia
-,,,,,,Q34754,Somaliland
-,,,,,,Q258,South Africa
-,,,,,,Q35086,South Georgia and the South Sandwich Islands
 ,,,,,,Q884,South Korea
 ,,,,,,Q23427,South Ossetia
 ,,,,,,Q958,South Sudan
@@ -154,6 +150,7 @@ Islandia,,,,,,Q189,Islandia
 Islas Caimán,,,,,,Q5785,Islas Caimán
 Islas Cocos,,,,,,Q36004,Islas Cocos
 Islas Feroe,,,,,,Q4628,Islas Feroe
+Islas Georgias del Sur y Sandwich del Sur,,,,,,Q35086,Islas Georgias del Sur y Sandwich del Sur
 Islas Malvinas (territorio británico de ultramar),,,,,,Q9648,Islas Malvinas (territorio británico de ultramar)
 Islas Marshall,,,,,,Q709,Islas Marshall
 Islas Salomón,,,,,,Q685,Islas Salomón
@@ -241,7 +238,10 @@ Serbia,,,,,,Q403,Serbia
 Seychelles,,,,,,Q1042,Seychelles
 Sierra Leona,,,,,,Q1044,Sierra Leona
 Singapur,,,,,,Q334,Singapur
+Somalia,,,,,,Q1045,Somalia
+Somalilandia,,,,,,Q34754,Somalilandia
 Suazilandia,,,,,,Q1050,Suazilandia
+Sudáfrica,,,,,,Q258,Sudáfrica
 Territorio Británico del Océano Índico,,,,,,Q43448,Territorio Británico del Océano Índico
 Timor Oriental,,,,,,Q574,Timor Oriental
 Yibuti,,,,,,Q977,Yibuti
