@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q423,North Korea
-,,,,,,Q221,North Macedonia
-,,,,,,Q23681,Northern Cyprus
-,,,,,,Q26,Northern Ireland
-,,,,,,Q20,Norway
 ,,,,,,Q842,Oman
 ,,,,,,Q843,Pakistan
 ,,,,,,Q695,Palau
@@ -133,6 +128,7 @@ Chińska Republika Ludowa,,,,,,Q148,Chińska Republika Ludowa
 Chorwacja,,,,,,Q224,Chorwacja
 Curaçao,,,,,,Q25279,Curaçao
 Cypr,,,,,,Q229,Cypr
+Cypr Północny,,,,,,Q23681,Cypr Północny
 Czad,,,,,,Q657,Czad
 Czarnogóra,,,,,,Q236,Czarnogóra
 Czechy,,,,,,Q213,Czechy
@@ -175,6 +171,7 @@ Indonezja,,,,,,Q252,Indonezja
 Irak,,,,,,Q796,Irak
 Iran,,,,,,Q794,Iran
 Irlandia,,,,,,Q27,Irlandia
+Irlandia Północna,,,,,,Q26,Irlandia Północna
 Islandia,,,,,,Q189,Islandia
 Izrael,,,,,,Q801,Izrael
 Jamajka,,,,,,Q766,Jamajka
@@ -191,6 +188,7 @@ Kirgistan,,,,,,Q813,Kirgistan
 Kiribati,,,,,,Q710,Kiribati
 Kolumbia,,,,,,Q739,Kolumbia
 Komory,,,,,,Q970,Komory
+Korea Północna,,,,,,Q423,Korea Północna
 Kosowo,,,,,,Q1246,Kosowo
 Kostaryka,,,,,,Q800,Kostaryka
 Kuba,,,,,,Q241,Kuba
@@ -203,6 +201,7 @@ Libia,,,,,,Q1016,Libia
 Liechtenstein,,,,,,Q347,Liechtenstein
 Litwa,,,,,,Q37,Litwa
 Luksemburg,,,,,,Q32,Luksemburg
+Macedonia Północna,,,,,,Q221,Macedonia Północna
 Madagaskar,,,,,,Q1019,Madagaskar
 Makau,,,,,,Q14773,Makau
 Malawi,,,,,,Q1020,Malawi
@@ -230,6 +229,7 @@ Niemcy,,,,,,Q183,Niemcy
 Niger,,,,,,Q1032,Niger
 Nigeria,,,,,,Q1033,Nigeria
 Nikaragua,,,,,,Q811,Nikaragua
+Norwegia,,,,,,Q20,Norwegia
 Nowa Zelandia,,,,,,Q664,Nowa Zelandia
 Republika Zielonego Przylądka,,,,,,Q1011,Republika Zielonego Przylądka
 Republika Środkowoafrykańska,,,,,,Q929,Republika Środkowoafrykańska
