@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q760,Saint Lucia
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q34617,Saint Pierre and Miquelon
-,,,,,,Q757,Saint Vincent and the Grenadines
-,,,,,,Q683,Samoa
 ,,,,,,Q238,San Marino
 ,,,,,,Q851,Saudi Arabia
 ,,,,,,Q22,Scotland
@@ -232,8 +228,12 @@ Rwanda,,,,,,Q1037,Rwanda
 Saba (terytorium),,,,,,Q25528,Saba (terytorium)
 Saharyjska Arabska Republika Demokratyczna,,,,,,Q40362,Saharyjska Arabska Republika Demokratyczna
 Saint Kitts i Nevis,,,,,,Q763,Saint Kitts i Nevis
+Saint Lucia,,,,,,Q760,Saint Lucia
+Saint Vincent i Grenadyny,,,,,,Q757,Saint Vincent i Grenadyny
 Saint-Barthélemy,,,,,,Q25362,Saint-Barthélemy
+Saint-Pierre i Miquelon,,,,,,Q34617,Saint-Pierre i Miquelon
 Salwador,,,,,,Q792,Salwador
+Samoa,,,,,,Q683,Samoa
 Timor Wschodni,,,,,,Q574,Timor Wschodni
 Wybrzeże Kości Słoniowej,,,,,,Q1008,Wybrzeże Kości Słoniowej
 Wyspa Bożego Narodzenia,,,,,,Q31063,Wyspa Bożego Narodzenia
