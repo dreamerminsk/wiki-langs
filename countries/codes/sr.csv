@@ -1,9 +1,6 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
 ,,,,,,Q400506,Unknown
-,,,,,,Q717,Venezuela
-,,,,,,Q881,Vietnam
-,,,,,WAL,Q25,Wales
 ,,,,,,Q805,Yemen
 ,,,,,,Q953,Zambia
 ,,,,,,Q954,Zimbabwe
@@ -59,6 +56,9 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 Бутан,,,,,,Q917,Бутан
 Вануату,,,,,,Q686,Вануату
 Ватикан,,,,,,Q237,Ватикан
+Велс,,,,,WAL,Q25,Велс
+Венецуела,,,,,,Q717,Венецуела
+Вијетнам,,,,,,Q881,Вијетнам
 Габон,,,,,,Q1000,Габон
 Гамбија,,,,,,Q1005,Гамбија
 Гана,,,,,,Q117,Гана
