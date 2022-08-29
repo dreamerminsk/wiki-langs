@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q1036,Uganda
-,,,,,,Q212,Ukraine
-,,,,,,Q878,United Arab Emirates
-,,,,,,Q145,United Kingdom
 ,,,,,,Q30,United States
 ,,,,,,Q11703,United States Virgin Islands
 ,,,,,,Q400506,Unknown
@@ -223,6 +219,10 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 Тунис,,,,,,Q948,Тунис
 Туркменистан,,,,,,Q874,Туркменистан
 Турска,,,,,,Q43,Турска
+Уганда,,,,,,Q1036,Уганда
+Украјина,,,,,,Q212,Украјина
+Уједињени Арапски Емирати,,,,,,Q878,Уједињени Арапски Емирати
+Уједињено Краљевство,,,,,,Q145,Уједињено Краљевство
 Фарска Острва,,,,,,Q4628,Фарска Острва
 Филипини,,,,,,Q928,Филипини
 Финска,,,,,,Q33,Финска
