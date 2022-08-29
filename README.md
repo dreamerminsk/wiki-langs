@@ -10,17 +10,17 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Mon, 29 Aug 2022 12:21:04 +0000</sup>
+<sup>last modified: Mon, 29 Aug 2022 14:13:39 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 2385 |
+| 0000s | 2390 |
 | 1940s | 6 |
 | 1950s | 10 |
 | 1960s | 48 |
 | 1970s | 122 |
 | 1980s | 160 |
-| 1990s | 194 |
-| 2000s | 40 |
+| 1990s | 195 |
+| 2000s | 41 |
 
 ### ***born on August 29***
 1969, Joe Swail, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=35), [CueTracker](http://cuetracker.net/Players/joe-swail/)</sup></sub>
