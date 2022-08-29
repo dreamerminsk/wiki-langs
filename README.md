@@ -10,10 +10,10 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Sun, 28 Aug 2022 22:09:46 +0000</sup>
+<sup>last modified: Mon, 29 Aug 2022 00:59:45 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 2357 |
+| 0000s | 2364 |
 | 1940s | 6 |
 | 1950s | 10 |
 | 1960s | 45 |
@@ -22,12 +22,11 @@
 | 1990s | 193 |
 | 2000s | 35 |
 
-### ***born on August 28***
-1990, Ryan Causton, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=235), [CueTracker](http://cuetracker.net/Players/ryan-causton/)</sup></sub>
+### ***born on August 29***
+1969, Joe Swail, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=35), [CueTracker](http://cuetracker.net/Players/joe-swail/)</sup></sub>
 
 
-### ***milleversary on August 28***
-1978, Ian Glover, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=82), [CueTracker](http://cuetracker.net/Players/ian-glover/)</sup></sub>
+### ***milleversary on August 29***
 
 
 
