@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q733,Paraguay
-,,,,,,Q419,Peru
-,,,,,,Q928,Philippines
-,,,,,,Q36,Poland
-,,,,,,Q45,Portugal
 ,,,,,,Q1183,Puerto Rico
 ,,,,,,Q846,Qatar
 ,,,,,,Q971,Republic of the Congo
@@ -140,6 +135,7 @@ Eswatini,,,,,,Q1050,Eswatini
 Etiopia,,,,,,Q115,Etiopia
 Falklandy,,,,,,Q9648,Falklandy
 Fidżi,,,,,,Q712,Fidżi
+Filipiny,,,,,,Q928,Filipiny
 Finlandia,,,,,,Q33,Finlandia
 Francja,,,,,,Q142,Francja
 Gabon,,,,,,Q1000,Gabon
@@ -231,6 +227,10 @@ Pakistan,,,,,,Q843,Pakistan
 Palau,,,,,,Q695,Palau
 Panama,,,,,,Q804,Panama
 Papua-Nowa Gwinea,,,,,,Q691,Papua-Nowa Gwinea
+Paragwaj,,,,,,Q733,Paragwaj
+Peru,,,,,,Q419,Peru
+Polska,,,,,,Q36,Polska
+Portugalia,,,,,,Q45,Portugalia
 Republika Zielonego Przylądka,,,,,,Q1011,Republika Zielonego Przylądka
 Republika Środkowoafrykańska,,,,,,Q929,Republika Środkowoafrykańska
 Salwador,,,,,,Q792,Salwador
