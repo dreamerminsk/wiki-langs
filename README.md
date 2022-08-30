@@ -10,7 +10,7 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Mon, 29 Aug 2022 22:17:12 +0000</sup>
+<sup>last modified: Tue, 30 Aug 2022 01:09:21 +0000</sup>
 | births | players |
 | :----: | ------: |
 | 0000s | 2392 |
@@ -22,11 +22,11 @@
 | 1990s | 195 |
 | 2000s | 45 |
 
-### ***born on August 29***
-1969, Joe Swail, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=35), [CueTracker](http://cuetracker.net/Players/joe-swail/)</sup></sub>
+### ***born on August 30***
+1989, Bratislav Krustev, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1126), [CueTracker](http://cuetracker.net/Players/bratislav-krustev/)</sup></sub>
 
 
-### ***milleversary on August 29***
+### ***milleversary on August 30***
 
 
 
