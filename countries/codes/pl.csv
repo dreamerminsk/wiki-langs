@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q858,Syria
-,,,,,,Q1039,São Tomé and Príncipe
-,,,,,,Q865,Taiwan
-,,,,,,Q863,Tajikistan
 ,,,,,,Q924,Tanzania
 ,,,,,,Q869,Thailand
 ,,,,,,Q778,The Bahamas
@@ -199,6 +195,7 @@ Polska,,,,,,Q36,Polska
 Portoryko,,,,,,Q1183,Portoryko
 Portugalia,,,,,,Q45,Portugalia
 Południowa Afryka,,,,,,Q258,Południowa Afryka
+Republika Chińska,,,,,,Q865,Republika Chińska
 Republika Zielonego Przylądka,,,,,,Q1011,Republika Zielonego Przylądka
 Republika Środkowoafrykańska,,,,,,Q929,Republika Środkowoafrykańska
 Rosja,,,,,,Q159,Rosja
@@ -228,11 +225,13 @@ Sudan,,,,,,Q1049,Sudan
 Sudan Południowy,,,,,,Q958,Sudan Południowy
 Surinam,,,,,,Q730,Surinam
 Svalbard,,,,,,Q25231,Svalbard
+Syria,,,,,,Q858,Syria
 Szkocja,,,,,,Q22,Szkocja
 Szwajcaria,,,,,,Q39,Szwajcaria
 Szwecja,,,,,,Q34,Szwecja
 Słowacja,,,,,,Q214,Słowacja
 Słowenia,,,,,,Q215,Słowenia
+Tadżykistan,,,,,,Q863,Tadżykistan
 Timor Wschodni,,,,,,Q574,Timor Wschodni
 Wybrzeże Kości Słoniowej,,,,,,Q1008,Wybrzeże Kości Słoniowej
 Wyspa Bożego Narodzenia,,,,,,Q31063,Wyspa Bożego Narodzenia
@@ -242,6 +241,7 @@ Wyspy Kokosowe,,,,,,Q36004,Wyspy Kokosowe
 Wyspy Marshalla,,,,,,Q709,Wyspy Marshalla
 Wyspy Owcze,,,,,,Q4628,Wyspy Owcze
 Wyspy Salomona,,,,,,Q685,Wyspy Salomona
+Wyspy Świętego Tomasza i Książęca,,,,,,Q1039,Wyspy Świętego Tomasza i Książęca
 Węgry,,,,,,Q28,Węgry
 Włochy,,,,,,Q38,Włochy
 Łotwa,,,,,,Q211,Łotwa
