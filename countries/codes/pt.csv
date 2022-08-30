@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q967,Burundi
-,,,,,,Q424,Cambodia
-,,,,,,Q1009,Cameroon
-,,,,,,Q16,Canada
-,,,,,,Q1011,Cape Verde
 ,,,,,,Q5785,Cayman Islands
 ,,,,,,Q929,Central African Republic
 ,,,,,,Q657,Chad
@@ -240,9 +235,14 @@ Brasil,,,,,,Q155,Brasil
 Brunei,,,,,,Q921,Brunei
 Bulgária,,,,,,Q219,Bulgária
 Burquina Fasso,,,,,,Q965,Burquina Fasso
+Burundi,,,,,,Q967,Burundi
 Butão,,,,,,Q917,Butão
 Bélgica,,,,,,Q31,Bélgica
 Bósnia e Herzegovina,,,,,,Q225,Bósnia e Herzegovina
+Cabo Verde,,,,,,Q1011,Cabo Verde
+Camarões,,,,,,Q1009,Camarões
+Camboja,,,,,,Q424,Camboja
+Canadá,,,,,,Q16,Canadá
 Ilhas Virgens Britânicas,,,,,,Q25305,Ilhas Virgens Britânicas
 Território Britânico do Oceano Índico,,,,,,Q43448,Território Britânico do Oceano Índico
 Áustria,040,AT,AUT,AUT,AUT,Q40,Áustria
