@@ -10,17 +10,17 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Tue, 30 Aug 2022 10:11:39 +0000</sup>
+<sup>last modified: Tue, 30 Aug 2022 12:22:35 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 2394 |
+| 0000s | 2398 |
 | 1940s | 6 |
 | 1950s | 10 |
-| 1960s | 49 |
+| 1960s | 50 |
 | 1970s | 127 |
 | 1980s | 163 |
-| 1990s | 202 |
-| 2000s | 49 |
+| 1990s | 203 |
+| 2000s | 50 |
 
 ### ***born on August 30***
 1989, Bratislav Krustev, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1126), [CueTracker](http://cuetracker.net/Players/bratislav-krustev/)</sup></sub>
