@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q672,Tuvalu
-,,,,,,Q1036,Uganda
-,,,,,,Q212,Ukraine
-,,,,,,Q878,United Arab Emirates
 ,,,,,,Q145,United Kingdom
 ,,,,,,Q30,United States
 ,,,,,,Q11703,United States Virgin Islands
@@ -233,6 +229,9 @@ Tunezja,,,,,,Q948,Tunezja
 Turcja,,,,,,Q43,Turcja
 Turkmenistan,,,,,,Q874,Turkmenistan
 Turks i Caicos,,,,,,Q18221,Turks i Caicos
+Tuvalu,,,,,,Q672,Tuvalu
+Uganda,,,,,,Q1036,Uganda
+Ukraina,,,,,,Q212,Ukraina
 Wybrzeże Kości Słoniowej,,,,,,Q1008,Wybrzeże Kości Słoniowej
 Wyspa Bożego Narodzenia,,,,,,Q31063,Wyspa Bożego Narodzenia
 Wyspa Clippertona,,,,,,Q161258,Wyspa Clippertona
@@ -244,4 +243,5 @@ Wyspy Salomona,,,,,,Q685,Wyspy Salomona
 Wyspy Świętego Tomasza i Książęca,,,,,,Q1039,Wyspy Świętego Tomasza i Książęca
 Węgry,,,,,,Q28,Węgry
 Włochy,,,,,,Q38,Włochy
+Zjednoczone Emiraty Arabskie,,,,,,Q878,Zjednoczone Emiraty Arabskie
 Łotwa,,,,,,Q211,Łotwa
