@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q924,Tanzania
-,,,,,,Q869,Thailand
-,,,,,,Q778,The Bahamas
-,,,,,,Q1005,The Gambia
 ,,,,,,Q945,Togo
 ,,,,,,Q678,Tonga
 ,,,,,,Q907112,Transnistria
@@ -48,6 +44,7 @@ Aruba,,,,,,Q21203,Aruba
 Australia,,,,,,Q408,Australia
 Austria,040,AT,AUT,AUT,AUT,Q40,Austria
 Azerbejdżan,,,,,,Q227,Azerbejdżan
+Bahamy,,,,,,Q778,Bahamy
 Bahrajn,,,,,,Q398,Bahrajn
 Bangladesz,,,,,,Q902,Bangladesz
 Barbados,,,,,,Q244,Barbados
@@ -94,6 +91,7 @@ Filipiny,,,,,,Q928,Filipiny
 Finlandia,,,,,,Q33,Finlandia
 Francja,,,,,,Q142,Francja
 Gabon,,,,,,Q1000,Gabon
+Gambia,,,,,,Q1005,Gambia
 Georgia Południowa i Sandwich Południowy,,,,,,Q35086,Georgia Południowa i Sandwich Południowy
 Ghana,,,,,,Q117,Ghana
 Gibraltar,,,,,,Q1410,Gibraltar
@@ -232,6 +230,8 @@ Szwecja,,,,,,Q34,Szwecja
 Słowacja,,,,,,Q214,Słowacja
 Słowenia,,,,,,Q215,Słowenia
 Tadżykistan,,,,,,Q863,Tadżykistan
+Tajlandia,,,,,,Q869,Tajlandia
+Tanzania,,,,,,Q924,Tanzania
 Timor Wschodni,,,,,,Q574,Timor Wschodni
 Wybrzeże Kości Słoniowej,,,,,,Q1008,Wybrzeże Kości Słoniowej
 Wyspa Bożego Narodzenia,,,,,,Q31063,Wyspa Bożego Narodzenia
