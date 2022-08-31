@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q9676,Isle of Man
-,,,,,,Q801,Israel
-,,,,,,Q38,Italy
-,,,,,,Q1008,Ivory Coast
 ,,,,,,Q766,Jamaica
 ,,,,,,Q17,Japan
 ,,,,,,Q785,Jersey
@@ -218,6 +214,8 @@ Indonésie,,,,,,Q252,Indonésie
 Irsko,,,,,,Q27,Irsko
 Irák,,,,,,Q796,Irák
 Island,,,,,,Q189,Island
+Itálie,,,,,,Q38,Itálie
+Izrael,,,,,,Q801,Izrael
 Kajmanské ostrovy,,,,,,Q5785,Kajmanské ostrovy
 Kambodža,,,,,,Q424,Kambodža
 Kamerun,,,,,,Q1009,Kamerun
@@ -230,8 +228,10 @@ Konžská demokratická republika,,,,,,Q974,Konžská demokratická republika
 Kostarika,,,,,,Q800,Kostarika
 Kuba,,,,,,Q241,Kuba
 Kypr,,,,,,Q229,Kypr
+Man (ostrov),,,,,,Q9676,Man (ostrov)
 Maďarsko,,,,,,Q28,Maďarsko
 Německo,,,,,,Q183,Německo
+Pobřeží slonoviny,,,,,,Q1008,Pobřeží slonoviny
 Rakousko,040,AT,AUT,AUT,AUT,Q40,Rakousko
 Republika Arcach,,,,,,Q244165,Republika Arcach
 Rovníková Guinea,,,,,,Q983,Rovníková Guinea
