@@ -1,8 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q145,United Kingdom
-,,,,,,Q30,United States
-,,,,,,Q11703,United States Virgin Islands
 ,,,,,,Q400506,Unknown
 ,,,,,,Q77,Uruguay
 ,,,,,,Q265,Uzbekistan
@@ -208,6 +205,7 @@ Sint Maarten (terytorium),,,,,,Q26273,Sint Maarten (terytorium)
 Somalia,,,,,,Q1045,Somalia
 Somaliland,,,,,,Q34754,Somaliland
 Sri Lanka,,,,,,Q854,Sri Lanka
+Stany Zjednoczone,,,,,,Q30,Stany Zjednoczone
 Sudan,,,,,,Q1049,Sudan
 Sudan Południowy,,,,,,Q958,Sudan Południowy
 Surinam,,,,,,Q730,Surinam
@@ -232,10 +230,12 @@ Turks i Caicos,,,,,,Q18221,Turks i Caicos
 Tuvalu,,,,,,Q672,Tuvalu
 Uganda,,,,,,Q1036,Uganda
 Ukraina,,,,,,Q212,Ukraina
+Wielka Brytania,,,,,,Q145,Wielka Brytania
 Wybrzeże Kości Słoniowej,,,,,,Q1008,Wybrzeże Kości Słoniowej
 Wyspa Bożego Narodzenia,,,,,,Q31063,Wyspa Bożego Narodzenia
 Wyspa Clippertona,,,,,,Q161258,Wyspa Clippertona
 Wyspa Man,,,,,,Q9676,Wyspa Man
+Wyspy Dziewicze Stanów Zjednoczonych,,,,,,Q11703,Wyspy Dziewicze Stanów Zjednoczonych
 Wyspy Kokosowe,,,,,,Q36004,Wyspy Kokosowe
 Wyspy Marshalla,,,,,,Q709,Wyspy Marshalla
 Wyspy Owcze,,,,,,Q4628,Wyspy Owcze

@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q183,Germany
-,,,,,,Q117,Ghana
-,,,,,,Q1410,Gibraltar
-,,,,,,Q41,Greece
-,,,,,,Q223,Greenland
 ,,,,,,Q769,Grenada
 ,,,,,,Q17012,Guadeloupe
 ,,,,,,Q774,Guatemala
@@ -221,7 +216,10 @@ Finsko,,,,,,Q33,Finsko
 Francie,,,,,,Q142,Francie
 Francouzská Guyana,,,,,,Q3769,Francouzská Guyana
 Gabon,,,,,,Q1000,Gabon
+Ghana,,,,,,Q117,Ghana
+Gibraltar,,,,,,Q1410,Gibraltar
 Gruzie,,,,,,Q230,Gruzie
+Grónsko,,,,,,Q223,Grónsko
 Kajmanské ostrovy,,,,,,Q5785,Kajmanské ostrovy
 Kambodža,,,,,,Q424,Kambodža
 Kamerun,,,,,,Q1009,Kamerun
@@ -234,6 +232,7 @@ Konžská demokratická republika,,,,,,Q974,Konžská demokratická republika
 Kostarika,,,,,,Q800,Kostarika
 Kuba,,,,,,Q241,Kuba
 Kypr,,,,,,Q229,Kypr
+Německo,,,,,,Q183,Německo
 Rakousko,040,AT,AUT,AUT,AUT,Q40,Rakousko
 Republika Arcach,,,,,,Q244165,Republika Arcach
 Rovníková Guinea,,,,,,Q983,Rovníková Guinea
@@ -246,3 +245,4 @@ Východní Timor,,,,,,Q574,Východní Timor
 Čad,,,,,,Q657,Čad
 Česko,,,,,,Q213,Česko
 Čína,,,,,,Q148,Čína
+Řecko,,,,,,Q41,Řecko
