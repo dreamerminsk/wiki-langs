@@ -1,9 +1,6 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
 ,,,,,,Q400506,Unknown
-,,,,,,Q237,Vatican City
-,,,,,,Q717,Venezuela
-,,,,,,Q881,Vietnam
 ,,,,,WAL,Q25,Wales
 ,,,,,,Q805,Yemen
 ,,,,,,Q953,Zambia
@@ -230,7 +227,10 @@ Ukraina,,,,,,Q212,Ukraina
 Urugwaj,,,,,,Q77,Urugwaj
 Uzbekistan,,,,,,Q265,Uzbekistan
 Vanuatu,,,,,,Q686,Vanuatu
+Watykan,,,,,,Q237,Watykan
+Wenezuela,,,,,,Q717,Wenezuela
 Wielka Brytania,,,,,,Q145,Wielka Brytania
+Wietnam,,,,,,Q881,Wietnam
 Wybrzeże Kości Słoniowej,,,,,,Q1008,Wybrzeże Kości Słoniowej
 Wyspa Bożego Narodzenia,,,,,,Q31063,Wyspa Bożego Narodzenia
 Wyspa Clippertona,,,,,,Q161258,Wyspa Clippertona
