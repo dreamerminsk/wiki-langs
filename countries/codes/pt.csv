@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q232,Kazakhstan
-,,,,,,Q114,Kenya
-,,,,,,Q710,Kiribati
-,,,,,,Q1246,Kosovo
-,,,,,,Q817,Kuwait
 ,,,,,,Q813,Kyrgyzstan
 ,,,,,,Q819,Laos
 ,,,,,,Q211,Latvia
@@ -174,6 +169,7 @@ Cabo Verde,,,,,,Q1011,Cabo Verde
 Camarões,,,,,,Q1009,Camarões
 Camboja,,,,,,Q424,Camboja
 Canadá,,,,,,Q16,Canadá
+Cazaquistão,,,,,,Q232,Cazaquistão
 Chade,,,,,,Q657,Chade
 Chile,,,,,,Q298,Chile
 China,,,,,,Q148,China
@@ -238,6 +234,10 @@ Jamaica,,,,,,Q766,Jamaica
 Japão,,,,,,Q17,Japão
 Jersey,,,,,,Q785,Jersey
 Jordânia,,,,,,Q810,Jordânia
+Kiribati,,,,,,Q710,Kiribati
+Kosovo,,,,,,Q1246,Kosovo
+Kuwait,,,,,,Q817,Kuwait
+Quénia,,,,,,Q114,Quénia
 República Centro-Africana,,,,,,Q929,República Centro-Africana
 República Democrática do Congo,,,,,,Q974,República Democrática do Congo
 República Dominicana,,,,,,Q786,República Dominicana
