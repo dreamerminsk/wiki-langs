@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q769,Grenada
-,,,,,,Q17012,Guadeloupe
-,,,,,,Q774,Guatemala
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q1006,Guinea
 ,,,,,,Q1007,Guinea-Bissau
 ,,,,,,Q734,Guyana
 ,,,,,,Q790,Haiti
@@ -228,9 +224,13 @@ Gabão,,,,,,Q1000,Gabão
 Gana,,,,,,Q117,Gana
 Geórgia,,,,,,Q230,Geórgia
 Gibraltar,,,,,,Q1410,Gibraltar
+Granada (país),,,,,,Q769,Granada (país)
 Gronelândia,,,,,,Q223,Gronelândia
 Grécia,,,,,,Q41,Grécia
+Guadalupe,,,,,,Q17012,Guadalupe
+Guatemala,,,,,,Q774,Guatemala
 Guiana Francesa,,,,,,Q3769,Guiana Francesa
+Guiné,,,,,,Q1006,Guiné
 Guiné Equatorial,,,,,,Q983,Guiné Equatorial
 Ilha Christmas,,,,,,Q31063,Ilha Christmas
 Ilha de Clipperton,,,,,,Q161258,Ilha de Clipperton
