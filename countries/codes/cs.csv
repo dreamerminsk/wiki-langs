@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q1027,Mauritius
-,,,,,,Q96,Mexico
-,,,,,,Q217,Moldova
-,,,,,,Q235,Monaco
-,,,,,,Q711,Mongolia
 ,,,,,,Q236,Montenegro
 ,,,,,,Q13353,Montserrat
 ,,,,,,Q1028,Morocco
@@ -227,8 +222,13 @@ Malta,,,,,,Q233,Malta
 Man (ostrov),,,,,,Q9676,Man (ostrov)
 Marshallovy ostrovy,,,,,,Q709,Marshallovy ostrovy
 Martinik,,,,,,Q17054,Martinik
+Mauricius,,,,,,Q1027,Mauricius
 Mauritánie,,,,,,Q1025,Mauritánie
 Maďarsko,,,,,,Q28,Maďarsko
+Mexiko,,,,,,Q96,Mexiko
+Moldavsko,,,,,,Q217,Moldavsko
+Monako,,,,,,Q235,Monako
+Mongolsko,,,,,,Q711,Mongolsko
 Německo,,,,,,Q183,Německo
 Pobřeží slonoviny,,,,,,Q1008,Pobřeží slonoviny
 Rakousko,040,AT,AUT,AUT,AUT,Q40,Rakousko
