@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q843,Pakistan
-,,,,,,Q695,Palau
-,,,,,,Q804,Panama
-,,,,,,Q691,Papua New Guinea
-,,,,,,Q733,Paraguay
 ,,,,,,Q419,Peru
 ,,,,,,Q928,Philippines
 ,,,,,,Q36,Poland
@@ -225,7 +220,12 @@ Norsko,,,,,,Q20,Norsko
 Nový Zéland,,,,,,Q664,Nový Zéland
 Německo,,,,,,Q183,Německo
 Omán,,,,,,Q842,Omán
+Palau,,,,,,Q695,Palau
+Panama,,,,,,Q804,Panama
+Papua Nová Guinea,,,,,,Q691,Papua Nová Guinea
+Paraguay,,,,,,Q733,Paraguay
 Pobřeží slonoviny,,,,,,Q1008,Pobřeží slonoviny
+Pákistán,,,,,,Q843,Pákistán
 Rakousko,040,AT,AUT,AUT,AUT,Q40,Rakousko
 Republika Arcach,,,,,,Q244165,Republika Arcach
 Rovníková Guinea,,,,,,Q983,Rovníková Guinea
