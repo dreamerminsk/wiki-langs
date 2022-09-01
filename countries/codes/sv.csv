@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q967,Burundi
-,,,,,,Q424,Cambodia
-,,,,,,Q1009,Cameroon
-,,,,,,Q16,Canada
-,,,,,,Q1011,Cape Verde
 ,,,,,,Q5785,Cayman Islands
 ,,,,,,Q929,Central African Republic
 ,,,,,,Q657,Chad
@@ -244,5 +239,10 @@ Brittiska territoriet i Indiska oceanen,,,,,,Q43448,Brittiska territoriet i Indi
 Brunei,,,,,,Q921,Brunei
 Bulgarien,,,,,,Q219,Bulgarien
 Burkina Faso,,,,,,Q965,Burkina Faso
+Burundi,,,,,,Q967,Burundi
+Kambodja,,,,,,Q424,Kambodja
+Kamerun,,,,,,Q1009,Kamerun
+Kanada,,,,,,Q16,Kanada
+Kap Verde,,,,,,Q1011,Kap Verde
 Nagorno-Karabach,,,,,,Q244165,Nagorno-Karabach
 Österrike,040,AT,AUT,AUT,AUT,Q40,Österrike
