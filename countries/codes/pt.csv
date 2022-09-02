@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q43,Turkey
-,,,,,,Q874,Turkmenistan
-,,,,,,Q18221,Turks and Caicos Islands
-,,,,,,Q672,Tuvalu
 ,,,,,,Q1036,Uganda
 ,,,,,,Q212,Ukraine
 ,,,,,,Q878,United Arab Emirates
@@ -128,6 +124,7 @@ Ilhas Geórgia do Sul e Sandwich do Sul,,,,,,Q35086,Ilhas Geórgia do Sul e Sand
 Ilhas Malvinas,,,,,,Q9648,Ilhas Malvinas
 Ilhas Marshall,,,,,,Q709,Ilhas Marshall
 Ilhas Salomão,,,,,,Q685,Ilhas Salomão
+Ilhas Turcas e Caicos,,,,,,Q18221,Ilhas Turcas e Caicos
 Ilhas Virgens Britânicas,,,,,,Q25305,Ilhas Virgens Britânicas
 Indonésia,,,,,,Q252,Indonésia
 Inglaterra,,,,,,Q21,Inglaterra
@@ -242,6 +239,9 @@ Tonga,,,,,,Q678,Tonga
 Transnístria,,,,,,Q907112,Transnístria
 Trindade e Tobago,,,,,,Q754,Trindade e Tobago
 Tunísia,,,,,,Q948,Tunísia
+Turquemenistão,,,,,,Q874,Turquemenistão
+Turquia,,,,,,Q43,Turquia
+Tuvalu,,,,,,Q672,Tuvalu
 África do Sul,,,,,,Q258,África do Sul
 Áustria,040,AT,AUT,AUT,AUT,Q40,Áustria
 Índia,,,,,,Q668,Índia
