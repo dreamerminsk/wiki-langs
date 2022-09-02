@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q26273,Sint Maarten
-,,,,,,Q214,Slovakia
-,,,,,,Q215,Slovenia
-,,,,,,Q685,Solomon Islands
 ,,,,,,Q1045,Somalia
 ,,,,,,Q34754,Somaliland
 ,,,,,,Q258,South Africa
@@ -116,6 +112,8 @@ El Salvador,,,,,,Q792,El Salvador
 Equador,,,,,,Q736,Equador
 Eritreia,,,,,,Q986,Eritreia
 Escócia,,,,,,Q22,Escócia
+Eslováquia,,,,,,Q214,Eslováquia
+Eslovénia,,,,,,Q215,Eslovénia
 Essuatíni,,,,,,Q1050,Essuatíni
 Estados Federados da Micronésia,,,,,,Q702,Estados Federados da Micronésia
 Estónia,,,,,,Q191,Estónia
@@ -151,6 +149,7 @@ Ilhas Cocos (Keeling),,,,,,Q36004,Ilhas Cocos (Keeling)
 Ilhas Feroe,,,,,,Q4628,Ilhas Feroe
 Ilhas Malvinas,,,,,,Q9648,Ilhas Malvinas
 Ilhas Marshall,,,,,,Q709,Ilhas Marshall
+Ilhas Salomão,,,,,,Q685,Ilhas Salomão
 Ilhas Virgens Britânicas,,,,,,Q25305,Ilhas Virgens Britânicas
 Indonésia,,,,,,Q252,Indonésia
 Inglaterra,,,,,,Q21,Inglaterra
@@ -238,6 +237,7 @@ Serra Leoa,,,,,,Q1044,Serra Leoa
 Singapura,,,,,,Q334,Singapura
 São Bartolomeu (coletividade),,,,,,Q25362,São Bartolomeu (coletividade)
 São Cristóvão e Neves,,,,,,Q763,São Cristóvão e Neves
+São Martinho (Países Baixos),,,,,,Q26273,São Martinho (Países Baixos)
 São Pedro e Miquelão,,,,,,Q34617,São Pedro e Miquelão
 São Vicente e Granadinas,,,,,,Q757,São Vicente e Granadinas
 Sérvia,,,,,,Q403,Sérvia
