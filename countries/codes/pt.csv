@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q851,Saudi Arabia
-,,,,,,Q22,Scotland
-,,,,,,Q1041,Senegal
-,,,,,,Q403,Serbia
 ,,,,,,Q1042,Seychelles
 ,,,,,,Q1044,Sierra Leone
 ,,,,,,Q334,Singapore
@@ -76,6 +72,7 @@ Argélia,,,,,,Q262,Argélia
 Arménia,,,,,,Q399,Arménia
 Artsaque,,,,,,Q244165,Artsaque
 Aruba,,,,,,Q21203,Aruba
+Arábia Saudita,,,,,,Q851,Arábia Saudita
 Austrália,,,,,,Q408,Austrália
 Azerbaijão,,,,,,Q227,Azerbaijão
 Bahrein,,,,,,Q398,Bahrein
@@ -122,6 +119,7 @@ Egito,,,,,,Q79,Egito
 El Salvador,,,,,,Q792,El Salvador
 Equador,,,,,,Q736,Equador
 Eritreia,,,,,,Q986,Eritreia
+Escócia,,,,,,Q22,Escócia
 Essuatíni,,,,,,Q1050,Essuatíni
 Estados Federados da Micronésia,,,,,,Q702,Estados Federados da Micronésia
 Estónia,,,,,,Q191,Estónia
@@ -237,10 +235,12 @@ Saba,,,,,,Q25528,Saba
 Samoa,,,,,,Q683,Samoa
 San Marino,,,,,,Q238,San Marino
 Santa Lúcia,,,,,,Q760,Santa Lúcia
+Senegal,,,,,,Q1041,Senegal
 São Bartolomeu (coletividade),,,,,,Q25362,São Bartolomeu (coletividade)
 São Cristóvão e Neves,,,,,,Q763,São Cristóvão e Neves
 São Pedro e Miquelão,,,,,,Q34617,São Pedro e Miquelão
 São Vicente e Granadinas,,,,,,Q757,São Vicente e Granadinas
+Sérvia,,,,,,Q403,Sérvia
 Território Britânico do Oceano Índico,,,,,,Q43448,Território Britânico do Oceano Índico
 Timor-Leste,,,,,,Q574,Timor-Leste
 Áustria,040,AT,AUT,AUT,AUT,Q40,Áustria
