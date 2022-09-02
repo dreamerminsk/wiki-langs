@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q25231,Svalbard
-,,,,,,Q34,Sweden
-,,,,,,Q39,Switzerland
-,,,,,,Q858,Syria
 ,,,,,,Q1039,São Tomé and Príncipe
 ,,,,,,Q865,Taiwan
 ,,,,,,Q863,Tajikistan
@@ -234,12 +230,16 @@ Sri Lanka,,,,,,Q854,Sri Lanka
 Sudão,,,,,,Q1049,Sudão
 Sudão do Sul,,,,,,Q958,Sudão do Sul
 Suriname,,,,,,Q730,Suriname
+Suécia,,,,,,Q34,Suécia
+Suíça,,,,,,Q39,Suíça
+Svalbard,,,,,,Q25231,Svalbard
 São Bartolomeu (coletividade),,,,,,Q25362,São Bartolomeu (coletividade)
 São Cristóvão e Neves,,,,,,Q763,São Cristóvão e Neves
 São Martinho (Países Baixos),,,,,,Q26273,São Martinho (Países Baixos)
 São Pedro e Miquelão,,,,,,Q34617,São Pedro e Miquelão
 São Vicente e Granadinas,,,,,,Q757,São Vicente e Granadinas
 Sérvia,,,,,,Q403,Sérvia
+Síria,,,,,,Q858,Síria
 Território Britânico do Oceano Índico,,,,,,Q43448,Território Britânico do Oceano Índico
 Timor-Leste,,,,,,Q574,Timor-Leste
 África do Sul,,,,,,Q258,África do Sul
