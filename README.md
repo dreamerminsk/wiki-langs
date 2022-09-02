@@ -10,10 +10,10 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Thu, 01 Sep 2022 22:12:00 +0000</sup>
+<sup>last modified: Fri, 02 Sep 2022 00:57:09 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 2573 |
+| 0000s | 2580 |
 | 1940s | 6 |
 | 1950s | 10 |
 | 1960s | 51 |
@@ -22,10 +22,14 @@
 | 1990s | 205 |
 | 2000s | 57 |
 
-### ***born on September  1***
+### ***born on September  2***
+1982, Irina Gorbataya, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2114), [CueTracker](http://cuetracker.net/Players/irina-gorbataya/)</sup></sub>
 
 
-### ***milleversary on September  1***
+### ***milleversary on September  2***
+1970, Peter Ebdon, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=42), [CueTracker](http://cuetracker.net/Players/peter-ebdon/)</sup></sub>
+
+1998, Patrick Whelan, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1812), [CueTracker](http://cuetracker.net/Players/patrick-whelan/)</sup></sub>
 
 
 
