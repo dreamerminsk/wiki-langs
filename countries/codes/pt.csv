@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q854,Sri Lanka
-,,,,,,Q219060,State of Palestine
-,,,,,,Q1049,Sudan
-,,,,,,Q730,Suriname
 ,,,,,,Q25231,Svalbard
 ,,,,,,Q34,Sweden
 ,,,,,,Q39,Switzerland
@@ -109,6 +105,7 @@ Eslováquia,,,,,,Q214,Eslováquia
 Eslovénia,,,,,,Q215,Eslovénia
 Espanha,,,,,,Q29,Espanha
 Essuatíni,,,,,,Q1050,Essuatíni
+Estado da Palestina,,,,,,Q219060,Estado da Palestina
 Estados Federados da Micronésia,,,,,,Q702,Estados Federados da Micronésia
 Estónia,,,,,,Q191,Estónia
 Etiópia,,,,,,Q115,Etiópia
@@ -233,7 +230,10 @@ Serra Leoa,,,,,,Q1044,Serra Leoa
 Singapura,,,,,,Q334,Singapura
 Somalilândia,,,,,,Q34754,Somalilândia
 Somália,,,,,,Q1045,Somália
+Sri Lanka,,,,,,Q854,Sri Lanka
+Sudão,,,,,,Q1049,Sudão
 Sudão do Sul,,,,,,Q958,Sudão do Sul
+Suriname,,,,,,Q730,Suriname
 São Bartolomeu (coletividade),,,,,,Q25362,São Bartolomeu (coletividade)
 São Cristóvão e Neves,,,,,,Q763,São Cristóvão e Neves
 São Martinho (Países Baixos),,,,,,Q26273,São Martinho (Países Baixos)
