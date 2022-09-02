@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q1045,Somalia
-,,,,,,Q34754,Somaliland
-,,,,,,Q258,South Africa
-,,,,,,Q35086,South Georgia and the South Sandwich Islands
 ,,,,,,Q884,South Korea
 ,,,,,,Q23427,South Ossetia
 ,,,,,,Q958,South Sudan
@@ -129,6 +125,8 @@ Izrael,,,,,,Q801,Izrael
 Jamajka,,,,,,Q766,Jamajka
 Japonsko,,,,,,Q17,Japonsko
 Jersey,,,,,,Q785,Jersey
+Jihoafrická republika,,,,,,Q258,Jihoafrická republika
+Jižní Georgie a Jižní Sandwichovy ostrovy,,,,,,Q35086,Jižní Georgie a Jižní Sandwichovy ostrovy
 Jordánsko,,,,,,Q810,Jordánsko
 Kajmanské ostrovy,,,,,,Q5785,Kajmanské ostrovy
 Kambodža,,,,,,Q424,Kambodža
@@ -226,6 +224,8 @@ Singapur,,,,,,Q334,Singapur
 Skotsko,,,,,,Q22,Skotsko
 Slovensko,,,,,,Q214,Slovensko
 Slovinsko,,,,,,Q215,Slovinsko
+Somaliland,,,,,,Q34754,Somaliland
+Somálsko,,,,,,Q1045,Somálsko
 Srbsko,,,,,,Q403,Srbsko
 Středoafrická republika,,,,,,Q929,Středoafrická republika
 Svatá Lucie,,,,,,Q760,Svatá Lucie
