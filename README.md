@@ -10,17 +10,17 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Fri, 02 Sep 2022 20:13:02 +0000</sup>
+<sup>last modified: Fri, 02 Sep 2022 22:12:14 +0000</sup>
 | births | players |
 | :----: | ------: |
 | 0000s | 2617 |
 | 1940s | 6 |
 | 1950s | 10 |
 | 1960s | 51 |
-| 1970s | 137 |
+| 1970s | 138 |
 | 1980s | 167 |
-| 1990s | 207 |
-| 2000s | 71 |
+| 1990s | 209 |
+| 2000s | 75 |
 
 ### ***born on September  2***
 1982, Irina Gorbataya, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2114), [CueTracker](http://cuetracker.net/Players/irina-gorbataya/)</sup></sub>
