@@ -10,26 +10,26 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Fri, 02 Sep 2022 22:12:14 +0000</sup>
+<sup>last modified: Sat, 03 Sep 2022 00:53:23 +0000</sup>
 | births | players |
 | :----: | ------: |
 | 0000s | 2617 |
 | 1940s | 6 |
 | 1950s | 10 |
 | 1960s | 51 |
-| 1970s | 138 |
-| 1980s | 167 |
-| 1990s | 209 |
-| 2000s | 75 |
+| 1970s | 139 |
+| 1980s | 169 |
+| 1990s | 211 |
+| 2000s | 77 |
 
-### ***born on September  2***
-1982, Irina Gorbataya, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2114), [CueTracker](http://cuetracker.net/Players/irina-gorbataya/)</sup></sub>
+### ***born on September  3***
+1949, Dessie Sheehan, 73 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=594), [CueTracker](http://cuetracker.net/Players/dessie-sheehan/)</sup></sub>
 
 
-### ***milleversary on September  2***
-1970, Peter Ebdon, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=42), [CueTracker](http://cuetracker.net/Players/peter-ebdon/)</sup></sub>
+### ***milleversary on September  3***
+1976, Lee Adams, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2686)</sup></sub>
 
-1998, Patrick Whelan, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1812), [CueTracker](http://cuetracker.net/Players/patrick-whelan/)</sup></sub>
+1995, Harvey Chandler, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=982), [CueTracker](http://cuetracker.net/Players/harvey-chandler/)</sup></sub>
 
 
 
