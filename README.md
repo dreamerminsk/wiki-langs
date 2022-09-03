@@ -10,17 +10,17 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Sat, 03 Sep 2022 20:13:12 +0000</sup>
+<sup>last modified: Sat, 03 Sep 2022 22:10:09 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 2679 |
+| 0000s | 2685 |
 | 1940s | 6 |
 | 1950s | 10 |
 | 1960s | 51 |
 | 1970s | 139 |
 | 1980s | 171 |
 | 1990s | 214 |
-| 2000s | 80 |
+| 2000s | 81 |
 
 ### ***born on September  3***
 1949, Dessie Sheehan, 73 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=594), [CueTracker](http://cuetracker.net/Players/dessie-sheehan/)</sup></sub>
