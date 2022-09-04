@@ -10,18 +10,18 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Sun, 04 Sep 2022 10:12:09 +0000</sup>
+<sup>last modified: Sun, 04 Sep 2022 12:20:15 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 2700 |
+| 0000s | 2702 |
 | 1930s | 2 |
 | 1940s | 9 |
 | 1950s | 13 |
 | 1960s | 52 |
-| 1970s | 142 |
-| 1980s | 173 |
-| 1990s | 216 |
-| 2000s | 85 |
+| 1970s | 144 |
+| 1980s | 174 |
+| 1990s | 217 |
+| 2000s | 86 |
 
 ### ***born on September  4***
 1976, Bjorn Haneveer, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=64), [CueTracker](http://cuetracker.net/Players/bjorn-haneveer/)</sup></sub>
