@@ -77,7 +77,6 @@ impl UpdateReadMe {
 
         Some(format!(
             "## players\r\n{}\r\n{}\r\n\r\n{}\r\n{}\r\n",
-            
             PLAYERS_HEADER,
             rows.join("\r\n"),
             self.births(&births),
