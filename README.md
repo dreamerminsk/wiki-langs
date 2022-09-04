@@ -10,10 +10,9 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Sun, 04 Sep 2022 16:13:49 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 2716 |
+| 0000s | 2696 |
 | 1930s | 2 |
 | 1940s | 9 |
 | 1950s | 13 |
@@ -29,7 +28,7 @@
 1992, Jack Culligan, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=139), [CueTracker](http://cuetracker.net/Players/jack-culligan/)</sup></sub>
 
 
-### ***milleversary on September  4***
+### ***milleversary on September  4 2022***
 
 
 
