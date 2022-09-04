@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q213,Czech Republic
-,,,,,,Q974,Democratic Republic of the Congo
-,,,,,,Q35,Denmark
-,,,,,,Q977,Djibouti
-,,,,,,Q784,Dominica
 ,,,,,,Q786,Dominican Republic
 ,,,,,,Q574,East Timor
 ,,,,,,Q736,Ecuador
@@ -227,6 +222,7 @@ Burundi,,,,,,Q967,Burundi
 Cambodgia,,,,,,Q424,Cambodgia
 Camerun,,,,,,Q1009,Camerun
 Canada,,,,,,Q16,Canada
+Cehia,,,,,,Q213,Cehia
 Chile,,,,,,Q298,Chile
 Ciad,,,,,,Q657,Ciad
 Cipru,,,,,,Q229,Cipru
@@ -236,6 +232,9 @@ Costa Rica,,,,,,Q800,Costa Rica
 Croația,,,,,,Q224,Croația
 Cuba,,,,,,Q241,Cuba
 Curaçao,,,,,,Q25279,Curaçao
+Danemarca,,,,,,Q35,Danemarca
+Djibouti,,,,,,Q977,Djibouti
+Dominica,,,,,,Q784,Dominica
 Insula Clipperton,,,,,,Q161258,Insula Clipperton
 Insula Crăciunului,,,,,,Q31063,Insula Crăciunului
 Insulele Bermude,,,,,,Q23635,Insulele Bermude
@@ -244,5 +243,6 @@ Insulele Cocos,,,,,,Q36004,Insulele Cocos
 Insulele Virgine Britanice,,,,,,Q25305,Insulele Virgine Britanice
 Republica Capului Verde,,,,,,Q1011,Republica Capului Verde
 Republica Centrafricană,,,,,,Q929,Republica Centrafricană
+Republica Democratică Congo,,,,,,Q974,Republica Democratică Congo
 Republica Populară Chineză,,,,,,Q148,Republica Populară Chineză
 Teritoriul Britanic din Oceanul Indian,,,,,,Q43448,Teritoriul Britanic din Oceanul Indian
