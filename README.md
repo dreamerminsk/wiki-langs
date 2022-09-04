@@ -10,10 +10,10 @@
 ![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
 
 ## players
-<sup>last modified: Sat, 03 Sep 2022 22:10:09 +0000</sup>
+<sup>last modified: Sun, 04 Sep 2022 00:56:08 +0000</sup>
 | births | players |
 | :----: | ------: |
-| 0000s | 2685 |
+| 0000s | 2692 |
 | 1940s | 6 |
 | 1950s | 10 |
 | 1960s | 51 |
@@ -22,16 +22,13 @@
 | 1990s | 214 |
 | 2000s | 81 |
 
-### ***born on September  3***
-1949, Dessie Sheehan, 73 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=594), [CueTracker](http://cuetracker.net/Players/dessie-sheehan/)</sup></sub>
+### ***born on September  4***
+1976, Bjorn Haneveer, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=64), [CueTracker](http://cuetracker.net/Players/bjorn-haneveer/)</sup></sub>
+
+1992, Jack Culligan, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=139), [CueTracker](http://cuetracker.net/Players/jack-culligan/)</sup></sub>
 
 
-### ***milleversary on September  3***
-1976, Lee Adams, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2686)</sup></sub>
-
-1995, Harvey Chandler, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=982), [CueTracker](http://cuetracker.net/Players/harvey-chandler/)</sup></sub>
-
-2000, Alfie Davies, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2803)</sup></sub>
+### ***milleversary on September  4***
 
 
 
