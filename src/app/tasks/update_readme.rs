@@ -76,8 +76,7 @@ impl UpdateReadMe {
         rows.sort();
 
         Some(format!(
-            "## players\r\n<sup>last modified: {}</sup>\r\n{}\r\n{}\r\n\r\n{}\r\n{}\r\n",
-            Utc::now().to_rfc2822(),
+            "## players\r\n{}\r\n{}\r\n\r\n{}\r\n{}\r\n",
             PLAYERS_HEADER,
             rows.join("\r\n"),
             self.births(&births),
@@ -121,7 +120,7 @@ impl UpdateReadMe {
         mrows.sort();
         format!(
             "### ***milleversary on {}***\r\n{}\r\n",
-            Utc::now().format("%B %e"),
+            Utc::now().format("%B %e %Y"),
             mrows.join("\r\n")
         )
     }
