@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q1005,The Gambia
-,,,,,,Q945,Togo
-,,,,,,Q678,Tonga
-,,,,,,Q907112,Transnistria
-,,,,,,Q754,Trinidad and Tobago
 ,,,,,,Q948,Tunisia
 ,,,,,,Q43,Turkey
 ,,,,,,Q874,Turkmenistan
@@ -91,6 +86,7 @@ Frankrike,,,,,,Q142,Frankrike
 Franska Guyana,,,,,,Q3769,Franska Guyana
 Färöarna,,,,,,Q4628,Färöarna
 Gabon,,,,,,Q1000,Gabon
+Gambia,,,,,,Q1005,Gambia
 Georgien,,,,,,Q230,Georgien
 Ghana,,,,,,Q117,Ghana
 Gibraltar,,,,,,Q1410,Gibraltar
@@ -241,6 +237,10 @@ Tanzania,,,,,,Q924,Tanzania
 Tchad,,,,,,Q657,Tchad
 Thailand,,,,,,Q869,Thailand
 Tjeckien,,,,,,Q213,Tjeckien
+Togo,,,,,,Q945,Togo
+Tonga,,,,,,Q678,Tonga
+Transnistrien,,,,,,Q907112,Transnistrien
+Trinidad och Tobago,,,,,,Q754,Trinidad och Tobago
 Tyskland,,,,,,Q183,Tyskland
 Ungern,,,,,,Q28,Ungern
 Österrike,040,AT,AUT,AUT,AUT,Q40,Österrike
