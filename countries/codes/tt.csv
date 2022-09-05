@@ -2,8 +2,6 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q31063,Christmas Island
 ,,,,,,Q161258,Clipperton Island
 ,,,,,,Q36004,Cocos (Keeling) Islands
-,,,,,,Q229,Cyprus
-,,,,,,Q213,Czech Republic
 ,,,,,,Q974,Democratic Republic of the Congo
 ,,,,,,Q35,Denmark
 ,,,,,,Q977,Djibouti
@@ -229,6 +227,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 Камбоджа,,,,,,Q424,Камбоджа
 Камерун,,,,,,Q1009,Камерун
 Канада,,,,,,Q16,Канада
+Кипр Республикасы,,,,,,Q229,Кипр Республикасы
 Колумбия,,,,,,Q739,Колумбия
 Коморлар,,,,,,Q970,Коморлар
 Коста-Рика,,,,,,Q800,Коста-Рика
@@ -238,6 +237,7 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 Таулы Карабаx Республикасы,,,,,,Q244165,Таулы Карабаx Республикасы
 Хорватия,,,,,,Q224,Хорватия
 Чад,,,,,,Q657,Чад
+Чехия,,,,,,Q213,Чехия
 Чили,,,,,,Q298,Чили
 Үзәк Африка Җөмһүрияте,,,,,,Q929,Үзәк Африка Җөмһүрияте
 Әзербайҗан,,,,,,Q227,Әзербайҗан
