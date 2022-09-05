@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q1008,Ivory Coast
-,,,,,,Q766,Jamaica
-,,,,,,Q17,Japan
-,,,,,,Q785,Jersey
-,,,,,,Q810,Jordan
 ,,,,,,Q232,Kazakhstan
 ,,,,,,Q114,Kenya
 ,,,,,,Q710,Kiribati
@@ -182,6 +177,7 @@ Cehia,,,,,,Q213,Cehia
 Chile,,,,,,Q298,Chile
 Ciad,,,,,,Q657,Ciad
 Cipru,,,,,,Q229,Cipru
+Coasta de Fildeș,,,,,,Q1008,Coasta de Fildeș
 Columbia,,,,,,Q739,Columbia
 Comore,,,,,,Q970,Comore
 Costa Rica,,,,,,Q800,Costa Rica
@@ -223,6 +219,7 @@ India,,,,,,Q668,India
 Indonezia,,,,,,Q252,Indonezia
 Insula Clipperton,,,,,,Q161258,Insula Clipperton
 Insula Crăciunului,,,,,,Q31063,Insula Crăciunului
+Insula Jersey,,,,,,Q785,Insula Jersey
 Insula Man,,,,,,Q9676,Insula Man
 Insulele Bermude,,,,,,Q23635,Insulele Bermude
 Insulele Cayman,,,,,,Q5785,Insulele Cayman
@@ -231,12 +228,15 @@ Insulele Falkland,,,,,,Q9648,Insulele Falkland
 Insulele Feroe,,,,,,Q4628,Insulele Feroe
 Insulele Guernsey,,,,,,Q3311985,Insulele Guernsey
 Insulele Virgine Britanice,,,,,,Q25305,Insulele Virgine Britanice
+Iordania,,,,,,Q810,Iordania
 Irak,,,,,,Q796,Irak
 Iran,,,,,,Q794,Iran
 Irlanda,,,,,,Q27,Irlanda
 Islanda,,,,,,Q189,Islanda
 Israel,,,,,,Q801,Israel
 Italia,,,,,,Q38,Italia
+Jamaica,,,,,,Q766,Jamaica
+Japonia,,,,,,Q17,Japonia
 Republica Capului Verde,,,,,,Q1011,Republica Capului Verde
 Republica Centrafricană,,,,,,Q929,Republica Centrafricană
 Republica Democratică Congo,,,,,,Q974,Republica Democratică Congo
