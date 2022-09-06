@@ -44,7 +44,7 @@ impl NextPlayer {
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
     setup_logger()?;
-    
+
     let update_countries = UpdateCountries::new();
     update_countries.execute().await;
 
@@ -54,8 +54,8 @@ async fn main() -> Result<(), Box<dyn Error>> {
     Ok(())
 }
 
-fn scan_players() -> Result<(),Box<dyn Error>> {
-let mut next_player = NextPlayer(0);
+fn scan_players() -> Result<(), Box<dyn Error>> {
+    let mut next_player = NextPlayer(0);
     let mut rng = rand::thread_rng();
     let mut updated = 0;
     for i in 0..7 {
@@ -81,8 +81,8 @@ let mut next_player = NextPlayer(0);
     //    .into_iter()
     //    .map(|it| Country::from(it.to_string()))
     //    .for_each(|it| add_country(&it).ok().unwrap_or_default());
-Ok(())
-   }
+    Ok(())
+}
 
 fn setup_logger() -> Result<(), fern::InitError> {
     fern::Dispatch::new()
