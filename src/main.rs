@@ -45,6 +45,16 @@ impl NextPlayer {
 async fn main() -> Result<(), Box<dyn Error>> {
     setup_logger()?;
 
+    let update_countries = UpdateCountries::new();
+    update_countries.execute().await;
+
+    let update_readme = UpdateReadMe::new();
+    update_readme.execute();
+
+    Ok(())
+}
+
+async fn scan_players() -> Result<(), Box<dyn Error>> {
     let mut next_player = NextPlayer(0);
     let mut rng = rand::thread_rng();
     let mut updated = 0;
@@ -71,13 +81,6 @@ async fn main() -> Result<(), Box<dyn Error>> {
     //    .into_iter()
     //    .map(|it| Country::from(it.to_string()))
     //    .for_each(|it| add_country(&it).ok().unwrap_or_default());
-
-    let update_countries = UpdateCountries::new();
-    update_countries.execute().await;
-
-    let update_readme = UpdateReadMe::new();
-    update_readme.execute();
-
     Ok(())
 }
 
