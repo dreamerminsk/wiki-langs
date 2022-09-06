@@ -14,7 +14,7 @@ impl UpdateCountries {
 
     pub async fn execute(&self) -> Option<()> {
         self.execute_lang("ro").await?;
-        self.execute_lang("no").await?;
+        self.execute_no().await?;
         self.execute_lang("tt").await?;
         Some(())
     }
@@ -44,6 +44,34 @@ impl UpdateCountries {
         }
         Some(())
     }
+
+async fn execute_no(&self) -> Option<()> {
+        let list = tables::get_all_countries("no").ok()?;
+        let filtered = list
+            .into_iter()
+            .filter(|c| c.name.is_empty() || c.wiki_id.as_ref().unwrap().contains(&c.name))
+            .take(5);
+        for mut c in filtered {
+            let updated = self
+                .get_wiki(c.wiki_id.as_ref().unwrap_or_else(|| &c.name))
+                .await;
+            let oiw = updated
+                .inter_wikis
+                .into_iter()
+                .filter(|u| u.lang == "nb")
+                .next();
+            if oiw.is_some() {
+                tables::remove_country("no", &c);
+                let iw = oiw.unwrap();
+                c.name = iw.title.clone();
+                c.wiki_id = Some(iw.title.clone());
+                tables::add_country("no", &c);
+            }
+        }
+        Some(())
+    }
+
+ 
 
     async fn get_wiki(&self, name: &str) -> Page {
         let inter_wiki = InterWiki::new("en".to_string(), name.to_string());
