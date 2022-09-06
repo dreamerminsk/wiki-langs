@@ -54,7 +54,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
     Ok(())
 }
 
-fn scan_players() -> Result<(), Box<dyn Error>> {
+async fn scan_players() -> Result<(), Box<dyn Error>> {
     let mut next_player = NextPlayer(0);
     let mut rng = rand::thread_rng();
     let mut updated = 0;
