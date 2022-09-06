@@ -45,7 +45,7 @@ impl UpdateCountries {
         Some(())
     }
 
-async fn execute_no(&self) -> Option<()> {
+    async fn execute_no(&self) -> Option<()> {
         let list = tables::get_all_countries("no").ok()?;
         let filtered = list
             .into_iter()
@@ -70,8 +70,6 @@ async fn execute_no(&self) -> Option<()> {
         }
         Some(())
     }
-
- 
 
     async fn get_wiki(&self, name: &str) -> Page {
         let inter_wiki = InterWiki::new("en".to_string(), name.to_string());
