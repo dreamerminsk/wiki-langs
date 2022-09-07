@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q227,Azerbaijan
-,,,,,,Q398,Bahrain
-,,,,,,Q902,Bangladesh
-,,,,,,Q244,Barbados
-,,,,,,Q184,Belarus
 ,,,,,,Q31,Belgium
 ,,,,,,Q242,Belize
 ,,,,,,Q962,Benin
@@ -243,6 +238,11 @@ Antigua og Barbuda,,,,,,Q781,Antigua og Barbuda
 Argentina,,,,,,Q414,Argentina
 Armenia,,,,,,Q399,Armenia
 Aruba,,,,,,Q21203,Aruba
+Aserbajdsjan,,,,,,Q227,Aserbajdsjan
 Australia,,,,,,Q408,Australia
+Bahrain,,,,,,Q398,Bahrain
+Bangladesh,,,,,,Q902,Bangladesh
+Barbados,,,,,,Q244,Barbados
+Belarus,,,,,,Q184,Belarus
 Republikken Artsakh,,,,,,Q244165,Republikken Artsakh
 Østerrike,040,AT,AUT,AUT,AUT,Q40,Østerrike

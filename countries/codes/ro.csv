@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q851,Saudi Arabia
-,,,,,,Q22,Scotland
-,,,,,,Q1041,Senegal
-,,,,,,Q403,Serbia
 ,,,,,,Q1042,Seychelles
 ,,,,,,Q1044,Sierra Leone
 ,,,,,,Q334,Singapore
@@ -72,6 +68,7 @@ Anglia,,,,,,Q21,Anglia
 Angola,,,,,,Q916,Angola
 Anguilla,,,,,,Q25228,Anguilla
 Antigua și Barbuda,,,,,,Q781,Antigua și Barbuda
+Arabia Saudită,,,,,,Q851,Arabia Saudită
 Argentina,,,,,,Q414,Argentina
 Armenia,,,,,,Q399,Armenia
 Aruba,,,,,,Q21203,Aruba
@@ -238,6 +235,9 @@ Saint Pierre și Miquelon,,,,,,Q34617,Saint Pierre și Miquelon
 Saint-Barthélemy,,,,,,Q25362,Saint-Barthélemy
 Samoa,,,,,,Q683,Samoa
 San Marino,,,,,,Q238,San Marino
+Scoția,,,,,,Q22,Scoția
+Senegal,,,,,,Q1041,Senegal
+Serbia,,,,,,Q403,Serbia
 Sfânta Lucia,,,,,,Q760,Sfânta Lucia
 Sfântul Cristofor și Nevis,,,,,,Q763,Sfântul Cristofor și Nevis
 Sfântul Vincențiu și Grenadinele,,,,,,Q757,Sfântul Vincențiu și Grenadinele
