@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q26273,Sint Maarten
-,,,,,,Q214,Slovakia
-,,,,,,Q215,Slovenia
-,,,,,,Q685,Solomon Islands
 ,,,,,,Q1045,Somalia
 ,,,,,,Q34754,Somaliland
 ,,,,,,Q258,South Africa
@@ -150,6 +146,7 @@ Insulele Falkland,,,,,,Q9648,Insulele Falkland
 Insulele Feroe,,,,,,Q4628,Insulele Feroe
 Insulele Guernsey,,,,,,Q3311985,Insulele Guernsey
 Insulele Marshall,,,,,,Q709,Insulele Marshall
+Insulele Solomon,,,,,,Q685,Insulele Solomon
 Insulele Virgine Britanice,,,,,,Q25305,Insulele Virgine Britanice
 Iordania,,,,,,Q810,Iordania
 Irak,,,,,,Q796,Irak
@@ -241,6 +238,9 @@ Sfântul Vincențiu și Grenadinele,,,,,,Q757,Sfântul Vincențiu și Grenadinel
 Sierra Leone,,,,,,Q1044,Sierra Leone
 Singapore,,,,,,Q334,Singapore
 Sint Eustatius,,,,,,Q26180,Sint Eustatius
+Sint Maarten,,,,,,Q26273,Sint Maarten
+Slovacia,,,,,,Q214,Slovacia
+Slovenia,,,,,,Q215,Slovenia
 Statele Federate ale Microneziei,,,,,,Q702,Statele Federate ale Microneziei
 Teritoriul Britanic din Oceanul Indian,,,,,,Q43448,Teritoriul Britanic din Oceanul Indian
 Timorul de Est,,,,,,Q574,Timorul de Est
