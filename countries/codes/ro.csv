@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q884,South Korea
-,,,,,,Q23427,South Ossetia
-,,,,,,Q958,South Sudan
-,,,,,,Q29,Spain
 ,,,,,,Q854,Sri Lanka
 ,,,,,,Q219060,State of Palestine
 ,,,,,,Q1049,Sudan
@@ -93,6 +89,7 @@ Coasta de Fildeș,,,,,,Q1008,Coasta de Fildeș
 Columbia,,,,,,Q739,Columbia
 Comore,,,,,,Q970,Comore
 Coreea de Nord,,,,,,Q423,Coreea de Nord
+Coreea de Sud,,,,,,Q884,Coreea de Sud
 Costa Rica,,,,,,Q800,Costa Rica
 Croația,,,,,,Q224,Croația
 Cuba,,,,,,Q241,Cuba
@@ -199,6 +196,7 @@ Nigeria,,,,,,Q1033,Nigeria
 Norvegia,,,,,,Q20,Norvegia
 Noua Zeelandă,,,,,,Q664,Noua Zeelandă
 Oman,,,,,,Q842,Oman
+Osetia de Sud,,,,,,Q23427,Osetia de Sud
 Pakistan,,,,,,Q843,Pakistan
 Palau,,,,,,Q695,Palau
 Panama,,,,,,Q804,Panama
@@ -241,7 +239,9 @@ Slovacia,,,,,,Q214,Slovacia
 Slovenia,,,,,,Q215,Slovenia
 Somalia,,,,,,Q1045,Somalia
 Somaliland,,,,,,Q34754,Somaliland
+Spania,,,,,,Q29,Spania
 Statele Federate ale Microneziei,,,,,,Q702,Statele Federate ale Microneziei
+Sudanul de Sud,,,,,,Q958,Sudanul de Sud
 Teritoriul Britanic din Oceanul Indian,,,,,,Q43448,Teritoriul Britanic din Oceanul Indian
 Timorul de Est,,,,,,Q574,Timorul de Est
 Ungaria,,,,,,Q28,Ungaria
