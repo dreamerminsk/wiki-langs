@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q43448,British Indian Ocean Territory
-,,,,,,Q25305,British Virgin Islands
-,,,,,,Q921,Brunei
-,,,,,,Q219,Bulgaria
-,,,,,,Q965,Burkina Faso
 ,,,,,,Q967,Burundi
 ,,,,,,Q424,Cambodia
 ,,,,,,Q1009,Cameroon
@@ -244,5 +239,10 @@ Bonaire,,,,,,Q25396,Bonaire
 Bosnia-Hercegovina,,,,,,Q225,Bosnia-Hercegovina
 Botswana,,,,,,Q963,Botswana
 Brasil,,,,,,Q155,Brasil
+Brunei,,,,,,Q921,Brunei
+Bulgaria,,,,,,Q219,Bulgaria
+Burkina Faso,,,,,,Q965,Burkina Faso
+De britiske Jomfruøyer,,,,,,Q25305,De britiske Jomfruøyer
+Det britiske territoriet i Indiahavet,,,,,,Q43448,Det britiske territoriet i Indiahavet
 Republikken Artsakh,,,,,,Q244165,Republikken Artsakh
 Østerrike,040,AT,AUT,AUT,AUT,Q40,Østerrike
