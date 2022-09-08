@@ -22,12 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-### ***born on September  7***
-1977, Gary Thomson, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=225), [CueTracker](http://cuetracker.net/Players/gary-thomson/)</sup></sub>
+### ***born on September  8***
+1992, Simon Blackwell, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2049), [CueTracker](http://cuetracker.net/Players/simon-blackwell/)</sup></sub>
 
 
-### ***milleversary on September  7 2022***
-2003, Bai Yulu, 7000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2616)</sup></sub>
+### ***milleversary on September  8 2022***
+1981, Marc Shaw, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2900)</sup></sub>
 
 
 
