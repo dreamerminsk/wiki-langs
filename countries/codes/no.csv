@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q697,Nauru
-,,,,,,Q25359,Navassa Island
-,,,,,,Q837,Nepal
-,,,,,,Q55,Netherlands
 ,,,,,,Q664,New Zealand
 ,,,,,,Q811,Nicaragua
 ,,,,,,Q1032,Niger
@@ -238,6 +234,10 @@ Montserrat,,,,,,Q13353,Montserrat
 Mosambik,,,,,,Q1029,Mosambik
 Myanmar,,,,,,Q836,Myanmar
 Namibia,,,,,,Q1030,Namibia
+Nauru,,,,,,Q697,Nauru
+Navassaøya,,,,,,Q25359,Navassaøya
+Nederland,,,,,,Q55,Nederland
+Nepal,,,,,,Q837,Nepal
 Republikken Artsakh,,,,,,Q244165,Republikken Artsakh
 Republikken Kypros,,,,,,Q229,Republikken Kypros
 Tsjad,,,,,,Q657,Tsjad
