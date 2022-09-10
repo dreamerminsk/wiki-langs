@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
-,,,,,,Q1037,Rwanda
-,,,,,,Q25528,Saba
-,,,,,,Q40362,Sahrawi Arab Democratic Republic
-,,,,,,Q25362,Saint Barthélemy
 ,,,,,,Q763,Saint Kitts and Nevis
 ,,,,,,Q760,Saint Lucia
 ,,,,,,Q126125,Saint Martin
@@ -118,6 +114,7 @@ Danmark,,,,,,Q35,Danmark
 De britiske Jomfruøyer,,,,,,Q25305,De britiske Jomfruøyer
 Den demokratiske republikken Kongo,,,,,,Q974,Den demokratiske republikken Kongo
 Den dominikanske republikk,,,,,,Q786,Den dominikanske republikk
+Den saharawiske arabiske demokratiske republikk,,,,,,Q40362,Den saharawiske arabiske demokratiske republikk
 Den sentralafrikanske republikk,,,,,,Q929,Den sentralafrikanske republikk
 Det britiske territoriet i Indiahavet,,,,,,Q43448,Det britiske territoriet i Indiahavet
 Djibouti,,,,,,Q977,Djibouti
@@ -240,6 +237,9 @@ Republikken Kongo,,,,,,Q971,Republikken Kongo
 Republikken Kypros,,,,,,Q229,Republikken Kypros
 Romania,,,,,,Q218,Romania
 Russland,,,,,,Q159,Russland
+Rwanda,,,,,,Q1037,Rwanda
+Saba (øy),,,,,,Q25528,Saba (øy)
+Saint-Barthélemy,,,,,,Q25362,Saint-Barthélemy
 Tsjad,,,,,,Q657,Tsjad
 Tsjekkia,,,,,,Q213,Tsjekkia
 Tyskland,,,,,,Q183,Tyskland
