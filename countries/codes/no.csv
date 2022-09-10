@@ -1,9 +1,6 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q334,Singapore
-,,,,,,Q26180,Sint Eustatius
-,,,,,,Q26273,Sint Maarten
 ,,,,,,Q214,Slovakia
 ,,,,,,Q215,Slovenia
 ,,,,,,Q685,Solomon Islands
@@ -239,6 +236,9 @@ Senegal,,,,,,Q1041,Senegal
 Serbia,,,,,,Q403,Serbia
 Seychellene,,,,,,Q1042,Seychellene
 Sierra Leone,,,,,,Q1044,Sierra Leone
+Singapore,,,,,,Q334,Singapore
+Sint Eustatius,,,,,,Q26180,Sint Eustatius
+Sint Maarten,,,,,,Q26273,Sint Maarten
 Skottland,,,,,,Q22,Skottland
 Tsjad,,,,,,Q657,Tsjad
 Tsjekkia,,,,,,Q213,Tsjekkia
