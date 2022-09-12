@@ -2,8 +2,6 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q3311985,Guernsey
 ,,,,,,Q126125,Saint Martin
 ,,,,,,Q400506,Unknown
-,,,,,,Q717,Venezuela
-,,,,,,Q881,Vietnam
 ,,,,,WAL,Q25,Wales
 ,,,,,,Q805,Yemen
 ,,,,,,Q953,Zambia
@@ -244,5 +242,7 @@ Uruguay,,,,,,Q77,Uruguay
 Usbekistan,,,,,,Q265,Usbekistan
 Vanuatu,,,,,,Q686,Vanuatu
 Vatikanstaten,,,,,,Q237,Vatikanstaten
+Venezuela,,,,,,Q717,Venezuela
+Vietnam,,,,,,Q881,Vietnam
 Øst-Timor,,,,,,Q574,Øst-Timor
 Østerrike,040,AT,AUT,AUT,AUT,Q40,Østerrike
