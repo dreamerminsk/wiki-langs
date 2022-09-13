@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q184,Belarus
-,,,,,,Q31,Belgium
-,,,,,,Q242,Belize
-,,,,,,Q962,Benin
-,,,,,,Q23635,Bermuda
 ,,,,,,Q917,Bhutan
 ,,,,,,Q750,Bolivia
 ,,,,,,Q25396,Bonaire
@@ -245,3 +240,8 @@ Australia,,,,,,Q408,Australia
 Bahrain,,,,,,Q398,Bahrain
 Bangladesh,,,,,,Q902,Bangladesh
 Barbados,,,,,,Q244,Barbados
+Belarus,,,,,,Q184,Belarus
+Belgia,,,,,,Q31,Belgia
+Belize,,,,,,Q242,Belize
+Benin,,,,,,Q962,Benin
+Bermuda,,,,,,Q23635,Bermuda
