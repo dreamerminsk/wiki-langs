@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q1050,Eswatini
-,,,,,,Q115,Ethiopia
-,,,,,,Q9648,Falkland Islands
-,,,,,,Q4628,Faroe Islands
-,,,,,,Q702,Federated States of Micronesia
 ,,,,,,Q712,Fiji
 ,,,,,,Q33,Finland
 ,,,,,,Q142,France
@@ -235,13 +230,18 @@ El Salvador,,,,,,Q792,El Salvador
 England,,,,,,Q21,England
 Eritrea,,,,,,Q986,Eritrea
 Estland,,,,,,Q191,Estland
+Eswatini,,,,,,Q1050,Eswatini
+Etiopia,,,,,,Q115,Etiopia
+Falklandsøyane,,,,,,Q9648,Falklandsøyane
 Folkerepublikken Kina,,,,,,Q148,Folkerepublikken Kina
+Færøyane,,,,,,Q4628,Færøyane
 Kambodsja,,,,,,Q424,Kambodsja
 Kamerun,,,,,,Q1009,Kamerun
 Kapp Verde,,,,,,Q1011,Kapp Verde
 Kokosøyane,,,,,,Q36004,Kokosøyane
 Komorane,,,,,,Q970,Komorane
 Kroatia,,,,,,Q224,Kroatia
+Mikronesiaføderasjonen,,,,,,Q702,Mikronesiaføderasjonen
 Republikken Kypros,,,,,,Q229,Republikken Kypros
 Tsjad,,,,,,Q657,Tsjad
 Tsjekkia,,,,,,Q213,Tsjekkia
