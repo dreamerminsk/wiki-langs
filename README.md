@@ -22,16 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-### ***born on September 14***
-1981, Martin Gould, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=27), [CueTracker](http://cuetracker.net/Players/martin-gould/)</sup></sub>
-
-1982, Daniel Walker, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2358)</sup></sub>
-
-2006, Stan Moody, 16 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2758), [CueTracker](http://cuetracker.net/Players/stanley-moody/)</sup></sub>
+### ***born on September 15***
 
 
-### ***milleversary on September 14 2022***
-1998, Xu Si, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1407), [CueTracker](http://cuetracker.net/Players/xu-si/)</sup></sub>
+### ***milleversary on September 15 2022***
 
 
 
