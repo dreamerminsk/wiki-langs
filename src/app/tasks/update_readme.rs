@@ -88,7 +88,7 @@ impl UpdateReadMe {
         let mut brows: Vec<String> = players.iter().map(|v| self.birth_row(&v)).collect();
         brows.sort();
         format!(
-            "### ***born on {}***\r\n{}\r\n",
+            "#### ***born on {}***\r\n{}\r\n",
             Utc::now().format("%B %e"),
             brows.join("\r\n")
         )
@@ -119,7 +119,7 @@ impl UpdateReadMe {
         let mut mrows: Vec<String> = players.iter().map(|v| self.mille_row(&v)).collect();
         mrows.sort();
         format!(
-            "### ***milleversary on {}***\r\n{}\r\n",
+            "#### ***milleversary on {}***\r\n{}\r\n",
             Utc::now().format("%B %e %Y"),
             mrows.join("\r\n")
         )
