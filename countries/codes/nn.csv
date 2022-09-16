@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q20,Norway
-,,,,,,Q842,Oman
-,,,,,,Q843,Pakistan
-,,,,,,Q695,Palau
-,,,,,,Q804,Panama
 ,,,,,,Q691,Papua New Guinea
 ,,,,,,Q733,Paraguay
 ,,,,,,Q419,Peru
@@ -236,6 +231,11 @@ Nord-Irland,,,,,,Q26,Nord-Irland
 Nord-Korea,,,,,,Q423,Nord-Korea
 Nord-Kypros,,,,,,Q23681,Nord-Kypros
 Nord-Makedonia,,,,,,Q221,Nord-Makedonia
+Noreg,,,,,,Q20,Noreg
+Oman,,,,,,Q842,Oman
+Pakistan,,,,,,Q843,Pakistan
+Palau,,,,,,Q695,Palau
+Panama,,,,,,Q804,Panama
 Republikken Irland,,,,,,Q27,Republikken Irland
 Republikken Kypros,,,,,,Q229,Republikken Kypros
 Tsjad,,,,,,Q657,Tsjad
