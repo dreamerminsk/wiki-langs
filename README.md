@@ -22,10 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-### ***born on September 15***
+### ***born on September 16***
+1975, Jamie Burnett, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=53), [CueTracker](http://cuetracker.net/Players/jamie-burnett/)</sup></sub>
 
 
-### ***milleversary on September 15 2022***
+### ***milleversary on September 16 2022***
 
 
 
