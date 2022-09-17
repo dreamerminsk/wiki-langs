@@ -1,9 +1,6 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q25528,Saba
 ,,,,,,Q40362,Sahrawi Arab Democratic Republic
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q334,Singapore
-,,,,,,Q26180,Sint Eustatius
 ,,,,,,Q26273,Sint Maarten
 ,,,,,,Q214,Slovakia
 ,,,,,,Q215,Slovenia
@@ -225,6 +222,7 @@ Republikken Kypros,,,,,,Q229,Republikken Kypros
 Romania,,,,,,Q218,Romania
 Russland,,,,,,Q159,Russland
 Rwanda,,,,,,Q1037,Rwanda
+Saba (fleirtyding),,,,,,Q25528,Saba (fleirtyding)
 Saint Kitts og Nevis,,,,,,Q763,Saint Kitts og Nevis
 Saint Lucia,,,,,,Q760,Saint Lucia
 Saint Vincent og Grenadinane,,,,,,Q757,Saint Vincent og Grenadinane
@@ -237,6 +235,8 @@ Senegal,,,,,,Q1041,Senegal
 Serbia,,,,,,Q403,Serbia
 Seychellane,,,,,,Q1042,Seychellane
 Sierra Leone,,,,,,Q1044,Sierra Leone
+Singapore,,,,,,Q334,Singapore
+Sint Eustatius,,,,,,Q26180,Sint Eustatius
 Skottland,,,,,,Q22,Skottland
 Tsjad,,,,,,Q657,Tsjad
 Tsjekkia,,,,,,Q213,Tsjekkia
