@@ -2,8 +2,6 @@ name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q25528,Saba
 ,,,,,,Q40362,Sahrawi Arab Democratic Republic
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q851,Saudi Arabia
-,,,,,,Q22,Scotland
 ,,,,,,Q1041,Senegal
 ,,,,,,Q403,Serbia
 ,,,,,,Q1042,Seychelles
@@ -238,6 +236,8 @@ Saint-Barthélemy,,,,,,Q25362,Saint-Barthélemy
 Saint-Pierre-et-Miquelon,,,,,,Q34617,Saint-Pierre-et-Miquelon
 Samoa,,,,,,Q683,Samoa
 San Marino,,,,,,Q238,San Marino
+Saudi-Arabia,,,,,,Q851,Saudi-Arabia
+Skottland,,,,,,Q22,Skottland
 Tsjad,,,,,,Q657,Tsjad
 Tsjekkia,,,,,,Q213,Tsjekkia
 Tyskland,,,,,,Q183,Tyskland
