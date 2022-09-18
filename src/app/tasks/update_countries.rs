@@ -14,7 +14,7 @@ impl UpdateCountries {
 
     pub async fn execute(&self) -> Option<()> {
         self.execute_lang("nn").await?;
-        self.execute_lang("tt").await?;
+        self.execute_lang("cy").await?;
         Some(())
     }
 
