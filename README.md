@@ -28,7 +28,7 @@
 1983, Ben Judge, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=537), [CueTracker](http://cuetracker.net/Players/ben-judge/)</sup></sub>
 
 
-#### ***milleversary on September 18 2022***
+#### ***milleversary on September 18, 2022***
 1967, Karl Burrows, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2872)</sup></sub>
 
 
