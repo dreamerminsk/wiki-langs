@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q678,Tonga
-,,,,,,Q907112,Transnistria
-,,,,,,Q754,Trinidad and Tobago
-,,,,,,Q948,Tunisia
-,,,,,,Q43,Turkey
 ,,,,,,Q874,Turkmenistan
 ,,,,,,Q18221,Turks and Caicos Islands
 ,,,,,,Q672,Tuvalu
@@ -235,8 +230,13 @@ Tadsjikistan,,,,,,Q863,Tadsjikistan
 Tanzania,,,,,,Q924,Tanzania
 Thailand,,,,,,Q869,Thailand
 Togo,,,,,,Q945,Togo
+Tonga,,,,,,Q678,Tonga
+Transnistria,,,,,,Q907112,Transnistria
+Trinidad og Tobago,,,,,,Q754,Trinidad og Tobago
 Tsjad,,,,,,Q657,Tsjad
 Tsjekkia,,,,,,Q213,Tsjekkia
+Tunisia,,,,,,Q948,Tunisia
+Tyrkia,,,,,,Q43,Tyrkia
 Tyskland,,,,,,Q183,Tyskland
 Ungarn,,,,,,Q28,Ungarn
 Øya Man,,,,,,Q9676,Øya Man
