@@ -120,7 +120,7 @@ impl UpdateReadMe {
         mrows.sort();
         format!(
             "#### ***milleversary on {}***\r\n{}\r\n",
-            Utc::now().format("%B %e %Y"),
+            Utc::now().format("%B %e, %Y"),
             mrows.join("\r\n")
         )
     }
