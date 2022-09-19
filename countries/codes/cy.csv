@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q244165,Republic of Artsakh
-,,,,,,Q9648,Falkland Islands
-,,,,,,Q4628,Faroe Islands
-,,,,,,Q702,Federated States of Micronesia
-,,,,,,Q712,Fiji
 ,,,,,,Q33,Finland
 ,,,,,,Q142,France
 ,,,,,,Q3769,French Guiana
@@ -225,6 +221,7 @@ Eritrea,,,,,,Q986,Eritrea
 Estonia,,,,,,Q191,Estonia
 Eswatini,,,,,,Q1050,Eswatini
 Ethiopia,,,,,,Q115,Ethiopia
+Ffiji,,,,,,Q712,Ffiji
 Gini Gyhydeddol,,,,,,Q983,Gini Gyhydeddol
 Gweriniaeth Canolbarth Affrica,,,,,,Q929,Gweriniaeth Canolbarth Affrica
 Gweriniaeth Ddemocrataidd y Congo,,,,,,Q974,Gweriniaeth Ddemocrataidd y Congo
@@ -234,6 +231,7 @@ Gwlad Belg,,,,,,Q31,Gwlad Belg
 Jibwti,,,,,,Q977,Jibwti
 Lloegr,,,,,,Q21,Lloegr
 Nodyn:Country data Akrotiri a Dhekelia,,,,,,Q37362,Nodyn:Country data Akrotiri a Dhekelia
+Taleithiau Ffederal Micronesia,,,,,,Q702,Taleithiau Ffederal Micronesia
 Tiriogaeth Brydeinig Cefnfor India,,,,,,Q43448,Tiriogaeth Brydeinig Cefnfor India
 Tsiad,,,,,,Q657,Tsiad
 Tsile,,,,,,Q298,Tsile
@@ -243,6 +241,8 @@ Ynys Clipperton,,,,,,Q161258,Ynys Clipperton
 Ynys y Nadolig,,,,,,Q31063,Ynys y Nadolig
 Ynysoedd Caiman,,,,,,Q5785,Ynysoedd Caiman
 Ynysoedd Cocos,,,,,,Q36004,Ynysoedd Cocos
+Ynysoedd Ffaröe,,,,,,Q4628,Ynysoedd Ffaröe
 Ynysoedd Prydeinig y Wyryf,,,,,,Q25305,Ynysoedd Prydeinig y Wyryf
+Ynysoedd y Falklands,,,,,,Q9648,Ynysoedd y Falklands
 Yr Aifft,,,,,,Q79,Yr Aifft
 Yr Ariannin,,,,,,Q414,Yr Ariannin
