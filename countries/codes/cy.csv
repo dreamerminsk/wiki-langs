@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q244165,Republic of Artsakh
-,,,,,,Q784,Dominica
-,,,,,,Q786,Dominican Republic
-,,,,,,Q574,East Timor
-,,,,,,Q736,Ecuador
 ,,,,,,Q79,Egypt
 ,,,,,,Q792,El Salvador
 ,,,,,,Q21,England
@@ -229,8 +225,12 @@ Croatia,,,,,,Q224,Croatia
 Curaçao,,,,,,Q25279,Curaçao
 Cyprus,,,,,,Q229,Cyprus
 Denmarc,,,,,,Q35,Denmarc
+Dominica,,,,,,Q784,Dominica
+Dwyrain Timor,,,,,,Q574,Dwyrain Timor
+Ecwador,,,,,,Q736,Ecwador
 Gweriniaeth Canolbarth Affrica,,,,,,Q929,Gweriniaeth Canolbarth Affrica
 Gweriniaeth Ddemocrataidd y Congo,,,,,,Q974,Gweriniaeth Ddemocrataidd y Congo
+Gweriniaeth Dominica,,,,,,Q786,Gweriniaeth Dominica
 Gweriniaeth Pobl Tsieina,,,,,,Q148,Gweriniaeth Pobl Tsieina
 Gwlad Belg,,,,,,Q31,Gwlad Belg
 Jibwti,,,,,,Q977,Jibwti
