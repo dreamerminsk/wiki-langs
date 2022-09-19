@@ -22,14 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September 18***
-1973, Nick Spelman, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2331), [CueTracker](http://cuetracker.net/Players/nick-spelman/)</sup></sub>
+#### ***born on September 19***
+1975, David Craggs, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=111), [CueTracker](http://cuetracker.net/Players/david-craggs/)</sup></sub>
 
-1983, Ben Judge, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=537), [CueTracker](http://cuetracker.net/Players/ben-judge/)</sup></sub>
+1983, Ju Reti, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1093), [CueTracker](http://cuetracker.net/Players/ju-reti/)</sup></sub>
+
+1984, Danny Brindle, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=619), [CueTracker](http://cuetracker.net/Players/danny-brindle/)</sup></sub>
 
 
-#### ***milleversary on September 18, 2022***
-1967, Karl Burrows, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2872)</sup></sub>
+#### ***milleversary on September 19, 2022***
 
 
 
