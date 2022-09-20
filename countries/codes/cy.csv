@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q244165,Republic of Artsakh
-,,,,,,Q734,Guyana
-,,,,,,Q790,Haiti
-,,,,,,Q783,Honduras
-,,,,,,Q8646,Hong Kong
 ,,,,,,Q28,Hungary
 ,,,,,,Q189,Iceland
 ,,,,,,Q668,India
@@ -208,6 +204,7 @@ Ethiopia,,,,,,Q115,Ethiopia
 Ffiji,,,,,,Q712,Ffiji
 Ffrainc,,,,,,Q142,Ffrainc
 Gabon,,,,,,Q1000,Gabon
+Gaiana,,,,,,Q734,Gaiana
 Georgia,,,,,,Q230,Georgia
 Ghana,,,,,,Q117,Ghana
 Gibraltar,,,,,,Q1410,Gibraltar
@@ -224,6 +221,9 @@ Gweriniaeth Dominica,,,,,,Q786,Gweriniaeth Dominica
 Gweriniaeth Pobl Tsieina,,,,,,Q148,Gweriniaeth Pobl Tsieina
 Gwlad Belg,,,,,,Q31,Gwlad Belg
 Gwlad Groeg,,,,,,Q41,Gwlad Groeg
+Haiti,,,,,,Q790,Haiti
+Hondwras,,,,,,Q783,Hondwras
+Hong Cong,,,,,,Q8646,Hong Cong
 Jibwti,,,,,,Q977,Jibwti
 Lloegr,,,,,,Q21,Lloegr
 Nodyn:Country data Akrotiri a Dhekelia,,,,,,Q37362,Nodyn:Country data Akrotiri a Dhekelia
