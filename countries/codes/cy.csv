@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q244165,Republic of Artsakh
-,,,,,,Q794,Iran
-,,,,,,Q796,Iraq
-,,,,,,Q27,Republic of Ireland
-,,,,,,Q9676,Isle of Man
 ,,,,,,Q801,Israel
 ,,,,,,Q38,Italy
 ,,,,,,Q1008,Ivory Coast
@@ -214,6 +210,7 @@ Gwatemala,,,,,,Q774,Gwatemala
 Gweriniaeth Canolbarth Affrica,,,,,,Q929,Gweriniaeth Canolbarth Affrica
 Gweriniaeth Ddemocrataidd y Congo,,,,,,Q974,Gweriniaeth Ddemocrataidd y Congo
 Gweriniaeth Dominica,,,,,,Q786,Gweriniaeth Dominica
+Gweriniaeth Iwerddon,,,,,,Q27,Gweriniaeth Iwerddon
 Gweriniaeth Pobl Tsieina,,,,,,Q148,Gweriniaeth Pobl Tsieina
 Gwlad Belg,,,,,,Q31,Gwlad Belg
 Gwlad Groeg,,,,,,Q41,Gwlad Groeg
@@ -224,6 +221,8 @@ Hong Cong,,,,,,Q8646,Hong Cong
 Hwngari,,,,,,Q28,Hwngari
 India,,,,,,Q668,India
 Indonesia,,,,,,Q252,Indonesia
+Irac,,,,,,Q796,Irac
+Iran,,,,,,Q794,Iran
 Jibwti,,,,,,Q977,Jibwti
 Lloegr,,,,,,Q21,Lloegr
 Nodyn:Country data Akrotiri a Dhekelia,,,,,,Q37362,Nodyn:Country data Akrotiri a Dhekelia
@@ -235,6 +234,7 @@ Y Comoros,,,,,,Q970,Y Comoros
 Y Ffindir,,,,,,Q33,Y Ffindir
 Y Weriniaeth Tsiec,,,,,,Q213,Y Weriniaeth Tsiec
 Ynys Clipperton,,,,,,Q161258,Ynys Clipperton
+Ynys Manaw,,,,,,Q9676,Ynys Manaw
 Ynys y Garn,,,,,,Q3311985,Ynys y Garn
 Ynys y Nadolig,,,,,,Q31063,Ynys y Nadolig
 Ynysoedd Caiman,,,,,,Q5785,Ynysoedd Caiman
