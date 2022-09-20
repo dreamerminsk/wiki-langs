@@ -22,15 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September 19***
-1975, David Craggs, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=111), [CueTracker](http://cuetracker.net/Players/david-craggs/)</sup></sub>
-
-1983, Ju Reti, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1093), [CueTracker](http://cuetracker.net/Players/ju-reti/)</sup></sub>
-
-1984, Danny Brindle, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=619), [CueTracker](http://cuetracker.net/Players/danny-brindle/)</sup></sub>
+#### ***born on September 20***
+1969, Patrick Wallace, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=56), [CueTracker](http://cuetracker.net/Players/patrick-wallace/)</sup></sub>
 
 
-#### ***milleversary on September 19, 2022***
+#### ***milleversary on September 20, 2022***
+1976, Robert Milkins, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=92), [CueTracker](http://cuetracker.net/Players/robert-milkins/)</sup></sub>
 
 
 
