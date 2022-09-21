@@ -22,12 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September 20***
-1969, Patrick Wallace, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=56), [CueTracker](http://cuetracker.net/Players/patrick-wallace/)</sup></sub>
+#### ***born on September 21***
+1987, Marc J Davis, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=149), [CueTracker](http://cuetracker.net/Players/marc-davis/)</sup></sub>
 
 
-#### ***milleversary on September 20, 2022***
-1976, Robert Milkins, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=92), [CueTracker](http://cuetracker.net/Players/robert-milkins/)</sup></sub>
+#### ***milleversary on September 21, 2022***
 
 
 
