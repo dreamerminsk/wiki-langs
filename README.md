@@ -22,11 +22,22 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September 21***
-1987, Marc J Davis, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=149), [CueTracker](http://cuetracker.net/Players/marc-davis/)</sup></sub>
+#### ***born on September 22***
+1965, Tony Drago, 57 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=41), [CueTracker](http://cuetracker.net/Players/tony-drago/)</sup></sub>
+
+1972, Marcus Campbell, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=11), [CueTracker](http://cuetracker.net/Players/marcus-campbell/)</sup></sub>
+
+1992, Ryan Clark, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=145), [CueTracker](http://cuetracker.net/Players/ryan-clark/)</sup></sub>
+
+1999, Geng Mingqi, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1155), [CueTracker](http://cuetracker.net/Players/geng-mingqi/)</sup></sub>
+
+2005, Iulian Boiko, 17 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1889), [CueTracker](http://cuetracker.net/Players/iulian-boiko/)</sup></sub>
+
+2006, Westley Cooper, 16 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2770), [CueTracker](http://cuetracker.net/Players/westley-cooper/)</sup></sub>
 
 
-#### ***milleversary on September 21, 2022***
+#### ***milleversary on September 22, 2022***
+1959, Tony Meo, 23000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2874)</sup></sub>
 
 
 
