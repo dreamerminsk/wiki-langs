@@ -22,11 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September 26***
-1973, Chris Small, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2880)</sup></sub>
+#### ***born on September 27***
 
 
-#### ***milleversary on September 26, 2022***
+#### ***milleversary on September 27, 2022***
 
 
 
