@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q26180,Sint Eustatius
-,,,,,,Q958,South Sudan
-,,,,,,Q29,Spain
-,,,,,,Q854,Sri Lanka
-,,,,,,Q219060,State of Palestine
 ,,,,,,Q1049,Sudan
 ,,,,,,Q730,Suriname
 ,,,,,,Q25231,Svalbard
@@ -96,6 +92,7 @@ De Affrica,,,,,,Q258,De Affrica
 De Corea,,,,,,Q884,De Corea
 De Georgia ac Ynysoedd Sandwich y De,,,,,,Q35086,De Georgia ac Ynysoedd Sandwich y De
 De Osetia,,,,,,Q23427,De Osetia
+De Swdan,,,,,,Q958,De Swdan
 Denmarc,,,,,,Q35,Denmarc
 Dominica,,,,,,Q784,Dominica
 Dwyrain Timor,,,,,,Q574,Dwyrain Timor
@@ -134,6 +131,7 @@ Gwlad Groeg,,,,,,Q41,Gwlad Groeg
 Gwlad Iorddonen,,,,,,Q810,Gwlad Iorddonen
 Gwlad Pwyl,,,,,,Q36,Gwlad Pwyl
 Gwlad yr Iâ,,,,,,Q189,Gwlad yr Iâ
+Gwladwriaeth Palesteina,,,,,,Q219060,Gwladwriaeth Palesteina
 Haiti,,,,,,Q790,Haiti
 Hondwras,,,,,,Q783,Hondwras
 Hong Cong,,,,,,Q8646,Hong Cong
@@ -204,6 +202,7 @@ Sant Kitts-Nevis,,,,,,Q763,Sant Kitts-Nevis
 Sant Lwsia,,,,,,Q760,Sant Lwsia
 Sant Vincent a'r Grenadines,,,,,,Q757,Sant Vincent a'r Grenadines
 Sawdi Arabia,,,,,,Q851,Sawdi Arabia
+Sbaen,,,,,,Q29,Sbaen
 Seland Newydd,,,,,,Q664,Seland Newydd
 Senegal,,,,,,Q1041,Senegal
 Serbia,,,,,,Q403,Serbia
@@ -215,6 +214,7 @@ Slofacia,,,,,,Q214,Slofacia
 Slofenia,,,,,,Q215,Slofenia
 Somalia,,,,,,Q1045,Somalia
 Somaliland,,,,,,Q34754,Somaliland
+Sri Lanca,,,,,,Q854,Sri Lanca
 Taleithiau Ffederal Micronesia,,,,,,Q702,Taleithiau Ffederal Micronesia
 Tiriogaeth Brydeinig Cefnfor India,,,,,,Q43448,Tiriogaeth Brydeinig Cefnfor India
 Tsiad,,,,,,Q657,Tsiad
