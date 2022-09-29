@@ -1,9 +1,6 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q26180,Sint Eustatius
 ,,,,,,Q400506,Unknown
-,,,,,,Q77,Uruguay
-,,,,,,Q265,Uzbekistan
-,,,,,,Q686,Vanuatu
 ,,,,,,Q237,Vatican City
 ,,,,,,Q717,Venezuela
 ,,,,,,Q881,Vietnam
@@ -74,6 +71,7 @@ Eritrea,,,,,,Q986,Eritrea
 Estonia,,,,,,Q191,Estonia
 Eswatini,,,,,,Q1050,Eswatini
 Ethiopia,,,,,,Q115,Ethiopia
+Fanwatw,,,,,,Q686,Fanwatw
 Ffiji,,,,,,Q712,Ffiji
 Ffrainc,,,,,,Q142,Ffrainc
 Gabon,,,,,,Q1000,Gabon
@@ -212,6 +210,8 @@ Tyrcmenistan,,,,,,Q874,Tyrcmenistan
 Unol Daleithiau America,,,,,,Q30,Unol Daleithiau America
 Wcráin,,,,,,Q212,Wcráin
 Wganda,,,,,,Q1036,Wganda
+Wrwgwái,,,,,,Q77,Wrwgwái
+Wsbecistan,,,,,,Q265,Wsbecistan
 Y Bahamas,,,,,,Q778,Y Bahamas
 Y Comoros,,,,,,Q970,Y Comoros
 Y Deyrnas Unedig,,,,,,Q145,Y Deyrnas Unedig
