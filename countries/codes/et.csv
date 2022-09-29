@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q228,Andorra
-,,,,,,Q916,Angola
-,,,,,,Q25228,Anguilla
-,,,,,,Q781,Antigua and Barbuda
-,,,,,,Q414,Argentina
 ,,,,,,Q399,Armenia
 ,,,,,,Q244165,Republic of Artsakh
 ,,,,,,Q21203,Aruba
@@ -246,3 +241,8 @@ Afganistan,004,AF,AFG,AFG,AFG,Q889,Afganistan
 Akrotiri ja Dhekelia,,,,,,Q37362,Akrotiri ja Dhekelia
 Albaania,,,,,,Q222,Albaania
 Alžeeria,,,,,,Q262,Alžeeria
+Andorra,,,,,,Q228,Andorra
+Angola,,,,,,Q916,Angola
+Anguilla,,,,,,Q25228,Anguilla
+Antigua ja Barbuda,,,,,,Q781,Antigua ja Barbuda
+Argentina,,,,,,Q414,Argentina
