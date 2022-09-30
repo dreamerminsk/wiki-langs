@@ -22,11 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September 29***
-1988, Matthew Roberts, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2161), [CueTracker](http://cuetracker.net/Players/matthew-roberts/)</sup></sub>
+#### ***born on September 30***
 
 
-#### ***milleversary on September 29, 2022***
+#### ***milleversary on September 30, 2022***
 
 
 
