@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q115,Ethiopia
-,,,,,,Q9648,Falkland Islands
-,,,,,,Q4628,Faroe Islands
-,,,,,,Q702,Federated States of Micronesia
-,,,,,,Q712,Fiji
 ,,,,,,Q33,Finland
 ,,,,,,Q142,France
 ,,,,,,Q3769,French Guiana
@@ -223,6 +218,10 @@ Egiptus,,,,,,Q79,Egiptus
 Ekvatoriaal-Guinea,,,,,,Q983,Ekvatoriaal-Guinea
 El Salvador,,,,,,Q792,El Salvador
 Eritrea,,,,,,Q986,Eritrea
+Etioopia,,,,,,Q115,Etioopia
+Falklandi saared,,,,,,Q9648,Falklandi saared
+Fidži,,,,,,Q712,Fidži
+Fääri saared,,,,,,Q4628,Fääri saared
 Hiina,,,,,,Q148,Hiina
 Horvaatia,,,,,,Q224,Horvaatia
 Ida-Timor,,,,,,Q574,Ida-Timor
@@ -238,6 +237,7 @@ Kongo Demokraatlik Vabariik,,,,,,Q974,Kongo Demokraatlik Vabariik
 Kookossaared,,,,,,Q36004,Kookossaared
 Kuuba,,,,,,Q241,Kuuba
 Küpros,,,,,,Q229,Küpros
+Mikroneesia Liiduriigid,,,,,,Q702,Mikroneesia Liiduriigid
 Mägi-Karabahhi Vabariik,,,,,,Q244165,Mägi-Karabahhi Vabariik
 Roheneemesaared,,,,,,Q1011,Roheneemesaared
 Svaasimaa,,,,,,Q1050,Svaasimaa
