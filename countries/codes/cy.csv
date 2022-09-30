@@ -1,9 +1,6 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q26180,Sint Eustatius
 ,,,,,,Q400506,Unknown
-,,,,,WAL,Q25,Wales
-,,,,,,Q805,Yemen
-,,,,,,Q953,Zambia
 ,,,,,,Q954,Zimbabwe
 ,,,,,,Q5689,Åland
 Abchasia,,,,,,Q23334,Abchasia
@@ -53,6 +50,7 @@ Costa Rica,,,,,,Q800,Costa Rica
 Coweit,,,,,,Q817,Coweit
 Croatia,,,,,,Q224,Croatia
 Curaçao,,,,,,Q25279,Curaçao
+Cymru,,,,,WAL,Q25,Cymru
 Cyprus,,,,,,Q229,Cyprus
 De Affrica,,,,,,Q258,De Affrica
 De Corea,,,,,,Q884,De Corea
@@ -106,6 +104,7 @@ Haiti,,,,,,Q790,Haiti
 Hondwras,,,,,,Q783,Hondwras
 Hong Cong,,,,,,Q8646,Hong Cong
 Hwngari,,,,,,Q28,Hwngari
+Iemen,,,,,,Q805,Iemen
 India,,,,,,Q668,India
 Indonesia,,,,,,Q252,Indonesia
 Irac,,,,,,Q796,Irac
@@ -166,6 +165,7 @@ Rwmania,,,,,,Q218,Rwmania
 Rwsia,,,,,,Q159,Rwsia
 Saint Barthélemy,,,,,,Q25362,Saint Barthélemy
 Saint-Pierre-et-Miquelon,,,,,,Q34617,Saint-Pierre-et-Miquelon
+Sambia,,,,,,Q953,Sambia
 Samoa,,,,,,Q683,Samoa
 San Marino,,,,,,Q238,San Marino
 Sant Kitts-Nevis,,,,,,Q763,Sant Kitts-Nevis
