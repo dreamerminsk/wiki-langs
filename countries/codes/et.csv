@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q813,Kyrgyzstan
-,,,,,,Q819,Laos
-,,,,,,Q211,Latvia
-,,,,,,Q822,Lebanon
-,,,,,,Q1013,Lesotho
 ,,,,,,Q1014,Liberia
 ,,,,,,Q1016,Libya
 ,,,,,,Q347,Liechtenstein
@@ -230,7 +225,12 @@ Kosovo,,,,,,Q1246,Kosovo
 Kreeka,,,,,,Q41,Kreeka
 Kuuba,,,,,,Q241,Kuuba
 Kuveit,,,,,,Q817,Kuveit
+Kõrgõzstan,,,,,,Q813,Kõrgõzstan
 Küpros,,,,,,Q229,Küpros
+Laos,,,,,,Q819,Laos
+Lesotho,,,,,,Q1013,Lesotho
+Liibanon,,,,,,Q822,Liibanon
+Läti,,,,,,Q211,Läti
 Man,,,,,,Q9676,Man
 Mikroneesia Liiduriigid,,,,,,Q702,Mikroneesia Liiduriigid
 Mägi-Karabahhi Vabariik,,,,,,Q244165,Mägi-Karabahhi Vabariik
