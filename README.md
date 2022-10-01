@@ -22,10 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September 30***
+#### ***born on October  1***
+1971, Paul S Davison, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=23), [CueTracker](http://cuetracker.net/Players/paul-davison/)</sup></sub>
+
+1994, Ryan Thomerson, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=741), [CueTracker](http://cuetracker.net/Players/ryan-thomerson/)</sup></sub>
 
 
-#### ***milleversary on September 30, 2022***
+#### ***milleversary on October  1, 2022***
+1989, Mirko Montrasio, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2890)</sup></sub>
 
 
 
