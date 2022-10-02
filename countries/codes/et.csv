@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q236,Montenegro
-,,,,,,Q13353,Montserrat
-,,,,,,Q1028,Morocco
-,,,,,,Q1029,Mozambique
-,,,,,,Q836,Myanmar
 ,,,,,,Q1030,Namibia
 ,,,,,,Q697,Nauru
 ,,,,,,Q25359,Navassa Island
@@ -224,6 +219,7 @@ Maldiivid,,,,,,Q826,Maldiivid
 Mali,,,,,,Q912,Mali
 Malta,,,,,,Q233,Malta
 Man,,,,,,Q9676,Man
+Maroko,,,,,,Q1028,Maroko
 Marshalli Saared,,,,,,Q709,Marshalli Saared
 Martinique,,,,,,Q17054,Martinique
 Mauritaania,,,,,,Q1025,Mauritaania
@@ -233,6 +229,10 @@ Mikroneesia Liiduriigid,,,,,,Q702,Mikroneesia Liiduriigid
 Moldova,,,,,,Q217,Moldova
 Monaco,,,,,,Q235,Monaco
 Mongoolia,,,,,,Q711,Mongoolia
+Montenegro,,,,,,Q236,Montenegro
+Montserrat,,,,,,Q13353,Montserrat
+Mosambiik,,,,,,Q1029,Mosambiik
+Myanmar,,,,,,Q836,Myanmar
 Mägi-Karabahhi Vabariik,,,,,,Q244165,Mägi-Karabahhi Vabariik
 Prantsuse Guajaana,,,,,,Q3769,Prantsuse Guajaana
 Prantsusmaa,,,,,,Q142,Prantsusmaa
