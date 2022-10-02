@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q34617,Saint Pierre and Miquelon
-,,,,,,Q757,Saint Vincent and the Grenadines
-,,,,,,Q683,Samoa
-,,,,,,Q238,San Marino
 ,,,,,,Q851,Saudi Arabia
 ,,,,,,Q22,Scotland
 ,,,,,,Q1041,Senegal
@@ -234,8 +230,12 @@ Saba (täpsustus),,,,,,Q25528,Saba (täpsustus)
 Sahara Araabia Demokraatlik Vabariik,,,,,,Q40362,Sahara Araabia Demokraatlik Vabariik
 Saint Kitts ja Nevis,,,,,,Q763,Saint Kitts ja Nevis
 Saint Lucia,,,,,,Q760,Saint Lucia
+Saint Vincent ja Grenadiinid,,,,,,Q757,Saint Vincent ja Grenadiinid
 Saint-Barthélemy,,,,,,Q25362,Saint-Barthélemy
+Saint-Pierre ja Miquelon,,,,,,Q34617,Saint-Pierre ja Miquelon
 Saksamaa,,,,,,Q183,Saksamaa
+Samoa,,,,,,Q683,Samoa
+San Marino,,,,,,Q238,San Marino
 Soome,,,,,,Q33,Soome
 Svaasimaa,,,,,,Q1050,Svaasimaa
 Taani,,,,,,Q35,Taani
