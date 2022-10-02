@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q846,Qatar
-,,,,,,Q971,Republic of the Congo
-,,,,,,Q218,Romania
-,,,,,,Q159,Russia
-,,,,,,Q1037,Rwanda
 ,,,,,,Q25528,Saba
 ,,,,,,Q40362,Sahrawi Arab Democratic Republic
 ,,,,,,Q25362,Saint Barthélemy
@@ -168,11 +163,13 @@ Kambodža,,,,,,Q424,Kambodža
 Kamerun,,,,,,Q1009,Kamerun
 Kanada,,,,,,Q16,Kanada
 Kasahstan,,,,,,Q232,Kasahstan
+Katar,,,,,,Q846,Katar
 Keenia,,,,,,Q114,Keenia
 Kesk-Aafrika Vabariik,,,,,,Q929,Kesk-Aafrika Vabariik
 Kiribati,,,,,,Q710,Kiribati
 Komoorid,,,,,,Q970,Komoorid
 Kongo Demokraatlik Vabariik,,,,,,Q974,Kongo Demokraatlik Vabariik
+Kongo Vabariik,,,,,,Q971,Kongo Vabariik
 Kookossaared,,,,,,Q36004,Kookossaared
 Kosovo,,,,,,Q1246,Kosovo
 Kreeka,,,,,,Q41,Kreeka
@@ -236,6 +233,8 @@ Põhja-Korea,,,,,,Q423,Põhja-Korea
 Põhja-Küprose Türgi Vabariik,,,,,,Q23681,Põhja-Küprose Türgi Vabariik
 Põhja-Makedoonia,,,,,,Q221,Põhja-Makedoonia
 Roheneemesaared,,,,,,Q1011,Roheneemesaared
+Rumeenia,,,,,,Q218,Rumeenia
+Rwanda,,,,,,Q1037,Rwanda
 Saksamaa,,,,,,Q183,Saksamaa
 Soome,,,,,,Q33,Soome
 Svaasimaa,,,,,,Q1050,Svaasimaa
@@ -246,3 +245,4 @@ Tšiili,,,,,,Q298,Tšiili
 Ungari,,,,,,Q28,Ungari
 Uus-Meremaa,,,,,,Q664,Uus-Meremaa
 Valgevene,,,,,,Q184,Valgevene
+Venemaa,,,,,,Q159,Venemaa
