@@ -1,9 +1,4 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
-,,,,,,Q419,Peru
-,,,,,,Q928,Philippines
-,,,,,,Q36,Poland
-,,,,,,Q45,Portugal
-,,,,,,Q1183,Puerto Rico
 ,,,,,,Q846,Qatar
 ,,,,,,Q971,Republic of the Congo
 ,,,,,,Q218,Romania
@@ -133,6 +128,7 @@ Eritrea,,,,,,Q986,Eritrea
 Etioopia,,,,,,Q115,Etioopia
 Falklandi saared,,,,,,Q9648,Falklandi saared
 Fidži,,,,,,Q712,Fidži
+Filipiinid,,,,,,Q928,Filipiinid
 Fääri saared,,,,,,Q4628,Fääri saared
 Gabon,,,,,,Q1000,Gabon
 Ghana,,,,,,Q117,Ghana
@@ -229,8 +225,12 @@ Paapua Uus-Guinea,,,,,,Q691,Paapua Uus-Guinea
 Pakistan,,,,,,Q843,Pakistan
 Panama,,,,,,Q804,Panama
 Paraguay,,,,,,Q733,Paraguay
+Peruu,,,,,,Q419,Peruu
+Poola,,,,,,Q36,Poola
+Portugal,,,,,,Q45,Portugal
 Prantsuse Guajaana,,,,,,Q3769,Prantsuse Guajaana
 Prantsusmaa,,,,,,Q142,Prantsusmaa
+Puerto Rico,,,,,,Q1183,Puerto Rico
 Põhja-Iirimaa,,,,,,Q26,Põhja-Iirimaa
 Põhja-Korea,,,,,,Q423,Põhja-Korea
 Põhja-Küprose Türgi Vabariik,,,,,,Q23681,Põhja-Küprose Türgi Vabariik
