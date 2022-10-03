@@ -22,11 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October  2***
-1964, Gary Miller, 58 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=803), [CueTracker](http://cuetracker.net/Players/gary-miller/)</sup></sub>
+#### ***born on October  3***
+1983, Aman Goel, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2496)</sup></sub>
 
 
-#### ***milleversary on October  2, 2022***
+#### ***milleversary on October  3, 2022***
 
 
 
