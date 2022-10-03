@@ -1,9 +1,5 @@
 name,iso_num,iso_2,iso_3,ioc_cc,fifa_cc,wiki_data_id,wiki_id
 ,,,,,,Q126125,Saint Martin
-,,,,,,Q30,United States
-,,,,,,Q11703,United States Virgin Islands
-,,,,,,Q400506,Unknown
-,,,,,,Q77,Uruguay
 ,,,,,,Q265,Uzbekistan
 ,,,,,,Q686,Vanuatu
 ,,,,,,Q237,Vatican City
@@ -19,6 +15,7 @@ Afganistan,004,AF,AFG,AFG,AFG,Q889,Afganistan
 Akrotiri ja Dhekelia,,,,,,Q37362,Akrotiri ja Dhekelia
 Albaania,,,,,,Q222,Albaania
 Alžeeria,,,,,,Q262,Alžeeria
+Ameerika Ühendriigid,,,,,,Q30,Ameerika Ühendriigid
 Andorra,,,,,,Q228,Andorra
 Angola,,,,,,Q916,Angola
 Anguilla,,,,,,Q25228,Anguilla
@@ -238,9 +235,12 @@ Türkmenistan,,,,,,Q874,Türkmenistan
 Tšaad,,,,,,Q657,Tšaad
 Tšehhi,,,,,,Q213,Tšehhi
 Tšiili,,,,,,Q298,Tšiili
+USA Neitsisaared,,,,,,Q11703,USA Neitsisaared
 Uganda,,,,,,Q1036,Uganda
 Ukraina,,,,,,Q212,Ukraina
 Ungari,,,,,,Q28,Ungari
+Unknown,,,,,,Q400506,Unknown
+Uruguay,,,,,,Q77,Uruguay
 Uus-Meremaa,,,,,,Q664,Uus-Meremaa
 Valgevene,,,,,,Q184,Valgevene
 Venemaa,,,,,,Q159,Venemaa
