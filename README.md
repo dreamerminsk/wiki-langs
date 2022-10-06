@@ -22,13 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October  5***
-1994, Jamie Clarke, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=106), [CueTracker](http://cuetracker.net/Players/jamie-clarke/)</sup></sub>
+#### ***born on October  6***
+1995, Ross Muir, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=898), [CueTracker](http://cuetracker.net/Players/ross-muir/)</sup></sub>
 
-1995, Boonyarit Keattikun, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1578), [CueTracker](http://cuetracker.net/Players/boonyarit-keattikun/)</sup></sub>
+2000, Abdul Javed, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2894)</sup></sub>
 
 
-#### ***milleversary on October  5, 2022***
+#### ***milleversary on October  6, 2022***
+1987, Liang Wenbo, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=200), [CueTracker](http://cuetracker.net/Players/liang-wenbo/)</sup></sub>
 
 
 
