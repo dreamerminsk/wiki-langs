@@ -22,14 +22,17 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October  6***
-1995, Ross Muir, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=898), [CueTracker](http://cuetracker.net/Players/ross-muir/)</sup></sub>
+#### ***born on October  7***
+1969, Steven Breward, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2450)</sup></sub>
 
-2000, Abdul Javed, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2894)</sup></sub>
+1984, Billy Ginn, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2350)</sup></sub>
+
+1987, Vinnie Calabrese, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=521), [CueTracker](http://cuetracker.net/Players/vinnie-calabrese/)</sup></sub>
+
+1998, Aaron Cook, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1423), [CueTracker](http://cuetracker.net/Players/aaron-cook/)</sup></sub>
 
 
-#### ***milleversary on October  6, 2022***
-1987, Liang Wenbo, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=200), [CueTracker](http://cuetracker.net/Players/liang-wenbo/)</sup></sub>
+#### ***milleversary on October  7, 2022***
 
 
 
