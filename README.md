@@ -22,17 +22,18 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October  7***
-1969, Steven Breward, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2450)</sup></sub>
+#### ***born on October  8***
+1932, Ray Reardon, 90 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2875)</sup></sub>
 
-1984, Billy Ginn, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2350)</sup></sub>
+1980, Shafaqut Hussain, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2060), [CueTracker](http://cuetracker.net/Players/shafaqut-hussain/)</sup></sub>
 
-1987, Vinnie Calabrese, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=521), [CueTracker](http://cuetracker.net/Players/vinnie-calabrese/)</sup></sub>
-
-1998, Aaron Cook, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1423), [CueTracker](http://cuetracker.net/Players/aaron-cook/)</sup></sub>
+1982, Mei Xiwen, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=306), [CueTracker](http://cuetracker.net/Players/mei-xiwen/)</sup></sub>
 
 
-#### ***milleversary on October  7, 2022***
+#### ***milleversary on October  8, 2022***
+1981, Martin Gould, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=27), [CueTracker](http://cuetracker.net/Players/martin-gould/)</sup></sub>
+
+1992, Michael Williams, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1322), [CueTracker](http://cuetracker.net/Players/michael-williams/)</sup></sub>
 
 
 
