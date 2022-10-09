@@ -22,18 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October  8***
-1932, Ray Reardon, 90 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2875)</sup></sub>
+#### ***born on October  9***
+1987, Jordan Brown, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=58), [CueTracker](http://cuetracker.net/Players/jordan-brown/)</sup></sub>
 
-1980, Shafaqut Hussain, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2060), [CueTracker](http://cuetracker.net/Players/shafaqut-hussain/)</sup></sub>
-
-1982, Mei Xiwen, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=306), [CueTracker](http://cuetracker.net/Players/mei-xiwen/)</sup></sub>
+2000, Alfie Davies, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2803)</sup></sub>
 
 
-#### ***milleversary on October  8, 2022***
-1981, Martin Gould, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=27), [CueTracker](http://cuetracker.net/Players/martin-gould/)</sup></sub>
-
-1992, Michael Williams, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1322), [CueTracker](http://cuetracker.net/Players/michael-williams/)</sup></sub>
+#### ***milleversary on October  9, 2022***
+1995, Alex Millington, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2345)</sup></sub>
 
 
 
