@@ -22,14 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October  9***
-1987, Jordan Brown, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=58), [CueTracker](http://cuetracker.net/Players/jordan-brown/)</sup></sub>
-
-2000, Alfie Davies, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2803)</sup></sub>
+#### ***born on October 10***
 
 
-#### ***milleversary on October  9, 2022***
-1995, Alex Millington, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2345)</sup></sub>
+#### ***milleversary on October 10, 2022***
 
 
 
