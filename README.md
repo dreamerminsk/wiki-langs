@@ -22,22 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 11***
-1964, John Welsh, 58 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=793), [CueTracker](http://cuetracker.net/Players/john-welsh/)</sup></sub>
-
-1971, David McDonnell, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1197), [CueTracker](http://cuetracker.net/Players/david-mcdonnell/)</sup></sub>
-
-1977, Igor Figueiredo, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=18), [CueTracker](http://cuetracker.net/Players/igor-figueiredo/)</sup></sub>
-
-1978, Antony Parsons, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=186), [CueTracker](http://cuetracker.net/Players/antony-parsons/)</sup></sub>
-
-1983, Dean Goddard, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1007), [CueTracker](http://cuetracker.net/Players/dean-goddard/)</sup></sub>
-
-1987, Yu Delu, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=184), [CueTracker](http://cuetracker.net/Players/yu-delu/)</sup></sub>
+#### ***born on October 12***
+1974, Stephen Lee, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=13), [CueTracker](http://cuetracker.net/Players/stephen-lee/)</sup></sub>
 
 
-#### ***milleversary on October 11, 2022***
-1976, Hicham Baraka, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2711)</sup></sub>
+#### ***milleversary on October 12, 2022***
 
 
 
