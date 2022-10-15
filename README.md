@@ -22,17 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 14***
-1978, Paul Hunter, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1191), [CueTracker](http://cuetracker.net/Players/paul-hunter/)</sup></sub>
+#### ***born on October 15***
+1983, Kevin Van Hove, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=391), [CueTracker](http://cuetracker.net/Players/kevin-van-hove/)</sup></sub>
 
-1994, Hossein Vafaei, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=666), [CueTracker](http://cuetracker.net/Players/hossein-vafaei-ayouri/)</sup></sub>
-
-1998, Abdul Raheem, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2487)</sup></sub>
-
-2003, Wu Yize, 19 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2469), [CueTracker](http://cuetracker.net/Players/wu-yize/)</sup></sub>
+1996, Andres Petrov, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1552), [CueTracker](http://cuetracker.net/Players/andres-petrov/)</sup></sub>
 
 
-#### ***milleversary on October 14, 2022***
+#### ***milleversary on October 15, 2022***
 
 
 
