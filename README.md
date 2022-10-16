@@ -22,13 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 15***
-1983, Kevin Van Hove, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=391), [CueTracker](http://cuetracker.net/Players/kevin-van-hove/)</sup></sub>
+#### ***born on October 16***
+1947, Terry Griffiths, 75 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2877)</sup></sub>
 
-1996, Andres Petrov, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1552), [CueTracker](http://cuetracker.net/Players/andres-petrov/)</sup></sub>
+1984, Steve Martin, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=662), [CueTracker](http://cuetracker.net/Players/steve-martin/)</sup></sub>
 
 
-#### ***milleversary on October 15, 2022***
+#### ***milleversary on October 16, 2022***
+1992, Jack Culligan, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=139), [CueTracker](http://cuetracker.net/Players/jack-culligan/)</sup></sub>
 
 
 
