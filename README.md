@@ -22,14 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 16***
-1947, Terry Griffiths, 75 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2877)</sup></sub>
+#### ***born on October 17***
+1976, Andrew Turner, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2897)</sup></sub>
 
-1984, Steve Martin, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=662), [CueTracker](http://cuetracker.net/Players/steve-martin/)</sup></sub>
+1995, Lee Daegyu, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1886), [CueTracker](http://cuetracker.net/Players/daegyu-lee/)</sup></sub>
+
+1998, Aran Hetherington, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2456)</sup></sub>
 
 
-#### ***milleversary on October 16, 2022***
-1992, Jack Culligan, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=139), [CueTracker](http://cuetracker.net/Players/jack-culligan/)</sup></sub>
+#### ***milleversary on October 17, 2022***
+1992, Callum Downing, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=159), [CueTracker](http://cuetracker.net/Players/callum-downing/)</sup></sub>
 
 
 
