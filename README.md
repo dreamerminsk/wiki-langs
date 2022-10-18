@@ -22,16 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 17***
-1976, Andrew Turner, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2897)</sup></sub>
-
-1995, Lee Daegyu, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1886), [CueTracker](http://cuetracker.net/Players/daegyu-lee/)</sup></sub>
-
-1998, Aran Hetherington, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2456)</sup></sub>
+#### ***born on October 18***
+1935, John Spencer, 87 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2876)</sup></sub>
 
 
-#### ***milleversary on October 17, 2022***
-1992, Callum Downing, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=159), [CueTracker](http://cuetracker.net/Players/callum-downing/)</sup></sub>
+#### ***milleversary on October 18, 2022***
 
 
 
