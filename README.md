@@ -22,12 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 20***
-1989, Li Yuan, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=958), [CueTracker](http://cuetracker.net/Players/li-yuan/)</sup></sub>
+#### ***born on October 21***
 
 
-#### ***milleversary on October 20, 2022***
-1992, Simon Blackwell, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2049), [CueTracker](http://cuetracker.net/Players/simon-blackwell/)</sup></sub>
+#### ***milleversary on October 21, 2022***
+1984, Marvin Morgan, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2458)</sup></sub>
 
 
 
