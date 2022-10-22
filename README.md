@@ -22,11 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 21***
+#### ***born on October 22***
 
 
-#### ***milleversary on October 21, 2022***
-1984, Marvin Morgan, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2458)</sup></sub>
+#### ***milleversary on October 22, 2022***
+1968, Surinder Gill, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1190), [CueTracker](http://cuetracker.net/Players/surinder-gill/)</sup></sub>
+
+1987, Daan Leyssen, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=840), [CueTracker](http://cuetracker.net/Players/daan-leyssen/)</sup></sub>
 
 
 
