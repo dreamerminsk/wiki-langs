@@ -22,13 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 26***
-1979, Jamie Brown, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=152), [CueTracker](http://cuetracker.net/Players/jamie-brown/)</sup></sub>
+#### ***born on October 27***
+1990, Cao Yupeng, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=507), [CueTracker](http://cuetracker.net/Players/cao-yupeng/)</sup></sub>
 
-1990, Ben Jones, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=920), [CueTracker](http://cuetracker.net/Players/ben-jones/)</sup></sub>
+1994, Shubham Arora, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2486)</sup></sub>
 
 
-#### ***milleversary on October 26, 2022***
+#### ***milleversary on October 27, 2022***
 
 
 
