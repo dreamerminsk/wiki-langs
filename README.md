@@ -22,11 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 29***
+#### ***born on October 30***
+1969, Bash Maqsood, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=532), [CueTracker](http://cuetracker.net/Players/bash-maqsood/)</sup></sub>
 
 
-#### ***milleversary on October 29, 2022***
-1992, Li Yan, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=296), [CueTracker](http://cuetracker.net/Players/li-yan/)</sup></sub>
+#### ***milleversary on October 30, 2022***
 
 
 
