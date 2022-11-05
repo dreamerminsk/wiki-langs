@@ -22,12 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November  4***
-1973, Ronda Sheldreck, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2122), [CueTracker](http://cuetracker.net/Players/ronda-sheldreck/)</sup></sub>
+#### ***born on November  5***
+1971, Jamie Trump, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2339)</sup></sub>
+
+1980, Andrew Tapper, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2786), [CueTracker](http://cuetracker.net/Players/andrew-tapper/)</sup></sub>
 
 
-#### ***milleversary on November  4, 2022***
-2006, Leone Crowley, 6000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2888)</sup></sub>
+#### ***milleversary on November  5, 2022***
 
 
 
