@@ -22,14 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November  6***
-1986, Babar Masih, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2094)</sup></sub>
+#### ***born on November  7***
+1942, Ian Barry Stark, 80 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=480), [CueTracker](http://cuetracker.net/Players/ian-barry-stark/)</sup></sub>
 
-1987, Lee Page, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=197), [CueTracker](http://cuetracker.net/Players/lee-page/)</sup></sub>
+1977, John Whitty, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=195), [CueTracker](http://cuetracker.net/Players/john-whitty/)</sup></sub>
+
+1999, Mink Nutcharut, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1829), [CueTracker](http://cuetracker.net/Players/nutcharat-wongharuthai/)</sup></sub>
 
 
-#### ***milleversary on November  6, 2022***
-1992, Phil O'Kane, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=550), [CueTracker](http://cuetracker.net/Players/phil-okane/)</sup></sub>
+#### ***milleversary on November  7, 2022***
 
 
 
