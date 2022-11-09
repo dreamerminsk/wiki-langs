@@ -22,17 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November  8***
-1978, Ian Glover, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=82), [CueTracker](http://cuetracker.net/Players/ian-glover/)</sup></sub>
+#### ***born on November  9***
+1978, Levi Meiller, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2502)</sup></sub>
 
-1985, Fraser Patrick, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=534), [CueTracker](http://cuetracker.net/Players/fraser-patrick/)</sup></sub>
-
-1995, Joe O'Connor, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1038), [CueTracker](http://cuetracker.net/Players/joe-oconnor/)</sup></sub>
-
-2004, Anton Kazakov, 18 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2767), [CueTracker](http://cuetracker.net/Players/anton-kazakov/)</sup></sub>
+1985, Jamie McArdle, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1310), [CueTracker](http://cuetracker.net/Players/jamie-mcardle/)</sup></sub>
 
 
-#### ***milleversary on November  8, 2022***
+#### ***milleversary on November  9, 2022***
 
 
 
