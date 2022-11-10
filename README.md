@@ -22,13 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November  9***
-1978, Levi Meiller, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2502)</sup></sub>
-
-1985, Jamie McArdle, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1310), [CueTracker](http://cuetracker.net/Players/jamie-mcardle/)</sup></sub>
+#### ***born on November 10***
+1992, Heikki Niva, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2188)</sup></sub>
 
 
-#### ***milleversary on November  9, 2022***
+#### ***milleversary on November 10, 2022***
+1984, Yasir Nadeem, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1731), [CueTracker](http://cuetracker.net/Players/yasir-nadeem/)</sup></sub>
 
 
 
