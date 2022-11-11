@@ -22,12 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 10***
-1992, Heikki Niva, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2188)</sup></sub>
+#### ***born on November 11***
+1970, Mark Anthony Taylor, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2756), [CueTracker](http://cuetracker.net/Players/mark-taylor/)</sup></sub>
+
+1982, Ricky Walden, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=62), [CueTracker](http://cuetracker.net/Players/ricky-walden/)</sup></sub>
+
+2003, Jamie Wilson, 19 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2751), [CueTracker](http://cuetracker.net/Players/jamie-wilson/)</sup></sub>
 
 
-#### ***milleversary on November 10, 2022***
-1984, Yasir Nadeem, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1731), [CueTracker](http://cuetracker.net/Players/yasir-nadeem/)</sup></sub>
+#### ***milleversary on November 11, 2022***
 
 
 
