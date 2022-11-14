@@ -22,13 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 13***
-1975, Joe Jogia, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=7), [CueTracker](http://cuetracker.net/Players/joe-jogia/)</sup></sub>
-
-2001, Peng Yisong, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2620), [CueTracker](http://cuetracker.net/Players/yisong-peng/)</sup></sub>
+#### ***born on November 14***
 
 
-#### ***milleversary on November 13, 2022***
+#### ***milleversary on November 14, 2022***
 
 
 
