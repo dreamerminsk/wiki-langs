@@ -22,14 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 17***
-1981, Daniel Ward, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1003), [CueTracker](http://cuetracker.net/Players/daniel-ward/)</sup></sub>
+#### ***born on November 18***
+1974, Darren Burns, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2038), [CueTracker](http://cuetracker.net/Players/darren-burns/)</sup></sub>
 
-1990, Ng On Yee, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1485), [CueTracker](http://cuetracker.net/Players/ng-on-yee/)</sup></sub>
+1975, Stuart Hinton, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2501)</sup></sub>
+
+1982, Arun Mehta, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1300), [CueTracker](http://cuetracker.net/Players/arun-mehta/)</sup></sub>
 
 
-#### ***milleversary on November 17, 2022***
-1970, Mark Anthony Taylor, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2756), [CueTracker](http://cuetracker.net/Players/mark-taylor/)</sup></sub>
+#### ***milleversary on November 18, 2022***
+1998, Lewis Gillen, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1939), [CueTracker](http://cuetracker.net/Players/lewis-gillen/)</sup></sub>
 
 
 
