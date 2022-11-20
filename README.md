@@ -22,16 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 19***
-1969, Au Chi Wai, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=511), [CueTracker](http://cuetracker.net/Players/au-chi-wai/)</sup></sub>
+#### ***born on November 20***
+1971, Mike Dunn, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=54), [CueTracker](http://cuetracker.net/Players/mike-dunn/)</sup></sub>
 
-1995, Kacper Filipiak, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=588), [CueTracker](http://cuetracker.net/Players/kacper-filipiak/)</sup></sub>
+1977, Corey Deuel, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1497), [CueTracker](http://cuetracker.net/Players/corey-deuel/)</sup></sub>
 
 
-#### ***milleversary on November 19, 2022***
-1984, Mark Vincent, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=834), [CueTracker](http://cuetracker.net/Players/mark-vincent/)</sup></sub>
-
-1998, Adam Goff, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2781), [CueTracker](http://cuetracker.net/Players/adam-goff/)</sup></sub>
+#### ***milleversary on November 20, 2022***
+1973, Andy Hicks, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=51), [CueTracker](http://cuetracker.net/Players/andy-hicks/)</sup></sub>
 
 
 
