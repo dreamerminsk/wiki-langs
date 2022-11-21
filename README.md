@@ -22,14 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 20***
-1971, Mike Dunn, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=54), [CueTracker](http://cuetracker.net/Players/mike-dunn/)</sup></sub>
-
-1977, Corey Deuel, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1497), [CueTracker](http://cuetracker.net/Players/corey-deuel/)</sup></sub>
+#### ***born on November 21***
 
 
-#### ***milleversary on November 20, 2022***
-1973, Andy Hicks, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=51), [CueTracker](http://cuetracker.net/Players/andy-hicks/)</sup></sub>
+#### ***milleversary on November 21, 2022***
 
 
 
