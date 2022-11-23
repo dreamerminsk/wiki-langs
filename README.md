@@ -22,10 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 22***
+#### ***born on November 23***
 
 
-#### ***milleversary on November 22, 2022***
+#### ***milleversary on November 23, 2022***
+1987, Patrick Einsle, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=91), [CueTracker](http://cuetracker.net/Players/patrick-einsle/)</sup></sub>
+
+1990, Mehran Maneshgar, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2889)</sup></sub>
+
+2000, Keishin Kamihashi, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1803), [CueTracker](http://cuetracker.net/Players/keishin-kamihashi/)</sup></sub>
 
 
 
