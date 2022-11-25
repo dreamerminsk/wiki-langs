@@ -22,13 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 24***
-1984, David John, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1737), [CueTracker](http://cuetracker.net/Players/david-john/)</sup></sub>
-
-1989, Mirko Montrasio, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2890)</sup></sub>
+#### ***born on November 25***
+1987, Ross Vallance, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1498), [CueTracker](http://cuetracker.net/Players/ross-vallance/)</sup></sub>
 
 
-#### ***milleversary on November 24, 2022***
+#### ***milleversary on November 25, 2022***
 
 
 
