@@ -22,11 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 25***
-1987, Ross Vallance, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1498), [CueTracker](http://cuetracker.net/Players/ross-vallance/)</sup></sub>
+#### ***born on November 26***
 
 
-#### ***milleversary on November 25, 2022***
+#### ***milleversary on November 26, 2022***
+1965, Kharazchi Jamshid, 21000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2658)</sup></sub>
+
+2001, Callum Beresford, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2392), [CueTracker](http://cuetracker.net/Players/callum-beresford/)</sup></sub>
 
 
 
