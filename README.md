@@ -22,13 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 26***
+#### ***born on November 27***
+1976, Gaurang Vyas, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2764)</sup></sub>
+
+1980, Lee Chun Wai Andy, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=123), [CueTracker](http://cuetracker.net/Players/andy-lee/)</sup></sub>
+
+1988, David Morris, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=190), [CueTracker](http://cuetracker.net/Players/david-morris/)</sup></sub>
 
 
-#### ***milleversary on November 26, 2022***
-1965, Kharazchi Jamshid, 21000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2658)</sup></sub>
-
-2001, Callum Beresford, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2392), [CueTracker](http://cuetracker.net/Players/callum-beresford/)</sup></sub>
+#### ***milleversary on November 27, 2022***
 
 
 
