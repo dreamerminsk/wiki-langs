@@ -22,14 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 29***
-1987, Ron Florax, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=632), [CueTracker](http://cuetracker.net/Players/ron-florax/)</sup></sub>
-
-1997, Lyu Haotian, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=905), [CueTracker](http://cuetracker.net/Players/lyu-haotian/)</sup></sub>
+#### ***born on November 30***
+1983, Daniel Kandi, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1170), [CueTracker](http://cuetracker.net/Players/daniel-kandi/)</sup></sub>
 
 
-#### ***milleversary on November 29, 2022***
-1968, David Finbow, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2505)</sup></sub>
+#### ***milleversary on November 30, 2022***
+2006, Liam James Davies, 6000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2438), [CueTracker](http://cuetracker.net/Players/liam-davies/)</sup></sub>
 
 
 
