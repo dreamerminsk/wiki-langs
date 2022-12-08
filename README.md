@@ -22,11 +22,17 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December  7***
-1979, Luke Simmonds, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=519), [CueTracker](http://cuetracker.net/Players/luke-simmonds/)</sup></sub>
+#### ***born on December  8***
+1975, Rhydian Richards, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2310), [CueTracker](http://cuetracker.net/Players/rhydian-richards/)</sup></sub>
+
+1983, Liu Song, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=46), [CueTracker](http://cuetracker.net/Players/liu-song/)</sup></sub>
+
+1991, Mitchell Travis, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=132), [CueTracker](http://cuetracker.net/Players/mitchell-travis/)</sup></sub>
+
+1996, Liu Jiaming, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1159), [CueTracker](http://cuetracker.net/Players/liu-jiaming/)</sup></sub>
 
 
-#### ***milleversary on December  7, 2022***
+#### ***milleversary on December  8, 2022***
 
 
 
