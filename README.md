@@ -22,17 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December  8***
-1975, Rhydian Richards, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2310), [CueTracker](http://cuetracker.net/Players/rhydian-richards/)</sup></sub>
+#### ***born on December  9***
+1966, Dave Harold, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=31), [CueTracker](http://cuetracker.net/Players/dave-harold/)</sup></sub>
 
-1983, Liu Song, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=46), [CueTracker](http://cuetracker.net/Players/liu-song/)</sup></sub>
-
-1991, Mitchell Travis, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=132), [CueTracker](http://cuetracker.net/Players/mitchell-travis/)</sup></sub>
-
-1996, Liu Jiaming, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1159), [CueTracker](http://cuetracker.net/Players/liu-jiaming/)</sup></sub>
+1997, Peter Butler, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2763), [CueTracker](http://cuetracker.net/Players/peter-butler/)</sup></sub>
 
 
-#### ***milleversary on December  8, 2022***
+#### ***milleversary on December  9, 2022***
 
 
 
