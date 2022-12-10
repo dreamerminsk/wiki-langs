@@ -22,13 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December  9***
-1966, Dave Harold, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=31), [CueTracker](http://cuetracker.net/Players/dave-harold/)</sup></sub>
-
-1997, Peter Butler, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2763), [CueTracker](http://cuetracker.net/Players/peter-butler/)</sup></sub>
+#### ***born on December 10***
 
 
-#### ***milleversary on December  9, 2022***
+#### ***milleversary on December 10, 2022***
 
 
 
