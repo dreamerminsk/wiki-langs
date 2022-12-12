@@ -22,12 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December 11***
-1969, Peter Lines, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=37), [CueTracker](http://cuetracker.net/Players/peter-lines/)</sup></sub>
+#### ***born on December 12***
 
 
-#### ***milleversary on December 11, 2022***
-1981, Daniel Ward, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1003), [CueTracker](http://cuetracker.net/Players/daniel-ward/)</sup></sub>
+#### ***milleversary on December 12, 2022***
+2003, Wu Yize, 7000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2469), [CueTracker](http://cuetracker.net/Players/wu-yize/)</sup></sub>
 
 
 
