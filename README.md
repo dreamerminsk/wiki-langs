@@ -22,11 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December 12***
+#### ***born on December 13***
+1977, Andrew Higginson, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=25), [CueTracker](http://cuetracker.net/Players/andrew-higginson/)</sup></sub>
+
+1995, Ratchayothin Yotharuck, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1263), [CueTracker](http://cuetracker.net/Players/ratchayothin-yotharuck/)</sup></sub>
 
 
-#### ***milleversary on December 12, 2022***
-2003, Wu Yize, 7000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2469), [CueTracker](http://cuetracker.net/Players/wu-yize/)</sup></sub>
+#### ***milleversary on December 13, 2022***
+1976, Stuart Watson, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2044), [CueTracker](http://cuetracker.net/Players/stuart-watson/)</sup></sub>
+
+1990, Ismail Türker, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1394), [CueTracker](http://cuetracker.net/Players/ismail-t252rker/)</sup></sub>
 
 
 
