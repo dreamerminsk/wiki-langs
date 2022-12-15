@@ -22,19 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December 14***
-1970, Johnathan Bagley, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1655), [CueTracker](http://cuetracker.net/Players/jonathan-bagley/)</sup></sub>
+#### ***born on December 15***
+1982, Brendan O'Donoghue, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=473), [CueTracker](http://cuetracker.net/Players/brendan-odonoghue/)</sup></sub>
 
-1976, Alfie Burden, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=21), [CueTracker](http://cuetracker.net/Players/alfie-burden/)</sup></sub>
-
-1979, Ahmed Aly Elsayed, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2346)</sup></sub>
-
-1993, Thanawat Tirapongpaiboon, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=216), [CueTracker](http://cuetracker.net/Players/thanawat-thirapongpaiboon/)</sup></sub>
-
-2002, Digvijay Kadian, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2441)</sup></sub>
+1997, Simon Lichtenberg, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1567), [CueTracker](http://cuetracker.net/Players/simon-lichtenberg/)</sup></sub>
 
 
-#### ***milleversary on December 14, 2022***
+#### ***milleversary on December 15, 2022***
+1987, Ben Woollaston, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=19), [CueTracker](http://cuetracker.net/Players/ben-woollaston/)</sup></sub>
 
 
 
