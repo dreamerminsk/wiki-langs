@@ -22,11 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December 16***
-1988, Kritsanut Lertsattayatthorn, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1577), [CueTracker](http://cuetracker.net/Players/kritsanut-lertsattayathorn/)</sup></sub>
+#### ***born on December 17***
+1967, Karl Burrows, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2872)</sup></sub>
+
+1991, Laxman Rawat, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1351), [CueTracker](http://cuetracker.net/Players/laxman-rawat/)</sup></sub>
 
 
-#### ***milleversary on December 16, 2022***
+#### ***milleversary on December 17, 2022***
 
 
 
