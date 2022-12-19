@@ -22,16 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December 18***
-1985, Mike Finn, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=233), [CueTracker](http://cuetracker.net/Players/mike-finn/)</sup></sub>
-
-1997, Daniel Gorton, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2208)</sup></sub>
-
-2001, Florian Nüßle, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1835), [CueTracker](http://cuetracker.net/Players/florian-nusle/)</sup></sub>
+#### ***born on December 19***
+1969, Nick Dyson, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=922), [CueTracker](http://cuetracker.net/Players/nick-dyson/)</sup></sub>
 
 
-#### ***milleversary on December 18, 2022***
-2001, Conor Caniff, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2393), [CueTracker](http://cuetracker.net/Players/conor-caniff/)</sup></sub>
+#### ***milleversary on December 19, 2022***
 
 
 
