@@ -22,12 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December 20***
-1980, Gary Challis, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2051), [CueTracker](http://cuetracker.net/Players/gary-challis/)</sup></sub>
+#### ***born on December 21***
 
 
-#### ***milleversary on December 20, 2022***
-1970, Johnathan Bagley, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1655), [CueTracker](http://cuetracker.net/Players/jonathan-bagley/)</sup></sub>
+#### ***milleversary on December 21, 2022***
+1949, Dennis Taylor, 27000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=468), [CueTracker](http://cuetracker.net/Players/dennis-taylor/)</sup></sub>
 
 
 
