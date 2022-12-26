@@ -22,15 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December 25***
-1975, Lim Chun Kiat Marvin, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=411), [CueTracker](http://cuetracker.net/Players/marvin-lim-chun-kiat/)</sup></sub>
+#### ***born on December 26***
+1981, Mohamed Khairy, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=931), [CueTracker](http://cuetracker.net/Players/mohamed-khairy/)</sup></sub>
 
-1991, Zhang Anda, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=81), [CueTracker](http://cuetracker.net/Players/zhang-anda/)</sup></sub>
-
-1992, Wu Shengguang, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1705), [CueTracker](http://cuetracker.net/Players/wu-shengguang/)</sup></sub>
+1991, Adam Brown, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2197)</sup></sub>
 
 
-#### ***milleversary on December 25, 2022***
+#### ***milleversary on December 26, 2022***
 
 
 
