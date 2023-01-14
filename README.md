@@ -22,23 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on January 13***
-1969, Stephen Hendry, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=153), [CueTracker](http://cuetracker.net/Players/stephen-hendry/)</sup></sub>
-
-1980, Diana Stateczny, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2112), [CueTracker](http://cuetracker.net/Players/diana-stateczny/)</sup></sub>
-
-1985, Sean Harvey, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2078), [CueTracker](http://cuetracker.net/Players/sean-harvey/)</sup></sub>
-
-1989, John Astley, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=526), [CueTracker](http://cuetracker.net/Players/john-astley/)</sup></sub>
-
-1995, Clayton Humphries, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1627), [CueTracker](http://cuetracker.net/Players/clayton-humphries/)</sup></sub>
-
-1998, Chatchapong Nasa, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2887)</sup></sub>
-
-2005, Miina Tani, 18 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2549), [CueTracker](http://cuetracker.net/Players/miina-tani/)</sup></sub>
+#### ***born on January 14***
+1997, Josh Mulholland, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1590), [CueTracker](http://cuetracker.net/Players/josh-mulholland/)</sup></sub>
 
 
-#### ***milleversary on January 13, 2023***
+#### ***milleversary on January 14, 2023***
 
 
 
