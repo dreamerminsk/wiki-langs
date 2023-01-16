@@ -22,13 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on January 15***
-1951, Patsy Fagan, 72 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=796), [CueTracker](http://cuetracker.net/Players/patsy-fagan/)</sup></sub>
+#### ***born on January 16***
+1948, Cliff Thorburn, 75 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=470), [CueTracker](http://cuetracker.net/Players/cliff-thorburn/)</sup></sub>
 
-1980, Ip Wan In Jaique, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2115), [CueTracker](http://cuetracker.net/Players/ip-wan-in-jaique/)</sup></sub>
+1990, Mehran Maneshgar, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2889)</sup></sub>
+
+1991, Lyu Chenwei, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=510), [CueTracker](http://cuetracker.net/Players/lyu-chenwei/)</sup></sub>
 
 
-#### ***milleversary on January 15, 2023***
+#### ***milleversary on January 16, 2023***
 
 
 
