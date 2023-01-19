@@ -22,18 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on January 18***
-1988, Michael Georgiou, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=497), [CueTracker](http://cuetracker.net/Players/michael-georgiou/)</sup></sub>
-
-2000, Chang Yu Kiu, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1479), [CueTracker](http://cuetracker.net/Players/yu-kiu-chang/)</sup></sub>
+#### ***born on January 19***
+1949, Dennis Taylor, 74 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=468), [CueTracker](http://cuetracker.net/Players/dennis-taylor/)</sup></sub>
 
 
-#### ***milleversary on January 18, 2023***
-1971, Jason Weston, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1505), [CueTracker](http://cuetracker.net/Players/jason-weston/)</sup></sub>
+#### ***milleversary on January 19, 2023***
+1976, Leo Fernandez, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=422), [CueTracker](http://cuetracker.net/Players/leo-fernandez/)</sup></sub>
 
-1987, Sergey Isaenko, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1558), [CueTracker](http://cuetracker.net/Players/sergey-isaenko/)</sup></sub>
-
-2001, Ryan Roberts, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2760), [CueTracker](http://cuetracker.net/Players/ryan-roberts/)</sup></sub>
+1981, Mohamed Khairy, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=931), [CueTracker](http://cuetracker.net/Players/mohamed-khairy/)</sup></sub>
 
 
 
