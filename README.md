@@ -22,15 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on January 20***
-1968, Surinder Gill, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1190), [CueTracker](http://cuetracker.net/Players/surinder-gill/)</sup></sub>
+#### ***born on January 21***
+1971, Alan McManus, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=44), [CueTracker](http://cuetracker.net/Players/alan-mcmanus/)</sup></sub>
 
-1987, Khalid Belaied Abumdas, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1292), [CueTracker](http://cuetracker.net/Players/khalid-belaied-abumdas/)</sup></sub>
-
-2000, Jack Harris, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2489)</sup></sub>
+1998, Shane Castle, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=615), [CueTracker](http://cuetracker.net/Players/shane-castle/)</sup></sub>
 
 
-#### ***milleversary on January 20, 2023***
+#### ***milleversary on January 21, 2023***
 
 
 
