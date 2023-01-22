@@ -22,13 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on January 21***
-1971, Alan McManus, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=44), [CueTracker](http://cuetracker.net/Players/alan-mcmanus/)</sup></sub>
-
-1998, Shane Castle, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=615), [CueTracker](http://cuetracker.net/Players/shane-castle/)</sup></sub>
+#### ***born on January 22***
+1999, Brian Ochoiski, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2274)</sup></sub>
 
 
-#### ***milleversary on January 21, 2023***
+#### ***milleversary on January 22, 2023***
 
 
 
