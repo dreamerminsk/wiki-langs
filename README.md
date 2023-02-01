@@ -22,11 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on January 31***
-2000, Luo Honghao, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1237), [CueTracker](http://cuetracker.net/Players/luo-honghao/)</sup></sub>
+#### ***born on February  1***
 
 
-#### ***milleversary on January 31, 2023***
+#### ***milleversary on February  1, 2023***
+1979, Thomas McSorley, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1185), [CueTracker](http://cuetracker.net/Players/thomas-mcsorley/)</sup></sub>
+
+1995, Chen Zifan, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=933), [CueTracker](http://cuetracker.net/Players/chen-zifan/)</sup></sub>
 
 
 
