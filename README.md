@@ -22,13 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February  1***
+#### ***born on February  2***
+1969, Ian Desmier, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2493)</sup></sub>
+
+1974, Rajesh Kadian, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2485)</sup></sub>
+
+1980, Martin McCrudden, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=427), [CueTracker](http://cuetracker.net/Players/martin-mccrudden/)</sup></sub>
 
 
-#### ***milleversary on February  1, 2023***
-1979, Thomas McSorley, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1185), [CueTracker](http://cuetracker.net/Players/thomas-mcsorley/)</sup></sub>
-
-1995, Chen Zifan, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=933), [CueTracker](http://cuetracker.net/Players/chen-zifan/)</sup></sub>
+#### ***milleversary on February  2, 2023***
+1990, Tom Pendlebury, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2503)</sup></sub>
 
 
 
