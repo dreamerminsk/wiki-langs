@@ -22,12 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February  4***
-1976, Stephen Rowlings, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=410), [CueTracker](http://cuetracker.net/Players/stephen-rowlings/)</sup></sub>
+#### ***born on February  5***
+1990, Ismail Türker, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1394), [CueTracker](http://cuetracker.net/Players/ismail-t252rker/)</sup></sub>
+
+1991, Anthony McGill, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=22), [CueTracker](http://cuetracker.net/Players/anthony-mcgill/)</sup></sub>
 
 
-#### ***milleversary on February  4, 2023***
-1984, Billy Ginn, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2350)</sup></sub>
+#### ***milleversary on February  5, 2023***
+1992, Wu Shengguang, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1705), [CueTracker](http://cuetracker.net/Players/wu-shengguang/)</sup></sub>
 
 
 
