@@ -22,14 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February  5***
-1990, Ismail Türker, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1394), [CueTracker](http://cuetracker.net/Players/ismail-t252rker/)</sup></sub>
+#### ***born on February  6***
+1976, Juan Pedro Durán, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2725)</sup></sub>
 
-1991, Anthony McGill, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=22), [CueTracker](http://cuetracker.net/Players/anthony-mcgill/)</sup></sub>
+1999, Tyler Rees, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1433), [CueTracker](http://cuetracker.net/Players/tyler-rees/)</sup></sub>
 
 
-#### ***milleversary on February  5, 2023***
-1992, Wu Shengguang, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1705), [CueTracker](http://cuetracker.net/Players/wu-shengguang/)</sup></sub>
+#### ***milleversary on February  6, 2023***
 
 
 
