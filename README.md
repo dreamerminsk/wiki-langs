@@ -22,11 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February  8***
-1976, Simon Bedford, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=119), [CueTracker](http://cuetracker.net/Players/simon-bedford/)</sup></sub>
+#### ***born on February  9***
+1970, Gary Lees, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1946), [CueTracker](http://cuetracker.net/Players/gary-lees/)</sup></sub>
+
+1984, Declan Lavery, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2662)</sup></sub>
+
+2004, Antoni Kowalski, 19 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1465), [CueTracker](http://cuetracker.net/Players/antoni-kowalski/)</sup></sub>
 
 
-#### ***milleversary on February  8, 2023***
+#### ***milleversary on February  9, 2023***
+1951, John Rea, 26000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=710), [CueTracker](http://cuetracker.net/Players/john-rea/)</sup></sub>
 
 
 
