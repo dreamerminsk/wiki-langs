@@ -22,11 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February 12***
+#### ***born on February 13***
+1962, Peter Francisco, 61 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1298), [CueTracker](http://cuetracker.net/Players/peter-francisco/)</sup></sub>
+
+2002, Connor Benzey, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2746)</sup></sub>
 
 
-#### ***milleversary on February 12, 2023***
-1932, Ray Reardon, 33000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2875)</sup></sub>
+#### ***milleversary on February 13, 2023***
+1984, Steve Martin, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=662), [CueTracker](http://cuetracker.net/Players/steve-martin/)</sup></sub>
 
 
 
