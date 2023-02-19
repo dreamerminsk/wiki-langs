@@ -22,17 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February 18***
-1976, Lee Adams, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2686)</sup></sub>
-
-1985, Andy Marriott, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=913), [CueTracker](http://cuetracker.net/Players/andy-marriott/)</sup></sub>
-
-1992, Joshua Saywell, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2362)</sup></sub>
-
-1996, Ronnie Blake, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2192), [CueTracker](http://cuetracker.net/Players/ronnie-blake/)</sup></sub>
+#### ***born on February 19***
 
 
-#### ***milleversary on February 18, 2023***
+#### ***milleversary on February 19, 2023***
+1995, Boonyarit Keattikun, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1578), [CueTracker](http://cuetracker.net/Players/boonyarit-keattikun/)</sup></sub>
 
 
 
