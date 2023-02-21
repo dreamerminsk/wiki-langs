@@ -22,12 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February 20***
-1978, Khurram Khan, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2449)</sup></sub>
+#### ***born on February 21***
 
 
-#### ***milleversary on February 20, 2023***
-1995, Ross Muir, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=898), [CueTracker](http://cuetracker.net/Players/ross-muir/)</sup></sub>
+#### ***milleversary on February 21, 2023***
 
 
 
