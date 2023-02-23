@@ -22,12 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February 22***
-1986, Mark Allen, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=202), [CueTracker](http://cuetracker.net/Players/mark-allen/)</sup></sub>
+#### ***born on February 23***
+1974, Del Smith, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=447), [CueTracker](http://cuetracker.net/Players/del-smith/)</sup></sub>
+
+1990, Michael Wasley, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=34), [CueTracker](http://cuetracker.net/Players/michael-wasley/)</sup></sub>
+
+2001, Ryan Roberts, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2760), [CueTracker](http://cuetracker.net/Players/ryan-roberts/)</sup></sub>
 
 
-#### ***milleversary on February 22, 2023***
-1973, Gerard Greene, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=38), [CueTracker](http://cuetracker.net/Players/gerard-greene/)</sup></sub>
+#### ***milleversary on February 23, 2023***
+2001, Dylan Emery, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2320), [CueTracker](http://cuetracker.net/Players/dylan-emery/)</sup></sub>
 
 
 
