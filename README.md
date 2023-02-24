@@ -22,16 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February 23***
-1974, Del Smith, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=447), [CueTracker](http://cuetracker.net/Players/del-smith/)</sup></sub>
+#### ***born on February 24***
+1983, Sharon Lewis, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2143)</sup></sub>
 
-1990, Michael Wasley, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=34), [CueTracker](http://cuetracker.net/Players/michael-wasley/)</sup></sub>
-
-2001, Ryan Roberts, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2760), [CueTracker](http://cuetracker.net/Players/ryan-roberts/)</sup></sub>
+1989, Michael Collumb, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1177), [CueTracker](http://cuetracker.net/Players/michael-collumb/)</sup></sub>
 
 
-#### ***milleversary on February 23, 2023***
-2001, Dylan Emery, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2320), [CueTracker](http://cuetracker.net/Players/dylan-emery/)</sup></sub>
+#### ***milleversary on February 24, 2023***
+1960, Ali Bassiri, 23000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=486), [CueTracker](http://cuetracker.net/Players/ali-bassiri/)</sup></sub>
+
+2006, Westley Cooper, 6000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2770), [CueTracker](http://cuetracker.net/Players/westley-cooper/)</sup></sub>
 
 
 
