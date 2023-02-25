@@ -22,16 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February 24***
-1983, Sharon Lewis, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2143)</sup></sub>
-
-1989, Michael Collumb, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1177), [CueTracker](http://cuetracker.net/Players/michael-collumb/)</sup></sub>
+#### ***born on February 25***
+1995, Dylan Mitchell, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1123), [CueTracker](http://cuetracker.net/Players/dylan-mitchell/)</sup></sub>
 
 
-#### ***milleversary on February 24, 2023***
-1960, Ali Bassiri, 23000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=486), [CueTracker](http://cuetracker.net/Players/ali-bassiri/)</sup></sub>
-
-2006, Westley Cooper, 6000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2770), [CueTracker](http://cuetracker.net/Players/westley-cooper/)</sup></sub>
+#### ***milleversary on February 25, 2023***
+1998, Lynn Shi, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2826), [CueTracker](http://cuetracker.net/Players/lynn-shi/)</sup></sub>
 
 
 
