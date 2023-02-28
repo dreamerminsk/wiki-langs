@@ -22,24 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February 27***
-1968, David Finbow, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2505)</sup></sub>
+#### ***born on February 28***
+1993, Chen Zhe, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=133), [CueTracker](http://cuetracker.net/Players/chen-zhe/)</sup></sub>
 
-1977, Fenghui Wei, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2365)</sup></sub>
-
-1982, Maria Catalano, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2119), [CueTracker](http://cuetracker.net/Players/maria-catalano/)</sup></sub>
-
-1984, Rishi Gohill, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2453)</sup></sub>
-
-1989, Alex Taubman, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=156), [CueTracker](http://cuetracker.net/Players/alex-taubman/)</sup></sub>
-
-1996, Matthew Glasby, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1301), [CueTracker](http://cuetracker.net/Players/matthew-glasby/)</sup></sub>
+2002, Aaron Hill, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2470), [CueTracker](http://cuetracker.net/Players/aaron-hill/)</sup></sub>
 
 
-#### ***milleversary on February 27, 2023***
-1987, Alex Davies, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=144), [CueTracker](http://cuetracker.net/Players/alex-davies/)</sup></sub>
-
-1995, Jack Smithers, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2053), [CueTracker](http://cuetracker.net/Players/jack-smithers/)</sup></sub>
+#### ***milleversary on February 28, 2023***
 
 
 
