@@ -22,18 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on March  7***
-1960, Ali Bassiri, 63 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=486), [CueTracker](http://cuetracker.net/Players/ali-bassiri/)</sup></sub>
+#### ***born on March  8***
+1972, Fergal O'Brien, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=63), [CueTracker](http://cuetracker.net/Players/fergal-obrien/)</sup></sub>
 
-1974, Kristjan Helgason, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1348), [CueTracker](http://cuetracker.net/Players/kristjan-helgason/)</sup></sub>
+1988, Katrina Wan, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2117), [CueTracker](http://cuetracker.net/Players/katrina-wan/)</sup></sub>
 
-1985, Matthew Selt, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=47), [CueTracker](http://cuetracker.net/Players/matthew-selt/)</sup></sub>
-
-1990, Guan Zhen, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=967), [CueTracker](http://cuetracker.net/Players/guan-zhen/)</sup></sub>
+1995, Luca Brecel, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=101), [CueTracker](http://cuetracker.net/Players/luca-brecel/)</sup></sub>
 
 
-#### ***milleversary on March  7, 2023***
-1982, Neil Robertson, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=154), [CueTracker](http://cuetracker.net/Players/neil-robertson/)</sup></sub>
+#### ***milleversary on March  8, 2023***
 
 
 
