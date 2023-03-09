@@ -22,15 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on March  8***
-1972, Fergal O'Brien, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=63), [CueTracker](http://cuetracker.net/Players/fergal-obrien/)</sup></sub>
-
-1988, Katrina Wan, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2117), [CueTracker](http://cuetracker.net/Players/katrina-wan/)</sup></sub>
-
-1995, Luca Brecel, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=101), [CueTracker](http://cuetracker.net/Players/luca-brecel/)</sup></sub>
+#### ***born on March  9***
+2000, Elliott Weston, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2480)</sup></sub>
 
 
-#### ***milleversary on March  8, 2023***
+#### ***milleversary on March  9, 2023***
 
 
 
