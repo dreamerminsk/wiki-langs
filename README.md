@@ -22,13 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on March 14***
-1965, Andrew Milliard, 58 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=424), [CueTracker](http://cuetracker.net/Players/andrew-milliard/)</sup></sub>
-
-1972, Steven Evans, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2361)</sup></sub>
+#### ***born on March 15***
+1989, Soheil Vahedi, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1934), [CueTracker](http://cuetracker.net/Players/soheil-vahedi/)</sup></sub>
 
 
-#### ***milleversary on March 14, 2023***
+#### ***milleversary on March 15, 2023***
 
 
 
