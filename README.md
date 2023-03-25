@@ -22,14 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on March 24***
-1988, Thor Chuan Leong, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1509), [CueTracker](http://cuetracker.net/Players/thor-chuan-leong/)</sup></sub>
+#### ***born on March 25***
+1978, Rodney Goggins, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=498), [CueTracker](http://cuetracker.net/Players/rodney-goggins/)</sup></sub>
+
+1993, Kurtis Weaver, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1306), [CueTracker](http://cuetracker.net/Players/kurtis-weaver/)</sup></sub>
+
+2003, Bradley Tyson, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2314), [CueTracker](http://cuetracker.net/Players/bradley-tyson/)</sup></sub>
 
 
-#### ***milleversary on March 24, 2023***
-1984, David John, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1737), [CueTracker](http://cuetracker.net/Players/david-john/)</sup></sub>
-
-1993, Saqib Nasir, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=522), [CueTracker](http://cuetracker.net/Players/saqib-nasir/)</sup></sub>
+#### ***milleversary on March 25, 2023***
+1995, Joe O'Connor, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1038), [CueTracker](http://cuetracker.net/Players/joe-oconnor/)</sup></sub>
 
 
 
