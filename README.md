@@ -22,16 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on March 25***
-1978, Rodney Goggins, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=498), [CueTracker](http://cuetracker.net/Players/rodney-goggins/)</sup></sub>
-
-1993, Kurtis Weaver, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1306), [CueTracker](http://cuetracker.net/Players/kurtis-weaver/)</sup></sub>
-
-2003, Bradley Tyson, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2314), [CueTracker](http://cuetracker.net/Players/bradley-tyson/)</sup></sub>
+#### ***born on March 26***
+1971, Rory McLeod, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=50), [CueTracker](http://cuetracker.net/Players/rory-mcleod/)</sup></sub>
 
 
-#### ***milleversary on March 25, 2023***
-1995, Joe O'Connor, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1038), [CueTracker](http://cuetracker.net/Players/joe-oconnor/)</sup></sub>
+#### ***milleversary on March 26, 2023***
 
 
 
