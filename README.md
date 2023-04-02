@@ -22,12 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April  1***
-1987, Ding Junhui, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=224), [CueTracker](http://cuetracker.net/Players/ding-junhui/)</sup></sub>
+#### ***born on April  2***
+1993, Robin Otto, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1752), [CueTracker](http://cuetracker.net/Players/robin-otto/)</sup></sub>
 
 
-#### ***milleversary on April  1, 2023***
-1971, Rory McLeod, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=50), [CueTracker](http://cuetracker.net/Players/rory-mcleod/)</sup></sub>
+#### ***milleversary on April  2, 2023***
 
 
 
