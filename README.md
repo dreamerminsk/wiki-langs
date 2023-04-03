@@ -22,11 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April  2***
-1993, Robin Otto, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1752), [CueTracker](http://cuetracker.net/Players/robin-otto/)</sup></sub>
+#### ***born on April  3***
+1997, Zhao Xintong, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=946), [CueTracker](http://cuetracker.net/Players/zhao-xintong/)</sup></sub>
 
 
-#### ***milleversary on April  2, 2023***
+#### ***milleversary on April  3, 2023***
 
 
 
