@@ -22,20 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April  5***
-1988, Lee Shanker, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=198), [CueTracker](http://cuetracker.net/Players/lee-shanker/)</sup></sub>
-
-2002, Bradley Cowdroy, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2748), [CueTracker](http://cuetracker.net/Players/bradley-cowdroy/)</sup></sub>
-
-2005, Filips Kalnins, 18 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2766), [CueTracker](http://cuetracker.net/Players/filips-kalniyy/)</sup></sub>
+#### ***born on April  6***
+1990, Sydney Wilson, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=523), [CueTracker](http://cuetracker.net/Players/sydney-wilson/)</sup></sub>
 
 
-#### ***milleversary on April  5, 2023***
-1963, Dean Reynolds, 22000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=659), [CueTracker](http://cuetracker.net/Players/dean-reynolds/)</sup></sub>
-
-1979, Matthew Lee, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2779), [CueTracker](http://cuetracker.net/Players/matthew-lee/)</sup></sub>
-
-1995, Kacper Filipiak, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=588), [CueTracker](http://cuetracker.net/Players/kacper-filipiak/)</sup></sub>
+#### ***milleversary on April  6, 2023***
 
 
 
