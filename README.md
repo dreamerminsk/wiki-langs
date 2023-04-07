@@ -22,11 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April  6***
-1990, Sydney Wilson, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=523), [CueTracker](http://cuetracker.net/Players/sydney-wilson/)</sup></sub>
+#### ***born on April  7***
+1973, Chitra Magimairaj, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2131), [CueTracker](http://cuetracker.net/Players/chitra-magimairajan/)</sup></sub>
 
 
-#### ***milleversary on April  6, 2023***
+#### ***milleversary on April  7, 2023***
 
 
 
