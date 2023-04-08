@@ -22,11 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April  7***
-1973, Chitra Magimairaj, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2131), [CueTracker](http://cuetracker.net/Players/chitra-magimairajan/)</sup></sub>
+#### ***born on April  8***
+1994, Felix Frede, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1030), [CueTracker](http://cuetracker.net/Players/felix-frede/)</sup></sub>
 
 
-#### ***milleversary on April  7, 2023***
+#### ***milleversary on April  8, 2023***
 
 
 
