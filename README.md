@@ -22,11 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April  8***
-1994, Felix Frede, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1030), [CueTracker](http://cuetracker.net/Players/felix-frede/)</sup></sub>
+#### ***born on April  9***
+1993, Fang Xiongman, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1114), [CueTracker](http://cuetracker.net/Players/fang-xiongman/)</sup></sub>
+
+2003, Jack Haley, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2750), [CueTracker](http://cuetracker.net/Players/jack-haley/)</sup></sub>
 
 
-#### ***milleversary on April  8, 2023***
+#### ***milleversary on April  9, 2023***
+2004, Antoni Kowalski, 7000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1465), [CueTracker](http://cuetracker.net/Players/antoni-kowalski/)</sup></sub>
 
 
 
