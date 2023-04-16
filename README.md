@@ -22,16 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 15***
-1960, Tony Jones, 63 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1355), [CueTracker](http://cuetracker.net/Players/tony-jones/)</sup></sub>
-
-1971, Paul Wykes, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=500), [CueTracker](http://cuetracker.net/Players/paul-wykes/)</sup></sub>
+#### ***born on April 16***
 
 
-#### ***milleversary on April 15, 2023***
-1993, Declan Brennan, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=768), [CueTracker](http://cuetracker.net/Players/declan-brennan/)</sup></sub>
-
-1998, Zhang Jiankang, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2134), [CueTracker](http://cuetracker.net/Players/zhang-jiankang/)</sup></sub>
+#### ***milleversary on April 16, 2023***
 
 
 
