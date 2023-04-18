@@ -22,16 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 17***
-1974, Simon Bevz, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=529), [CueTracker](http://cuetracker.net/Players/simon-bevz/)</sup></sub>
+#### ***born on April 18***
+1967, Stefan Mazrocis, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=492), [CueTracker](http://cuetracker.net/Players/stefan-mazrocis/)</sup></sub>
 
-1996, Andrew Doherty, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1911), [CueTracker](http://cuetracker.net/Players/andrew-doherty/)</sup></sub>
+1981, Diana Schuler, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=259), [CueTracker](http://cuetracker.net/Players/diana-schuler/)</sup></sub>
 
-2002, Bai Langning, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1595), [CueTracker](http://cuetracker.net/Players/bai-langning/)</sup></sub>
+1985, Thepchaiya Un-Nooh, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=217), [CueTracker](http://cuetracker.net/Players/thepchaiya-un-nooh/)</sup></sub>
 
 
-#### ***milleversary on April 17, 2023***
-1995, Steven Hallworth, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=605), [CueTracker](http://cuetracker.net/Players/steven-hallworth/)</sup></sub>
+#### ***milleversary on April 18, 2023***
+1995, William Lemons, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=886), [CueTracker](http://cuetracker.net/Players/william-lemons/)</sup></sub>
 
 
 
