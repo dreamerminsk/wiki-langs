@@ -22,14 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 21***
-1974, Abid Manzoor, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2391)</sup></sub>
+#### ***born on April 22***
+1984, Raymond Fry, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=174), [CueTracker](http://cuetracker.net/Players/raymond-fry/)</sup></sub>
 
-2004, Liu Hongyu, 19 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2611)</sup></sub>
+1987, Patrick Einsle, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=91), [CueTracker](http://cuetracker.net/Players/patrick-einsle/)</sup></sub>
 
 
-#### ***milleversary on April 21, 2023***
-1971, Paul Wykes, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=500), [CueTracker](http://cuetracker.net/Players/paul-wykes/)</sup></sub>
+#### ***milleversary on April 22, 2023***
 
 
 
