@@ -22,11 +22,18 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 23***
-1979, Barry Hawkins, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=16), [CueTracker](http://cuetracker.net/Players/barry-hawkins/)</sup></sub>
+#### ***born on April 24***
+1975, Stuart Pettman, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=179), [CueTracker](http://cuetracker.net/Players/stuart-pettman/)</sup></sub>
+
+1982, Fernando Bellinassi Silva, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2708)</sup></sub>
+
+1999, Aaron Graham, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2259), [CueTracker](http://cuetracker.net/Players/aaron-graham/)</sup></sub>
+
+2002, Kayden Brierley, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2483)</sup></sub>
 
 
-#### ***milleversary on April 23, 2023***
+#### ***milleversary on April 24, 2023***
+1987, Marc J Davis, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=149), [CueTracker](http://cuetracker.net/Players/marc-davis/)</sup></sub>
 
 
 
