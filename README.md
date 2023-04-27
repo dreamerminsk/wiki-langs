@@ -22,14 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 26***
-1996, Alexander Ursenbacher, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=239), [CueTracker](http://cuetracker.net/Players/alexander-ursenbacher/)</sup></sub>
+#### ***born on April 27***
+2003, Isa Ishtiaq, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2857)</sup></sub>
 
 
-#### ***milleversary on April 26, 2023***
-1968, Simon Dent, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1565), [CueTracker](http://cuetracker.net/Players/simon-dent/)</sup></sub>
-
-1979, Matthew Bolton, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1510), [CueTracker](http://cuetracker.net/Players/matthew-bolton/)</sup></sub>
+#### ***milleversary on April 27, 2023***
 
 
 
