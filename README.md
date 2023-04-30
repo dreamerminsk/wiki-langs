@@ -22,16 +22,18 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 29***
-1994, Sean O'Sullivan, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=552), [CueTracker](http://cuetracker.net/Players/sean-osullivan/)</sup></sub>
+#### ***born on April 30***
+1991, James Silverwood, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=147), [CueTracker](http://cuetracker.net/Players/james-silverwood/)</sup></sub>
 
-1995, Denys Khmelevskyi, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2784)</sup></sub>
+1992, Eden Sharav, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=620), [CueTracker](http://cuetracker.net/Players/eden-sharav/)</sup></sub>
 
-2002, Ryan Davies, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2378), [CueTracker](http://cuetracker.net/Players/ryan-davies/)</sup></sub>
+1993, Duane Jones, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=448), [CueTracker](http://cuetracker.net/Players/duane-jones/)</sup></sub>
+
+1996, Darryl Hill, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=892), [CueTracker](http://cuetracker.net/Players/darryl-hill/)</sup></sub>
 
 
-#### ***milleversary on April 29, 2023***
-1995, Ratchayothin Yotharuck, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1263), [CueTracker](http://cuetracker.net/Players/ratchayothin-yotharuck/)</sup></sub>
+#### ***milleversary on April 30, 2023***
+1990, Greg Casey, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=784), [CueTracker](http://cuetracker.net/Players/greg-casey/)</sup></sub>
 
 
 
