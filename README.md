@@ -22,15 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May  5***
-1985, David Grace, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=67), [CueTracker](http://cuetracker.net/Players/david-grace/)</sup></sub>
-
-1988, Richard Binns, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2482)</sup></sub>
-
-2000, Riley Parsons, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2479), [CueTracker](http://cuetracker.net/Players/riley-parsons/)</sup></sub>
+#### ***born on May  6***
 
 
-#### ***milleversary on May  5, 2023***
+#### ***milleversary on May  6, 2023***
+1993, Kurtis Weaver, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1306), [CueTracker](http://cuetracker.net/Players/kurtis-weaver/)</sup></sub>
 
 
 
