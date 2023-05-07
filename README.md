@@ -22,11 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May  6***
+#### ***born on May  7***
+1988, David Hogan, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=477), [CueTracker](http://cuetracker.net/Players/david-hogan/)</sup></sub>
+
+1993, Daniel Devlin, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2086), [CueTracker](http://cuetracker.net/Players/daniel-devlin/)</sup></sub>
 
 
-#### ***milleversary on May  6, 2023***
-1993, Kurtis Weaver, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1306), [CueTracker](http://cuetracker.net/Players/kurtis-weaver/)</sup></sub>
+#### ***milleversary on May  7, 2023***
+1957, Steve Davis, 24000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=212), [CueTracker](http://cuetracker.net/Players/steve-davis/)</sup></sub>
 
 
 
