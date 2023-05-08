@@ -22,14 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May  7***
-1988, David Hogan, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=477), [CueTracker](http://cuetracker.net/Players/david-hogan/)</sup></sub>
-
-1993, Daniel Devlin, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2086), [CueTracker](http://cuetracker.net/Players/daniel-devlin/)</sup></sub>
+#### ***born on May  8***
+1997, Belan Sharif, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1887), [CueTracker](http://cuetracker.net/Players/belan-sharif/)</sup></sub>
 
 
-#### ***milleversary on May  7, 2023***
-1957, Steve Davis, 24000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=212), [CueTracker](http://cuetracker.net/Players/steve-davis/)</sup></sub>
+#### ***milleversary on May  8, 2023***
+1982, Ian Martin, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2157), [CueTracker](http://cuetracker.net/Players/ian-martin/)</sup></sub>
+
+1990, Craig Farrar, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2506)</sup></sub>
 
 
 
