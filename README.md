@@ -22,14 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May  9***
-1973, Dermot McGlinchey, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=162), [CueTracker](http://cuetracker.net/Players/dermot-mcglinchey/)</sup></sub>
-
-1996, Hrithik Jain, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1851), [CueTracker](http://cuetracker.net/Players/hrithik-jain/)</sup></sub>
+#### ***born on May 10***
+2002, Lewis Ullah, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2363)</sup></sub>
 
 
-#### ***milleversary on May  9, 2023***
-1990, Jamie Tudor, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2774), [CueTracker](http://cuetracker.net/Players/jamie-tudor/)</sup></sub>
+#### ***milleversary on May 10, 2023***
+1987, Vinnie Calabrese, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=521), [CueTracker](http://cuetracker.net/Players/vinnie-calabrese/)</sup></sub>
 
 
 
