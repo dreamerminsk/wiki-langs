@@ -22,14 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 15***
-1971, Ferdous Bhuiyan, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1624), [CueTracker](http://cuetracker.net/Players/ferdous-bhuyian/)</sup></sub>
+#### ***born on May 16***
+1974, Bradley Jones, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1167), [CueTracker](http://cuetracker.net/Players/bradley-jones/)</sup></sub>
 
 
-#### ***milleversary on May 15, 2023***
-1974, Rajesh Kadian, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2485)</sup></sub>
-
-2001, Alex Clenshaw, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2722)</sup></sub>
+#### ***milleversary on May 16, 2023***
 
 
 
