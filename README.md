@@ -22,18 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 18***
-1958, Bob Chaperon, 65 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2881)</sup></sub>
-
-1975, John Higgins, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=237), [CueTracker](http://cuetracker.net/Players/john-higgins/)</sup></sub>
-
-1993, Andreas Ploner, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=633), [CueTracker](http://cuetracker.net/Players/andreas-ploner/)</sup></sub>
-
-1996, Lukas Kleckers, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1082), [CueTracker](http://cuetracker.net/Players/lukas-kleckers/)</sup></sub>
+#### ***born on May 19***
+1999, Manasawin Phetmalaikul, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1991), [CueTracker](http://cuetracker.net/Players/manasawin-phetmalaikul/)</sup></sub>
 
 
-#### ***milleversary on May 18, 2023***
-1982, Fernando Bellinassi Silva, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2708)</sup></sub>
+#### ***milleversary on May 19, 2023***
+1971, Robert Read, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2083), [CueTracker](http://cuetracker.net/Players/robert-read/)</sup></sub>
+
+1982, Andrew Pagett, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=65), [CueTracker](http://cuetracker.net/Players/andrew-pagett/)</sup></sub>
 
 
 
