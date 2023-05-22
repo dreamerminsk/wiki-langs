@@ -22,18 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 21***
-1975, Stephen Kershaw, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2090), [CueTracker](http://cuetracker.net/Players/stephen-kershaw/)</sup></sub>
-
-1976, Stuart Bingham, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=30), [CueTracker](http://cuetracker.net/Players/stuart-bingham/)</sup></sub>
-
-2004, Samuel Lee Stevens, 19 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2769)</sup></sub>
+#### ***born on May 22***
 
 
-#### ***milleversary on May 21, 2023***
-1971, Ferdous Bhuiyan, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1624), [CueTracker](http://cuetracker.net/Players/ferdous-bhuyian/)</sup></sub>
-
-1993, Fang Xiongman, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1114), [CueTracker](http://cuetracker.net/Players/fang-xiongman/)</sup></sub>
+#### ***milleversary on May 22, 2023***
 
 
 
