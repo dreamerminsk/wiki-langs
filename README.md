@@ -22,12 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 26***
-2003, Josh Symes, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2814)</sup></sub>
+#### ***born on May 27***
+1967, Danny Connolly, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1985), [CueTracker](http://cuetracker.net/Players/danny-connolly/)</sup></sub>
 
 
-#### ***milleversary on May 26, 2023***
-1993, John Fearick, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2155)</sup></sub>
+#### ***milleversary on May 27, 2023***
+1996, Mostafa Dorgham, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1844), [CueTracker](http://cuetracker.net/Players/mostafa-dorgham/)</sup></sub>
 
 
 
