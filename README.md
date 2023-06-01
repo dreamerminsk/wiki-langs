@@ -22,12 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 31***
-2003, Lei Peifan, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2498), [CueTracker](http://cuetracker.net/Players/peifan-lei/)</sup></sub>
+#### ***born on June  1***
 
 
-#### ***milleversary on May 31, 2023***
-1990, Jordan Shepherd, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2801)</sup></sub>
+#### ***milleversary on June  1, 2023***
+1990, Labeeb Ahmed, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2069)</sup></sub>
 
 
 
