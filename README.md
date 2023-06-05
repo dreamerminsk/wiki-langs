@@ -22,20 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June  4***
-1971, Jamie Bodle, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1283), [CueTracker](http://cuetracker.net/Players/jamie-bodle/)</sup></sub>
-
-1977, Quinten Hann, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2745)</sup></sub>
-
-1985, Matthew Day, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=423), [CueTracker](http://cuetracker.net/Players/matthew-day/)</sup></sub>
-
-1986, Martin O'Donnell, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=120), [CueTracker](http://cuetracker.net/Players/martin-odonnell/)</sup></sub>
-
-1992, Jason Tart, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=540), [CueTracker](http://cuetracker.net/Players/jason-tart/)</sup></sub>
+#### ***born on June  5***
+1969, Alex Borg, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=515), [CueTracker](http://cuetracker.net/Players/alex-borg/)</sup></sub>
 
 
-#### ***milleversary on June  4, 2023***
-1998, Abdul Raheem, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2487)</sup></sub>
+#### ***milleversary on June  5, 2023***
+1974, Del Smith, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=447), [CueTracker](http://cuetracker.net/Players/del-smith/)</sup></sub>
 
 
 
