@@ -22,12 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June  5***
-1969, Alex Borg, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=515), [CueTracker](http://cuetracker.net/Players/alex-borg/)</sup></sub>
+#### ***born on June  6***
+1990, Liu Chuang, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=43), [CueTracker](http://cuetracker.net/Players/lyu-chuang/)</sup></sub>
 
 
-#### ***milleversary on June  5, 2023***
-1974, Del Smith, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=447), [CueTracker](http://cuetracker.net/Players/del-smith/)</sup></sub>
+#### ***milleversary on June  6, 2023***
 
 
 
