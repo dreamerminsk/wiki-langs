@@ -22,11 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June  6***
-1990, Liu Chuang, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=43), [CueTracker](http://cuetracker.net/Players/lyu-chuang/)</sup></sub>
+#### ***born on June  7***
+1963, Nigel Howes, 60 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2213)</sup></sub>
+
+1999, Jed Mann, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2348)</sup></sub>
 
 
-#### ***milleversary on June  6, 2023***
+#### ***milleversary on June  7, 2023***
+1998, Aran Hetherington, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2456)</sup></sub>
 
 
 
