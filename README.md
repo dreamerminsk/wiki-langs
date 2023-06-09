@@ -22,15 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June  8***
-1942, Doug Mountjoy, 81 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=806), [CueTracker](http://cuetracker.net/Players/doug-mountjoy/)</sup></sub>
-
-1969, Richard Somauroo, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=136), [CueTracker](http://cuetracker.net/Players/richard-somauroo/)</sup></sub>
-
-1976, Antony Rodriguez, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2709)</sup></sub>
+#### ***born on June  9***
+1978, Wayne Cooper, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=494), [CueTracker](http://cuetracker.net/Players/wayne-cooper/)</sup></sub>
 
 
-#### ***milleversary on June  8, 2023***
+#### ***milleversary on June  9, 2023***
+1987, Lee Page, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=197), [CueTracker](http://cuetracker.net/Players/lee-page/)</sup></sub>
 
 
 
