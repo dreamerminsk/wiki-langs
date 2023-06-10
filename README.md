@@ -22,12 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June  9***
-1978, Wayne Cooper, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=494), [CueTracker](http://cuetracker.net/Players/wayne-cooper/)</sup></sub>
+#### ***born on June 10***
 
 
-#### ***milleversary on June  9, 2023***
-1987, Lee Page, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=197), [CueTracker](http://cuetracker.net/Players/lee-page/)</sup></sub>
+#### ***milleversary on June 10, 2023***
+1971, Jamie Bodle, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1283), [CueTracker](http://cuetracker.net/Players/jamie-bodle/)</sup></sub>
 
 
 
