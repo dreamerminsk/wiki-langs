@@ -22,11 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 10***
+#### ***born on June 11***
 
 
-#### ***milleversary on June 10, 2023***
-1971, Jamie Bodle, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1283), [CueTracker](http://cuetracker.net/Players/jamie-bodle/)</sup></sub>
+#### ***milleversary on June 11, 2023***
+1993, Duane Jones, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=448), [CueTracker](http://cuetracker.net/Players/duane-jones/)</sup></sub>
 
 
 
