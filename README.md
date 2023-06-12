@@ -22,11 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 11***
+#### ***born on June 12***
+1981, David B Gilbert, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=118), [CueTracker](http://cuetracker.net/Players/david-gilbert/)</sup></sub>
 
 
-#### ***milleversary on June 11, 2023***
-1993, Duane Jones, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=448), [CueTracker](http://cuetracker.net/Players/duane-jones/)</sup></sub>
+#### ***milleversary on June 12, 2023***
+1990, Hu Hao, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1102), [CueTracker](http://cuetracker.net/Players/hu-hao/)</sup></sub>
 
 
 
