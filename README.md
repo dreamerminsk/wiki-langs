@@ -22,12 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 12***
-1981, David B Gilbert, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=118), [CueTracker](http://cuetracker.net/Players/david-gilbert/)</sup></sub>
+#### ***born on June 13***
+1955, Tony Knowles, 68 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=181), [CueTracker](http://cuetracker.net/Players/tony-knowles/)</sup></sub>
 
 
-#### ***milleversary on June 12, 2023***
-1990, Hu Hao, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1102), [CueTracker](http://cuetracker.net/Players/hu-hao/)</sup></sub>
+#### ***milleversary on June 13, 2023***
+1976, Gaurang Vyas, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2764)</sup></sub>
 
 
 
