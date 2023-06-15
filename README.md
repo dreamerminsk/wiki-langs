@@ -22,11 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 14***
-1983, Wendy Jans, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=236), [CueTracker](http://cuetracker.net/Players/wendy-jans/)</sup></sub>
+#### ***born on June 15***
+1971, Lee Richardson, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=600), [CueTracker](http://cuetracker.net/Players/lee-richardson/)</sup></sub>
+
+1996, Enes Bakirci, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2401)</sup></sub>
 
 
-#### ***milleversary on June 14, 2023***
+#### ***milleversary on June 15, 2023***
+1990, Scott Bell, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=663), [CueTracker](http://cuetracker.net/Players/scott-bell/)</sup></sub>
+
+1993, Constantin Mateescu, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2338)</sup></sub>
 
 
 
