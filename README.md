@@ -22,16 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 15***
-1971, Lee Richardson, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=600), [CueTracker](http://cuetracker.net/Players/lee-richardson/)</sup></sub>
+#### ***born on June 16***
+1979, Matthew Lee, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2779), [CueTracker](http://cuetracker.net/Players/matthew-lee/)</sup></sub>
 
-1996, Enes Bakirci, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2401)</sup></sub>
+1989, Ning Kang, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2357)</sup></sub>
+
+1995, Oliver Lines, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=592), [CueTracker](http://cuetracker.net/Players/oliver-lines/)</sup></sub>
 
 
-#### ***milleversary on June 15, 2023***
-1990, Scott Bell, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=663), [CueTracker](http://cuetracker.net/Players/scott-bell/)</sup></sub>
-
-1993, Constantin Mateescu, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2338)</sup></sub>
+#### ***milleversary on June 16, 2023***
+1990, Monica Manolache, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1959), [CueTracker](http://cuetracker.net/Players/monica-manolache/)</sup></sub>
 
 
 
