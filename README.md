@@ -22,18 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 17***
-1970, Jason Prince, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2871)</sup></sub>
-
-1987, Sergey Isaenko, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1558), [CueTracker](http://cuetracker.net/Players/sergey-isaenko/)</sup></sub>
-
-1988, Sam Baird, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=76), [CueTracker](http://cuetracker.net/Players/sam-baird/)</sup></sub>
+#### ***born on June 18***
 
 
-#### ***milleversary on June 17, 2023***
-1974, Kristjan Helgason, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1348), [CueTracker](http://cuetracker.net/Players/kristjan-helgason/)</sup></sub>
+#### ***milleversary on June 18, 2023***
+1985, Andy Marriott, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=913), [CueTracker](http://cuetracker.net/Players/andy-marriott/)</sup></sub>
 
-1982, Ben Hancorn, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2335), [CueTracker](http://cuetracker.net/Players/ben-hancorn/)</sup></sub>
+1993, Daniel Devlin, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2086), [CueTracker](http://cuetracker.net/Players/daniel-devlin/)</sup></sub>
 
 
 
