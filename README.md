@@ -22,13 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 18***
+#### ***born on June 19***
+1983, Mark Selby, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=17), [CueTracker](http://cuetracker.net/Players/mark-selby/)</sup></sub>
 
 
-#### ***milleversary on June 18, 2023***
-1985, Andy Marriott, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=913), [CueTracker](http://cuetracker.net/Players/andy-marriott/)</sup></sub>
-
-1993, Daniel Devlin, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2086), [CueTracker](http://cuetracker.net/Players/daniel-devlin/)</sup></sub>
+#### ***milleversary on June 19, 2023***
 
 
 
