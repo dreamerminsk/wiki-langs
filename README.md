@@ -22,13 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 22***
-1970, Paul Davies, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=173), [CueTracker](http://cuetracker.net/Players/paul-davies/)</sup></sub>
+#### ***born on June 23***
+1982, Ian Preece, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=475), [CueTracker](http://cuetracker.net/Players/ian-preece/)</sup></sub>
 
-1978, James McBain, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=78), [CueTracker](http://cuetracker.net/Players/james-mcbain/)</sup></sub>
+1984, Marvin Morgan, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2458)</sup></sub>
+
+1990, Greg Casey, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=784), [CueTracker](http://cuetracker.net/Players/greg-casey/)</sup></sub>
 
 
-#### ***milleversary on June 22, 2023***
+#### ***milleversary on June 23, 2023***
+1955, Ng Yam Shui, 25000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1478), [CueTracker](http://cuetracker.net/Players/ng-yam-shui/)</sup></sub>
 
 
 
