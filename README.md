@@ -22,12 +22,18 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 26***
-1994, Niu Zhuang, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1101), [CueTracker](http://cuetracker.net/Players/niu-zhuang/)</sup></sub>
+#### ***born on June 27***
+1967, Paul Burrell, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2001), [CueTracker](http://cuetracker.net/Players/paul-burrell/)</sup></sub>
+
+1980, Andrew Norman, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=60), [CueTracker](http://cuetracker.net/Players/andrew-norman/)</sup></sub>
+
+1992, Nigel Clarke, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2902)</sup></sub>
+
+2005, Aidan Murphy, 18 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2755), [CueTracker](http://cuetracker.net/Players/aidan-murphy-ii/)</sup></sub>
 
 
-#### ***milleversary on June 26, 2023***
-1990, Shi Hanqing, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=508), [CueTracker](http://cuetracker.net/Players/shi-hanqing/)</sup></sub>
+#### ***milleversary on June 27, 2023***
+2004, Johnnie Bates, 7000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2776), [CueTracker](http://cuetracker.net/Players/johnnie-bates/)</sup></sub>
 
 
 
