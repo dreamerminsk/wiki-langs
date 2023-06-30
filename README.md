@@ -22,16 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 29***
-1971, Anthony Hamilton, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=115), [CueTracker](http://cuetracker.net/Players/anthony-hamilton/)</sup></sub>
-
-2002, Luis Vetter, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2253)</sup></sub>
-
-2004, Jordan Rimmer, 19 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=148), [CueTracker](http://cuetracker.net/Players/jordan-rimmer/)</sup></sub>
+#### ***born on June 30***
+1974, Matthew Couch, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=29), [CueTracker](http://cuetracker.net/Players/matthew-couch/)</sup></sub>
 
 
-#### ***milleversary on June 29, 2023***
-1993, Andreas Ploner, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=633), [CueTracker](http://cuetracker.net/Players/andreas-ploner/)</sup></sub>
+#### ***milleversary on June 30, 2023***
+1976, Alfie Burden, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=21), [CueTracker](http://cuetracker.net/Players/alfie-burden/)</sup></sub>
 
 
 
