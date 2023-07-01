@@ -22,12 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 30***
-1974, Matthew Couch, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=29), [CueTracker](http://cuetracker.net/Players/matthew-couch/)</sup></sub>
+#### ***born on July  1***
+1990, Craig Farrar, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2506)</sup></sub>
 
 
-#### ***milleversary on June 30, 2023***
-1976, Alfie Burden, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=21), [CueTracker](http://cuetracker.net/Players/alfie-burden/)</sup></sub>
+#### ***milleversary on July  1, 2023***
 
 
 
