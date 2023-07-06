@@ -22,22 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July  5***
-1976, Leo Fernandez, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=422), [CueTracker](http://cuetracker.net/Players/leo-fernandez/)</sup></sub>
+#### ***born on July  6***
+1959, Mike Hallett, 64 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=205), [CueTracker](http://cuetracker.net/Players/mike-hallett/)</sup></sub>
 
-1991, Michael White, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=171), [CueTracker](http://cuetracker.net/Players/michael-white/)</sup></sub>
+1993, Hammad Miah, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=593), [CueTracker](http://cuetracker.net/Players/hammad-miah/)</sup></sub>
 
-2001, Ross Bulman, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2352)</sup></sub>
+1996, Thomas Hilborne, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1491), [CueTracker](http://cuetracker.net/Players/thomas-hilborne/)</sup></sub>
 
 
-#### ***milleversary on July  5, 2023***
-1971, Anthony Hamilton, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=115), [CueTracker](http://cuetracker.net/Players/anthony-hamilton/)</sup></sub>
-
-1985, Matthew Selt, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=47), [CueTracker](http://cuetracker.net/Players/matthew-selt/)</sup></sub>
-
-1990, Ryan Causton, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=235), [CueTracker](http://cuetracker.net/Players/ryan-causton/)</sup></sub>
-
-1996, Ronnie Blake, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2192), [CueTracker](http://cuetracker.net/Players/ronnie-blake/)</sup></sub>
+#### ***milleversary on July  6, 2023***
 
 
 
