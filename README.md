@@ -22,11 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July  9***
+#### ***born on July 10***
+2003, Bai Yulu, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2616)</sup></sub>
 
 
-#### ***milleversary on July  9, 2023***
-1985, Ian Burns, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=87), [CueTracker](http://cuetracker.net/Players/ian-burns/)</sup></sub>
+#### ***milleversary on July 10, 2023***
 
 
 
