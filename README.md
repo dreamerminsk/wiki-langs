@@ -22,15 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 11***
-1978, Dechawat Poomjaeng, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=582), [CueTracker](http://cuetracker.net/Players/dechawat-poomjaeng/)</sup></sub>
-
-2002, Si Jiahui, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1982), [CueTracker](http://cuetracker.net/Players/si-jiahui/)</sup></sub>
-
-2005, Liam Pullen, 18 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2778), [CueTracker](http://cuetracker.net/Players/liam-pullen/)</sup></sub>
+#### ***born on July 12***
+1971, Rod Lawler, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=177), [CueTracker](http://cuetracker.net/Players/rod-lawler/)</sup></sub>
 
 
-#### ***milleversary on July 11, 2023***
+#### ***milleversary on July 12, 2023***
 
 
 
