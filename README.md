@@ -22,11 +22,25 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 12***
-1971, Rod Lawler, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=177), [CueTracker](http://cuetracker.net/Players/rod-lawler/)</sup></sub>
+#### ***born on July 13***
+1963, Neal Foulds, 60 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=668), [CueTracker](http://cuetracker.net/Players/neal-foulds/)</sup></sub>
+
+1970, Barry Pinches, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=6), [CueTracker](http://cuetracker.net/Players/barry-pinches/)</sup></sub>
+
+1976, Emma Bonney, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2129), [CueTracker](http://cuetracker.net/Players/emma-bonney/)</sup></sub>
+
+1977, Stephen Ormerod, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=110), [CueTracker](http://cuetracker.net/Players/stephen-ormerod/)</sup></sub>
+
+1984, Yasir Nadeem, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1731), [CueTracker](http://cuetracker.net/Players/yasir-nadeem/)</sup></sub>
+
+1993, Adam Edge, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1041), [CueTracker](http://cuetracker.net/Players/adam-edge/)</sup></sub>
+
+1996, Sam Gates, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2484)</sup></sub>
+
+2003, Alfie Lee, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2782)</sup></sub>
 
 
-#### ***milleversary on July 12, 2023***
+#### ***milleversary on July 13, 2023***
 
 
 
