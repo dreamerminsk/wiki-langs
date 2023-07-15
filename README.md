@@ -22,22 +22,17 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 14***
-1982, Craig Steadman, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=131), [CueTracker](http://cuetracker.net/Players/craig-steadman/)</sup></sub>
+#### ***born on July 15***
+1979, Gareth Edwards, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=553), [CueTracker](http://cuetracker.net/Players/gareth-edwards/)</sup></sub>
 
-1983, David Nelson, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2336)</sup></sub>
+1992, Noppon Saengkham, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=208), [CueTracker](http://cuetracker.net/Players/noppon-saengkham/)</sup></sub>
 
-1989, Peter Geronimo, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2734)</sup></sub>
+1996, Ben Fortey, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=990), [CueTracker](http://cuetracker.net/Players/ben-fortey/)</sup></sub>
 
-1991, Anthony Jeffers, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1559), [CueTracker](http://cuetracker.net/Players/anthony-jeffers/)</sup></sub>
-
-1992, Billy Joe Castle, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=616), [CueTracker](http://cuetracker.net/Players/billy-joe-castle/)</sup></sub>
+1997, Rodion Judin, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1544), [CueTracker](http://cuetracker.net/Players/rodion-judin/)</sup></sub>
 
 
-#### ***milleversary on July 14, 2023***
-1960, Alain Robidoux, 23000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=669), [CueTracker](http://cuetracker.net/Players/alain-robidoux/)</sup></sub>
-
-1996, Matthew Glasby, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1301), [CueTracker](http://cuetracker.net/Players/matthew-glasby/)</sup></sub>
+#### ***milleversary on July 15, 2023***
 
 
 
