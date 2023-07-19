@@ -22,12 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 18***
-1985, Thepchaiya Un-Nooh, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=217)</sup></sub>
+#### ***born on July 19***
+1985, Qiu Yalong, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=953), [CueTracker](http://cuetracker.net/Players/qiu-yalong/)</sup></sub>
 
 
-#### ***milleversary on July 18, 2023***
-1971, Rod Lawler, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=177), [CueTracker](http://cuetracker.net/Players/rod-lawler/)</sup></sub>
+#### ***milleversary on July 19, 2023***
 
 
 
