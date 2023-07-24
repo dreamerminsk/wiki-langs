@@ -22,10 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 23***
+#### ***born on July 24***
+1968, Simon Dent, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1565), [CueTracker](http://cuetracker.net/Players/simon-dent/)</sup></sub>
+
+1985, Pankaj Advani, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=585), [CueTracker](http://cuetracker.net/Players/pankaj-advani/)</sup></sub>
+
+1990, Jordan Shepherd, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2801)</sup></sub>
 
 
-#### ***milleversary on July 23, 2023***
+#### ***milleversary on July 24, 2023***
 
 
 
