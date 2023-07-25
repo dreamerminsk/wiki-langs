@@ -22,15 +22,17 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 24***
-1968, Simon Dent, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1565), [CueTracker](http://cuetracker.net/Players/simon-dent/)</sup></sub>
+#### ***born on July 25***
+1960, Alain Robidoux, 63 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=669), [CueTracker](http://cuetracker.net/Players/alain-robidoux/)</sup></sub>
 
-1985, Pankaj Advani, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=585), [CueTracker](http://cuetracker.net/Players/pankaj-advani/)</sup></sub>
+1972, Mehmet Husnu, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1192), [CueTracker](http://cuetracker.net/Players/mehmet-husnu/)</sup></sub>
 
-1990, Jordan Shepherd, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2801)</sup></sub>
+1979, Allister Carter, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=158), [CueTracker](http://cuetracker.net/Players/ali-carter/)</sup></sub>
+
+1990, Labeeb Ahmed, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2069)</sup></sub>
 
 
-#### ***milleversary on July 24, 2023***
+#### ***milleversary on July 25, 2023***
 
 
 
