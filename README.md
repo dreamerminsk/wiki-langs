@@ -22,11 +22,18 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 26***
+#### ***born on July 27***
+1980, Mark Bell, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2785), [CueTracker](http://cuetracker.net/Players/mark-bell/)</sup></sub>
+
+1987, Alex Davies, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=144), [CueTracker](http://cuetracker.net/Players/alex-davies/)</sup></sub>
+
+1991, Ma Tingpeng, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=952), [CueTracker](http://cuetracker.net/Players/ma-tingpeng/)</sup></sub>
 
 
-#### ***milleversary on July 26, 2023***
-1998, Chris Totten, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1186), [CueTracker](http://cuetracker.net/Players/chris-totten/)</sup></sub>
+#### ***milleversary on July 27, 2023***
+1968, Tony Corrigan, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1661), [CueTracker](http://cuetracker.net/Players/tony-corrigan/)</sup></sub>
+
+1996, Leong Man Hoi, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1095), [CueTracker](http://cuetracker.net/Players/man-hoi-leong/)</sup></sub>
 
 
 
