@@ -22,18 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 27***
-1980, Mark Bell, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2785), [CueTracker](http://cuetracker.net/Players/mark-bell/)</sup></sub>
+#### ***born on July 28***
+1971, Ian McCulloch, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=103), [CueTracker](http://cuetracker.net/Players/ian-mcculloch/)</sup></sub>
 
-1987, Alex Davies, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=144), [CueTracker](http://cuetracker.net/Players/alex-davies/)</sup></sub>
-
-1991, Ma Tingpeng, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=952), [CueTracker](http://cuetracker.net/Players/ma-tingpeng/)</sup></sub>
+1985, Itaro Santos, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=583), [CueTracker](http://cuetracker.net/Players/itaro-santos/)</sup></sub>
 
 
-#### ***milleversary on July 27, 2023***
-1968, Tony Corrigan, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1661), [CueTracker](http://cuetracker.net/Players/tony-corrigan/)</sup></sub>
+#### ***milleversary on July 28, 2023***
+1971, Peter Delaney, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1648), [CueTracker](http://cuetracker.net/Players/peter-delaney/)</sup></sub>
 
-1996, Leong Man Hoi, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1095), [CueTracker](http://cuetracker.net/Players/man-hoi-leong/)</sup></sub>
+1974, Simon Bevz, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=529), [CueTracker](http://cuetracker.net/Players/simon-bevz/)</sup></sub>
 
 
 
