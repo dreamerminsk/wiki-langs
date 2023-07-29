@@ -22,16 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 28***
-1971, Ian McCulloch, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=103), [CueTracker](http://cuetracker.net/Players/ian-mcculloch/)</sup></sub>
+#### ***born on July 29***
+1952, Joe Johnson, 71 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=469), [CueTracker](http://cuetracker.net/Players/joe-johnson/)</sup></sub>
 
-1985, Itaro Santos, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=583), [CueTracker](http://cuetracker.net/Players/itaro-santos/)</sup></sub>
+1993, Jak Jones, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=90), [CueTracker](http://cuetracker.net/Players/jak-jones/)</sup></sub>
+
+1997, Yana Shut, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1816), [CueTracker](http://cuetracker.net/Players/yana-shut/)</sup></sub>
 
 
-#### ***milleversary on July 28, 2023***
-1971, Peter Delaney, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1648), [CueTracker](http://cuetracker.net/Players/peter-delaney/)</sup></sub>
-
-1974, Simon Bevz, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=529), [CueTracker](http://cuetracker.net/Players/simon-bevz/)</sup></sub>
+#### ***milleversary on July 29, 2023***
 
 
 
