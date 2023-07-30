@@ -22,15 +22,17 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 29***
-1952, Joe Johnson, 71 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=469), [CueTracker](http://cuetracker.net/Players/joe-johnson/)</sup></sub>
+#### ***born on July 30***
+1975, Steve Crowley, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2684)</sup></sub>
 
-1993, Jak Jones, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=90), [CueTracker](http://cuetracker.net/Players/jak-jones/)</sup></sub>
+1980, Liu Jing, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2988)</sup></sub>
 
-1997, Yana Shut, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1816), [CueTracker](http://cuetracker.net/Players/yana-shut/)</sup></sub>
+1991, Jack Bradford, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=613), [CueTracker](http://cuetracker.net/Players/jack-bradford/)</sup></sub>
+
+1996, Haydon Pinhey, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2061), [CueTracker](http://cuetracker.net/Players/haydon-pinhey/)</sup></sub>
 
 
-#### ***milleversary on July 29, 2023***
+#### ***milleversary on July 30, 2023***
 
 
 
