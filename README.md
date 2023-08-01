@@ -22,13 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 31***
-1971, Sean Coote, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2891)</sup></sub>
+#### ***born on August  1***
+1978, James Burrett, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=531), [CueTracker](http://cuetracker.net/Players/james-burrett/)</sup></sub>
 
-1988, Daniel Wells, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=32), [CueTracker](http://cuetracker.net/Players/daniel-wells/)</sup></sub>
+1992, Christopher Keogan, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=416), [CueTracker](http://cuetracker.net/Players/christopher-keogan/)</sup></sub>
 
 
-#### ***milleversary on July 31, 2023***
+#### ***milleversary on August  1, 2023***
+1974, Abid Manzoor, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2391)</sup></sub>
 
 
 
