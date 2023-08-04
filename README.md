@@ -22,11 +22,17 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August  3***
+#### ***born on August  4***
+1971, Jimmy Michie, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=36), [CueTracker](http://cuetracker.net/Players/jimmy-michie/)</sup></sub>
+
+1972, Joe Delaney, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=194), [CueTracker](http://cuetracker.net/Players/joe-delaney/)</sup></sub>
+
+1975, Joe Meara, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=591), [CueTracker](http://cuetracker.net/Players/joe-meara/)</sup></sub>
+
+1994, Elliot Slessor, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=608), [CueTracker](http://cuetracker.net/Players/elliot-slessor/)</sup></sub>
 
 
-#### ***milleversary on August  3, 2023***
-1971, Ian McCulloch, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=103), [CueTracker](http://cuetracker.net/Players/ian-mcculloch/)</sup></sub>
+#### ***milleversary on August  4, 2023***
 
 
 
