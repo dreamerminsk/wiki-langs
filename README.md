@@ -22,16 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August  5***
-1970, Leonard Degriffa, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2491)</sup></sub>
+#### ***born on August  6***
+1967, Paul Cavney, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=484), [CueTracker](http://cuetracker.net/Players/paul-cavney/)</sup></sub>
 
-1990, Hu Hao, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1102), [CueTracker](http://cuetracker.net/Players/hu-hao/)</sup></sub>
-
-1997, Wang Yuchen, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=954), [CueTracker](http://cuetracker.net/Players/wang-yuchen/)</sup></sub>
+1982, Gregory Herbrecht, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2269), [CueTracker](http://cuetracker.net/Players/gregory-herbrecht/)</sup></sub>
 
 
-#### ***milleversary on August  5, 2023***
-1949, Dessie Sheehan, 27000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=594), [CueTracker](http://cuetracker.net/Players/dessie-sheehan/)</sup></sub>
+#### ***milleversary on August  6, 2023***
+1971, Sean Coote, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2891)</sup></sub>
 
 
 
