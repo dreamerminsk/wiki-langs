@@ -22,11 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 12***
-1972, Mark Davis, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=15), [CueTracker](http://cuetracker.net/Players/mark-davis/)</sup></sub>
+#### ***born on August 13***
+1974, Joe Perry, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=168), [CueTracker](http://cuetracker.net/Players/joe-perry/)</sup></sub>
+
+1992, Jake Nicholson, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=138), [CueTracker](http://cuetracker.net/Players/jake-nicholson/)</sup></sub>
+
+1995, Owais Ali, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1724), [CueTracker](http://cuetracker.net/Players/owais-ali/)</sup></sub>
 
 
-#### ***milleversary on August 12, 2023***
+#### ***milleversary on August 13, 2023***
 
 
 
