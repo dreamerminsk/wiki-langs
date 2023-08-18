@@ -22,18 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 17***
-1958, Kirk Stevens, 65 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2870)</sup></sub>
-
-1982, Basem Eltahhan, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2101), [CueTracker](http://cuetracker.net/Players/basem-eltahhan/)</sup></sub>
-
-1983, Tom Ford, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=8), [CueTracker](http://cuetracker.net/Players/tom-ford/)</sup></sub>
-
-1994, Rhys Clark, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=917), [CueTracker](http://cuetracker.net/Players/rhys-clark/)</sup></sub>
+#### ***born on August 18***
+1994, Oliver Brown, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=146), [CueTracker](http://cuetracker.net/Players/oliver-brown/)</sup></sub>
 
 
-#### ***milleversary on August 17, 2023***
-1993, Hammad Miah, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=593), [CueTracker](http://cuetracker.net/Players/hammad-miah/)</sup></sub>
+#### ***milleversary on August 18, 2023***
 
 
 
