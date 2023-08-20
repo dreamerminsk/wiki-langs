@@ -22,15 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 19***
-1970, Darren Barton, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1726), [CueTracker](http://cuetracker.net/Players/darren-barton/)</sup></sub>
+#### ***born on August 20***
+1986, Jaspal Bamotra, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1425), [CueTracker](http://cuetracker.net/Players/jaspal-bamotra/)</sup></sub>
 
-1986, Jamie O'Neill, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=79), [CueTracker](http://cuetracker.net/Players/jamie-oneill/)</sup></sub>
-
-1990, Shi Hanqing, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=508), [CueTracker](http://cuetracker.net/Players/shi-hanqing/)</sup></sub>
+1989, Judd Trump, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=12), [CueTracker](http://cuetracker.net/Players/judd-trump/)</sup></sub>
 
 
-#### ***milleversary on August 19, 2023***
+#### ***milleversary on August 20, 2023***
 
 
 
