@@ -22,16 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 21***
-1967, Sean Lanigan, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1353), [CueTracker](http://cuetracker.net/Players/sean-lanigan/)</sup></sub>
+#### ***born on August 22***
+1957, Steve Davis, 66 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=212), [CueTracker](http://cuetracker.net/Players/steve-davis/)</sup></sub>
 
-1986, Hatem Yassin, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1764), [CueTracker](http://cuetracker.net/Players/yassem-hatem/)</sup></sub>
+1977, Fung Kwok Wai, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=581), [CueTracker](http://cuetracker.net/Players/fung-kwok-wai/)</sup></sub>
 
 
-#### ***milleversary on August 21, 2023***
-1988, Michael Georgiou, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=497), [CueTracker](http://cuetracker.net/Players/michael-georgiou/)</sup></sub>
-
-1998, Callum Costello, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2195)</sup></sub>
+#### ***milleversary on August 22, 2023***
 
 
 
