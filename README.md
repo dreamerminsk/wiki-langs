@@ -22,13 +22,19 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 22***
-1957, Steve Davis, 66 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=212), [CueTracker](http://cuetracker.net/Players/steve-davis/)</sup></sub>
+#### ***born on August 23***
+1963, Gary Filtness, 60 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1357), [CueTracker](http://cuetracker.net/Players/gary-filtness/)</sup></sub>
 
-1977, Fung Kwok Wai, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=581), [CueTracker](http://cuetracker.net/Players/fung-kwok-wai/)</sup></sub>
+1973, Tugba Irten, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1727), [CueTracker](http://cuetracker.net/Players/tugba-irten/)</sup></sub>
+
+1985, Adam Wicheard, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=86), [CueTracker](http://cuetracker.net/Players/adam-wicheard/)</sup></sub>
+
+1998, Richard Wienold, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1903), [CueTracker](http://cuetracker.net/Players/richard-wienold/)</sup></sub>
+
+2002, Kreishh Gurbaxani, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2497)</sup></sub>
 
 
-#### ***milleversary on August 22, 2023***
+#### ***milleversary on August 23, 2023***
 
 
 
