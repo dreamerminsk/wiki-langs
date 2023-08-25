@@ -22,14 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 24***
-1972, Adrian Gunnell, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=55), [CueTracker](http://cuetracker.net/Players/adrian-gunnell/)</sup></sub>
+#### ***born on August 25***
+1972, Steve Mifsud, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=580), [CueTracker](http://cuetracker.net/Players/steve-mifsud/)</sup></sub>
+
+1998, Zhang Jiankang, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2134), [CueTracker](http://cuetracker.net/Players/zhang-jiankang/)</sup></sub>
 
 
-#### ***milleversary on August 24, 2023***
-1993, Adam Edge, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1041), [CueTracker](http://cuetracker.net/Players/adam-edge/)</sup></sub>
-
-1999, Claire Edginton, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2138)</sup></sub>
+#### ***milleversary on August 25, 2023***
 
 
 
