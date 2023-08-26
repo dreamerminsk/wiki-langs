@@ -22,13 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 25***
-1972, Steve Mifsud, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=580), [CueTracker](http://cuetracker.net/Players/steve-mifsud/)</sup></sub>
-
-1998, Zhang Jiankang, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2134), [CueTracker](http://cuetracker.net/Players/zhang-jiankang/)</sup></sub>
+#### ***born on August 26***
+2002, Umar Khan, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2899)</sup></sub>
 
 
-#### ***milleversary on August 25, 2023***
+#### ***milleversary on August 26, 2023***
+1974, Bradley Jones, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1167), [CueTracker](http://cuetracker.net/Players/bradley-jones/)</sup></sub>
 
 
 
