@@ -22,12 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 26***
-2002, Umar Khan, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2899)</sup></sub>
+#### ***born on August 27***
+1970, Peter Ebdon, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=42), [CueTracker](http://cuetracker.net/Players/peter-ebdon/)</sup></sub>
+
+1992, Michael Williams, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1322), [CueTracker](http://cuetracker.net/Players/michael-williams/)</sup></sub>
+
+2003, Zhao Jianbo, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2557), [CueTracker](http://cuetracker.net/Players/jianbo-zhao/)</sup></sub>
 
 
-#### ***milleversary on August 26, 2023***
-1974, Bradley Jones, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1167), [CueTracker](http://cuetracker.net/Players/bradley-jones/)</sup></sub>
+#### ***milleversary on August 27, 2023***
 
 
 
