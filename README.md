@@ -22,12 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 28***
-1990, Ryan Causton, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=235), [CueTracker](http://cuetracker.net/Players/ryan-causton/)</sup></sub>
+#### ***born on August 29***
+1969, Joe Swail, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=35), [CueTracker](http://cuetracker.net/Players/joe-swail/)</sup></sub>
 
 
-#### ***milleversary on August 28, 2023***
-2004, Jordan Rimmer, 7000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=148), [CueTracker](http://cuetracker.net/Players/jordan-rimmer/)</sup></sub>
+#### ***milleversary on August 29, 2023***
 
 
 
