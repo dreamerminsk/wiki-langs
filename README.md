@@ -22,16 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 30***
-1989, Bratislav Krustev, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1126), [CueTracker](http://cuetracker.net/Players/bratislav-krustev/)</sup></sub>
+#### ***born on August 31***
 
 
-#### ***milleversary on August 30, 2023***
-1963, Nigel Howes, 22000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2213)</sup></sub>
-
-1982, Gregory Herbrecht, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2269), [CueTracker](http://cuetracker.net/Players/gregory-herbrecht/)</sup></sub>
-
-1999, Daniel Holoyda, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1687), [CueTracker](http://cuetracker.net/Players/daniel-holoyda/)</sup></sub>
+#### ***milleversary on August 31, 2023***
 
 
 
