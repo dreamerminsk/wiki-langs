@@ -22,16 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September  2***
-1982, Irina Gorbataya, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2114), [CueTracker](http://cuetracker.net/Players/irina-gorbataya/)</sup></sub>
+#### ***born on September  3***
+1949, Dessie Sheehan, 74 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=594), [CueTracker](http://cuetracker.net/Players/dessie-sheehan/)</sup></sub>
 
 
-#### ***milleversary on September  2, 2023***
-1985, David Grace, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=67), [CueTracker](http://cuetracker.net/Players/david-grace/)</sup></sub>
+#### ***milleversary on September  3, 2023***
+1982, Shaun Murphy, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=97), [CueTracker](http://cuetracker.net/Players/shaun-murphy/)</sup></sub>
 
-1990, Ben Jones, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=920), [CueTracker](http://cuetracker.net/Players/ben-jones/)</sup></sub>
-
-1996, Andrew Doherty, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1911), [CueTracker](http://cuetracker.net/Players/andrew-doherty/)</sup></sub>
+1990, Cao Yupeng, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=507), [CueTracker](http://cuetracker.net/Players/cao-yupeng/)</sup></sub>
 
 
 
