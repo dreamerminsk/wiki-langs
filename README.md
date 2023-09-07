@@ -22,15 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September  6***
-1978, Hani Owaidhi, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2455)</sup></sub>
-
-1991, Himanshu Dinesh Jain, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2341)</sup></sub>
-
-1999, Daniel Williams, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2243)</sup></sub>
+#### ***born on September  7***
+1977, Gary Thomson, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=225), [CueTracker](http://cuetracker.net/Players/gary-thomson/)</sup></sub>
 
 
-#### ***milleversary on September  6, 2023***
+#### ***milleversary on September  7, 2023***
 
 
 
