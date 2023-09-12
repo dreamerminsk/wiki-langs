@@ -22,16 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September 11***
-1970, Hans Blanckaert, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=191), [CueTracker](http://cuetracker.net/Players/hans-blanckaert/)</sup></sub>
+#### ***born on September 12***
+1985, Jamie Cope, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3), [CueTracker](http://cuetracker.net/Players/jamie-cope/)</sup></sub>
 
-1977, Matthew Stevens, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=9), [CueTracker](http://cuetracker.net/Players/matthew-stevens/)</sup></sub>
-
-1982, Adrian Ridley, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=911), [CueTracker](http://cuetracker.net/Players/adrian-ridley/)</sup></sub>
+2004, Liam Graham, 19 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2439), [CueTracker](http://cuetracker.net/Players/liam-graham/)</sup></sub>
 
 
-#### ***milleversary on September 11, 2023***
-1996, Alexander Ursenbacher, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=239), [CueTracker](http://cuetracker.net/Players/alexander-ursenbacher/)</sup></sub>
+#### ***milleversary on September 12, 2023***
+1999, Brian Ochoiski, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2274)</sup></sub>
 
 
 
