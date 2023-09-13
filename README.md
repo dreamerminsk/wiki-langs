@@ -22,14 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September 12***
-1985, Jamie Cope, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3), [CueTracker](http://cuetracker.net/Players/jamie-cope/)</sup></sub>
-
-2004, Liam Graham, 19 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2439), [CueTracker](http://cuetracker.net/Players/liam-graham/)</sup></sub>
+#### ***born on September 13***
+1993, Jake Keen, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1489), [CueTracker](http://cuetracker.net/Players/jake-keen/)</sup></sub>
 
 
-#### ***milleversary on September 12, 2023***
-1999, Brian Ochoiski, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2274)</sup></sub>
+#### ***milleversary on September 13, 2023***
+1977, Fenghui Wei, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2365)</sup></sub>
 
 
 
