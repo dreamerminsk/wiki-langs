@@ -22,12 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September 13***
-1993, Jake Keen, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1489), [CueTracker](http://cuetracker.net/Players/jake-keen/)</sup></sub>
+#### ***born on September 14***
+1981, Martin Gould, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=27), [CueTracker](http://cuetracker.net/Players/martin-gould/)</sup></sub>
+
+1982, Daniel Walker, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2358)</sup></sub>
+
+2006, Stan Moody, 17 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2758), [CueTracker](http://cuetracker.net/Players/stanley-moody/)</sup></sub>
 
 
-#### ***milleversary on September 13, 2023***
-1977, Fenghui Wei, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2365)</sup></sub>
+#### ***milleversary on September 14, 2023***
 
 
 
