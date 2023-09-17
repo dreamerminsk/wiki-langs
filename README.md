@@ -22,11 +22,18 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September 16***
-1975, Jamie Burnett, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=53), [CueTracker](http://cuetracker.net/Players/jamie-burnett/)</sup></sub>
+#### ***born on September 17***
+1964, Ian Brumby, 59 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=794), [CueTracker](http://cuetracker.net/Players/ian-brumby/)</sup></sub>
+
+1969, Ken Doherty, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=170), [CueTracker](http://cuetracker.net/Players/ken-doherty/)</sup></sub>
+
+1992, Li Yan, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=296), [CueTracker](http://cuetracker.net/Players/li-yan/)</sup></sub>
+
+1995, Chen Zifan, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=933), [CueTracker](http://cuetracker.net/Players/chen-zifan/)</sup></sub>
 
 
-#### ***milleversary on September 16, 2023***
+#### ***milleversary on September 17, 2023***
+1988, Jamie Jones, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=10), [CueTracker](http://cuetracker.net/Players/jamie-jones/)</sup></sub>
 
 
 
