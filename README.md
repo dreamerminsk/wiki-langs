@@ -22,18 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September 17***
-1964, Ian Brumby, 59 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=794), [CueTracker](http://cuetracker.net/Players/ian-brumby/)</sup></sub>
+#### ***born on September 18***
+1973, Nick Spelman, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2331), [CueTracker](http://cuetracker.net/Players/nick-spelman/)</sup></sub>
 
-1969, Ken Doherty, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=170), [CueTracker](http://cuetracker.net/Players/ken-doherty/)</sup></sub>
-
-1992, Li Yan, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=296), [CueTracker](http://cuetracker.net/Players/li-yan/)</sup></sub>
-
-1995, Chen Zifan, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=933), [CueTracker](http://cuetracker.net/Players/chen-zifan/)</sup></sub>
+1983, Ben Judge, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=537), [CueTracker](http://cuetracker.net/Players/ben-judge/)</sup></sub>
 
 
-#### ***milleversary on September 17, 2023***
-1988, Jamie Jones, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=10), [CueTracker](http://cuetracker.net/Players/jamie-jones/)</sup></sub>
+#### ***milleversary on September 18, 2023***
 
 
 
