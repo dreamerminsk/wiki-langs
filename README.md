@@ -22,15 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September 23***
-1977, Nezar Asseri, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2468)</sup></sub>
-
-1985, David Donovan, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2780)</sup></sub>
-
-1998, Vladyslav Vyshnevskyy, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=673), [CueTracker](http://cuetracker.net/Players/vladyslav-vyshnevskyy/)</sup></sub>
+#### ***born on September 24***
+1999, Noel Landers, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2504)</sup></sub>
 
 
-#### ***milleversary on September 23, 2023***
+#### ***milleversary on September 24, 2023***
+1990, Ng On Yee, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1485), [CueTracker](http://cuetracker.net/Players/ng-on-yee/)</sup></sub>
+
+1996, Hrithik Jain, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1851), [CueTracker](http://cuetracker.net/Players/hrithik-jain/)</sup></sub>
 
 
 
