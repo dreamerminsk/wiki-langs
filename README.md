@@ -22,14 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September 24***
-1999, Noel Landers, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2504)</sup></sub>
+#### ***born on September 25***
+1980, Kuldesh Johal, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=102), [CueTracker](http://cuetracker.net/Players/kuldesh-johal/)</sup></sub>
+
+1985, Lau Ka Lam, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1148), [CueTracker](http://cuetracker.net/Players/lau-ka-lam/)</sup></sub>
+
+1992, Phil O'Kane, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=550), [CueTracker](http://cuetracker.net/Players/phil-okane/)</sup></sub>
 
 
-#### ***milleversary on September 24, 2023***
-1990, Ng On Yee, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1485), [CueTracker](http://cuetracker.net/Players/ng-on-yee/)</sup></sub>
-
-1996, Hrithik Jain, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1851), [CueTracker](http://cuetracker.net/Players/hrithik-jain/)</sup></sub>
+#### ***milleversary on September 25, 2023***
 
 
 
