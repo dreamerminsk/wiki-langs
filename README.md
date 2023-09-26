@@ -22,15 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September 25***
-1980, Kuldesh Johal, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=102), [CueTracker](http://cuetracker.net/Players/kuldesh-johal/)</sup></sub>
-
-1985, Lau Ka Lam, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1148), [CueTracker](http://cuetracker.net/Players/lau-ka-lam/)</sup></sub>
-
-1992, Phil O'Kane, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=550), [CueTracker](http://cuetracker.net/Players/phil-okane/)</sup></sub>
+#### ***born on September 26***
+1973, Chris Small, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2880)</sup></sub>
 
 
-#### ***milleversary on September 25, 2023***
+#### ***milleversary on September 26, 2023***
+1979, Luke Simmonds, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=519), [CueTracker](http://cuetracker.net/Players/luke-simmonds/)</sup></sub>
+
+1982, Irina Gorbataya, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2114), [CueTracker](http://cuetracker.net/Players/irina-gorbataya/)</sup></sub>
 
 
 
