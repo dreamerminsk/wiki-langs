@@ -22,13 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October  1***
-1971, Paul S Davison, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=23), [CueTracker](http://cuetracker.net/Players/paul-davison/)</sup></sub>
-
-1994, Ryan Thomerson, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=741), [CueTracker](http://cuetracker.net/Players/ryan-thomerson/)</sup></sub>
+#### ***born on October  2***
+1964, Gary Miller, 59 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=803), [CueTracker](http://cuetracker.net/Players/gary-miller/)</sup></sub>
 
 
-#### ***milleversary on October  1, 2023***
+#### ***milleversary on October  2, 2023***
+1985, Matthew Day, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=423), [CueTracker](http://cuetracker.net/Players/matthew-day/)</sup></sub>
 
 
 
