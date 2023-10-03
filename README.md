@@ -22,12 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October  2***
-1964, Gary Miller, 59 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=803), [CueTracker](http://cuetracker.net/Players/gary-miller/)</sup></sub>
+#### ***born on October  3***
+1983, Aman Goel, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2496)</sup></sub>
 
 
-#### ***milleversary on October  2, 2023***
-1985, Matthew Day, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=423), [CueTracker](http://cuetracker.net/Players/matthew-day/)</sup></sub>
+#### ***milleversary on October  3, 2023***
+1979, Ahmed Aly Elsayed, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2346)</sup></sub>
+
+1996, Lukas Kleckers, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1082), [CueTracker](http://cuetracker.net/Players/lukas-kleckers/)</sup></sub>
 
 
 
