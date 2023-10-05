@@ -22,26 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October  4***
-1959, Tony Meo, 64 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2874)</sup></sub>
+#### ***born on October  5***
+1994, Jamie Clarke, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=106), [CueTracker](http://cuetracker.net/Players/jamie-clarke/)</sup></sub>
 
-1967, Mark Winsor, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2448)</sup></sub>
-
-1982, Chen Feilong, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=910), [CueTracker](http://cuetracker.net/Players/chen-feilong/)</sup></sub>
-
-1983, Issara Kachaiwong, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=192), [CueTracker](http://cuetracker.net/Players/issara-kachaiwong/)</sup></sub>
-
-1989, Tomasz Skalski, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=358), [CueTracker](http://cuetracker.net/Players/tomasz-skalski/)</sup></sub>
-
-1990, Li Hang, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=295), [CueTracker](http://cuetracker.net/Players/li-hang/)</sup></sub>
-
-1991, Zak Surety, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=89), [CueTracker](http://cuetracker.net/Players/zak-surety/)</sup></sub>
-
-1999, James Welch, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2366)</sup></sub>
+1995, Boonyarit Keattikun, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1578), [CueTracker](http://cuetracker.net/Players/boonyarit-keattikun/)</sup></sub>
 
 
-#### ***milleversary on October  4, 2023***
-1952, Joe Johnson, 26000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=469), [CueTracker](http://cuetracker.net/Players/joe-johnson/)</sup></sub>
+#### ***milleversary on October  5, 2023***
+1963, Neal Foulds, 22000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=668), [CueTracker](http://cuetracker.net/Players/neal-foulds/)</sup></sub>
+
+1982, Adrian Ridley, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=911), [CueTracker](http://cuetracker.net/Players/adrian-ridley/)</sup></sub>
 
 
 
