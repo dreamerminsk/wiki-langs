@@ -22,14 +22,18 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October  6***
-1995, Ross Muir, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=898), [CueTracker](http://cuetracker.net/Players/ross-muir/)</sup></sub>
+#### ***born on October  7***
+1969, Steven Breward, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2450)</sup></sub>
 
-2000, Abdul Javed, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2894)</sup></sub>
+1984, Billy Ginn, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2350)</sup></sub>
+
+1987, Vinnie Calabrese, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=521), [CueTracker](http://cuetracker.net/Players/vinnie-calabrese/)</sup></sub>
+
+1998, Aaron Cook, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1423), [CueTracker](http://cuetracker.net/Players/aaron-cook/)</sup></sub>
 
 
-#### ***milleversary on October  6, 2023***
-1969, Philip Minchin, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=488), [CueTracker](http://cuetracker.net/Players/philip-minchin/)</sup></sub>
+#### ***milleversary on October  7, 2023***
+1971, Paul S Davison, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=23), [CueTracker](http://cuetracker.net/Players/paul-davison/)</sup></sub>
 
 
 
