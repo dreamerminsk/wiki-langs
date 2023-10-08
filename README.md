@@ -22,18 +22,22 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October  7***
-1969, Steven Breward, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2450)</sup></sub>
+#### ***born on October  8***
+1932, Ray Reardon, 91 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2875)</sup></sub>
 
-1984, Billy Ginn, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2350)</sup></sub>
+1980, Shafaqut Hussain, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2060), [CueTracker](http://cuetracker.net/Players/shafaqut-hussain/)</sup></sub>
 
-1987, Vinnie Calabrese, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=521), [CueTracker](http://cuetracker.net/Players/vinnie-calabrese/)</sup></sub>
-
-1998, Aaron Cook, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1423), [CueTracker](http://cuetracker.net/Players/aaron-cook/)</sup></sub>
+1982, Mei Xiwen, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=306), [CueTracker](http://cuetracker.net/Players/mei-xiwen/)</sup></sub>
 
 
-#### ***milleversary on October  7, 2023***
-1971, Paul S Davison, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=23), [CueTracker](http://cuetracker.net/Players/paul-davison/)</sup></sub>
+#### ***milleversary on October  8, 2023***
+1982, Daniel Walker, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2358)</sup></sub>
+
+1990, Liam Highfield, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=45), [CueTracker](http://cuetracker.net/Players/liam-highfield/)</sup></sub>
+
+1999, Cheung Ka Wai, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1893), [CueTracker](http://cuetracker.net/Players/cheung-ka-wai/)</sup></sub>
+
+2001, Peng Yisong, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2620), [CueTracker](http://cuetracker.net/Players/yisong-peng/)</sup></sub>
 
 
 
