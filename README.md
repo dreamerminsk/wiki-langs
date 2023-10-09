@@ -22,22 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October  8***
-1932, Ray Reardon, 91 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2875)</sup></sub>
+#### ***born on October  9***
+1987, Jordan Brown, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=58), [CueTracker](http://cuetracker.net/Players/jordan-brown/)</sup></sub>
 
-1980, Shafaqut Hussain, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2060), [CueTracker](http://cuetracker.net/Players/shafaqut-hussain/)</sup></sub>
-
-1982, Mei Xiwen, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=306), [CueTracker](http://cuetracker.net/Players/mei-xiwen/)</sup></sub>
+2000, Alfie Davies, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2803)</sup></sub>
 
 
-#### ***milleversary on October  8, 2023***
-1982, Daniel Walker, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2358)</sup></sub>
-
-1990, Liam Highfield, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=45), [CueTracker](http://cuetracker.net/Players/liam-highfield/)</sup></sub>
-
-1999, Cheung Ka Wai, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1893), [CueTracker](http://cuetracker.net/Players/cheung-ka-wai/)</sup></sub>
-
-2001, Peng Yisong, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2620), [CueTracker](http://cuetracker.net/Players/yisong-peng/)</sup></sub>
+#### ***milleversary on October  9, 2023***
 
 
 
