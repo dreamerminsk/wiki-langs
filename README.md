@@ -22,16 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 25***
-1977, James Height, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2196)</sup></sub>
+#### ***born on October 26***
+1979, Jamie Brown, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=152), [CueTracker](http://cuetracker.net/Players/jamie-brown/)</sup></sub>
 
-1985, Reanne Evans, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=175), [CueTracker](http://cuetracker.net/Players/reanne-evans/)</sup></sub>
-
-1995, Jamie Jones (1995), 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2787)</sup></sub>
+1990, Ben Jones, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=920), [CueTracker](http://cuetracker.net/Players/ben-jones/)</sup></sub>
 
 
-#### ***milleversary on October 25, 2023***
-1993, Jake Keen, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1489), [CueTracker](http://cuetracker.net/Players/jake-keen/)</sup></sub>
+#### ***milleversary on October 26, 2023***
+1988, Thor Chuan Leong, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1509), [CueTracker](http://cuetracker.net/Players/thor-chuan-leong/)</sup></sub>
 
 
 
