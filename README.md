@@ -22,13 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 27***
-1990, Cao Yupeng, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=507), [CueTracker](http://cuetracker.net/Players/cao-yupeng/)</sup></sub>
-
-1994, Shubham Arora, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2486)</sup></sub>
+#### ***born on October 28***
 
 
-#### ***milleversary on October 27, 2023***
+#### ***milleversary on October 28, 2023***
+1982, Chen Feilong, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=910), [CueTracker](http://cuetracker.net/Players/chen-feilong/)</sup></sub>
 
 
 
