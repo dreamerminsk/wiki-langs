@@ -22,11 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 28***
+#### ***born on October 29***
 
 
-#### ***milleversary on October 28, 2023***
-1982, Chen Feilong, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=910), [CueTracker](http://cuetracker.net/Players/chen-feilong/)</sup></sub>
+#### ***milleversary on October 29, 2023***
 
 
 
