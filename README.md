@@ -22,14 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 30***
-1969, Bash Maqsood, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=532), [CueTracker](http://cuetracker.net/Players/bash-maqsood/)</sup></sub>
+#### ***born on October 31***
+1985, John Parkin, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1020), [CueTracker](http://cuetracker.net/Players/john-parkin/)</sup></sub>
+
+1999, Mark Lloyd, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2595), [CueTracker](http://cuetracker.net/Players/mark-lloyd/)</sup></sub>
 
 
-#### ***milleversary on October 30, 2023***
-1966, Darren Morgan, 21000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=223), [CueTracker](http://cuetracker.net/Players/darren-morgan/)</sup></sub>
-
-1985, Mark Owens, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=706), [CueTracker](http://cuetracker.net/Players/mark-owens/)</sup></sub>
+#### ***milleversary on October 31, 2023***
+1996, Enes Bakirci, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2401)</sup></sub>
 
 
 
