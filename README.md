@@ -22,14 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 31***
-1985, John Parkin, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1020), [CueTracker](http://cuetracker.net/Players/john-parkin/)</sup></sub>
-
-1999, Mark Lloyd, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2595), [CueTracker](http://cuetracker.net/Players/mark-lloyd/)</sup></sub>
+#### ***born on November  1***
 
 
-#### ***milleversary on October 31, 2023***
-1996, Enes Bakirci, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2401)</sup></sub>
+#### ***milleversary on November  1, 2023***
+1982, Mei Xiwen, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=306), [CueTracker](http://cuetracker.net/Players/mei-xiwen/)</sup></sub>
 
 
 
