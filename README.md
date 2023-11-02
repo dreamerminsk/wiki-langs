@@ -22,11 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November  1***
+#### ***born on November  2***
+1989, Michael Tomlinson, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1213), [CueTracker](http://cuetracker.net/Players/michael-tomlinson/)</sup></sub>
 
 
-#### ***milleversary on November  1, 2023***
-1982, Mei Xiwen, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=306), [CueTracker](http://cuetracker.net/Players/mei-xiwen/)</sup></sub>
+#### ***milleversary on November  2, 2023***
+1980, Diana Stateczny, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2112), [CueTracker](http://cuetracker.net/Players/diana-stateczny/)</sup></sub>
 
 
 
