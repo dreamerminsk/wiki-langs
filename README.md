@@ -22,11 +22,18 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 10***
-1992, Heikki Niva, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2188)</sup></sub>
+#### ***born on November 11***
+1970, Mark Anthony Taylor, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2756), [CueTracker](http://cuetracker.net/Players/mark-taylor/)</sup></sub>
+
+1982, Ricky Walden, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=62), [CueTracker](http://cuetracker.net/Players/ricky-walden/)</sup></sub>
+
+2003, Jamie Wilson, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2751), [CueTracker](http://cuetracker.net/Players/jamie-wilson/)</sup></sub>
 
 
-#### ***milleversary on November 10, 2023***
+#### ***milleversary on November 11, 2023***
+1971, Jamie Trump, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2339)</sup></sub>
+
+2004, Liam Graham, 7000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2439), [CueTracker](http://cuetracker.net/Players/liam-graham/)</sup></sub>
 
 
 
