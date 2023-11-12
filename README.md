@@ -22,18 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 11***
-1970, Mark Anthony Taylor, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2756), [CueTracker](http://cuetracker.net/Players/mark-taylor/)</sup></sub>
+#### ***born on November 12***
+1973, Gerard Greene, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=38), [CueTracker](http://cuetracker.net/Players/gerard-greene/)</sup></sub>
 
-1982, Ricky Walden, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=62), [CueTracker](http://cuetracker.net/Players/ricky-walden/)</sup></sub>
-
-2003, Jamie Wilson, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2751), [CueTracker](http://cuetracker.net/Players/jamie-wilson/)</sup></sub>
+1993, Hamza Akbar, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1762), [CueTracker](http://cuetracker.net/Players/hamza-akbar/)</sup></sub>
 
 
-#### ***milleversary on November 11, 2023***
-1971, Jamie Trump, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2339)</sup></sub>
-
-2004, Liam Graham, 7000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2439), [CueTracker](http://cuetracker.net/Players/liam-graham/)</sup></sub>
+#### ***milleversary on November 12, 2023***
+2001, Florian Nüßle, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1835), [CueTracker](http://cuetracker.net/Players/florian-nusle/)</sup></sub>
 
 
 
