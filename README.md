@@ -22,14 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 12***
-1973, Gerard Greene, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=38), [CueTracker](http://cuetracker.net/Players/gerard-greene/)</sup></sub>
+#### ***born on November 13***
+1975, Joe Jogia, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=7), [CueTracker](http://cuetracker.net/Players/joe-jogia/)</sup></sub>
 
-1993, Hamza Akbar, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1762), [CueTracker](http://cuetracker.net/Players/hamza-akbar/)</sup></sub>
+2001, Peng Yisong, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2620), [CueTracker](http://cuetracker.net/Players/yisong-peng/)</sup></sub>
 
 
-#### ***milleversary on November 12, 2023***
-2001, Florian Nüßle, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1835), [CueTracker](http://cuetracker.net/Players/florian-nusle/)</sup></sub>
+#### ***milleversary on November 13, 2023***
 
 
 
