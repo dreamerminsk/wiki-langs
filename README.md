@@ -22,18 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 15***
-1965, Nigel Bond, 58 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=14), [CueTracker](http://cuetracker.net/Players/nigel-bond/)</sup></sub>
-
-1979, Wayne Townsend, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=897), [CueTracker](http://cuetracker.net/Players/wayne-townsend/)</sup></sub>
-
-1991, Asjad Iqbal, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1935), [CueTracker](http://cuetracker.net/Players/asjad-iqbal/)</sup></sub>
+#### ***born on November 16***
+1988, Ryan Mears, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1042), [CueTracker](http://cuetracker.net/Players/ryan-mears/)</sup></sub>
 
 
-#### ***milleversary on November 15, 2023***
-1963, Gary Filtness, 22000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1357), [CueTracker](http://cuetracker.net/Players/gary-filtness/)</sup></sub>
+#### ***milleversary on November 16, 2023***
+1985, Qiu Yalong, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=953), [CueTracker](http://cuetracker.net/Players/qiu-yalong/)</sup></sub>
 
-1985, Thepchaiya Un-Nooh, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=217)</sup></sub>
+1988, James Lee, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2500)</sup></sub>
 
 
 
