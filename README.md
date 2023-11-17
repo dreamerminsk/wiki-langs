@@ -22,14 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 16***
-1988, Ryan Mears, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1042), [CueTracker](http://cuetracker.net/Players/ryan-mears/)</sup></sub>
+#### ***born on November 17***
+1981, Daniel Ward, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1003), [CueTracker](http://cuetracker.net/Players/daniel-ward/)</sup></sub>
+
+1990, Ng On Yee, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1485), [CueTracker](http://cuetracker.net/Players/ng-on-yee/)</sup></sub>
 
 
-#### ***milleversary on November 16, 2023***
-1985, Qiu Yalong, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=953), [CueTracker](http://cuetracker.net/Players/qiu-yalong/)</sup></sub>
-
-1988, James Lee, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2500)</sup></sub>
+#### ***milleversary on November 17, 2023***
+1996, Joshua Cooper, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1421), [CueTracker](http://cuetracker.net/Players/joshua-cooper/)</sup></sub>
 
 
 
