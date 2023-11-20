@@ -22,13 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 19***
-1969, Au Chi Wai, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=511), [CueTracker](http://cuetracker.net/Players/au-chi-wai/)</sup></sub>
+#### ***born on November 20***
+1971, Mike Dunn, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=54), [CueTracker](http://cuetracker.net/Players/mike-dunn/)</sup></sub>
 
-1995, Kacper Filipiak, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=588), [CueTracker](http://cuetracker.net/Players/kacper-filipiak/)</sup></sub>
+1977, Corey Deuel, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1497), [CueTracker](http://cuetracker.net/Players/corey-deuel/)</sup></sub>
 
 
-#### ***milleversary on November 19, 2023***
+#### ***milleversary on November 20, 2023***
 
 
 
