@@ -22,13 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 22***
+#### ***born on November 23***
 
 
-#### ***milleversary on November 22, 2023***
-1955, Tony Knowles, 25000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=181), [CueTracker](http://cuetracker.net/Players/tony-knowles/)</sup></sub>
+#### ***milleversary on November 23, 2023***
+1974, Joe Perry, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=168), [CueTracker](http://cuetracker.net/Players/joe-perry/)</sup></sub>
 
-1980, Martin McCrudden, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=427), [CueTracker](http://cuetracker.net/Players/martin-mccrudden/)</sup></sub>
+1991, Lyu Chenwei, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=510), [CueTracker](http://cuetracker.net/Players/lyu-chenwei/)</sup></sub>
 
 
 
