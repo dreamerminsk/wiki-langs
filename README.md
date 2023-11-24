@@ -22,13 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 23***
+#### ***born on November 24***
+1984, David John, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1737), [CueTracker](http://cuetracker.net/Players/david-john/)</sup></sub>
+
+1989, Mirko Montrasio, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2890)</sup></sub>
 
 
-#### ***milleversary on November 23, 2023***
-1974, Joe Perry, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=168), [CueTracker](http://cuetracker.net/Players/joe-perry/)</sup></sub>
-
-1991, Lyu Chenwei, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=510), [CueTracker](http://cuetracker.net/Players/lyu-chenwei/)</sup></sub>
+#### ***milleversary on November 24, 2023***
 
 
 
