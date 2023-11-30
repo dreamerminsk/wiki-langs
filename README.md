@@ -22,13 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 29***
-1987, Ron Florax, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=632), [CueTracker](http://cuetracker.net/Players/ron-florax/)</sup></sub>
-
-1997, Lyu Haotian, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=905), [CueTracker](http://cuetracker.net/Players/lyu-haotian/)</sup></sub>
+#### ***born on November 30***
+1983, Daniel Kandi, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1170), [CueTracker](http://cuetracker.net/Players/daniel-kandi/)</sup></sub>
 
 
-#### ***milleversary on November 29, 2023***
+#### ***milleversary on November 30, 2023***
+1996, Ben Fortey, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=990), [CueTracker](http://cuetracker.net/Players/ben-fortey/)</sup></sub>
 
 
 
