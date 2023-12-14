@@ -22,16 +22,19 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December 13***
-1977, Andrew Higginson, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=25), [CueTracker](http://cuetracker.net/Players/andrew-higginson/)</sup></sub>
+#### ***born on December 14***
+1970, Johnathan Bagley, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1655), [CueTracker](http://cuetracker.net/Players/jonathan-bagley/)</sup></sub>
 
-1995, Ratchayothin Yotharuck, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1263), [CueTracker](http://cuetracker.net/Players/ratchayothin-yotharuck/)</sup></sub>
+1976, Alfie Burden, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=21), [CueTracker](http://cuetracker.net/Players/alfie-burden/)</sup></sub>
+
+1979, Ahmed Aly Elsayed, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2346)</sup></sub>
+
+1993, Thanawat Tirapongpaiboon, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=216), [CueTracker](http://cuetracker.net/Players/thanawat-thirapongpaiboon/)</sup></sub>
+
+2002, Digvijay Kadian, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2441)</sup></sub>
 
 
-#### ***milleversary on December 13, 2023***
-1991, Anthony McGill, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=22), [CueTracker](http://cuetracker.net/Players/anthony-mcgill/)</sup></sub>
-
-1999, Aaron Graham, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2259), [CueTracker](http://cuetracker.net/Players/aaron-graham/)</sup></sub>
+#### ***milleversary on December 14, 2023***
 
 
 
