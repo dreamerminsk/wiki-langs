@@ -22,14 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December 15***
-1982, Brendan O'Donoghue, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=473), [CueTracker](http://cuetracker.net/Players/brendan-odonoghue/)</sup></sub>
-
-1997, Simon Lichtenberg, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1567), [CueTracker](http://cuetracker.net/Players/simon-lichtenberg/)</sup></sub>
+#### ***born on December 16***
+1988, Kritsanut Lertsattayatthorn, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1577), [CueTracker](http://cuetracker.net/Players/kritsanut-lertsattayathorn/)</sup></sub>
 
 
-#### ***milleversary on December 15, 2023***
-1996, Haydon Pinhey, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2061), [CueTracker](http://cuetracker.net/Players/haydon-pinhey/)</sup></sub>
+#### ***milleversary on December 16, 2023***
 
 
 
