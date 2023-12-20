@@ -22,12 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December 19***
-1969, Nick Dyson, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=922), [CueTracker](http://cuetracker.net/Players/nick-dyson/)</sup></sub>
+#### ***born on December 20***
+1980, Gary Challis, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2051), [CueTracker](http://cuetracker.net/Players/gary-challis/)</sup></sub>
 
 
-#### ***milleversary on December 19, 2023***
-1977, Quinten Hann, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2745)</sup></sub>
+#### ***milleversary on December 20, 2023***
 
 
 
