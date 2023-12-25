@@ -22,11 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December 24***
+#### ***born on December 25***
+1975, Lim Chun Kiat Marvin, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=411), [CueTracker](http://cuetracker.net/Players/marvin-lim-chun-kiat/)</sup></sub>
+
+1991, Zhang Anda, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=81), [CueTracker](http://cuetracker.net/Players/zhang-anda/)</sup></sub>
+
+1992, Wu Shengguang, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1705), [CueTracker](http://cuetracker.net/Players/wu-shengguang/)</sup></sub>
 
 
-#### ***milleversary on December 24, 2023***
-1993, Hamza Akbar, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1762), [CueTracker](http://cuetracker.net/Players/hamza-akbar/)</sup></sub>
+#### ***milleversary on December 25, 2023***
+1996, Wang Zepeng, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1111), [CueTracker](http://cuetracker.net/Players/wang-zepeng/)</sup></sub>
 
 
 
