@@ -22,16 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December 25***
-1975, Lim Chun Kiat Marvin, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=411), [CueTracker](http://cuetracker.net/Players/marvin-lim-chun-kiat/)</sup></sub>
+#### ***born on December 26***
+1981, Mohamed Khairy, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=931), [CueTracker](http://cuetracker.net/Players/mohamed-khairy/)</sup></sub>
 
-1991, Zhang Anda, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=81), [CueTracker](http://cuetracker.net/Players/zhang-anda/)</sup></sub>
-
-1992, Wu Shengguang, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1705), [CueTracker](http://cuetracker.net/Players/wu-shengguang/)</sup></sub>
+1991, Adam Brown, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2197)</sup></sub>
 
 
-#### ***milleversary on December 25, 2023***
-1996, Wang Zepeng, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1111), [CueTracker](http://cuetracker.net/Players/wang-zepeng/)</sup></sub>
+#### ***milleversary on December 26, 2023***
+1996, Peter Devlin, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1122), [CueTracker](http://cuetracker.net/Players/peter-devlin/)</sup></sub>
 
 
 
