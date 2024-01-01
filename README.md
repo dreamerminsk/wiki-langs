@@ -22,11 +22,17 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December 31***
-1998, Callum Costello, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2195)</sup></sub>
+#### ***born on January  1***
+1981, Haider Ali, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2354)</sup></sub>
+
+1983, Ahmed Saif, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=98), [CueTracker](http://cuetracker.net/Players/ahmed-saif/)</sup></sub>
+
+1994, Lu Ning, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=908), [CueTracker](http://cuetracker.net/Players/lu-ning/)</sup></sub>
+
+2001, Callum Beresford, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2392), [CueTracker](http://cuetracker.net/Players/callum-beresford/)</sup></sub>
 
 
-#### ***milleversary on December 31, 2023***
+#### ***milleversary on January  1, 2024***
 
 
 
