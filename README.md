@@ -22,15 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on January  3***
-1969, Philip Minchin, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=488), [CueTracker](http://cuetracker.net/Players/philip-minchin/)</sup></sub>
-
-1997, Yao Pengcheng, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1160), [CueTracker](http://cuetracker.net/Players/yao-pengcheng/)</sup></sub>
-
-1999, Claire Edginton, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2138)</sup></sub>
+#### ***born on January  4***
 
 
-#### ***milleversary on January  3, 2024***
+#### ***milleversary on January  4, 2024***
+1971, Dominic Dale, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=33), [CueTracker](http://cuetracker.net/Players/dominic-dale/)</sup></sub>
 
 
 
