@@ -22,13 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on January  6***
-1993, Kengo Suzuki, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2494)</sup></sub>
-
-1995, Callum Lloyd, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=160), [CueTracker](http://cuetracker.net/Players/callum-lloyd/)</sup></sub>
+#### ***born on January  7***
+2002, Dean Young, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2499), [CueTracker](http://cuetracker.net/Players/dean-young/)</sup></sub>
 
 
-#### ***milleversary on January  6, 2024***
+#### ***milleversary on January  7, 2024***
+1999, Manasawin Phetmalaikul, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1991), [CueTracker](http://cuetracker.net/Players/manasawin-phetmalaikul/)</sup></sub>
+
+2004, Anton Kazakov, 7000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2767), [CueTracker](http://cuetracker.net/Players/anton-kazakov/)</sup></sub>
 
 
 
