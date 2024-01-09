@@ -22,16 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on January  8***
-1978, Marco Fu, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4), [CueTracker](http://cuetracker.net/Players/marco-fu/)</sup></sub>
-
-1996, Dylan Craig, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=997), [CueTracker](http://cuetracker.net/Players/dylan-craig/)</sup></sub>
+#### ***born on January  9***
+1999, Daniel Holoyda, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1687), [CueTracker](http://cuetracker.net/Players/daniel-holoyda/)</sup></sub>
 
 
-#### ***milleversary on January  8, 2024***
-1982, Brendan O'Donoghue, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=473), [CueTracker](http://cuetracker.net/Players/brendan-odonoghue/)</sup></sub>
-
-2002, Connor Benzey, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2746)</sup></sub>
+#### ***milleversary on January  9, 2024***
 
 
 
