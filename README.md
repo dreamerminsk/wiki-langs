@@ -22,11 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on January 14***
-1997, Josh Mulholland, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1590), [CueTracker](http://cuetracker.net/Players/josh-mulholland/)</sup></sub>
+#### ***born on January 15***
+1951, Patsy Fagan, 73 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=796), [CueTracker](http://cuetracker.net/Players/patsy-fagan/)</sup></sub>
+
+1980, Ip Wan In Jaique, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2115), [CueTracker](http://cuetracker.net/Players/ip-wan-in-jaique/)</sup></sub>
 
 
-#### ***milleversary on January 14, 2024***
+#### ***milleversary on January 15, 2024***
+1991, John Pritchett, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2360)</sup></sub>
 
 
 
