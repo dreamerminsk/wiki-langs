@@ -22,14 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on January 17***
-1970, James Wattana, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=193), [CueTracker](http://cuetracker.net/Players/james-wattana/)</sup></sub>
+#### ***born on January 18***
+1988, Michael Georgiou, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=497), [CueTracker](http://cuetracker.net/Players/michael-georgiou/)</sup></sub>
 
-1971, Adrian Rosa, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1659), [CueTracker](http://cuetracker.net/Players/adrian-rosa/)</sup></sub>
+2000, Chang Yu Kiu, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1479), [CueTracker](http://cuetracker.net/Players/yu-kiu-chang/)</sup></sub>
 
 
-#### ***milleversary on January 17, 2024***
-1980, Shehzad Iqbal, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=542), [CueTracker](http://cuetracker.net/Players/shehzad-iqbal/)</sup></sub>
+#### ***milleversary on January 18, 2024***
 
 
 
