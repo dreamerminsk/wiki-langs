@@ -22,13 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on January 18***
-1988, Michael Georgiou, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=497), [CueTracker](http://cuetracker.net/Players/michael-georgiou/)</sup></sub>
-
-2000, Chang Yu Kiu, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1479), [CueTracker](http://cuetracker.net/Players/yu-kiu-chang/)</sup></sub>
+#### ***born on January 19***
+1949, Dennis Taylor, 75 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=468), [CueTracker](http://cuetracker.net/Players/dennis-taylor/)</sup></sub>
 
 
-#### ***milleversary on January 18, 2024***
+#### ***milleversary on January 19, 2024***
+1988, Sam Baird, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=76), [CueTracker](http://cuetracker.net/Players/sam-baird/)</sup></sub>
 
 
 
