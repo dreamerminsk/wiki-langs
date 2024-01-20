@@ -22,12 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on January 19***
-1949, Dennis Taylor, 75 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=468), [CueTracker](http://cuetracker.net/Players/dennis-taylor/)</sup></sub>
+#### ***born on January 20***
+1968, Surinder Gill, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1190), [CueTracker](http://cuetracker.net/Players/surinder-gill/)</sup></sub>
+
+1987, Khalid Belaied Abumdas, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1292), [CueTracker](http://cuetracker.net/Players/khalid-belaied-abumdas/)</sup></sub>
+
+2000, Jack Harris, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2489)</sup></sub>
 
 
-#### ***milleversary on January 19, 2024***
-1988, Sam Baird, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=76), [CueTracker](http://cuetracker.net/Players/sam-baird/)</sup></sub>
+#### ***milleversary on January 20, 2024***
 
 
 
