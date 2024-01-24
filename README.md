@@ -22,16 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on January 23***
-2001, Conor Caniff, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2393), [CueTracker](http://cuetracker.net/Players/conor-caniff/)</sup></sub>
+#### ***born on January 24***
+1998, Xu Si, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1407), [CueTracker](http://cuetracker.net/Players/xu-si/)</sup></sub>
 
 
-#### ***milleversary on January 23, 2024***
-1985, Lau Ka Lam, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1148), [CueTracker](http://cuetracker.net/Players/lau-ka-lam/)</sup></sub>
-
-1991, Victor Sarkis, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2956), [CueTracker](http://cuetracker.net/Players/victor-sarkis/)</sup></sub>
-
-2002, Aaron Hill, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2470), [CueTracker](http://cuetracker.net/Players/aaron-hill/)</sup></sub>
+#### ***milleversary on January 24, 2024***
 
 
 
