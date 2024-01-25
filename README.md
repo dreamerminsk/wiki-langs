@@ -22,11 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on January 24***
-1998, Xu Si, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1407), [CueTracker](http://cuetracker.net/Players/xu-si/)</sup></sub>
+#### ***born on January 25***
 
 
-#### ***milleversary on January 24, 2024***
+#### ***milleversary on January 25, 2024***
+1983, Ahmed Saif, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=98), [CueTracker](http://cuetracker.net/Players/ahmed-saif/)</sup></sub>
+
+1993, Thanawat Tirapongpaiboon, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=216), [CueTracker](http://cuetracker.net/Players/thanawat-thirapongpaiboon/)</sup></sub>
 
 
 
