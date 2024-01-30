@@ -22,11 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on January 29***
-1981, Maris Volajs, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1555), [CueTracker](http://cuetracker.net/Players/maris-volajs/)</sup></sub>
+#### ***born on January 30***
 
 
-#### ***milleversary on January 29, 2024***
+#### ***milleversary on January 30, 2024***
 
 
 
