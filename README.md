@@ -22,10 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February  1***
+#### ***born on February  2***
+1969, Ian Desmier, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2493)</sup></sub>
+
+1974, Rajesh Kadian, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2485)</sup></sub>
+
+1980, Martin McCrudden, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=427), [CueTracker](http://cuetracker.net/Players/martin-mccrudden/)</sup></sub>
 
 
-#### ***milleversary on February  1, 2024***
+#### ***milleversary on February  2, 2024***
 
 
 
