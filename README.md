@@ -22,19 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February  3***
-1991, Farakh Ajaib, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=163), [CueTracker](http://cuetracker.net/Players/farakh-ajaib/)</sup></sub>
-
-1998, Chan Ming Tung, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1376), [CueTracker](http://cuetracker.net/Players/chan-mingtung/)</sup></sub>
-
-2000, Umut Dikme, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2249)</sup></sub>
-
-2001, Jenson Kendrick, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2030), [CueTracker](http://cuetracker.net/Players/jenson-kendrick/)</sup></sub>
-
-2003, Julien Leclercq, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2754), [CueTracker](http://cuetracker.net/Players/julien-leclercq/)</sup></sub>
+#### ***born on February  4***
+1976, Stephen Rowlings, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=410), [CueTracker](http://cuetracker.net/Players/stephen-rowlings/)</sup></sub>
 
 
-#### ***milleversary on February  3, 2024***
+#### ***milleversary on February  4, 2024***
 
 
 
