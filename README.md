@@ -22,13 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February  6***
-1976, Juan Pedro Durán, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2725)</sup></sub>
-
-1999, Tyler Rees, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1433), [CueTracker](http://cuetracker.net/Players/tyler-rees/)</sup></sub>
+#### ***born on February  7***
 
 
-#### ***milleversary on February  6, 2024***
+#### ***milleversary on February  7, 2024***
 
 
 
