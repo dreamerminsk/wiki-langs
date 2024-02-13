@@ -22,11 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February 12***
+#### ***born on February 13***
+1962, Peter Francisco, 62 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1298), [CueTracker](http://cuetracker.net/Players/peter-francisco/)</sup></sub>
+
+2002, Connor Benzey, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2746)</sup></sub>
 
 
-#### ***milleversary on February 12, 2024***
-1994, Lu Ning, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=908), [CueTracker](http://cuetracker.net/Players/lu-ning/)</sup></sub>
+#### ***milleversary on February 13, 2024***
+1980, Lee Spick, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=99), [CueTracker](http://cuetracker.net/Players/lee-spick/)</sup></sub>
 
 
 
