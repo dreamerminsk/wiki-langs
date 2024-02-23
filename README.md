@@ -22,12 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February 22***
-1986, Mark Allen, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=202), [CueTracker](http://cuetracker.net/Players/mark-allen/)</sup></sub>
+#### ***born on February 23***
+1974, Del Smith, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=447), [CueTracker](http://cuetracker.net/Players/del-smith/)</sup></sub>
+
+1990, Michael Wasley, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=34), [CueTracker](http://cuetracker.net/Players/michael-wasley/)</sup></sub>
+
+2001, Ryan Roberts, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2760), [CueTracker](http://cuetracker.net/Players/ryan-roberts/)</sup></sub>
 
 
-#### ***milleversary on February 22, 2024***
-1985, Reanne Evans, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=175), [CueTracker](http://cuetracker.net/Players/reanne-evans/)</sup></sub>
+#### ***milleversary on February 23, 2024***
 
 
 
