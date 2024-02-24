@@ -22,15 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February 23***
-1974, Del Smith, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=447), [CueTracker](http://cuetracker.net/Players/del-smith/)</sup></sub>
+#### ***born on February 24***
+1983, Sharon Lewis, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2143)</sup></sub>
 
-1990, Michael Wasley, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=34), [CueTracker](http://cuetracker.net/Players/michael-wasley/)</sup></sub>
-
-2001, Ryan Roberts, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2760), [CueTracker](http://cuetracker.net/Players/ryan-roberts/)</sup></sub>
+1989, Michael Collumb, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1177), [CueTracker](http://cuetracker.net/Players/michael-collumb/)</sup></sub>
 
 
-#### ***milleversary on February 23, 2024***
+#### ***milleversary on February 24, 2024***
 
 
 
