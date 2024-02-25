@@ -22,13 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February 24***
-1983, Sharon Lewis, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2143)</sup></sub>
-
-1989, Michael Collumb, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1177), [CueTracker](http://cuetracker.net/Players/michael-collumb/)</sup></sub>
+#### ***born on February 25***
+1995, Dylan Mitchell, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1123), [CueTracker](http://cuetracker.net/Players/dylan-mitchell/)</sup></sub>
 
 
-#### ***milleversary on February 24, 2024***
+#### ***milleversary on February 25, 2024***
 
 
 
