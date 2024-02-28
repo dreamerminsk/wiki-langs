@@ -22,21 +22,18 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February 27***
-1968, David Finbow, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2505)</sup></sub>
+#### ***born on February 28***
+1993, Chen Zhe, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=133), [CueTracker](http://cuetracker.net/Players/chen-zhe/)</sup></sub>
 
-1977, Fenghui Wei, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2365)</sup></sub>
-
-1982, Maria Catalano, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2119), [CueTracker](http://cuetracker.net/Players/maria-catalano/)</sup></sub>
-
-1984, Rishi Gohill, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2453)</sup></sub>
-
-1989, Alex Taubman, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=156), [CueTracker](http://cuetracker.net/Players/alex-taubman/)</sup></sub>
-
-1996, Matthew Glasby, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1301), [CueTracker](http://cuetracker.net/Players/matthew-glasby/)</sup></sub>
+2002, Aaron Hill, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2470), [CueTracker](http://cuetracker.net/Players/aaron-hill/)</sup></sub>
 
 
-#### ***milleversary on February 27, 2024***
+#### ***milleversary on February 28, 2024***
+1974, Darren Burns, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2038), [CueTracker](http://cuetracker.net/Players/darren-burns/)</sup></sub>
+
+1985, John Parkin, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1020), [CueTracker](http://cuetracker.net/Players/john-parkin/)</sup></sub>
+
+2002, Bradley Cowdroy, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2748), [CueTracker](http://cuetracker.net/Players/bradley-cowdroy/)</sup></sub>
 
 
 
