@@ -22,18 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February 28***
-1993, Chen Zhe, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=133), [CueTracker](http://cuetracker.net/Players/chen-zhe/)</sup></sub>
-
-2002, Aaron Hill, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2470), [CueTracker](http://cuetracker.net/Players/aaron-hill/)</sup></sub>
+#### ***born on February 29***
 
 
-#### ***milleversary on February 28, 2024***
-1974, Darren Burns, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2038), [CueTracker](http://cuetracker.net/Players/darren-burns/)</sup></sub>
-
-1985, John Parkin, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1020), [CueTracker](http://cuetracker.net/Players/john-parkin/)</sup></sub>
-
-2002, Bradley Cowdroy, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2748), [CueTracker](http://cuetracker.net/Players/bradley-cowdroy/)</sup></sub>
+#### ***milleversary on February 29, 2024***
 
 
 
