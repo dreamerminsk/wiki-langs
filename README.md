@@ -22,14 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on March  1***
-1969, Jeff Cundy, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=143), [CueTracker](http://cuetracker.net/Players/jeff-cundy/)</sup></sub>
+#### ***born on March  2***
 
 
-#### ***milleversary on March  1, 2024***
-1991, Carl Mottershaw, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2771), [CueTracker](http://cuetracker.net/Players/carl-mottershaw/)</sup></sub>
-
-1996, Andres Petrov, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1552), [CueTracker](http://cuetracker.net/Players/andres-petrov/)</sup></sub>
+#### ***milleversary on March  2, 2024***
 
 
 
