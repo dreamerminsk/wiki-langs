@@ -22,16 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on March  8***
-1972, Fergal O'Brien, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=63), [CueTracker](http://cuetracker.net/Players/fergal-obrien/)</sup></sub>
-
-1988, Katrina Wan, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2117), [CueTracker](http://cuetracker.net/Players/katrina-wan/)</sup></sub>
-
-1995, Luca Brecel, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=101), [CueTracker](http://cuetracker.net/Players/luca-brecel/)</sup></sub>
+#### ***born on March  9***
+2000, Elliott Weston, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2480)</sup></sub>
 
 
-#### ***milleversary on March  8, 2024***
-1985, Jamie McArdle, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1310), [CueTracker](http://cuetracker.net/Players/jamie-mcardle/)</sup></sub>
+#### ***milleversary on March  9, 2024***
+1983, Cheng Yin Lun Jerry, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=916), [CueTracker](http://cuetracker.net/Players/yin-lun-cheng/)</sup></sub>
 
 
 
