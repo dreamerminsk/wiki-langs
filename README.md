@@ -22,12 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on March  9***
-2000, Elliott Weston, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2480)</sup></sub>
+#### ***born on March 10***
+1991, John Pritchett, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2360)</sup></sub>
+
+2003, Joe Fenton, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2772), [CueTracker](http://cuetracker.net/Players/joe-fenton/)</sup></sub>
 
 
-#### ***milleversary on March  9, 2024***
-1983, Cheng Yin Lun Jerry, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=916), [CueTracker](http://cuetracker.net/Players/yin-lun-cheng/)</sup></sub>
+#### ***milleversary on March 10, 2024***
+1969, Richard Somauroo, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=136), [CueTracker](http://cuetracker.net/Players/richard-somauroo/)</sup></sub>
+
+1994, Sanderson Lam, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=621), [CueTracker](http://cuetracker.net/Players/sanderson-lam/)</sup></sub>
 
 
 
