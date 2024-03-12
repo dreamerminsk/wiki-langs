@@ -22,16 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on March 11***
-1985, Ian Burns, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=87), [CueTracker](http://cuetracker.net/Players/ian-burns/)</sup></sub>
-
-1996, Leong Man Hoi, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1095), [CueTracker](http://cuetracker.net/Players/man-hoi-leong/)</sup></sub>
-
-2000, Fergal Quinn, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2317)</sup></sub>
+#### ***born on March 12***
+1970, Jason Wright, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2901)</sup></sub>
 
 
-#### ***milleversary on March 11, 2024***
-2002, Bai Langning, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1595), [CueTracker](http://cuetracker.net/Players/bai-langning/)</sup></sub>
+#### ***milleversary on March 12, 2024***
 
 
 
