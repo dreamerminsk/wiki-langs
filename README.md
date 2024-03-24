@@ -22,20 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on March 23***
-1980, Ryan Day, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=68), [CueTracker](http://cuetracker.net/Players/ryan-day/)</sup></sub>
-
-1985, Philip O'Connor, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2783), [CueTracker](http://cuetracker.net/Players/philip-oconnor/)</sup></sub>
-
-1995, Siyavosh Mozayani, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1538), [CueTracker](http://cuetracker.net/Players/siyavosh-mozayani/)</sup></sub>
-
-2002, Halim Hussain, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2275), [CueTracker](http://cuetracker.net/Players/halim-hussain/)</sup></sub>
+#### ***born on March 24***
+1988, Thor Chuan Leong, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1509), [CueTracker](http://cuetracker.net/Players/thor-chuan-leong/)</sup></sub>
 
 
-#### ***milleversary on March 23, 2024***
-1977, Gary Thomson, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=225), [CueTracker](http://cuetracker.net/Players/gary-thomson/)</sup></sub>
-
-2002, Ryan Davies, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2378), [CueTracker](http://cuetracker.net/Players/ryan-davies/)</sup></sub>
+#### ***milleversary on March 24, 2024***
 
 
 
