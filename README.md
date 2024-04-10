@@ -22,13 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April  9***
-1993, Fang Xiongman, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1114), [CueTracker](http://cuetracker.net/Players/fang-xiongman/)</sup></sub>
-
-2003, Jack Haley, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2750), [CueTracker](http://cuetracker.net/Players/jack-haley/)</sup></sub>
+#### ***born on April 10***
+2002, Sean Maddocks, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2340), [CueTracker](http://cuetracker.net/Players/sean-maddocks/)</sup></sub>
 
 
-#### ***milleversary on April  9, 2024***
+#### ***milleversary on April 10, 2024***
 
 
 
