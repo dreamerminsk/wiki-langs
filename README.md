@@ -22,13 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 15***
-1960, Tony Jones, 64 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1355), [CueTracker](http://cuetracker.net/Players/tony-jones/)</sup></sub>
-
-1971, Paul Wykes, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=500), [CueTracker](http://cuetracker.net/Players/paul-wykes/)</sup></sub>
+#### ***born on April 16***
 
 
-#### ***milleversary on April 15, 2024***
+#### ***milleversary on April 16, 2024***
+1980, Andrew Norman, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=60), [CueTracker](http://cuetracker.net/Players/andrew-norman/)</sup></sub>
+
+1985, Mike Finn, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=233), [CueTracker](http://cuetracker.net/Players/mike-finn/)</sup></sub>
 
 
 
