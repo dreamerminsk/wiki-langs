@@ -22,13 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 16***
+#### ***born on April 17***
+1974, Simon Bevz, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=529), [CueTracker](http://cuetracker.net/Players/simon-bevz/)</sup></sub>
+
+1996, Andrew Doherty, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1911), [CueTracker](http://cuetracker.net/Players/andrew-doherty/)</sup></sub>
+
+2002, Bai Langning, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1595), [CueTracker](http://cuetracker.net/Players/bai-langning/)</sup></sub>
 
 
-#### ***milleversary on April 16, 2024***
-1980, Andrew Norman, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=60), [CueTracker](http://cuetracker.net/Players/andrew-norman/)</sup></sub>
-
-1985, Mike Finn, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=233), [CueTracker](http://cuetracker.net/Players/mike-finn/)</sup></sub>
+#### ***milleversary on April 17, 2024***
 
 
 
