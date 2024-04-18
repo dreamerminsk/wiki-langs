@@ -22,15 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 17***
-1974, Simon Bevz, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=529), [CueTracker](http://cuetracker.net/Players/simon-bevz/)</sup></sub>
+#### ***born on April 18***
+1967, Stefan Mazrocis, 57 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=492), [CueTracker](http://cuetracker.net/Players/stefan-mazrocis/)</sup></sub>
 
-1996, Andrew Doherty, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1911), [CueTracker](http://cuetracker.net/Players/andrew-doherty/)</sup></sub>
+1981, Diana Schuler, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=259), [CueTracker](http://cuetracker.net/Players/diana-schuler/)</sup></sub>
 
-2002, Bai Langning, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1595), [CueTracker](http://cuetracker.net/Players/bai-langning/)</sup></sub>
+1985, Thepchaiya Un-Nooh, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=217), [CueTracker](http://cuetracker.net/Players/thepchaiya-un-nooh/)</sup></sub>
 
 
-#### ***milleversary on April 17, 2024***
+#### ***milleversary on April 18, 2024***
 
 
 
