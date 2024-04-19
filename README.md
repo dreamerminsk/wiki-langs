@@ -22,15 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 18***
-1967, Stefan Mazrocis, 57 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=492), [CueTracker](http://cuetracker.net/Players/stefan-mazrocis/)</sup></sub>
+#### ***born on April 19***
+1984, Jamie Curtis-Barrett, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=165), [CueTracker](http://cuetracker.net/Players/jamie-barrett/)</sup></sub>
 
-1981, Diana Schuler, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=259), [CueTracker](http://cuetracker.net/Players/diana-schuler/)</sup></sub>
-
-1985, Thepchaiya Un-Nooh, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=217), [CueTracker](http://cuetracker.net/Players/thepchaiya-un-nooh/)</sup></sub>
+1995, Harvey Chandler, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=982), [CueTracker](http://cuetracker.net/Players/harvey-chandler/)</sup></sub>
 
 
-#### ***milleversary on April 18, 2024***
+#### ***milleversary on April 19, 2024***
 
 
 
