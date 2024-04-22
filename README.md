@@ -22,14 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 21***
-1974, Abid Manzoor, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2391)</sup></sub>
+#### ***born on April 22***
+1984, Raymond Fry, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=174), [CueTracker](http://cuetracker.net/Players/raymond-fry/)</sup></sub>
 
-2004, Liu Hongyu, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2611)</sup></sub>
+1987, Patrick Einsle, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=91), [CueTracker](http://cuetracker.net/Players/patrick-einsle/)</sup></sub>
 
 
-#### ***milleversary on April 21, 2024***
-1985, Lucky Vatnani, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=201), [CueTracker](http://cuetracker.net/Players/lucky-vatnani/)</sup></sub>
+#### ***milleversary on April 22, 2024***
 
 
 
