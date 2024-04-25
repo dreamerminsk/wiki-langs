@@ -22,18 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 24***
-1975, Stuart Pettman, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=179), [CueTracker](http://cuetracker.net/Players/stuart-pettman/)</sup></sub>
+#### ***born on April 25***
+1980, Lee Spick, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=99), [CueTracker](http://cuetracker.net/Players/lee-spick/)</sup></sub>
 
-1982, Fernando Bellinassi Silva, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2708)</sup></sub>
+1982, Andrew Pagett, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=65), [CueTracker](http://cuetracker.net/Players/andrew-pagett/)</sup></sub>
 
-1999, Aaron Graham, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2259), [CueTracker](http://cuetracker.net/Players/aaron-graham/)</sup></sub>
-
-2002, Kayden Brierley, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2483)</sup></sub>
+1991, Carl Mottershaw, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2771), [CueTracker](http://cuetracker.net/Players/carl-mottershaw/)</sup></sub>
 
 
-#### ***milleversary on April 24, 2024***
-1996, Liu Jiaming, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1159), [CueTracker](http://cuetracker.net/Players/liu-jiaming/)</sup></sub>
+#### ***milleversary on April 25, 2024***
 
 
 
