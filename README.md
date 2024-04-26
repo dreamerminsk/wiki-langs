@@ -22,15 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 25***
-1980, Lee Spick, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=99), [CueTracker](http://cuetracker.net/Players/lee-spick/)</sup></sub>
-
-1982, Andrew Pagett, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=65), [CueTracker](http://cuetracker.net/Players/andrew-pagett/)</sup></sub>
-
-1991, Carl Mottershaw, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2771), [CueTracker](http://cuetracker.net/Players/carl-mottershaw/)</sup></sub>
+#### ***born on April 26***
+1996, Alexander Ursenbacher, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=239), [CueTracker](http://cuetracker.net/Players/alexander-ursenbacher/)</sup></sub>
 
 
-#### ***milleversary on April 25, 2024***
+#### ***milleversary on April 26, 2024***
+1977, Igor Figueiredo, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=18), [CueTracker](http://cuetracker.net/Players/igor-figueiredo/)</sup></sub>
+
+1994, Joel Walker, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=169), [CueTracker](http://cuetracker.net/Players/joel-walker/)</sup></sub>
+
+1999, Daniel Williams, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2243)</sup></sub>
 
 
 
