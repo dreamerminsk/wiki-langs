@@ -22,16 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 26***
-1996, Alexander Ursenbacher, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=239), [CueTracker](http://cuetracker.net/Players/alexander-ursenbacher/)</sup></sub>
+#### ***born on April 27***
+2003, Isa Ishtiaq, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2857)</sup></sub>
 
 
-#### ***milleversary on April 26, 2024***
-1977, Igor Figueiredo, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=18), [CueTracker](http://cuetracker.net/Players/igor-figueiredo/)</sup></sub>
-
-1994, Joel Walker, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=169), [CueTracker](http://cuetracker.net/Players/joel-walker/)</sup></sub>
-
-1999, Daniel Williams, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2243)</sup></sub>
+#### ***milleversary on April 27, 2024***
 
 
 
