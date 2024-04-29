@@ -22,11 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 28***
-2004, Johnnie Bates, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2776), [CueTracker](http://cuetracker.net/Players/johnnie-bates/)</sup></sub>
+#### ***born on April 29***
+1994, Sean O'Sullivan, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=552), [CueTracker](http://cuetracker.net/Players/sean-osullivan/)</sup></sub>
+
+1995, Denys Khmelevskyi, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2784)</sup></sub>
+
+2002, Ryan Davies, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2378), [CueTracker](http://cuetracker.net/Players/ryan-davies/)</sup></sub>
 
 
-#### ***milleversary on April 28, 2024***
+#### ***milleversary on April 29, 2024***
+1994, Scott Donaldson, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=894), [CueTracker](http://cuetracker.net/Players/scott-donaldson/)</sup></sub>
 
 
 
