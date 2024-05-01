@@ -22,17 +22,20 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 30***
-1991, James Silverwood, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=147), [CueTracker](http://cuetracker.net/Players/james-silverwood/)</sup></sub>
+#### ***born on May  1***
+1945, Bill Kelly, 79 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=485), [CueTracker](http://cuetracker.net/Players/billy-kelly/)</sup></sub>
 
-1992, Eden Sharav, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=620), [CueTracker](http://cuetracker.net/Players/eden-sharav/)</sup></sub>
+1964, Imran Puri, 60 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1209), [CueTracker](http://cuetracker.net/Players/imran-puri/)</sup></sub>
 
-1993, Duane Jones, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=448), [CueTracker](http://cuetracker.net/Players/duane-jones/)</sup></sub>
+1978, Dan Woolloff, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2356)</sup></sub>
 
-1996, Darryl Hill, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=892), [CueTracker](http://cuetracker.net/Players/darryl-hill/)</sup></sub>
+1986, Passakorn Suwannawat, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=323), [CueTracker](http://cuetracker.net/Players/passakorn-suwannawat/)</sup></sub>
 
 
-#### ***milleversary on April 30, 2024***
+#### ***milleversary on May  1, 2024***
+1958, Kirk Stevens, 24000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2870)</sup></sub>
+
+1991, Jack Lisowski, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=85), [CueTracker](http://cuetracker.net/Players/jack-lisowski/)</sup></sub>
 
 
 
