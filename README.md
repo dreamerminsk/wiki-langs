@@ -22,10 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May  6***
+#### ***born on May  7***
+1988, David Hogan, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=477), [CueTracker](http://cuetracker.net/Players/david-hogan/)</sup></sub>
+
+1993, Daniel Devlin, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2086), [CueTracker](http://cuetracker.net/Players/daniel-devlin/)</sup></sub>
 
 
-#### ***milleversary on May  6, 2024***
+#### ***milleversary on May  7, 2024***
 
 
 
