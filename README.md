@@ -22,16 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 10***
-2002, Lewis Ullah, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2363)</sup></sub>
+#### ***born on May 11***
+1964, John Parrott, 60 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=408), [CueTracker](http://cuetracker.net/Players/john-parrott/)</sup></sub>
 
 
-#### ***milleversary on May 10, 2024***
-1977, James Height, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2196)</sup></sub>
-
-1980, Scott Mackenzie, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=505), [CueTracker](http://cuetracker.net/Players/scott-mackenzie/)</sup></sub>
-
-1994, Amine Amiri, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2582), [CueTracker](http://cuetracker.net/Players/amine-amiri/)</sup></sub>
+#### ***milleversary on May 11, 2024***
+1991, Michael White, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=171), [CueTracker](http://cuetracker.net/Players/michael-white/)</sup></sub>
 
 
 
