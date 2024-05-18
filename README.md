@@ -22,11 +22,17 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 17***
-2000, Lewis Parnham, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2478)</sup></sub>
+#### ***born on May 18***
+1958, Bob Chaperon, 66 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2881)</sup></sub>
+
+1975, John Higgins, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=237), [CueTracker](http://cuetracker.net/Players/john-higgins/)</sup></sub>
+
+1993, Andreas Ploner, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=633), [CueTracker](http://cuetracker.net/Players/andreas-ploner/)</sup></sub>
+
+1996, Lukas Kleckers, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1082), [CueTracker](http://cuetracker.net/Players/lukas-kleckers/)</sup></sub>
 
 
-#### ***milleversary on May 17, 2024***
+#### ***milleversary on May 18, 2024***
 
 
 
