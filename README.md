@@ -22,15 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 21***
-1975, Stephen Kershaw, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2090), [CueTracker](http://cuetracker.net/Players/stephen-kershaw/)</sup></sub>
-
-1976, Stuart Bingham, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=30), [CueTracker](http://cuetracker.net/Players/stuart-bingham/)</sup></sub>
-
-2004, Samuel Lee Stevens, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2769)</sup></sub>
+#### ***born on May 22***
 
 
-#### ***milleversary on May 21, 2024***
+#### ***milleversary on May 22, 2024***
 
 
 
