@@ -22,10 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 22***
+#### ***born on May 23***
+1981, Jin Long, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=283), [CueTracker](http://cuetracker.net/Players/jin-long/)</sup></sub>
 
 
-#### ***milleversary on May 22, 2024***
+#### ***milleversary on May 23, 2024***
+1977, John Whitty, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=195), [CueTracker](http://cuetracker.net/Players/john-whitty/)</sup></sub>
+
+2002, Luis Vetter, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2253)</sup></sub>
 
 
 
