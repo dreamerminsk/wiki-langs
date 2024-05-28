@@ -22,11 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 27***
-1967, Danny Connolly, 57 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1985), [CueTracker](http://cuetracker.net/Players/danny-connolly/)</sup></sub>
+#### ***born on May 28***
+1960, Tony Chappel, 64 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=802), [CueTracker](http://cuetracker.net/Players/tony-chappel/)</sup></sub>
+
+1979, Omar Alajlani, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2367)</sup></sub>
 
 
-#### ***milleversary on May 27, 2024***
+#### ***milleversary on May 28, 2024***
 
 
 
