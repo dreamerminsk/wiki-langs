@@ -22,15 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 29***
-1976, Stuart Watson, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2044), [CueTracker](http://cuetracker.net/Players/stuart-watson/)</sup></sub>
+#### ***born on May 30***
+1965, Kharazchi Jamshid, 59 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2658)</sup></sub>
 
-1998, Mihai Vladu, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1865), [CueTracker](http://cuetracker.net/Players/mihai-vladu/)</sup></sub>
+1991, Amir Sarkhosh, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1350), [CueTracker](http://cuetracker.net/Players/amir-sarkhosh/)</sup></sub>
 
-2000, Yuan Sijun, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1108), [CueTracker](http://cuetracker.net/Players/yuan-sijun/)</sup></sub>
+2000, Chae Ross, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2204)</sup></sub>
 
 
-#### ***milleversary on May 29, 2024***
+#### ***milleversary on May 30, 2024***
 
 
 
