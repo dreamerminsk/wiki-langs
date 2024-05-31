@@ -22,15 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 30***
-1965, Kharazchi Jamshid, 59 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2658)</sup></sub>
-
-1991, Amir Sarkhosh, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1350), [CueTracker](http://cuetracker.net/Players/amir-sarkhosh/)</sup></sub>
-
-2000, Chae Ross, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2204)</sup></sub>
+#### ***born on May 31***
+2003, Lei Peifan, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2498), [CueTracker](http://cuetracker.net/Players/peifan-lei/)</sup></sub>
 
 
-#### ***milleversary on May 30, 2024***
+#### ***milleversary on May 31, 2024***
+1969, Joe Swail, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=35), [CueTracker](http://cuetracker.net/Players/joe-swail/)</sup></sub>
+
+1997, Josh Mulholland, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1590), [CueTracker](http://cuetracker.net/Players/josh-mulholland/)</sup></sub>
 
 
 
