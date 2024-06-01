@@ -22,14 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 31***
-2003, Lei Peifan, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2498), [CueTracker](http://cuetracker.net/Players/peifan-lei/)</sup></sub>
+#### ***born on June  1***
 
 
-#### ***milleversary on May 31, 2024***
-1969, Joe Swail, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=35), [CueTracker](http://cuetracker.net/Players/joe-swail/)</sup></sub>
-
-1997, Josh Mulholland, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1590), [CueTracker](http://cuetracker.net/Players/josh-mulholland/)</sup></sub>
+#### ***milleversary on June  1, 2024***
 
 
 
