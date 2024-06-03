@@ -22,14 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June  2***
-1992, Kishan Hirani, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=412), [CueTracker](http://cuetracker.net/Players/kishan-hirani/)</sup></sub>
-
-2006, Leone Crowley, 18 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2888)</sup></sub>
+#### ***born on June  3***
+1967, Philip Williams, 57 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1363), [CueTracker](http://cuetracker.net/Players/philip-williams/)</sup></sub>
 
 
-#### ***milleversary on June  2, 2024***
-1991, Ma Tingpeng, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=952), [CueTracker](http://cuetracker.net/Players/ma-tingpeng/)</sup></sub>
+#### ***milleversary on June  3, 2024***
+2005, Filips Kalnins, 7000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2766), [CueTracker](http://cuetracker.net/Players/filips-kalniyy/)</sup></sub>
 
 
 
