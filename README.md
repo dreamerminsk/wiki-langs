@@ -22,20 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June  4***
-1971, Jamie Bodle, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1283), [CueTracker](http://cuetracker.net/Players/jamie-bodle/)</sup></sub>
-
-1977, Quinten Hann, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2745)</sup></sub>
-
-1985, Matthew Day, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=423), [CueTracker](http://cuetracker.net/Players/matthew-day/)</sup></sub>
-
-1986, Martin O'Donnell, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=120), [CueTracker](http://cuetracker.net/Players/martin-odonnell/)</sup></sub>
-
-1992, Jason Tart, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=540), [CueTracker](http://cuetracker.net/Players/jason-tart/)</sup></sub>
+#### ***born on June  5***
+1969, Alex Borg, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=515), [CueTracker](http://cuetracker.net/Players/alex-borg/)</sup></sub>
 
 
-#### ***milleversary on June  4, 2024***
-2002, Si Jiahui, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1982), [CueTracker](http://cuetracker.net/Players/si-jiahui/)</sup></sub>
+#### ***milleversary on June  5, 2024***
+1977, Corey Deuel, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1497), [CueTracker](http://cuetracker.net/Players/corey-deuel/)</sup></sub>
+
+1991, Jack Bradford, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=613), [CueTracker](http://cuetracker.net/Players/jack-bradford/)</sup></sub>
 
 
 
