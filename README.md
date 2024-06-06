@@ -22,14 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June  5***
-1969, Alex Borg, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=515), [CueTracker](http://cuetracker.net/Players/alex-borg/)</sup></sub>
+#### ***born on June  6***
+1990, Liu Chuang, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=43), [CueTracker](http://cuetracker.net/Players/lyu-chuang/)</sup></sub>
 
 
-#### ***milleversary on June  5, 2024***
-1977, Corey Deuel, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1497), [CueTracker](http://cuetracker.net/Players/corey-deuel/)</sup></sub>
-
-1991, Jack Bradford, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=613), [CueTracker](http://cuetracker.net/Players/jack-bradford/)</sup></sub>
+#### ***milleversary on June  6, 2024***
+1966, Dave Harold, 21000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=31), [CueTracker](http://cuetracker.net/Players/dave-harold/)</sup></sub>
 
 
 
