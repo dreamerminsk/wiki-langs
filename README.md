@@ -22,13 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June  7***
-1963, Nigel Howes, 61 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2213)</sup></sub>
+#### ***born on June  8***
+1942, Doug Mountjoy, 82 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=806), [CueTracker](http://cuetracker.net/Players/doug-mountjoy/)</sup></sub>
 
-1999, Jed Mann, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2348)</sup></sub>
+1969, Richard Somauroo, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=136), [CueTracker](http://cuetracker.net/Players/richard-somauroo/)</sup></sub>
+
+1976, Antony Rodriguez, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2709)</sup></sub>
 
 
-#### ***milleversary on June  7, 2024***
+#### ***milleversary on June  8, 2024***
 
 
 
