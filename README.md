@@ -22,15 +22,18 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June  8***
-1942, Doug Mountjoy, 82 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=806), [CueTracker](http://cuetracker.net/Players/doug-mountjoy/)</sup></sub>
-
-1969, Richard Somauroo, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=136), [CueTracker](http://cuetracker.net/Players/richard-somauroo/)</sup></sub>
-
-1976, Antony Rodriguez, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2709)</sup></sub>
+#### ***born on June  9***
+1978, Wayne Cooper, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=494), [CueTracker](http://cuetracker.net/Players/wayne-cooper/)</sup></sub>
 
 
-#### ***milleversary on June  8, 2024***
+#### ***milleversary on June  9, 2024***
+1964, Wael Talaat, 22000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=589), [CueTracker](http://cuetracker.net/Players/wael-talaat/)</sup></sub>
+
+1986, William Thomson, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=182), [CueTracker](http://cuetracker.net/Players/william-thomson/)</sup></sub>
+
+1994, Sean O'Sullivan, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=552), [CueTracker](http://cuetracker.net/Players/sean-osullivan/)</sup></sub>
+
+2002, Joshua Mallender, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2451)</sup></sub>
 
 
 
