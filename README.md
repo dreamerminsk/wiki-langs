@@ -22,18 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June  9***
-1978, Wayne Cooper, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=494), [CueTracker](http://cuetracker.net/Players/wayne-cooper/)</sup></sub>
+#### ***born on June 10***
 
 
-#### ***milleversary on June  9, 2024***
-1964, Wael Talaat, 22000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=589), [CueTracker](http://cuetracker.net/Players/wael-talaat/)</sup></sub>
-
-1986, William Thomson, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=182), [CueTracker](http://cuetracker.net/Players/william-thomson/)</sup></sub>
-
-1994, Sean O'Sullivan, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=552), [CueTracker](http://cuetracker.net/Players/sean-osullivan/)</sup></sub>
-
-2002, Joshua Mallender, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2451)</sup></sub>
+#### ***milleversary on June 10, 2024***
 
 
 
