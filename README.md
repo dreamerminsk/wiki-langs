@@ -22,10 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 11***
+#### ***born on June 12***
+1981, David B Gilbert, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=118), [CueTracker](http://cuetracker.net/Players/david-gilbert/)</sup></sub>
 
 
-#### ***milleversary on June 11, 2024***
+#### ***milleversary on June 12, 2024***
+1947, Terry Griffiths, 28000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2877)</sup></sub>
+
+1983, Justin Astley, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=57), [CueTracker](http://cuetracker.net/Players/justin-astley/)</sup></sub>
 
 
 
