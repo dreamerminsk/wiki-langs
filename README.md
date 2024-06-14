@@ -22,11 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 13***
-1955, Tony Knowles, 69 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=181), [CueTracker](http://cuetracker.net/Players/tony-knowles/)</sup></sub>
+#### ***born on June 14***
+1983, Wendy Jans, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=236), [CueTracker](http://cuetracker.net/Players/wendy-jans/)</sup></sub>
 
 
-#### ***milleversary on June 13, 2024***
+#### ***milleversary on June 14, 2024***
 
 
 
