@@ -22,14 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 19***
-1983, Mark Selby, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=17), [CueTracker](http://cuetracker.net/Players/mark-selby/)</sup></sub>
+#### ***born on June 20***
+2001, Alex Clenshaw, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2722)</sup></sub>
 
 
-#### ***milleversary on June 19, 2024***
-1969, Ken Doherty, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=170), [CueTracker](http://cuetracker.net/Players/ken-doherty/)</sup></sub>
-
-1988, Ryan Mears, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1042), [CueTracker](http://cuetracker.net/Players/ryan-mears/)</sup></sub>
+#### ***milleversary on June 20, 2024***
+1999, Mark Lloyd, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2595), [CueTracker](http://cuetracker.net/Players/mark-lloyd/)</sup></sub>
 
 
 
