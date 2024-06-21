@@ -22,12 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 20***
-2001, Alex Clenshaw, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2722)</sup></sub>
+#### ***born on June 21***
+2000, Sean McAllister, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2156)</sup></sub>
 
 
-#### ***milleversary on June 20, 2024***
-1999, Mark Lloyd, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2595), [CueTracker](http://cuetracker.net/Players/mark-lloyd/)</sup></sub>
+#### ***milleversary on June 21, 2024***
+1986, Mark Allen, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=202), [CueTracker](http://cuetracker.net/Players/mark-allen/)</sup></sub>
 
 
 
