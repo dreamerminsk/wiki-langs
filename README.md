@@ -22,16 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 28***
-1963, David Singh, 61 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=385), [CueTracker](http://cuetracker.net/Players/david-singh/)</sup></sub>
+#### ***born on June 29***
+1971, Anthony Hamilton, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=115), [CueTracker](http://cuetracker.net/Players/anthony-hamilton/)</sup></sub>
 
-1997, Brandon Sargeant, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=983), [CueTracker](http://cuetracker.net/Players/brandon-sargeant/)</sup></sub>
+2002, Luis Vetter, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2253)</sup></sub>
 
-2006, Liam James Davies, 18 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2438), [CueTracker](http://cuetracker.net/Players/liam-davies/)</sup></sub>
+2004, Jordan Rimmer, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=148), [CueTracker](http://cuetracker.net/Players/jordan-rimmer/)</sup></sub>
 
 
-#### ***milleversary on June 28, 2024***
-1977, Andrew Higginson, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=25), [CueTracker](http://cuetracker.net/Players/andrew-higginson/)</sup></sub>
+#### ***milleversary on June 29, 2024***
 
 
 
