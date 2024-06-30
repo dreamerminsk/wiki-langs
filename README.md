@@ -22,15 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 29***
-1971, Anthony Hamilton, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=115), [CueTracker](http://cuetracker.net/Players/anthony-hamilton/)</sup></sub>
-
-2002, Luis Vetter, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2253)</sup></sub>
-
-2004, Jordan Rimmer, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=148), [CueTracker](http://cuetracker.net/Players/jordan-rimmer/)</sup></sub>
+#### ***born on June 30***
+1974, Matthew Couch, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=29), [CueTracker](http://cuetracker.net/Players/matthew-couch/)</sup></sub>
 
 
-#### ***milleversary on June 29, 2024***
+#### ***milleversary on June 30, 2024***
+1975, Mark J Williams, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1), [CueTracker](http://cuetracker.net/Players/mark-williams/)</sup></sub>
+
+1988, David Morris, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=190), [CueTracker](http://cuetracker.net/Players/david-morris/)</sup></sub>
 
 
 
