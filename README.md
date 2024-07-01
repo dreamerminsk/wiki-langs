@@ -22,14 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 30***
-1974, Matthew Couch, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=29), [CueTracker](http://cuetracker.net/Players/matthew-couch/)</sup></sub>
+#### ***born on July  1***
+1990, Craig Farrar, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2506)</sup></sub>
 
 
-#### ***milleversary on June 30, 2024***
-1975, Mark J Williams, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1), [CueTracker](http://cuetracker.net/Players/mark-williams/)</sup></sub>
-
-1988, David Morris, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=190), [CueTracker](http://cuetracker.net/Players/david-morris/)</sup></sub>
+#### ***milleversary on July  1, 2024***
 
 
 
