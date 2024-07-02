@@ -22,11 +22,18 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July  1***
-1990, Craig Farrar, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2506)</sup></sub>
+#### ***born on July  2***
+1985, Mark Owens, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=706), [CueTracker](http://cuetracker.net/Players/mark-owens/)</sup></sub>
+
+1990, Jamie Tudor, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2774), [CueTracker](http://cuetracker.net/Players/jamie-tudor/)</sup></sub>
+
+1995, Josh Boileau, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=762), [CueTracker](http://cuetracker.net/Players/josh-boileau/)</sup></sub>
+
+1996, Joshua Cooper, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1421), [CueTracker](http://cuetracker.net/Players/joshua-cooper/)</sup></sub>
 
 
-#### ***milleversary on July  1, 2024***
+#### ***milleversary on July  2, 2024***
+2002, Chang Bingyu, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1981), [CueTracker](http://cuetracker.net/Players/chang-bingyu/)</sup></sub>
 
 
 
