@@ -22,15 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July  4***
-1983, Rouzi Maimaiti, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=339), [CueTracker](http://cuetracker.net/Players/rouzi-maimaiti/)</sup></sub>
+#### ***born on July  5***
+1976, Leo Fernandez, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=422), [CueTracker](http://cuetracker.net/Players/leo-fernandez/)</sup></sub>
 
-2000, Niel Vincent, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1848), [CueTracker](http://cuetracker.net/Players/niel-vincent/)</sup></sub>
+1991, Michael White, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=171), [CueTracker](http://cuetracker.net/Players/michael-white/)</sup></sub>
 
-2003, Faizaan Mohammed, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2775)</sup></sub>
+2001, Ross Bulman, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2352)</sup></sub>
 
 
-#### ***milleversary on July  4, 2024***
+#### ***milleversary on July  5, 2024***
+1994, Luke Garland, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1303), [CueTracker](http://cuetracker.net/Players/luke-garland/)</sup></sub>
 
 
 
