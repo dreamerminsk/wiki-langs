@@ -22,16 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July  5***
-1976, Leo Fernandez, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=422), [CueTracker](http://cuetracker.net/Players/leo-fernandez/)</sup></sub>
+#### ***born on July  6***
+1959, Mike Hallett, 65 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=205), [CueTracker](http://cuetracker.net/Players/mike-hallett/)</sup></sub>
 
-1991, Michael White, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=171), [CueTracker](http://cuetracker.net/Players/michael-white/)</sup></sub>
+1993, Hammad Miah, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=593), [CueTracker](http://cuetracker.net/Players/hammad-miah/)</sup></sub>
 
-2001, Ross Bulman, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2352)</sup></sub>
+1996, Thomas Hilborne, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1491), [CueTracker](http://cuetracker.net/Players/thomas-hilborne/)</sup></sub>
 
 
-#### ***milleversary on July  5, 2024***
-1994, Luke Garland, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1303), [CueTracker](http://cuetracker.net/Players/luke-garland/)</sup></sub>
+#### ***milleversary on July  6, 2024***
 
 
 
