@@ -22,15 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July  6***
-1959, Mike Hallett, 65 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=205), [CueTracker](http://cuetracker.net/Players/mike-hallett/)</sup></sub>
+#### ***born on July  7***
+1979, Matthew Bolton, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1510), [CueTracker](http://cuetracker.net/Players/matthew-bolton/)</sup></sub>
 
-1993, Hammad Miah, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=593), [CueTracker](http://cuetracker.net/Players/hammad-miah/)</sup></sub>
+1998, Lynn Shi, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2826), [CueTracker](http://cuetracker.net/Players/lynn-shi/)</sup></sub>
 
-1996, Thomas Hilborne, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1491), [CueTracker](http://cuetracker.net/Players/thomas-hilborne/)</sup></sub>
+2004, Robbie McGuigan, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2507)</sup></sub>
 
 
-#### ***milleversary on July  6, 2024***
+#### ***milleversary on July  7, 2024***
+1983, Wendy Jans, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=236), [CueTracker](http://cuetracker.net/Players/wendy-jans/)</sup></sub>
 
 
 
