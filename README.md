@@ -22,13 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July  9***
+#### ***born on July 10***
+2003, Bai Yulu, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2616)</sup></sub>
 
 
-#### ***milleversary on July  9, 2024***
-1969, Steven Breward, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2450)</sup></sub>
-
-1972, Craig MacGillivray, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=222), [CueTracker](http://cuetracker.net/Players/craig-macgillivray/)</sup></sub>
+#### ***milleversary on July 10, 2024***
 
 
 
