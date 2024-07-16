@@ -22,18 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 15***
-1979, Gareth Edwards, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=553), [CueTracker](http://cuetracker.net/Players/gareth-edwards/)</sup></sub>
+#### ***born on July 16***
+1990, Gareth Green, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=77), [CueTracker](http://cuetracker.net/Players/gareth-green/)</sup></sub>
 
-1992, Noppon Saengkham, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=208), [CueTracker](http://cuetracker.net/Players/noppon-saengkham/)</sup></sub>
-
-1996, Ben Fortey, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=990), [CueTracker](http://cuetracker.net/Players/ben-fortey/)</sup></sub>
-
-1997, Rodion Judin, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1544), [CueTracker](http://cuetracker.net/Players/rodion-judin/)</sup></sub>
+2002, Joshua Mallender, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2451)</sup></sub>
 
 
-#### ***milleversary on July 15, 2024***
-1980, Kuldesh Johal, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=102), [CueTracker](http://cuetracker.net/Players/kuldesh-johal/)</sup></sub>
+#### ***milleversary on July 16, 2024***
 
 
 
