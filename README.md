@@ -22,14 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 17***
-1995, Ashley Carty, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=724), [CueTracker](http://cuetracker.net/Players/ashley-carty/)</sup></sub>
-
-1997, Mateusz Baranowski, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=680), [CueTracker](http://cuetracker.net/Players/mateusz-baranowski/)</sup></sub>
+#### ***born on July 18***
+1985, Thepchaiya Un-Nooh, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=217)</sup></sub>
 
 
-#### ***milleversary on July 17, 2024***
-2002, Kreishh Gurbaxani, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2497)</sup></sub>
+#### ***milleversary on July 18, 2024***
 
 
 
