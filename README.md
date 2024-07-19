@@ -22,11 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 18***
-1985, Thepchaiya Un-Nooh, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=217)</sup></sub>
+#### ***born on July 19***
+1985, Qiu Yalong, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=953), [CueTracker](http://cuetracker.net/Players/qiu-yalong/)</sup></sub>
 
 
-#### ***milleversary on July 18, 2024***
+#### ***milleversary on July 19, 2024***
+1988, Kritsanut Lertsattayatthorn, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1577), [CueTracker](http://cuetracker.net/Players/kritsanut-lertsattayathorn/)</sup></sub>
 
 
 
