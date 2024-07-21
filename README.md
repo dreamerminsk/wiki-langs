@@ -22,12 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 20***
-1978, James Tatton, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1194), [CueTracker](http://cuetracker.net/Players/james-tatton/)</sup></sub>
+#### ***born on July 21***
+1980, Scott Mackenzie, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=505), [CueTracker](http://cuetracker.net/Players/scott-mackenzie/)</sup></sub>
+
+1995, Zhang Yong, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=947), [CueTracker](http://cuetracker.net/Players/zhang-yong/)</sup></sub>
 
 
-#### ***milleversary on July 20, 2024***
-2002, Umar Khan, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2899)</sup></sub>
+#### ***milleversary on July 21, 2024***
 
 
 
