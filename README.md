@@ -22,13 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 22***
-1971, Peter Delaney, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1648), [CueTracker](http://cuetracker.net/Players/peter-delaney/)</sup></sub>
-
-1984, Mark Vincent, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=834), [CueTracker](http://cuetracker.net/Players/mark-vincent/)</sup></sub>
+#### ***born on July 23***
 
 
-#### ***milleversary on July 22, 2024***
+#### ***milleversary on July 23, 2024***
 
 
 
