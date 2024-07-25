@@ -22,18 +22,17 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 24***
-1968, Simon Dent, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1565), [CueTracker](http://cuetracker.net/Players/simon-dent/)</sup></sub>
+#### ***born on July 25***
+1960, Alain Robidoux, 64 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=669), [CueTracker](http://cuetracker.net/Players/alain-robidoux/)</sup></sub>
 
-1985, Pankaj Advani, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=585), [CueTracker](http://cuetracker.net/Players/pankaj-advani/)</sup></sub>
+1972, Mehmet Husnu, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1192), [CueTracker](http://cuetracker.net/Players/mehmet-husnu/)</sup></sub>
 
-1990, Jordan Shepherd, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2801)</sup></sub>
+1979, Allister Carter, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=158), [CueTracker](http://cuetracker.net/Players/ali-carter/)</sup></sub>
+
+1990, Labeeb Ahmed, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2069)</sup></sub>
 
 
-#### ***milleversary on July 24, 2024***
-1964, Imran Puri, 22000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1209), [CueTracker](http://cuetracker.net/Players/imran-puri/)</sup></sub>
-
-1978, Marco Fu, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4), [CueTracker](http://cuetracker.net/Players/marco-fu/)</sup></sub>
+#### ***milleversary on July 25, 2024***
 
 
 
