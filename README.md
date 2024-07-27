@@ -22,11 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 26***
+#### ***born on July 27***
+1980, Mark Bell, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2785), [CueTracker](http://cuetracker.net/Players/mark-bell/)</sup></sub>
+
+1987, Alex Davies, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=144), [CueTracker](http://cuetracker.net/Players/alex-davies/)</sup></sub>
+
+1991, Ma Tingpeng, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=952), [CueTracker](http://cuetracker.net/Players/ma-tingpeng/)</sup></sub>
 
 
-#### ***milleversary on July 26, 2024***
-1942, Doug Mountjoy, 30000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=806), [CueTracker](http://cuetracker.net/Players/doug-mountjoy/)</sup></sub>
+#### ***milleversary on July 27, 2024***
+1983, Rouzi Maimaiti, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=339), [CueTracker](http://cuetracker.net/Players/rouzi-maimaiti/)</sup></sub>
 
 
 
