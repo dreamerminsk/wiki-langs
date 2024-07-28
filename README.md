@@ -22,16 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 27***
-1980, Mark Bell, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2785), [CueTracker](http://cuetracker.net/Players/mark-bell/)</sup></sub>
+#### ***born on July 28***
+1971, Ian McCulloch, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=103), [CueTracker](http://cuetracker.net/Players/ian-mcculloch/)</sup></sub>
 
-1987, Alex Davies, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=144), [CueTracker](http://cuetracker.net/Players/alex-davies/)</sup></sub>
-
-1991, Ma Tingpeng, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=952), [CueTracker](http://cuetracker.net/Players/ma-tingpeng/)</sup></sub>
+1985, Itaro Santos, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=583), [CueTracker](http://cuetracker.net/Players/itaro-santos/)</sup></sub>
 
 
-#### ***milleversary on July 27, 2024***
-1983, Rouzi Maimaiti, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=339), [CueTracker](http://cuetracker.net/Players/rouzi-maimaiti/)</sup></sub>
+#### ***milleversary on July 28, 2024***
+1980, Shafaqut Hussain, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2060), [CueTracker](http://cuetracker.net/Players/shafaqut-hussain/)</sup></sub>
 
 
 
