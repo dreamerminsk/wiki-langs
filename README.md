@@ -22,14 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 28***
-1971, Ian McCulloch, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=103), [CueTracker](http://cuetracker.net/Players/ian-mcculloch/)</sup></sub>
+#### ***born on July 29***
+1952, Joe Johnson, 72 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=469), [CueTracker](http://cuetracker.net/Players/joe-johnson/)</sup></sub>
 
-1985, Itaro Santos, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=583), [CueTracker](http://cuetracker.net/Players/itaro-santos/)</sup></sub>
+1993, Jak Jones, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=90), [CueTracker](http://cuetracker.net/Players/jak-jones/)</sup></sub>
+
+1997, Yana Shut, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1816), [CueTracker](http://cuetracker.net/Players/yana-shut/)</sup></sub>
 
 
-#### ***milleversary on July 28, 2024***
-1980, Shafaqut Hussain, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2060), [CueTracker](http://cuetracker.net/Players/shafaqut-hussain/)</sup></sub>
+#### ***milleversary on July 29, 2024***
 
 
 
