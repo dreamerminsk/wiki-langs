@@ -22,17 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 30***
-1975, Steve Crowley, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2684)</sup></sub>
+#### ***born on July 31***
+1971, Sean Coote, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2891)</sup></sub>
 
-1980, Liu Jing, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2988)</sup></sub>
-
-1991, Jack Bradford, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=613), [CueTracker](http://cuetracker.net/Players/jack-bradford/)</sup></sub>
-
-1996, Haydon Pinhey, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2061), [CueTracker](http://cuetracker.net/Players/haydon-pinhey/)</sup></sub>
+1988, Daniel Wells, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=32), [CueTracker](http://cuetracker.net/Players/daniel-wells/)</sup></sub>
 
 
-#### ***milleversary on July 30, 2024***
+#### ***milleversary on July 31, 2024***
+1972, Mehmet Husnu, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1192), [CueTracker](http://cuetracker.net/Players/mehmet-husnu/)</sup></sub>
 
 
 
