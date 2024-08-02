@@ -22,14 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August  1***
-1978, James Burrett, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=531), [CueTracker](http://cuetracker.net/Players/james-burrett/)</sup></sub>
+#### ***born on August  2***
+1981, Keith Keldie, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1494), [CueTracker](http://cuetracker.net/Players/keith-keldie/)</sup></sub>
 
-1992, Christopher Keogan, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=416), [CueTracker](http://cuetracker.net/Players/christopher-keogan/)</sup></sub>
+1989, Zsolt Fenyvesi, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2400), [CueTracker](http://cuetracker.net/Players/zsolt-fenyvesi/)</sup></sub>
 
 
-#### ***milleversary on August  1, 2024***
-1969, Bash Maqsood, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=532), [CueTracker](http://cuetracker.net/Players/bash-maqsood/)</sup></sub>
+#### ***milleversary on August  2, 2024***
 
 
 
