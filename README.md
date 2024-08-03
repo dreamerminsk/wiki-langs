@@ -22,13 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August  2***
-1981, Keith Keldie, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1494), [CueTracker](http://cuetracker.net/Players/keith-keldie/)</sup></sub>
-
-1989, Zsolt Fenyvesi, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2400), [CueTracker](http://cuetracker.net/Players/zsolt-fenyvesi/)</sup></sub>
+#### ***born on August  3***
 
 
-#### ***milleversary on August  2, 2024***
+#### ***milleversary on August  3, 2024***
+1964, John Parrott, 22000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=408), [CueTracker](http://cuetracker.net/Players/john-parrott/)</sup></sub>
+
+1975, Stuart Pettman, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=179), [CueTracker](http://cuetracker.net/Players/stuart-pettman/)</sup></sub>
 
 
 
