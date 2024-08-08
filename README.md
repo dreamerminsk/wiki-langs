@@ -22,13 +22,17 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August  7***
-1978, Michael Holt, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=125), [CueTracker](http://cuetracker.net/Players/michael-holt/)</sup></sub>
+#### ***born on August  8***
+1983, Kurt Maflin, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=61), [CueTracker](http://cuetracker.net/Players/kurt-maflin/)</sup></sub>
 
-2001, Luke Pinches, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2081)</sup></sub>
+1990, Scott Bell, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=663), [CueTracker](http://cuetracker.net/Players/scott-bell/)</sup></sub>
+
+2001, Jackson Page, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2166), [CueTracker](http://cuetracker.net/Players/jackson-page/)</sup></sub>
+
+2002, Chang Bingyu, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1981), [CueTracker](http://cuetracker.net/Players/chang-bingyu/)</sup></sub>
 
 
-#### ***milleversary on August  7, 2024***
+#### ***milleversary on August  8, 2024***
 
 
 
