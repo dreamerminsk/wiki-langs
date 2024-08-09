@@ -22,17 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August  8***
-1983, Kurt Maflin, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=61), [CueTracker](http://cuetracker.net/Players/kurt-maflin/)</sup></sub>
+#### ***born on August  9***
+1990, Monica Manolache, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1959), [CueTracker](http://cuetracker.net/Players/monica-manolache/)</sup></sub>
 
-1990, Scott Bell, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=663), [CueTracker](http://cuetracker.net/Players/scott-bell/)</sup></sub>
-
-2001, Jackson Page, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2166), [CueTracker](http://cuetracker.net/Players/jackson-page/)</sup></sub>
-
-2002, Chang Bingyu, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1981), [CueTracker](http://cuetracker.net/Players/chang-bingyu/)</sup></sub>
+1996, Wang Zepeng, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1111), [CueTracker](http://cuetracker.net/Players/wang-zepeng/)</sup></sub>
 
 
-#### ***milleversary on August  8, 2024***
+#### ***milleversary on August  9, 2024***
 
 
 
