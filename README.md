@@ -22,22 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 10***
-1973, Andy Hicks, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=51), [CueTracker](http://cuetracker.net/Players/andy-hicks/)</sup></sub>
+#### ***born on August 11***
+1983, Mark Joyce, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=48), [CueTracker](http://cuetracker.net/Players/mark-joyce/)</sup></sub>
 
-1975, Aaron Canavan, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2327), [CueTracker](http://cuetracker.net/Players/aaron-canavan/)</sup></sub>
-
-1982, Shaun Murphy, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=97), [CueTracker](http://cuetracker.net/Players/shaun-murphy/)</sup></sub>
-
-1987, Chau Hon Man, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1090), [CueTracker](http://cuetracker.net/Players/chau-hon-man/)</sup></sub>
-
-1996, Peter Devlin, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1122), [CueTracker](http://cuetracker.net/Players/peter-devlin/)</sup></sub>
+1985, Gary Wilson, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=546), [CueTracker](http://cuetracker.net/Players/gary-wilson/)</sup></sub>
 
 
-#### ***milleversary on August 10, 2024***
-1972, Joe Delaney, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=194), [CueTracker](http://cuetracker.net/Players/joe-delaney/)</sup></sub>
-
-1991, Zak Surety, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=89), [CueTracker](http://cuetracker.net/Players/zak-surety/)</sup></sub>
+#### ***milleversary on August 11, 2024***
+1999, Harry Farrell, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2488)</sup></sub>
 
 
 
