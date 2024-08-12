@@ -22,14 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 11***
-1983, Mark Joyce, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=48), [CueTracker](http://cuetracker.net/Players/mark-joyce/)</sup></sub>
-
-1985, Gary Wilson, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=546), [CueTracker](http://cuetracker.net/Players/gary-wilson/)</sup></sub>
+#### ***born on August 12***
+1972, Mark Davis, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=15), [CueTracker](http://cuetracker.net/Players/mark-davis/)</sup></sub>
 
 
-#### ***milleversary on August 11, 2024***
-1999, Harry Farrell, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2488)</sup></sub>
+#### ***milleversary on August 12, 2024***
+1975, Evan Munro, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2773), [CueTracker](http://cuetracker.net/Players/evan-munro/)</sup></sub>
 
 
 
