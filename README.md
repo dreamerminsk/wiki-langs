@@ -22,16 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 13***
-1974, Joe Perry, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=168), [CueTracker](http://cuetracker.net/Players/joe-perry/)</sup></sub>
-
-1992, Jake Nicholson, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=138), [CueTracker](http://cuetracker.net/Players/jake-nicholson/)</sup></sub>
-
-1995, Owais Ali, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1724), [CueTracker](http://cuetracker.net/Players/owais-ali/)</sup></sub>
+#### ***born on August 14***
+1986, Chris Norbury, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=69), [CueTracker](http://cuetracker.net/Players/chris-norbury/)</sup></sub>
 
 
-#### ***milleversary on August 13, 2024***
-1989, Mohammadali Pordel, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2334)</sup></sub>
+#### ***milleversary on August 14, 2024***
+1989, Rebecca Kenna, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2121), [CueTracker](http://cuetracker.net/Players/rebecca-kenna/)</sup></sub>
 
 
 
