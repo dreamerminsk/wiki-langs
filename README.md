@@ -22,12 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 14***
-1986, Chris Norbury, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=69), [CueTracker](http://cuetracker.net/Players/chris-norbury/)</sup></sub>
+#### ***born on August 15***
+1981, Marc Shaw, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2900)</sup></sub>
 
 
-#### ***milleversary on August 14, 2024***
-1989, Rebecca Kenna, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2121), [CueTracker](http://cuetracker.net/Players/rebecca-kenna/)</sup></sub>
+#### ***milleversary on August 15, 2024***
 
 
 
