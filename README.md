@@ -22,18 +22,17 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 16***
-1974, Robin Hull, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=549), [CueTracker](http://cuetracker.net/Players/robin-hull/)</sup></sub>
+#### ***born on August 17***
+1958, Kirk Stevens, 66 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2870)</sup></sub>
 
-1981, Cao Xinlong, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=514), [CueTracker](http://cuetracker.net/Players/cao-xinlong/)</sup></sub>
+1982, Basem Eltahhan, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2101), [CueTracker](http://cuetracker.net/Players/basem-eltahhan/)</sup></sub>
 
-1987, Tian Pengfei, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=218), [CueTracker](http://cuetracker.net/Players/tian-pengfei/)</sup></sub>
+1983, Tom Ford, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=8), [CueTracker](http://cuetracker.net/Players/tom-ford/)</sup></sub>
+
+1994, Rhys Clark, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=917), [CueTracker](http://cuetracker.net/Players/rhys-clark/)</sup></sub>
 
 
-#### ***milleversary on August 16, 2024***
-1989, John Astley, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=526), [CueTracker](http://cuetracker.net/Players/john-astley/)</sup></sub>
-
-1999, Brandon Hall, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2206)</sup></sub>
+#### ***milleversary on August 17, 2024***
 
 
 
