@@ -22,17 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 17***
-1958, Kirk Stevens, 66 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2870)</sup></sub>
-
-1982, Basem Eltahhan, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2101), [CueTracker](http://cuetracker.net/Players/basem-eltahhan/)</sup></sub>
-
-1983, Tom Ford, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=8), [CueTracker](http://cuetracker.net/Players/tom-ford/)</sup></sub>
-
-1994, Rhys Clark, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=917), [CueTracker](http://cuetracker.net/Players/rhys-clark/)</sup></sub>
+#### ***born on August 18***
+1994, Oliver Brown, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=146), [CueTracker](http://cuetracker.net/Players/oliver-brown/)</sup></sub>
 
 
-#### ***milleversary on August 17, 2024***
+#### ***milleversary on August 18, 2024***
+1972, Mark Davis, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=15), [CueTracker](http://cuetracker.net/Players/mark-davis/)</sup></sub>
+
+1997, Zhao Xintong, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=946), [CueTracker](http://cuetracker.net/Players/zhao-xintong/)</sup></sub>
 
 
 
