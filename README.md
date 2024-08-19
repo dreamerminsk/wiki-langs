@@ -22,14 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 18***
-1994, Oliver Brown, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=146), [CueTracker](http://cuetracker.net/Players/oliver-brown/)</sup></sub>
+#### ***born on August 19***
+1970, Darren Barton, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1726), [CueTracker](http://cuetracker.net/Players/darren-barton/)</sup></sub>
+
+1986, Jamie O'Neill, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=79), [CueTracker](http://cuetracker.net/Players/jamie-oneill/)</sup></sub>
+
+1990, Shi Hanqing, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=508), [CueTracker](http://cuetracker.net/Players/shi-hanqing/)</sup></sub>
 
 
-#### ***milleversary on August 18, 2024***
-1972, Mark Davis, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=15), [CueTracker](http://cuetracker.net/Players/mark-davis/)</sup></sub>
-
-1997, Zhao Xintong, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=946), [CueTracker](http://cuetracker.net/Players/zhao-xintong/)</sup></sub>
+#### ***milleversary on August 19, 2024***
 
 
 
