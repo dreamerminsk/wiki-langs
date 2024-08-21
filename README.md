@@ -22,13 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 20***
-1986, Jaspal Bamotra, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1425), [CueTracker](http://cuetracker.net/Players/jaspal-bamotra/)</sup></sub>
+#### ***born on August 21***
+1967, Sean Lanigan, 57 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1353), [CueTracker](http://cuetracker.net/Players/sean-lanigan/)</sup></sub>
 
-1989, Judd Trump, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=12), [CueTracker](http://cuetracker.net/Players/judd-trump/)</sup></sub>
+1986, Hatem Yassin, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1764), [CueTracker](http://cuetracker.net/Players/yassem-hatem/)</sup></sub>
 
 
-#### ***milleversary on August 20, 2024***
+#### ***milleversary on August 21, 2024***
+1969, Au Chi Wai, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=511), [CueTracker](http://cuetracker.net/Players/au-chi-wai/)</sup></sub>
 
 
 
