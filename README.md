@@ -22,14 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 21***
-1967, Sean Lanigan, 57 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1353), [CueTracker](http://cuetracker.net/Players/sean-lanigan/)</sup></sub>
+#### ***born on August 22***
+1957, Steve Davis, 67 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=212), [CueTracker](http://cuetracker.net/Players/steve-davis/)</sup></sub>
 
-1986, Hatem Yassin, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1764), [CueTracker](http://cuetracker.net/Players/yassem-hatem/)</sup></sub>
+1977, Fung Kwok Wai, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=581), [CueTracker](http://cuetracker.net/Players/fung-kwok-wai/)</sup></sub>
 
 
-#### ***milleversary on August 21, 2024***
-1969, Au Chi Wai, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=511), [CueTracker](http://cuetracker.net/Players/au-chi-wai/)</sup></sub>
+#### ***milleversary on August 22, 2024***
 
 
 
