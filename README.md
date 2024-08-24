@@ -22,19 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 23***
-1963, Gary Filtness, 61 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1357), [CueTracker](http://cuetracker.net/Players/gary-filtness/)</sup></sub>
-
-1973, Tugba Irten, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1727), [CueTracker](http://cuetracker.net/Players/tugba-irten/)</sup></sub>
-
-1985, Adam Wicheard, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=86), [CueTracker](http://cuetracker.net/Players/adam-wicheard/)</sup></sub>
-
-1998, Richard Wienold, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1903), [CueTracker](http://cuetracker.net/Players/richard-wienold/)</sup></sub>
-
-2002, Kreishh Gurbaxani, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2497)</sup></sub>
+#### ***born on August 24***
+1972, Adrian Gunnell, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=55), [CueTracker](http://cuetracker.net/Players/adrian-gunnell/)</sup></sub>
 
 
-#### ***milleversary on August 23, 2024***
+#### ***milleversary on August 24, 2024***
 
 
 
