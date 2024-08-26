@@ -22,16 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 25***
-1972, Steve Mifsud, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=580), [CueTracker](http://cuetracker.net/Players/steve-mifsud/)</sup></sub>
-
-1998, Zhang Jiankang, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2134), [CueTracker](http://cuetracker.net/Players/zhang-jiankang/)</sup></sub>
+#### ***born on August 26***
+2002, Umar Khan, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2899)</sup></sub>
 
 
-#### ***milleversary on August 25, 2024***
-1980, Andrew Tapper, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2786), [CueTracker](http://cuetracker.net/Players/andrew-tapper/)</sup></sub>
-
-2005, Aidan Murphy, 7000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2755), [CueTracker](http://cuetracker.net/Players/aidan-murphy-ii/)</sup></sub>
+#### ***milleversary on August 26, 2024***
 
 
 
