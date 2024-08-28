@@ -22,16 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 27***
-1970, Peter Ebdon, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=42), [CueTracker](http://cuetracker.net/Players/peter-ebdon/)</sup></sub>
-
-1992, Michael Williams, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1322), [CueTracker](http://cuetracker.net/Players/michael-williams/)</sup></sub>
-
-2003, Zhao Jianbo, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2557), [CueTracker](http://cuetracker.net/Players/jianbo-zhao/)</sup></sub>
+#### ***born on August 28***
+1990, Ryan Causton, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=235), [CueTracker](http://cuetracker.net/Players/ryan-causton/)</sup></sub>
 
 
-#### ***milleversary on August 27, 2024***
-1975, John Higgins, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=237), [CueTracker](http://cuetracker.net/Players/john-higgins/)</sup></sub>
+#### ***milleversary on August 28, 2024***
+1986, Passakorn Suwannawat, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=323), [CueTracker](http://cuetracker.net/Players/passakorn-suwannawat/)</sup></sub>
 
 
 
