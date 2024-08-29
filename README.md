@@ -22,12 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 28***
-1990, Ryan Causton, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=235), [CueTracker](http://cuetracker.net/Players/ryan-causton/)</sup></sub>
+#### ***born on August 29***
+1969, Joe Swail, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=35), [CueTracker](http://cuetracker.net/Players/joe-swail/)</sup></sub>
 
 
-#### ***milleversary on August 28, 2024***
-1986, Passakorn Suwannawat, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=323), [CueTracker](http://cuetracker.net/Players/passakorn-suwannawat/)</sup></sub>
+#### ***milleversary on August 29, 2024***
 
 
 
