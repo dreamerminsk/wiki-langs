@@ -22,11 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 29***
-1969, Joe Swail, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=35), [CueTracker](http://cuetracker.net/Players/joe-swail/)</sup></sub>
+#### ***born on August 30***
+1989, Bratislav Krustev, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1126), [CueTracker](http://cuetracker.net/Players/bratislav-krustev/)</sup></sub>
 
 
-#### ***milleversary on August 29, 2024***
+#### ***milleversary on August 30, 2024***
+1972, Adrian Gunnell, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=55), [CueTracker](http://cuetracker.net/Players/adrian-gunnell/)</sup></sub>
+
+1975, Stephen Kershaw, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2090), [CueTracker](http://cuetracker.net/Players/stephen-kershaw/)</sup></sub>
+
+1986, Jimmy Robertson, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=93), [CueTracker](http://cuetracker.net/Players/jimmy-robertson/)</sup></sub>
 
 
 
