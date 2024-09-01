@@ -22,13 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 31***
+#### ***born on September  1***
 
 
-#### ***milleversary on August 31, 2024***
-1972, Steve Mifsud, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=580), [CueTracker](http://cuetracker.net/Players/steve-mifsud/)</sup></sub>
-
-1983, Kurt Maflin, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=61), [CueTracker](http://cuetracker.net/Players/kurt-maflin/)</sup></sub>
+#### ***milleversary on September  1, 2024***
 
 
 
