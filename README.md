@@ -22,12 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September  3***
-1949, Dessie Sheehan, 75 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=594), [CueTracker](http://cuetracker.net/Players/dessie-sheehan/)</sup></sub>
+#### ***born on September  4***
+1976, Bjorn Haneveer, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=64), [CueTracker](http://cuetracker.net/Players/bjorn-haneveer/)</sup></sub>
+
+1992, Jack Culligan, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=139), [CueTracker](http://cuetracker.net/Players/jack-culligan/)</sup></sub>
 
 
-#### ***milleversary on September  3, 2024***
-1983, Mark Joyce, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=48), [CueTracker](http://cuetracker.net/Players/mark-joyce/)</sup></sub>
+#### ***milleversary on September  4, 2024***
 
 
 
