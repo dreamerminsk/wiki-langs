@@ -22,20 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September  5***
-1976, Hussain Ahmed, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2710)</sup></sub>
+#### ***born on September  6***
+1978, Hani Owaidhi, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2455)</sup></sub>
 
-1991, Luke Maddison, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2765), [CueTracker](http://cuetracker.net/Players/luke-maddison/)</sup></sub>
+1991, Himanshu Dinesh Jain, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2341)</sup></sub>
 
-1992, Callum Downing, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=159), [CueTracker](http://cuetracker.net/Players/callum-downing/)</sup></sub>
-
-1996, Brian Cini, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1307), [CueTracker](http://cuetracker.net/Players/brian-cini/)</sup></sub>
-
-2004, Gao Yang, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2607), [CueTracker](http://cuetracker.net/Players/gao-yang/)</sup></sub>
+1999, Daniel Williams, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2243)</sup></sub>
 
 
-#### ***milleversary on September  5, 2024***
-1978, Khurram Khan, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2449)</sup></sub>
+#### ***milleversary on September  6, 2024***
+2002, Deng Haohui, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2628)</sup></sub>
 
 
 
