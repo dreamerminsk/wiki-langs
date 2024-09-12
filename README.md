@@ -22,15 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September 11***
-1970, Hans Blanckaert, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=191), [CueTracker](http://cuetracker.net/Players/hans-blanckaert/)</sup></sub>
+#### ***born on September 12***
+1985, Jamie Cope, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3), [CueTracker](http://cuetracker.net/Players/jamie-cope/)</sup></sub>
 
-1977, Matthew Stevens, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=9), [CueTracker](http://cuetracker.net/Players/matthew-stevens/)</sup></sub>
-
-1982, Adrian Ridley, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=911), [CueTracker](http://cuetracker.net/Players/adrian-ridley/)</sup></sub>
+2004, Liam Graham, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2439), [CueTracker](http://cuetracker.net/Players/liam-graham/)</sup></sub>
 
 
-#### ***milleversary on September 11, 2024***
+#### ***milleversary on September 12, 2024***
+1948, Cliff Thorburn, 28000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=470), [CueTracker](http://cuetracker.net/Players/cliff-thorburn/)</sup></sub>
+
+1969, Peter Lines, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=37), [CueTracker](http://cuetracker.net/Players/peter-lines/)</sup></sub>
 
 
 
