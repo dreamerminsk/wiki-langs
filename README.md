@@ -22,16 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September 12***
-1985, Jamie Cope, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3), [CueTracker](http://cuetracker.net/Players/jamie-cope/)</sup></sub>
-
-2004, Liam Graham, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2439), [CueTracker](http://cuetracker.net/Players/liam-graham/)</sup></sub>
+#### ***born on September 13***
+1993, Jake Keen, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1489), [CueTracker](http://cuetracker.net/Players/jake-keen/)</sup></sub>
 
 
-#### ***milleversary on September 12, 2024***
-1948, Cliff Thorburn, 28000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=470), [CueTracker](http://cuetracker.net/Players/cliff-thorburn/)</sup></sub>
-
-1969, Peter Lines, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=37), [CueTracker](http://cuetracker.net/Players/peter-lines/)</sup></sub>
+#### ***milleversary on September 13, 2024***
+1989, Xiao Guodong, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=24), [CueTracker](http://cuetracker.net/Players/xiao-guodong/)</sup></sub>
 
 
 
