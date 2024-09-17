@@ -22,14 +22,18 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September 16***
-1975, Jamie Burnett, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=53), [CueTracker](http://cuetracker.net/Players/jamie-burnett/)</sup></sub>
+#### ***born on September 17***
+1964, Ian Brumby, 60 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=794), [CueTracker](http://cuetracker.net/Players/ian-brumby/)</sup></sub>
+
+1969, Ken Doherty, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=170), [CueTracker](http://cuetracker.net/Players/ken-doherty/)</sup></sub>
+
+1992, Li Yan, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=296), [CueTracker](http://cuetracker.net/Players/li-yan/)</sup></sub>
+
+1995, Chen Zifan, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=933), [CueTracker](http://cuetracker.net/Players/chen-zifan/)</sup></sub>
 
 
-#### ***milleversary on September 16, 2024***
-1980, Lee Chun Wai Andy, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=123), [CueTracker](http://cuetracker.net/Players/andy-lee/)</sup></sub>
-
-1997, Aaron Holland, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2342)</sup></sub>
+#### ***milleversary on September 17, 2024***
+1989, Roshan Birdi, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1734), [CueTracker](http://cuetracker.net/Players/roshan-birdi/)</sup></sub>
 
 
 
