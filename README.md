@@ -22,14 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September 20***
-1969, Patrick Wallace, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=56), [CueTracker](http://cuetracker.net/Players/patrick-wallace/)</sup></sub>
+#### ***born on September 21***
+1987, Marc J Davis, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=149), [CueTracker](http://cuetracker.net/Players/marc-davis/)</sup></sub>
 
 
-#### ***milleversary on September 20, 2024***
-1969, Nick Dyson, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=922), [CueTracker](http://cuetracker.net/Players/nick-dyson/)</sup></sub>
-
-2000, Luo Honghao, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1237), [CueTracker](http://cuetracker.net/Players/luo-honghao/)</sup></sub>
+#### ***milleversary on September 21, 2024***
+1991, Asjad Iqbal, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1935), [CueTracker](http://cuetracker.net/Players/asjad-iqbal/)</sup></sub>
 
 
 
