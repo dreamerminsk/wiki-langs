@@ -22,16 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September 23***
-1977, Nezar Asseri, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2468)</sup></sub>
-
-1985, David Donovan, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2780)</sup></sub>
-
-1998, Vladyslav Vyshnevskyy, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=673), [CueTracker](http://cuetracker.net/Players/vladyslav-vyshnevskyy/)</sup></sub>
+#### ***born on September 24***
+1999, Noel Landers, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2504)</sup></sub>
 
 
-#### ***milleversary on September 23, 2024***
-2000, Umut Dikme, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2249)</sup></sub>
+#### ***milleversary on September 24, 2024***
 
 
 
