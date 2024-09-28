@@ -22,13 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September 27***
+#### ***born on September 28***
+1994, Ashley Hugill, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1323), [CueTracker](http://cuetracker.net/Players/ashley-hugill/)</sup></sub>
 
 
-#### ***milleversary on September 27, 2024***
-1989, Michael Collumb, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1177), [CueTracker](http://cuetracker.net/Players/michael-collumb/)</sup></sub>
+#### ***milleversary on September 28, 2024***
+1972, Marcus Campbell, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=11), [CueTracker](http://cuetracker.net/Players/marcus-campbell/)</sup></sub>
 
-1994, Rhys Clark, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=917), [CueTracker](http://cuetracker.net/Players/rhys-clark/)</sup></sub>
+1994, Oliver Brown, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=146), [CueTracker](http://cuetracker.net/Players/oliver-brown/)</sup></sub>
 
 
 
