@@ -22,14 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September 28***
-1994, Ashley Hugill, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1323), [CueTracker](http://cuetracker.net/Players/ashley-hugill/)</sup></sub>
+#### ***born on September 29***
+1988, Matthew Roberts, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2161), [CueTracker](http://cuetracker.net/Players/matthew-roberts/)</sup></sub>
 
 
-#### ***milleversary on September 28, 2024***
-1972, Marcus Campbell, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=11), [CueTracker](http://cuetracker.net/Players/marcus-campbell/)</sup></sub>
-
-1994, Oliver Brown, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=146), [CueTracker](http://cuetracker.net/Players/oliver-brown/)</sup></sub>
+#### ***milleversary on September 29, 2024***
+1978, Tam Mustafa, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2332)</sup></sub>
 
 
 
