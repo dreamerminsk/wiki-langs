@@ -22,11 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on September 30***
+#### ***born on October  1***
+1971, Paul S Davison, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=23), [CueTracker](http://cuetracker.net/Players/paul-davison/)</sup></sub>
+
+1994, Ryan Thomerson, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=741), [CueTracker](http://cuetracker.net/Players/ryan-thomerson/)</sup></sub>
 
 
-#### ***milleversary on September 30, 2024***
-1989, Alex Taubman, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=156), [CueTracker](http://cuetracker.net/Players/alex-taubman/)</sup></sub>
+#### ***milleversary on October  1, 2024***
+1986, Martin O'Donnell, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=120), [CueTracker](http://cuetracker.net/Players/martin-odonnell/)</sup></sub>
 
 
 
