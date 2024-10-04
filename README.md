@@ -22,11 +22,25 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October  3***
-1983, Aman Goel, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2496)</sup></sub>
+#### ***born on October  4***
+1959, Tony Meo, 65 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2874)</sup></sub>
+
+1967, Mark Winsor, 57 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2448)</sup></sub>
+
+1982, Chen Feilong, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=910), [CueTracker](http://cuetracker.net/Players/chen-feilong/)</sup></sub>
+
+1983, Issara Kachaiwong, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=192), [CueTracker](http://cuetracker.net/Players/issara-kachaiwong/)</sup></sub>
+
+1989, Tomasz Skalski, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=358), [CueTracker](http://cuetracker.net/Players/tomasz-skalski/)</sup></sub>
+
+1990, Li Hang, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=295), [CueTracker](http://cuetracker.net/Players/li-hang/)</sup></sub>
+
+1991, Zak Surety, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=89), [CueTracker](http://cuetracker.net/Players/zak-surety/)</sup></sub>
+
+1999, James Welch, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2366)</sup></sub>
 
 
-#### ***milleversary on October  3, 2024***
+#### ***milleversary on October  4, 2024***
 
 
 
