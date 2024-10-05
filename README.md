@@ -22,25 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October  4***
-1959, Tony Meo, 65 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2874)</sup></sub>
+#### ***born on October  5***
+1994, Jamie Clarke, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=106), [CueTracker](http://cuetracker.net/Players/jamie-clarke/)</sup></sub>
 
-1967, Mark Winsor, 57 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2448)</sup></sub>
-
-1982, Chen Feilong, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=910), [CueTracker](http://cuetracker.net/Players/chen-feilong/)</sup></sub>
-
-1983, Issara Kachaiwong, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=192), [CueTracker](http://cuetracker.net/Players/issara-kachaiwong/)</sup></sub>
-
-1989, Tomasz Skalski, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=358), [CueTracker](http://cuetracker.net/Players/tomasz-skalski/)</sup></sub>
-
-1990, Li Hang, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=295), [CueTracker](http://cuetracker.net/Players/li-hang/)</sup></sub>
-
-1991, Zak Surety, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=89), [CueTracker](http://cuetracker.net/Players/zak-surety/)</sup></sub>
-
-1999, James Welch, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2366)</sup></sub>
+1995, Boonyarit Keattikun, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1578), [CueTracker](http://cuetracker.net/Players/boonyarit-keattikun/)</sup></sub>
 
 
-#### ***milleversary on October  4, 2024***
+#### ***milleversary on October  5, 2024***
+1989, Martyn Taylor, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2768), [CueTracker](http://cuetracker.net/Players/martyn-taylor/)</sup></sub>
+
+2000, Pang Junxu, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1257), [CueTracker](http://cuetracker.net/Players/pang-junxu/)</sup></sub>
 
 
 
