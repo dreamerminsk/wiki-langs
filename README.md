@@ -22,16 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October  5***
-1994, Jamie Clarke, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=106), [CueTracker](http://cuetracker.net/Players/jamie-clarke/)</sup></sub>
+#### ***born on October  6***
+1995, Ross Muir, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=898), [CueTracker](http://cuetracker.net/Players/ross-muir/)</sup></sub>
 
-1995, Boonyarit Keattikun, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1578), [CueTracker](http://cuetracker.net/Players/boonyarit-keattikun/)</sup></sub>
+2000, Abdul Javed, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2894)</sup></sub>
 
 
-#### ***milleversary on October  5, 2024***
-1989, Martyn Taylor, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2768), [CueTracker](http://cuetracker.net/Players/martyn-taylor/)</sup></sub>
-
-2000, Pang Junxu, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1257), [CueTracker](http://cuetracker.net/Players/pang-junxu/)</sup></sub>
+#### ***milleversary on October  6, 2024***
+2000, Yan Bingtao, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1260), [CueTracker](http://cuetracker.net/Players/yan-bingtao/)</sup></sub>
 
 
 
