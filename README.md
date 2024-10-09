@@ -22,16 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October  8***
-1932, Ray Reardon, 92 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2875)</sup></sub>
+#### ***born on October  9***
+1987, Jordan Brown, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=58), [CueTracker](http://cuetracker.net/Players/jordan-brown/)</sup></sub>
 
-1980, Shafaqut Hussain, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2060), [CueTracker](http://cuetracker.net/Players/shafaqut-hussain/)</sup></sub>
-
-1982, Mei Xiwen, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=306), [CueTracker](http://cuetracker.net/Players/mei-xiwen/)</sup></sub>
+2000, Alfie Davies, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2803)</sup></sub>
 
 
-#### ***milleversary on October  8, 2024***
-1978, Rodney Goggins, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=498), [CueTracker](http://cuetracker.net/Players/rodney-goggins/)</sup></sub>
+#### ***milleversary on October  9, 2024***
+1980, Gary Challis, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2051), [CueTracker](http://cuetracker.net/Players/gary-challis/)</sup></sub>
 
 
 
