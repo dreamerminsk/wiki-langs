@@ -22,14 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October  9***
-1987, Jordan Brown, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=58), [CueTracker](http://cuetracker.net/Players/jordan-brown/)</sup></sub>
-
-2000, Alfie Davies, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2803)</sup></sub>
+#### ***born on October 10***
 
 
-#### ***milleversary on October  9, 2024***
-1980, Gary Challis, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2051), [CueTracker](http://cuetracker.net/Players/gary-challis/)</sup></sub>
+#### ***milleversary on October 10, 2024***
 
 
 
