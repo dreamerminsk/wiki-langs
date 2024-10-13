@@ -22,16 +22,19 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 12***
-1974, Stephen Lee, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=13), [CueTracker](http://cuetracker.net/Players/stephen-lee/)</sup></sub>
+#### ***born on October 13***
+1963, Stephen Baillie, 61 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1178), [CueTracker](http://cuetracker.net/Players/stephen-baillie/)</sup></sub>
+
+1968, Steven Thomas, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2454)</sup></sub>
+
+1995, Jack Smithers, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2053), [CueTracker](http://cuetracker.net/Players/jack-smithers/)</sup></sub>
+
+2002, Deng Haohui, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2628)</sup></sub>
+
+2004, Ben Mertens, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1923), [CueTracker](http://cuetracker.net/Players/ben-mertens/)</sup></sub>
 
 
-#### ***milleversary on October 12, 2024***
-1970, David McLellan, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=525), [CueTracker](http://cuetracker.net/Players/david-mclellan/)</sup></sub>
-
-1983, Ju Reti, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1093), [CueTracker](http://cuetracker.net/Players/ju-reti/)</sup></sub>
-
-1991, Kurt Dunham, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2064), [CueTracker](http://cuetracker.net/Players/kurt-dunham/)</sup></sub>
+#### ***milleversary on October 13, 2024***
 
 
 
