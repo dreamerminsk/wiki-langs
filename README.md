@@ -22,19 +22,20 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 13***
-1963, Stephen Baillie, 61 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1178), [CueTracker](http://cuetracker.net/Players/stephen-baillie/)</sup></sub>
+#### ***born on October 14***
+1978, Paul Hunter, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1191), [CueTracker](http://cuetracker.net/Players/paul-hunter/)</sup></sub>
 
-1968, Steven Thomas, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2454)</sup></sub>
+1994, Hossein Vafaei, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=666), [CueTracker](http://cuetracker.net/Players/hossein-vafaei-ayouri/)</sup></sub>
 
-1995, Jack Smithers, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2053), [CueTracker](http://cuetracker.net/Players/jack-smithers/)</sup></sub>
+1998, Abdul Raheem, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2487)</sup></sub>
 
-2002, Deng Haohui, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2628)</sup></sub>
-
-2004, Ben Mertens, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1923), [CueTracker](http://cuetracker.net/Players/ben-mertens/)</sup></sub>
+2003, Wu Yize, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2469), [CueTracker](http://cuetracker.net/Players/wu-yize/)</sup></sub>
 
 
-#### ***milleversary on October 13, 2024***
+#### ***milleversary on October 14, 2024***
+1967, Stefan Mazrocis, 21000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=492), [CueTracker](http://cuetracker.net/Players/stefan-mazrocis/)</sup></sub>
+
+1991, Mitchell Travis, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=132), [CueTracker](http://cuetracker.net/Players/mitchell-travis/)</sup></sub>
 
 
 
