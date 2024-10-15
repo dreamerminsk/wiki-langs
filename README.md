@@ -22,20 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 14***
-1978, Paul Hunter, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1191), [CueTracker](http://cuetracker.net/Players/paul-hunter/)</sup></sub>
+#### ***born on October 15***
+1983, Kevin Van Hove, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=391), [CueTracker](http://cuetracker.net/Players/kevin-van-hove/)</sup></sub>
 
-1994, Hossein Vafaei, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=666), [CueTracker](http://cuetracker.net/Players/hossein-vafaei-ayouri/)</sup></sub>
-
-1998, Abdul Raheem, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2487)</sup></sub>
-
-2003, Wu Yize, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2469), [CueTracker](http://cuetracker.net/Players/wu-yize/)</sup></sub>
+1996, Andres Petrov, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1552), [CueTracker](http://cuetracker.net/Players/andres-petrov/)</sup></sub>
 
 
-#### ***milleversary on October 14, 2024***
-1967, Stefan Mazrocis, 21000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=492), [CueTracker](http://cuetracker.net/Players/stefan-mazrocis/)</sup></sub>
-
-1991, Mitchell Travis, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=132), [CueTracker](http://cuetracker.net/Players/mitchell-travis/)</sup></sub>
+#### ***milleversary on October 15, 2024***
 
 
 
