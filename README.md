@@ -22,14 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 19***
-1975, David Lilley, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=998), [CueTracker](http://cuetracker.net/Players/david-lilley/)</sup></sub>
-
-1981, Yang Qingtian, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=940), [CueTracker](http://cuetracker.net/Players/yang-qingtian/)</sup></sub>
+#### ***born on October 20***
+1989, Li Yuan, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=958), [CueTracker](http://cuetracker.net/Players/li-yuan/)</sup></sub>
 
 
-#### ***milleversary on October 19, 2024***
-1970, James Wattana, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=193), [CueTracker](http://cuetracker.net/Players/james-wattana/)</sup></sub>
+#### ***milleversary on October 20, 2024***
 
 
 
