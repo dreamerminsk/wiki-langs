@@ -22,11 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 20***
-1989, Li Yuan, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=958), [CueTracker](http://cuetracker.net/Players/li-yuan/)</sup></sub>
+#### ***born on October 21***
 
 
-#### ***milleversary on October 20, 2024***
+#### ***milleversary on October 21, 2024***
+1981, Haider Ali, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2354)</sup></sub>
 
 
 
