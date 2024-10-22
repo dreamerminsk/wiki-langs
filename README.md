@@ -22,11 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 21***
+#### ***born on October 22***
 
 
-#### ***milleversary on October 21, 2024***
-1981, Haider Ali, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2354)</sup></sub>
+#### ***milleversary on October 22, 2024***
 
 
 
