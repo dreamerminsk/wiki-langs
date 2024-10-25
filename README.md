@@ -22,11 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 24***
-1968, Tony Corrigan, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1661), [CueTracker](http://cuetracker.net/Players/tony-corrigan/)</sup></sub>
+#### ***born on October 25***
+1977, James Height, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2196)</sup></sub>
+
+1985, Reanne Evans, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=175), [CueTracker](http://cuetracker.net/Players/reanne-evans/)</sup></sub>
+
+1995, Jamie Jones (1995), 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2787)</sup></sub>
 
 
-#### ***milleversary on October 24, 2024***
+#### ***milleversary on October 25, 2024***
 
 
 
