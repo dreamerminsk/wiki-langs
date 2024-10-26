@@ -22,15 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 25***
-1977, James Height, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2196)</sup></sub>
+#### ***born on October 26***
+1979, Jamie Brown, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=152), [CueTracker](http://cuetracker.net/Players/jamie-brown/)</sup></sub>
 
-1985, Reanne Evans, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=175), [CueTracker](http://cuetracker.net/Players/reanne-evans/)</sup></sub>
-
-1995, Jamie Jones (1995), 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2787)</sup></sub>
+1990, Ben Jones, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=920), [CueTracker](http://cuetracker.net/Players/ben-jones/)</sup></sub>
 
 
-#### ***milleversary on October 25, 2024***
+#### ***milleversary on October 26, 2024***
+1983, Aman Goel, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2496)</sup></sub>
 
 
 
