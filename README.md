@@ -22,14 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 27***
-1990, Cao Yupeng, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=507), [CueTracker](http://cuetracker.net/Players/cao-yupeng/)</sup></sub>
-
-1994, Shubham Arora, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2486)</sup></sub>
+#### ***born on October 28***
 
 
-#### ***milleversary on October 27, 2024***
-1983, Issara Kachaiwong, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=192), [CueTracker](http://cuetracker.net/Players/issara-kachaiwong/)</sup></sub>
+#### ***milleversary on October 28, 2024***
+2000, Elliott Weston, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2480)</sup></sub>
 
 
 
