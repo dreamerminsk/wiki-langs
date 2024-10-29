@@ -22,11 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 28***
+#### ***born on October 29***
 
 
-#### ***milleversary on October 28, 2024***
-2000, Elliott Weston, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2480)</sup></sub>
+#### ***milleversary on October 29, 2024***
+1991, Kyren Wilson, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=39), [CueTracker](http://cuetracker.net/Players/kyren-wilson/)</sup></sub>
 
 
 
