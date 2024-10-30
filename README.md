@@ -22,11 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on October 29***
+#### ***born on October 30***
+1969, Bash Maqsood, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=532), [CueTracker](http://cuetracker.net/Players/bash-maqsood/)</sup></sub>
 
 
-#### ***milleversary on October 29, 2024***
-1991, Kyren Wilson, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=39), [CueTracker](http://cuetracker.net/Players/kyren-wilson/)</sup></sub>
+#### ***milleversary on October 30, 2024***
+2000, Fergal Quinn, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2317)</sup></sub>
 
 
 
