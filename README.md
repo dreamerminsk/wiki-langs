@@ -22,13 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November  1***
+#### ***born on November  2***
+1989, Michael Tomlinson, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1213), [CueTracker](http://cuetracker.net/Players/michael-tomlinson/)</sup></sub>
 
 
-#### ***milleversary on November  1, 2024***
-1991, Adam Brown, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2197)</sup></sub>
-
-2000, Ronan Whyte, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2337)</sup></sub>
+#### ***milleversary on November  2, 2024***
 
 
 
