@@ -22,11 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November  3***
+#### ***born on November  4***
+1973, Ronda Sheldreck, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2122), [CueTracker](http://cuetracker.net/Players/ronda-sheldreck/)</sup></sub>
 
 
-#### ***milleversary on November  3, 2024***
-1983, Dean Goddard, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1007), [CueTracker](http://cuetracker.net/Players/dean-goddard/)</sup></sub>
+#### ***milleversary on November  4, 2024***
 
 
 
