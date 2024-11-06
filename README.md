@@ -22,13 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November  5***
-1971, Jamie Trump, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2339)</sup></sub>
+#### ***born on November  6***
+1986, Babar Masih, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2094)</sup></sub>
 
-1980, Andrew Tapper, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2786), [CueTracker](http://cuetracker.net/Players/andrew-tapper/)</sup></sub>
+1987, Lee Page, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=197), [CueTracker](http://cuetracker.net/Players/lee-page/)</sup></sub>
 
 
-#### ***milleversary on November  5, 2024***
+#### ***milleversary on November  6, 2024***
 
 
 
