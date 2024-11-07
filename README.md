@@ -22,13 +22,18 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November  6***
-1986, Babar Masih, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2094)</sup></sub>
+#### ***born on November  7***
+1942, Ian Barry Stark, 82 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=480), [CueTracker](http://cuetracker.net/Players/ian-barry-stark/)</sup></sub>
 
-1987, Lee Page, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=197), [CueTracker](http://cuetracker.net/Players/lee-page/)</sup></sub>
+1977, John Whitty, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=195), [CueTracker](http://cuetracker.net/Players/john-whitty/)</sup></sub>
+
+1999, Mink Nutcharut, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1829), [CueTracker](http://cuetracker.net/Players/nutcharat-wongharuthai/)</sup></sub>
 
 
-#### ***milleversary on November  6, 2024***
+#### ***milleversary on November  7, 2024***
+1983, Kevin Van Hove, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=391), [CueTracker](http://cuetracker.net/Players/kevin-van-hove/)</sup></sub>
+
+2002, Digvijay Kadian, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2441)</sup></sub>
 
 
 
