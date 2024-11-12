@@ -22,18 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 11***
-1970, Mark Anthony Taylor, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2756), [CueTracker](http://cuetracker.net/Players/mark-taylor/)</sup></sub>
+#### ***born on November 12***
+1973, Gerard Greene, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=38), [CueTracker](http://cuetracker.net/Players/gerard-greene/)</sup></sub>
 
-1982, Ricky Walden, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=62), [CueTracker](http://cuetracker.net/Players/ricky-walden/)</sup></sub>
-
-2003, Jamie Wilson, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2751), [CueTracker](http://cuetracker.net/Players/jamie-wilson/)</sup></sub>
+1993, Hamza Akbar, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1762), [CueTracker](http://cuetracker.net/Players/hamza-akbar/)</sup></sub>
 
 
-#### ***milleversary on November 11, 2024***
-1970, Gary Lees, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1946), [CueTracker](http://cuetracker.net/Players/gary-lees/)</sup></sub>
-
-1994, Ryan Thomerson, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=741), [CueTracker](http://cuetracker.net/Players/ryan-thomerson/)</sup></sub>
+#### ***milleversary on November 12, 2024***
+1997, Brandon Sargeant, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=983), [CueTracker](http://cuetracker.net/Players/brandon-sargeant/)</sup></sub>
 
 
 
