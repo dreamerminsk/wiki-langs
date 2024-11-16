@@ -22,16 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 15***
-1965, Nigel Bond, 59 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=14), [CueTracker](http://cuetracker.net/Players/nigel-bond/)</sup></sub>
-
-1979, Wayne Townsend, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=897), [CueTracker](http://cuetracker.net/Players/wayne-townsend/)</sup></sub>
-
-1991, Asjad Iqbal, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1935), [CueTracker](http://cuetracker.net/Players/asjad-iqbal/)</sup></sub>
+#### ***born on November 16***
+1988, Ryan Mears, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1042), [CueTracker](http://cuetracker.net/Players/ryan-mears/)</sup></sub>
 
 
-#### ***milleversary on November 15, 2024***
-1994, Jamie Clarke, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=106), [CueTracker](http://cuetracker.net/Players/jamie-clarke/)</sup></sub>
+#### ***milleversary on November 16, 2024***
 
 
 
