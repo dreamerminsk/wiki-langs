@@ -22,14 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 17***
-1981, Daniel Ward, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1003), [CueTracker](http://cuetracker.net/Players/daniel-ward/)</sup></sub>
+#### ***born on November 18***
+1974, Darren Burns, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2038), [CueTracker](http://cuetracker.net/Players/darren-burns/)</sup></sub>
 
-1990, Ng On Yee, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1485), [CueTracker](http://cuetracker.net/Players/ng-on-yee/)</sup></sub>
+1975, Stuart Hinton, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2501)</sup></sub>
+
+1982, Arun Mehta, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1300), [CueTracker](http://cuetracker.net/Players/arun-mehta/)</sup></sub>
 
 
-#### ***milleversary on November 17, 2024***
-1997, Louis Heathcote, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1045), [CueTracker](http://cuetracker.net/Players/louis-heathcote/)</sup></sub>
+#### ***milleversary on November 18, 2024***
+1981, Maris Volajs, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1555), [CueTracker](http://cuetracker.net/Players/maris-volajs/)</sup></sub>
 
 
 
