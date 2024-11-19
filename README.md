@@ -22,16 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 18***
-1974, Darren Burns, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2038), [CueTracker](http://cuetracker.net/Players/darren-burns/)</sup></sub>
+#### ***born on November 19***
+1969, Au Chi Wai, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=511), [CueTracker](http://cuetracker.net/Players/au-chi-wai/)</sup></sub>
 
-1975, Stuart Hinton, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2501)</sup></sub>
-
-1982, Arun Mehta, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1300), [CueTracker](http://cuetracker.net/Players/arun-mehta/)</sup></sub>
+1995, Kacper Filipiak, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=588), [CueTracker](http://cuetracker.net/Players/kacper-filipiak/)</sup></sub>
 
 
-#### ***milleversary on November 18, 2024***
-1981, Maris Volajs, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1555), [CueTracker](http://cuetracker.net/Players/maris-volajs/)</sup></sub>
+#### ***milleversary on November 19, 2024***
+1975, Aaron Canavan, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2327), [CueTracker](http://cuetracker.net/Players/aaron-canavan/)</sup></sub>
 
 
 
