@@ -22,14 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 19***
-1969, Au Chi Wai, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=511), [CueTracker](http://cuetracker.net/Players/au-chi-wai/)</sup></sub>
+#### ***born on November 20***
+1971, Mike Dunn, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=54), [CueTracker](http://cuetracker.net/Players/mike-dunn/)</sup></sub>
 
-1995, Kacper Filipiak, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=588), [CueTracker](http://cuetracker.net/Players/kacper-filipiak/)</sup></sub>
+1977, Corey Deuel, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1497), [CueTracker](http://cuetracker.net/Players/corey-deuel/)</sup></sub>
 
 
-#### ***milleversary on November 19, 2024***
-1975, Aaron Canavan, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2327), [CueTracker](http://cuetracker.net/Players/aaron-canavan/)</sup></sub>
+#### ***milleversary on November 20, 2024***
+2005, Iulian Boiko, 7000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1889), [CueTracker](http://cuetracker.net/Players/iulian-boiko/)</sup></sub>
 
 
 
