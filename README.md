@@ -22,11 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 22***
+#### ***born on November 23***
 
 
-#### ***milleversary on November 22, 2024***
-1967, Danny Connolly, 21000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1985), [CueTracker](http://cuetracker.net/Players/danny-connolly/)</sup></sub>
+#### ***milleversary on November 23, 2024***
 
 
 
