@@ -22,11 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 25***
-1987, Ross Vallance, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1498), [CueTracker](http://cuetracker.net/Players/ross-vallance/)</sup></sub>
+#### ***born on November 26***
 
 
-#### ***milleversary on November 25, 2024***
+#### ***milleversary on November 26, 2024***
 
 
 
