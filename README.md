@@ -22,15 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on November 27***
-1976, Gaurang Vyas, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2764)</sup></sub>
-
-1980, Lee Chun Wai Andy, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=123), [CueTracker](http://cuetracker.net/Players/andy-lee/)</sup></sub>
-
-1988, David Morris, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=190), [CueTracker](http://cuetracker.net/Players/david-morris/)</sup></sub>
+#### ***born on November 28***
+1984, Allan Taylor, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=26), [CueTracker](http://cuetracker.net/Players/allan-taylor/)</sup></sub>
 
 
-#### ***milleversary on November 27, 2024***
+#### ***milleversary on November 28, 2024***
 
 
 
