@@ -22,14 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December  1***
-1990, Liam Highfield, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=45), [CueTracker](http://cuetracker.net/Players/liam-highfield/)</sup></sub>
-
-1995, Steven Hallworth, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=605), [CueTracker](http://cuetracker.net/Players/steven-hallworth/)</sup></sub>
+#### ***born on December  2***
+1995, William Lemons, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=886), [CueTracker](http://cuetracker.net/Players/william-lemons/)</sup></sub>
 
 
-#### ***milleversary on December  1, 2024***
-1997, Mateusz Baranowski, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=680), [CueTracker](http://cuetracker.net/Players/mateusz-baranowski/)</sup></sub>
+#### ***milleversary on December  2, 2024***
+1992, Daniel Womersley, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2010), [CueTracker](http://cuetracker.net/Players/daniel-womersley/)</sup></sub>
 
 
 
