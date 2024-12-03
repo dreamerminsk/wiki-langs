@@ -22,12 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December  2***
-1995, William Lemons, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=886), [CueTracker](http://cuetracker.net/Players/william-lemons/)</sup></sub>
+#### ***born on December  3***
+1990, Heidi De Gruchy, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2144)</sup></sub>
 
 
-#### ***milleversary on December  2, 2024***
-1992, Daniel Womersley, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2010), [CueTracker](http://cuetracker.net/Players/daniel-womersley/)</sup></sub>
+#### ***milleversary on December  3, 2024***
 
 
 
