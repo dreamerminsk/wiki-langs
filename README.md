@@ -22,11 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December  6***
-1991, Kurt Dunham, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2064), [CueTracker](http://cuetracker.net/Players/kurt-dunham/)</sup></sub>
+#### ***born on December  7***
+1979, Luke Simmonds, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=519), [CueTracker](http://cuetracker.net/Players/luke-simmonds/)</sup></sub>
 
 
-#### ***milleversary on December  6, 2024***
+#### ***milleversary on December  7, 2024***
+1994, Shubham Arora, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2486)</sup></sub>
 
 
 
