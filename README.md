@@ -22,13 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December  9***
-1966, Dave Harold, 58 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=31), [CueTracker](http://cuetracker.net/Players/dave-harold/)</sup></sub>
-
-1997, Peter Butler, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2763), [CueTracker](http://cuetracker.net/Players/peter-butler/)</sup></sub>
+#### ***born on December 10***
 
 
-#### ***milleversary on December  9, 2024***
+#### ***milleversary on December 10, 2024***
+1964, Ian Brumby, 22000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=794), [CueTracker](http://cuetracker.net/Players/ian-brumby/)</sup></sub>
 
 
 
