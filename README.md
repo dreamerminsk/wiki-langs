@@ -22,12 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December 11***
-1969, Peter Lines, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=37), [CueTracker](http://cuetracker.net/Players/peter-lines/)</sup></sub>
+#### ***born on December 12***
 
 
-#### ***milleversary on December 11, 2024***
-1986, Chris Norbury, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=69), [CueTracker](http://cuetracker.net/Players/chris-norbury/)</sup></sub>
+#### ***milleversary on December 12, 2024***
+1970, Jason Wright, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2901)</sup></sub>
 
 
 
