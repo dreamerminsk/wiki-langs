@@ -22,14 +22,19 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December 13***
-1977, Andrew Higginson, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=25), [CueTracker](http://cuetracker.net/Players/andrew-higginson/)</sup></sub>
+#### ***born on December 14***
+1970, Johnathan Bagley, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1655), [CueTracker](http://cuetracker.net/Players/jonathan-bagley/)</sup></sub>
 
-1995, Ratchayothin Yotharuck, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1263), [CueTracker](http://cuetracker.net/Players/ratchayothin-yotharuck/)</sup></sub>
+1976, Alfie Burden, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=21), [CueTracker](http://cuetracker.net/Players/alfie-burden/)</sup></sub>
+
+1979, Ahmed Aly Elsayed, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2346)</sup></sub>
+
+1993, Thanawat Tirapongpaiboon, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=216), [CueTracker](http://cuetracker.net/Players/thanawat-thirapongpaiboon/)</sup></sub>
+
+2002, Digvijay Kadian, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2441)</sup></sub>
 
 
-#### ***milleversary on December 13, 2024***
-1997, Yana Shut, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1816), [CueTracker](http://cuetracker.net/Players/yana-shut/)</sup></sub>
+#### ***milleversary on December 14, 2024***
 
 
 
