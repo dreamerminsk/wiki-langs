@@ -22,13 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December 15***
-1982, Brendan O'Donoghue, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=473), [CueTracker](http://cuetracker.net/Players/brendan-odonoghue/)</sup></sub>
-
-1997, Simon Lichtenberg, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1567), [CueTracker](http://cuetracker.net/Players/simon-lichtenberg/)</sup></sub>
+#### ***born on December 16***
+1988, Kritsanut Lertsattayatthorn, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1577), [CueTracker](http://cuetracker.net/Players/kritsanut-lertsattayathorn/)</sup></sub>
 
 
-#### ***milleversary on December 15, 2024***
+#### ***milleversary on December 16, 2024***
+1951, Patsy Fagan, 27000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=796), [CueTracker](http://cuetracker.net/Players/patsy-fagan/)</sup></sub>
+
+1986, Jamie O'Neill, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=79), [CueTracker](http://cuetracker.net/Players/jamie-oneill/)</sup></sub>
 
 
 
