@@ -22,14 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December 16***
-1988, Kritsanut Lertsattayatthorn, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1577), [CueTracker](http://cuetracker.net/Players/kritsanut-lertsattayathorn/)</sup></sub>
+#### ***born on December 17***
+1967, Karl Burrows, 57 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2872)</sup></sub>
+
+1991, Laxman Rawat, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1351), [CueTracker](http://cuetracker.net/Players/laxman-rawat/)</sup></sub>
 
 
-#### ***milleversary on December 16, 2024***
-1951, Patsy Fagan, 27000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=796), [CueTracker](http://cuetracker.net/Players/patsy-fagan/)</sup></sub>
-
-1986, Jamie O'Neill, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=79), [CueTracker](http://cuetracker.net/Players/jamie-oneill/)</sup></sub>
+#### ***milleversary on December 17, 2024***
+1986, Jaspal Bamotra, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1425), [CueTracker](http://cuetracker.net/Players/jaspal-bamotra/)</sup></sub>
 
 
 
