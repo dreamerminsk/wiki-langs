@@ -22,14 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December 17***
-1967, Karl Burrows, 57 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2872)</sup></sub>
+#### ***born on December 18***
+1985, Mike Finn, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=233), [CueTracker](http://cuetracker.net/Players/mike-finn/)</sup></sub>
 
-1991, Laxman Rawat, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1351), [CueTracker](http://cuetracker.net/Players/laxman-rawat/)</sup></sub>
+1997, Daniel Gorton, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2208)</sup></sub>
+
+2001, Florian Nüßle, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1835), [CueTracker](http://cuetracker.net/Players/florian-nusle/)</sup></sub>
 
 
-#### ***milleversary on December 17, 2024***
-1986, Jaspal Bamotra, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1425), [CueTracker](http://cuetracker.net/Players/jaspal-bamotra/)</sup></sub>
+#### ***milleversary on December 18, 2024***
+1986, Hatem Yassin, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1764), [CueTracker](http://cuetracker.net/Players/yassem-hatem/)</sup></sub>
 
 
 
