@@ -22,12 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December 20***
-1980, Gary Challis, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2051), [CueTracker](http://cuetracker.net/Players/gary-challis/)</sup></sub>
+#### ***born on December 21***
 
 
-#### ***milleversary on December 20, 2024***
-1997, Wang Yuchen, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=954), [CueTracker](http://cuetracker.net/Players/wang-yuchen/)</sup></sub>
+#### ***milleversary on December 21, 2024***
 
 
 
