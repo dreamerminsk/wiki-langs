@@ -22,11 +22,18 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December 22***
-1999, Harry Farrell, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2488)</sup></sub>
+#### ***born on December 23***
+1985, Lucky Vatnani, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=201), [CueTracker](http://cuetracker.net/Players/lucky-vatnani/)</sup></sub>
+
+1991, Kyren Wilson, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=39), [CueTracker](http://cuetracker.net/Players/kyren-wilson/)</sup></sub>
 
 
-#### ***milleversary on December 22, 2024***
+#### ***milleversary on December 23, 2024***
+1967, Paul Burrell, 21000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2001), [CueTracker](http://cuetracker.net/Players/paul-burrell/)</sup></sub>
+
+1978, Wayne Cooper, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=494), [CueTracker](http://cuetracker.net/Players/wayne-cooper/)</sup></sub>
+
+1983, Daniel Kandi, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1170), [CueTracker](http://cuetracker.net/Players/daniel-kandi/)</sup></sub>
 
 
 
