@@ -22,11 +22,20 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December 24***
+#### ***born on December 25***
+1975, Lim Chun Kiat Marvin, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=411), [CueTracker](http://cuetracker.net/Players/marvin-lim-chun-kiat/)</sup></sub>
+
+1991, Zhang Anda, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=81), [CueTracker](http://cuetracker.net/Players/zhang-anda/)</sup></sub>
+
+1992, Wu Shengguang, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1705), [CueTracker](http://cuetracker.net/Players/wu-shengguang/)</sup></sub>
 
 
-#### ***milleversary on December 24, 2024***
-2000, Riley Parsons, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2479), [CueTracker](http://cuetracker.net/Players/riley-parsons/)</sup></sub>
+#### ***milleversary on December 25, 2024***
+1942, Ian Barry Stark, 30000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=480), [CueTracker](http://cuetracker.net/Players/ian-barry-stark/)</sup></sub>
+
+1964, Gary Miller, 22000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=803), [CueTracker](http://cuetracker.net/Players/gary-miller/)</sup></sub>
+
+1992, Joshua Saywell, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2362)</sup></sub>
 
 
 
