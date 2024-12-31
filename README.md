@@ -22,10 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December 30***
+#### ***born on December 31***
+1998, Callum Costello, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2195)</sup></sub>
 
 
-#### ***milleversary on December 30, 2024***
+#### ***milleversary on December 31, 2024***
+1981, Stephen Maguire, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2), [CueTracker](http://cuetracker.net/Players/stephen-maguire/)</sup></sub>
+
+1983, Liu Song, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=46), [CueTracker](http://cuetracker.net/Players/liu-song/)</sup></sub>
 
 
 
