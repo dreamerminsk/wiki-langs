@@ -22,14 +22,17 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on December 31***
-1998, Callum Costello, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2195)</sup></sub>
+#### ***born on January  1***
+1981, Haider Ali, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2354)</sup></sub>
+
+1983, Ahmed Saif, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=98), [CueTracker](http://cuetracker.net/Players/ahmed-saif/)</sup></sub>
+
+1994, Lu Ning, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=908), [CueTracker](http://cuetracker.net/Players/lu-ning/)</sup></sub>
+
+2001, Callum Beresford, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2392), [CueTracker](http://cuetracker.net/Players/callum-beresford/)</sup></sub>
 
 
-#### ***milleversary on December 31, 2024***
-1981, Stephen Maguire, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2), [CueTracker](http://cuetracker.net/Players/stephen-maguire/)</sup></sub>
-
-1983, Liu Song, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=46), [CueTracker](http://cuetracker.net/Players/liu-song/)</sup></sub>
+#### ***milleversary on January  1, 2025***
 
 
 
