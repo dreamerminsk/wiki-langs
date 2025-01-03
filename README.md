@@ -22,10 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on January  2***
+#### ***born on January  3***
+1969, Philip Minchin, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=488), [CueTracker](http://cuetracker.net/Players/philip-minchin/)</sup></sub>
+
+1997, Yao Pengcheng, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1160), [CueTracker](http://cuetracker.net/Players/yao-pengcheng/)</sup></sub>
+
+1999, Claire Edginton, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2138)</sup></sub>
 
 
-#### ***milleversary on January  2, 2025***
+#### ***milleversary on January  3, 2025***
+1964, John Welsh, 22000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=793), [CueTracker](http://cuetracker.net/Players/john-welsh/)</sup></sub>
 
 
 
