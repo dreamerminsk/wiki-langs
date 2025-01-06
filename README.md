@@ -22,14 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on January  5***
-1988, Muhammad Imran, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2896)</sup></sub>
+#### ***born on January  6***
+1993, Kengo Suzuki, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2494)</sup></sub>
+
+1995, Callum Lloyd, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=160), [CueTracker](http://cuetracker.net/Players/callum-lloyd/)</sup></sub>
 
 
-#### ***milleversary on January  5, 2025***
-1978, James McBain, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=78), [CueTracker](http://cuetracker.net/Players/james-mcbain/)</sup></sub>
-
-2000, Lewis Parnham, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2478)</sup></sub>
+#### ***milleversary on January  6, 2025***
 
 
 
