@@ -22,17 +22,23 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on January 12***
-1955, Ng Yam Shui, 70 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1478), [CueTracker](http://cuetracker.net/Players/ng-yam-shui/)</sup></sub>
+#### ***born on January 13***
+1969, Stephen Hendry, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=153), [CueTracker](http://cuetracker.net/Players/stephen-hendry/)</sup></sub>
 
-1971, Jason Weston, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1505), [CueTracker](http://cuetracker.net/Players/jason-weston/)</sup></sub>
+1980, Diana Stateczny, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2112), [CueTracker](http://cuetracker.net/Players/diana-stateczny/)</sup></sub>
 
-1975, Michael Judge, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=204), [CueTracker](http://cuetracker.net/Players/michael-judge/)</sup></sub>
+1985, Sean Harvey, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2078), [CueTracker](http://cuetracker.net/Players/sean-harvey/)</sup></sub>
 
-1998, Patrick Whelan, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1812), [CueTracker](http://cuetracker.net/Players/patrick-whelan/)</sup></sub>
+1989, John Astley, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=526), [CueTracker](http://cuetracker.net/Players/john-astley/)</sup></sub>
+
+1995, Clayton Humphries, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1627), [CueTracker](http://cuetracker.net/Players/clayton-humphries/)</sup></sub>
+
+1998, Chatchapong Nasa, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2887)</sup></sub>
+
+2005, Miina Tani, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2549), [CueTracker](http://cuetracker.net/Players/miina-tani/)</sup></sub>
 
 
-#### ***milleversary on January 12, 2025***
+#### ***milleversary on January 13, 2025***
 
 
 
