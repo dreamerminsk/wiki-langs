@@ -34,7 +34,7 @@ jobs:
           message: 'Update README'
           add: '*.md'
       - name: Archive log artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: log-artifacts
           path: |
