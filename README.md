@@ -22,11 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on January 25***
+#### ***born on January 26***
+1992, Daniel Womersley, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2010), [CueTracker](http://cuetracker.net/Players/daniel-womersley/)</sup></sub>
 
 
-#### ***milleversary on January 25, 2025***
-1989, Charlie Walters, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=135), [CueTracker](http://cuetracker.net/Players/charlie-walters/)</sup></sub>
+#### ***milleversary on January 26, 2025***
 
 
 
