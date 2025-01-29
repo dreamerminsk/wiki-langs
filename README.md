@@ -22,16 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on January 28***
-1975, Richard Beckham, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=234)</sup></sub>
-
-1993, Michael Leslie, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=528), [CueTracker](http://cuetracker.net/Players/michael-leslie/)</sup></sub>
-
-1994, Sanderson Lam, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=621), [CueTracker](http://cuetracker.net/Players/sanderson-lam/)</sup></sub>
+#### ***born on January 29***
+1981, Maris Volajs, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1555), [CueTracker](http://cuetracker.net/Players/maris-volajs/)</sup></sub>
 
 
-#### ***milleversary on January 28, 2025***
-1975, David Lilley, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=998), [CueTracker](http://cuetracker.net/Players/david-lilley/)</sup></sub>
+#### ***milleversary on January 29, 2025***
 
 
 
