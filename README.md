@@ -22,15 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February  1***
+#### ***born on February  2***
+1969, Ian Desmier, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2493)</sup></sub>
+
+1974, Rajesh Kadian, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2485)</sup></sub>
+
+1980, Martin McCrudden, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=427), [CueTracker](http://cuetracker.net/Players/martin-mccrudden/)</sup></sub>
 
 
-#### ***milleversary on February  1, 2025***
-1962, Peter Francisco, 23000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1298), [CueTracker](http://cuetracker.net/Players/peter-francisco/)</sup></sub>
-
-1967, Paul Cavney, 21000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=484), [CueTracker](http://cuetracker.net/Players/paul-cavney/)</sup></sub>
-
-2003, Joe Fenton, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2772), [CueTracker](http://cuetracker.net/Players/joe-fenton/)</sup></sub>
+#### ***milleversary on February  2, 2025***
+1978, James Tatton, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1194), [CueTracker](http://cuetracker.net/Players/james-tatton/)</sup></sub>
 
 
 
