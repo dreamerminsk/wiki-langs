@@ -22,16 +22,19 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February  2***
-1969, Ian Desmier, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2493)</sup></sub>
+#### ***born on February  3***
+1991, Farakh Ajaib, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=163), [CueTracker](http://cuetracker.net/Players/farakh-ajaib/)</sup></sub>
 
-1974, Rajesh Kadian, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2485)</sup></sub>
+1998, Chan Ming Tung, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1376), [CueTracker](http://cuetracker.net/Players/chan-mingtung/)</sup></sub>
 
-1980, Martin McCrudden, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=427), [CueTracker](http://cuetracker.net/Players/martin-mccrudden/)</sup></sub>
+2000, Umut Dikme, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2249)</sup></sub>
+
+2001, Jenson Kendrick, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2030), [CueTracker](http://cuetracker.net/Players/jenson-kendrick/)</sup></sub>
+
+2003, Julien Leclercq, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2754), [CueTracker](http://cuetracker.net/Players/julien-leclercq/)</sup></sub>
 
 
-#### ***milleversary on February  2, 2025***
-1978, James Tatton, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1194), [CueTracker](http://cuetracker.net/Players/james-tatton/)</sup></sub>
+#### ***milleversary on February  3, 2025***
 
 
 
