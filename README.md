@@ -22,15 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February 11***
-1954, Les Dodd, 71 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=449), [CueTracker](http://cuetracker.net/Players/les-dodd/)</sup></sub>
-
-1976, Lee Walker, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=520), [CueTracker](http://cuetracker.net/Players/lee-walker/)</sup></sub>
-
-1982, Neil Robertson, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=154), [CueTracker](http://cuetracker.net/Players/neil-robertson/)</sup></sub>
+#### ***born on February 12***
 
 
-#### ***milleversary on February 11, 2025***
+#### ***milleversary on February 12, 2025***
 
 
 
