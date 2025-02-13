@@ -22,10 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February 12***
+#### ***born on February 13***
+1962, Peter Francisco, 63 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1298), [CueTracker](http://cuetracker.net/Players/peter-francisco/)</sup></sub>
+
+2002, Connor Benzey, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2746)</sup></sub>
 
 
-#### ***milleversary on February 12, 2025***
+#### ***milleversary on February 13, 2025***
 
 
 
