@@ -22,24 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February 14***
-1972, Mark Ganderton, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2347)</sup></sub>
+#### ***born on February 15***
+2000, Pang Junxu, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1257), [CueTracker](http://cuetracker.net/Players/pang-junxu/)</sup></sub>
 
-1973, Andy Neck, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=999), [CueTracker](http://cuetracker.net/Players/andy-neck/)</sup></sub>
-
-1983, Cheng Yin Lun Jerry, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=916), [CueTracker](http://cuetracker.net/Players/yin-lun-cheng/)</sup></sub>
-
-1988, Jamie Jones, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=10), [CueTracker](http://cuetracker.net/Players/jamie-jones/)</sup></sub>
-
-1989, Roshan Birdi, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1734), [CueTracker](http://cuetracker.net/Players/roshan-birdi/)</sup></sub>
-
-1993, Andrew Smith, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2351)</sup></sub>
+2001, Hayden Staniland, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2747)</sup></sub>
 
 
-#### ***milleversary on February 14, 2025***
-1978, James Burrett, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=531), [CueTracker](http://cuetracker.net/Players/james-burrett/)</sup></sub>
-
-1989, Peter Geronimo, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2734)</sup></sub>
+#### ***milleversary on February 15, 2025***
 
 
 
