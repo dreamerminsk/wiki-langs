@@ -22,18 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February 16***
-1979, Gee Crawley, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2683)</sup></sub>
+#### ***born on February 17***
+1999, Cheung Ka Wai, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1893), [CueTracker](http://cuetracker.net/Players/cheung-ka-wai/)</sup></sub>
 
-2000, Yan Bingtao, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1260), [CueTracker](http://cuetracker.net/Players/yan-bingtao/)</sup></sub>
+2006, Amaan Iqbal, 19 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2798)</sup></sub>
 
 
-#### ***milleversary on February 16, 2025***
-1967, Sean Lanigan, 21000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1353), [CueTracker](http://cuetracker.net/Players/sean-lanigan/)</sup></sub>
-
-1995, Callum Lloyd, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=160), [CueTracker](http://cuetracker.net/Players/callum-lloyd/)</sup></sub>
-
-2003, Bradley Tyson, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2314), [CueTracker](http://cuetracker.net/Players/bradley-tyson/)</sup></sub>
+#### ***milleversary on February 17, 2025***
 
 
 
