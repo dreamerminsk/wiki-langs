@@ -22,11 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February 25***
-1995, Dylan Mitchell, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1123), [CueTracker](http://cuetracker.net/Players/dylan-mitchell/)</sup></sub>
+#### ***born on February 26***
 
 
-#### ***milleversary on February 25, 2025***
+#### ***milleversary on February 26, 2025***
 
 
 
