@@ -22,13 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on February 28***
-1993, Chen Zhe, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=133), [CueTracker](http://cuetracker.net/Players/chen-zhe/)</sup></sub>
-
-2002, Aaron Hill, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2470), [CueTracker](http://cuetracker.net/Players/aaron-hill/)</sup></sub>
+#### ***born on March  1***
+1969, Jeff Cundy, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=143), [CueTracker](http://cuetracker.net/Players/jeff-cundy/)</sup></sub>
 
 
-#### ***milleversary on February 28, 2025***
+#### ***milleversary on March  1, 2025***
 
 
 
