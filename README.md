@@ -22,11 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on March  1***
-1969, Jeff Cundy, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=143), [CueTracker](http://cuetracker.net/Players/jeff-cundy/)</sup></sub>
+#### ***born on March  2***
 
 
-#### ***milleversary on March  1, 2025***
+#### ***milleversary on March  2, 2025***
 
 
 
