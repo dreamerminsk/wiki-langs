@@ -22,11 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on March  9***
-2000, Elliott Weston, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2480)</sup></sub>
+#### ***born on March 10***
+1991, John Pritchett, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2360)</sup></sub>
+
+2003, Joe Fenton, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2772), [CueTracker](http://cuetracker.net/Players/joe-fenton/)</sup></sub>
 
 
-#### ***milleversary on March  9, 2025***
+#### ***milleversary on March 10, 2025***
 
 
 
