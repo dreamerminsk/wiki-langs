@@ -22,13 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on March 10***
-1991, John Pritchett, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2360)</sup></sub>
+#### ***born on March 11***
+1985, Ian Burns, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=87), [CueTracker](http://cuetracker.net/Players/ian-burns/)</sup></sub>
 
-2003, Joe Fenton, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2772), [CueTracker](http://cuetracker.net/Players/joe-fenton/)</sup></sub>
+1996, Leong Man Hoi, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1095), [CueTracker](http://cuetracker.net/Players/man-hoi-leong/)</sup></sub>
+
+2000, Fergal Quinn, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2317)</sup></sub>
 
 
-#### ***milleversary on March 10, 2025***
+#### ***milleversary on March 11, 2025***
 
 
 
