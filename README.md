@@ -22,12 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on March 12***
-1970, Jason Wright, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2901)</sup></sub>
+#### ***born on March 13***
+1981, Stephen Maguire, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2), [CueTracker](http://cuetracker.net/Players/stephen-maguire/)</sup></sub>
+
+2000, Ronan Whyte, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2337)</sup></sub>
 
 
-#### ***milleversary on March 12, 2025***
-1981, Jin Long, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=283), [CueTracker](http://cuetracker.net/Players/jin-long/)</sup></sub>
+#### ***milleversary on March 13, 2025***
 
 
 
