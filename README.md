@@ -22,14 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on March 19***
-1994, Scott Donaldson, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=894), [CueTracker](http://cuetracker.net/Players/scott-donaldson/)</sup></sub>
+#### ***born on March 20***
 
 
-#### ***milleversary on March 19, 2025***
-1970, Jason Prince, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2871)</sup></sub>
-
-1975, Rhydian Richards, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2310), [CueTracker](http://cuetracker.net/Players/rhydian-richards/)</sup></sub>
+#### ***milleversary on March 20, 2025***
+1959, Mike Hallett, 24000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=205), [CueTracker](http://cuetracker.net/Players/mike-hallett/)</sup></sub>
 
 
 
