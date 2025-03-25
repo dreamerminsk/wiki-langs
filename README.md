@@ -22,12 +22,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on March 24***
-1988, Thor Chuan Leong, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1509), [CueTracker](http://cuetracker.net/Players/thor-chuan-leong/)</sup></sub>
+#### ***born on March 25***
+1978, Rodney Goggins, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=498), [CueTracker](http://cuetracker.net/Players/rodney-goggins/)</sup></sub>
+
+1993, Kurtis Weaver, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1306), [CueTracker](http://cuetracker.net/Players/kurtis-weaver/)</sup></sub>
+
+2003, Bradley Tyson, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2314), [CueTracker](http://cuetracker.net/Players/bradley-tyson/)</sup></sub>
 
 
-#### ***milleversary on March 24, 2025***
-1970, Paul Davies, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=173), [CueTracker](http://cuetracker.net/Players/paul-davies/)</sup></sub>
+#### ***milleversary on March 25, 2025***
 
 
 
