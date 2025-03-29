@@ -22,15 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on March 28***
-1974, Mark King, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=28), [CueTracker](http://cuetracker.net/Players/mark-king/)</sup></sub>
-
-1990, Tom Pendlebury, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2503)</sup></sub>
-
-1995, George Pragnell, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=733), [CueTracker](http://cuetracker.net/Players/george-pragnall/)</sup></sub>
+#### ***born on March 29***
+1980, Shehzad Iqbal, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=542), [CueTracker](http://cuetracker.net/Players/shehzad-iqbal/)</sup></sub>
 
 
-#### ***milleversary on March 28, 2025***
+#### ***milleversary on March 29, 2025***
 
 
 
