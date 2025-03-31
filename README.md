@@ -22,15 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on March 30***
-1989, Adam Duffy, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=74), [CueTracker](http://cuetracker.net/Players/adam-duffy/)</sup></sub>
+#### ***born on March 31***
+1998, Adam Goff, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2781), [CueTracker](http://cuetracker.net/Players/adam-goff/)</sup></sub>
 
-1994, Amine Amiri, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2582), [CueTracker](http://cuetracker.net/Players/amine-amiri/)</sup></sub>
-
-1998, Lewis Gillen, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1939), [CueTracker](http://cuetracker.net/Players/lewis-gillen/)</sup></sub>
+2001, Dylan Emery, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2320), [CueTracker](http://cuetracker.net/Players/dylan-emery/)</sup></sub>
 
 
-#### ***milleversary on March 30, 2025***
+#### ***milleversary on March 31, 2025***
 
 
 
