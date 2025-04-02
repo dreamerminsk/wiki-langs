@@ -22,14 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April  1***
-1987, Ding Junhui, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=224), [CueTracker](http://cuetracker.net/Players/ding-junhui/)</sup></sub>
+#### ***born on April  2***
+1993, Robin Otto, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1752), [CueTracker](http://cuetracker.net/Players/robin-otto/)</sup></sub>
 
 
-#### ***milleversary on April  1, 2025***
-1967, Mark Winsor, 21000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2448)</sup></sub>
-
-1981, David B Gilbert, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=118), [CueTracker](http://cuetracker.net/Players/david-gilbert/)</sup></sub>
+#### ***milleversary on April  2, 2025***
+1989, Bratislav Krustev, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1126), [CueTracker](http://cuetracker.net/Players/bratislav-krustev/)</sup></sub>
 
 
 
