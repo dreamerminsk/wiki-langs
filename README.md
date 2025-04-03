@@ -22,12 +22,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April  2***
-1993, Robin Otto, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1752), [CueTracker](http://cuetracker.net/Players/robin-otto/)</sup></sub>
+#### ***born on April  3***
+1997, Zhao Xintong, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=946), [CueTracker](http://cuetracker.net/Players/zhao-xintong/)</sup></sub>
 
 
-#### ***milleversary on April  2, 2025***
-1989, Bratislav Krustev, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1126), [CueTracker](http://cuetracker.net/Players/bratislav-krustev/)</sup></sub>
+#### ***milleversary on April  3, 2025***
+1986, Zack Richardson, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1201), [CueTracker](http://cuetracker.net/Players/zack-richardson/)</sup></sub>
 
 
 
