@@ -22,12 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April  3***
-1997, Zhao Xintong, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=946), [CueTracker](http://cuetracker.net/Players/zhao-xintong/)</sup></sub>
+#### ***born on April  4***
 
 
-#### ***milleversary on April  3, 2025***
-1986, Zack Richardson, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1201), [CueTracker](http://cuetracker.net/Players/zack-richardson/)</sup></sub>
+#### ***milleversary on April  4, 2025***
 
 
 
