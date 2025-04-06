@@ -22,16 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April  5***
-1988, Lee Shanker, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=198), [CueTracker](http://cuetracker.net/Players/lee-shanker/)</sup></sub>
-
-2002, Bradley Cowdroy, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2748), [CueTracker](http://cuetracker.net/Players/bradley-cowdroy/)</sup></sub>
-
-2005, Filips Kalnins, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2766), [CueTracker](http://cuetracker.net/Players/filips-kalniyy/)</sup></sub>
+#### ***born on April  6***
+1990, Sydney Wilson, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=523), [CueTracker](http://cuetracker.net/Players/sydney-wilson/)</sup></sub>
 
 
-#### ***milleversary on April  5, 2025***
-1975, Lim Chun Kiat Marvin, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=411), [CueTracker](http://cuetracker.net/Players/marvin-lim-chun-kiat/)</sup></sub>
+#### ***milleversary on April  6, 2025***
 
 
 
