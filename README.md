@@ -22,10 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 12***
+#### ***born on April 13***
 
 
-#### ***milleversary on April 12, 2025***
+#### ***milleversary on April 13, 2025***
+1973, Chitra Magimairaj, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2131), [CueTracker](http://cuetracker.net/Players/chitra-magimairajan/)</sup></sub>
+
+2003, Mickey Joyce, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2886)</sup></sub>
 
 
 
