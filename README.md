@@ -22,13 +22,20 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 13***
+#### ***born on April 14***
+1979, Thomas McSorley, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1185), [CueTracker](http://cuetracker.net/Players/thomas-mcsorley/)</sup></sub>
+
+1982, Ian Martin, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2157), [CueTracker](http://cuetracker.net/Players/ian-martin/)</sup></sub>
+
+1988, James Lee, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2500)</sup></sub>
+
+1993, John Fearick, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2155)</sup></sub>
 
 
-#### ***milleversary on April 13, 2025***
-1973, Chitra Magimairaj, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2131), [CueTracker](http://cuetracker.net/Players/chitra-magimairajan/)</sup></sub>
+#### ***milleversary on April 14, 2025***
+1970, Barry Pinches, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=6), [CueTracker](http://cuetracker.net/Players/barry-pinches/)</sup></sub>
 
-2003, Mickey Joyce, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2886)</sup></sub>
+1995, John Foster, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2047), [CueTracker](http://cuetracker.net/Players/john-foster/)</sup></sub>
 
 
 
