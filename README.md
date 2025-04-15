@@ -22,20 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 14***
-1979, Thomas McSorley, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1185), [CueTracker](http://cuetracker.net/Players/thomas-mcsorley/)</sup></sub>
+#### ***born on April 15***
+1960, Tony Jones, 65 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1355), [CueTracker](http://cuetracker.net/Players/tony-jones/)</sup></sub>
 
-1982, Ian Martin, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2157), [CueTracker](http://cuetracker.net/Players/ian-martin/)</sup></sub>
-
-1988, James Lee, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2500)</sup></sub>
-
-1993, John Fearick, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2155)</sup></sub>
+1971, Paul Wykes, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=500), [CueTracker](http://cuetracker.net/Players/paul-wykes/)</sup></sub>
 
 
-#### ***milleversary on April 14, 2025***
-1970, Barry Pinches, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=6), [CueTracker](http://cuetracker.net/Players/barry-pinches/)</sup></sub>
-
-1995, John Foster, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2047), [CueTracker](http://cuetracker.net/Players/john-foster/)</sup></sub>
+#### ***milleversary on April 15, 2025***
+1997, Lyu Haotian, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=905), [CueTracker](http://cuetracker.net/Players/lyu-haotian/)</sup></sub>
 
 
 
