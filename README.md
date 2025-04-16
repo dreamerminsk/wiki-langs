@@ -22,14 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 15***
-1960, Tony Jones, 65 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1355), [CueTracker](http://cuetracker.net/Players/tony-jones/)</sup></sub>
-
-1971, Paul Wykes, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=500), [CueTracker](http://cuetracker.net/Players/paul-wykes/)</sup></sub>
+#### ***born on April 16***
 
 
-#### ***milleversary on April 15, 2025***
-1997, Lyu Haotian, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=905), [CueTracker](http://cuetracker.net/Players/lyu-haotian/)</sup></sub>
+#### ***milleversary on April 16, 2025***
 
 
 
