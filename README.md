@@ -22,16 +22,18 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 17***
-1974, Simon Bevz, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=529), [CueTracker](http://cuetracker.net/Players/simon-bevz/)</sup></sub>
+#### ***born on April 18***
+1967, Stefan Mazrocis, 58 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=492), [CueTracker](http://cuetracker.net/Players/stefan-mazrocis/)</sup></sub>
 
-1996, Andrew Doherty, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1911), [CueTracker](http://cuetracker.net/Players/andrew-doherty/)</sup></sub>
+1981, Diana Schuler, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=259), [CueTracker](http://cuetracker.net/Players/diana-schuler/)</sup></sub>
 
-2002, Bai Langning, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1595), [CueTracker](http://cuetracker.net/Players/bai-langning/)</sup></sub>
+1985, Thepchaiya Un-Nooh, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=217), [CueTracker](http://cuetracker.net/Players/thepchaiya-un-nooh/)</sup></sub>
 
 
-#### ***milleversary on April 17, 2025***
-2006, Amaan Iqbal, 7000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2798)</sup></sub>
+#### ***milleversary on April 18, 2025***
+1954, Les Dodd, 26000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=449), [CueTracker](http://cuetracker.net/Players/les-dodd/)</sup></sub>
+
+1995, Luca Brecel, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=101), [CueTracker](http://cuetracker.net/Players/luca-brecel/)</sup></sub>
 
 
 
