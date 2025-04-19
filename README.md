@@ -22,18 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 18***
-1967, Stefan Mazrocis, 58 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=492), [CueTracker](http://cuetracker.net/Players/stefan-mazrocis/)</sup></sub>
+#### ***born on April 19***
+1984, Jamie Curtis-Barrett, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=165), [CueTracker](http://cuetracker.net/Players/jamie-barrett/)</sup></sub>
 
-1981, Diana Schuler, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=259), [CueTracker](http://cuetracker.net/Players/diana-schuler/)</sup></sub>
-
-1985, Thepchaiya Un-Nooh, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=217), [CueTracker](http://cuetracker.net/Players/thepchaiya-un-nooh/)</sup></sub>
+1995, Harvey Chandler, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=982), [CueTracker](http://cuetracker.net/Players/harvey-chandler/)</sup></sub>
 
 
-#### ***milleversary on April 18, 2025***
-1954, Les Dodd, 26000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=449), [CueTracker](http://cuetracker.net/Players/les-dodd/)</sup></sub>
-
-1995, Luca Brecel, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=101), [CueTracker](http://cuetracker.net/Players/luca-brecel/)</sup></sub>
+#### ***milleversary on April 19, 2025***
+2003, Josh Symes, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2814)</sup></sub>
 
 
 
