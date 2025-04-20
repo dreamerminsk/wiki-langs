@@ -22,14 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 19***
-1984, Jamie Curtis-Barrett, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=165), [CueTracker](http://cuetracker.net/Players/jamie-barrett/)</sup></sub>
-
-1995, Harvey Chandler, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=982), [CueTracker](http://cuetracker.net/Players/harvey-chandler/)</sup></sub>
+#### ***born on April 20***
 
 
-#### ***milleversary on April 19, 2025***
-2003, Josh Symes, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2814)</sup></sub>
+#### ***milleversary on April 20, 2025***
+1962, Jimmy White, 23000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=20), [CueTracker](http://cuetracker.net/Players/jimmy-white/)</sup></sub>
 
 
 
