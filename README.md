@@ -22,11 +22,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 20***
+#### ***born on April 21***
+1974, Abid Manzoor, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2391)</sup></sub>
+
+2004, Liu Hongyu, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2611)</sup></sub>
 
 
-#### ***milleversary on April 20, 2025***
-1962, Jimmy White, 23000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=20), [CueTracker](http://cuetracker.net/Players/jimmy-white/)</sup></sub>
+#### ***milleversary on April 21, 2025***
 
 
 
