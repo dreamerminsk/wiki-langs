@@ -22,14 +22,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on April 26***
-1996, Alexander Ursenbacher, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=239), [CueTracker](http://cuetracker.net/Players/alexander-ursenbacher/)</sup></sub>
+#### ***born on April 27***
+2003, Isa Ishtiaq, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2857)</sup></sub>
 
 
-#### ***milleversary on April 26, 2025***
-1978, Antony Parsons, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=186), [CueTracker](http://cuetracker.net/Players/antony-parsons/)</sup></sub>
-
-1986, Robbie Williams, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=96), [CueTracker](http://cuetracker.net/Players/robbie-williams/)</sup></sub>
+#### ***milleversary on April 27, 2025***
 
 
 
