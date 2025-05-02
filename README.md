@@ -22,18 +22,17 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May  1***
-1945, Bill Kelly, 80 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=485), [CueTracker](http://cuetracker.net/Players/billy-kelly/)</sup></sub>
+#### ***born on May  2***
+1961, Steve James, 64 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1049), [CueTracker](http://cuetracker.net/Players/steve-james/)</sup></sub>
 
-1964, Imran Puri, 61 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1209), [CueTracker](http://cuetracker.net/Players/imran-puri/)</sup></sub>
+1962, Jimmy White, 63 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=20), [CueTracker](http://cuetracker.net/Players/jimmy-white/)</sup></sub>
 
-1978, Dan Woolloff, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2356)</sup></sub>
+1997, Aaron Holland, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2342)</sup></sub>
 
-1986, Passakorn Suwannawat, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=323), [CueTracker](http://cuetracker.net/Players/passakorn-suwannawat/)</sup></sub>
+1999, Ivan Kakovskii, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1883), [CueTracker](http://cuetracker.net/Players/ivan-kakovsky/)</sup></sub>
 
 
-#### ***milleversary on May  1, 2025***
-1997, Simon Lichtenberg, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1567), [CueTracker](http://cuetracker.net/Players/simon-lichtenberg/)</sup></sub>
+#### ***milleversary on May  2, 2025***
 
 
 
