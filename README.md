@@ -22,15 +22,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May  5***
-1985, David Grace, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=67), [CueTracker](http://cuetracker.net/Players/david-grace/)</sup></sub>
-
-1988, Richard Binns, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2482)</sup></sub>
-
-2000, Riley Parsons, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2479), [CueTracker](http://cuetracker.net/Players/riley-parsons/)</sup></sub>
+#### ***born on May  6***
 
 
-#### ***milleversary on May  5, 2025***
+#### ***milleversary on May  6, 2025***
 
 
 
