@@ -22,10 +22,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May  6***
+#### ***born on May  7***
+1988, David Hogan, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=477), [CueTracker](http://cuetracker.net/Players/david-hogan/)</sup></sub>
+
+1993, Daniel Devlin, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2086), [CueTracker](http://cuetracker.net/Players/daniel-devlin/)</sup></sub>
 
 
-#### ***milleversary on May  6, 2025***
+#### ***milleversary on May  7, 2025***
+1970, Leonard Degriffa, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2491)</sup></sub>
+
+1989, Tomasz Skalski, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=358), [CueTracker](http://cuetracker.net/Players/tomasz-skalski/)</sup></sub>
 
 
 
