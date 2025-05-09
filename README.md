@@ -22,12 +22,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May  8***
-1997, Belan Sharif, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1887), [CueTracker](http://cuetracker.net/Players/belan-sharif/)</sup></sub>
+#### ***born on May  9***
+1973, Dermot McGlinchey, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=162), [CueTracker](http://cuetracker.net/Players/dermot-mcglinchey/)</sup></sub>
+
+1996, Hrithik Jain, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1851), [CueTracker](http://cuetracker.net/Players/hrithik-jain/)</sup></sub>
 
 
-#### ***milleversary on May  8, 2025***
-1995, George Pragnell, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=733), [CueTracker](http://cuetracker.net/Players/george-pragnall/)</sup></sub>
+#### ***milleversary on May  9, 2025***
+1954, Willie Thorne, 26000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2184)</sup></sub>
 
 
 
