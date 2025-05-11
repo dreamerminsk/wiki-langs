@@ -1,14 +1,10 @@
 ## wiki-langs
-[![update](https://github.com/dreamerminsk/wiki-langs/actions/workflows/update-tables.yml/badge.svg)](https://github.com/dreamerminsk/wiki-langs/actions/workflows/update-tables.yml)
-[![build](https://github.com/dreamerminsk/wiki-langs/actions/workflows/build.yml/badge.svg)](https://github.com/dreamerminsk/wiki-langs/actions/workflows/build.yml)
+## World Championships 2000 – 2025
 
-![commits](https://img.shields.io/github/commit-activity/y/dreamerminsk/wiki-langs)
-![commits](https://img.shields.io/github/commit-activity/m/dreamerminsk/wiki-langs)
-![commits](https://img.shields.io/github/commit-activity/w/dreamerminsk/wiki-langs)
-
-![](https://img.shields.io/github/languages/code-size/dreamerminsk/wiki-langs)
-![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
-
+|Player|MW|ML|FW|FL|FD|Prize Money|
+|:-|:-:|:-:|:-:|:-:|:-:|-:|
+|Ronnie O'Sullivan|68|19|1074|725|+349|0,000,000|
+|John Higgins•|25|10|414|346|+68|0,000,000|
 ## players
 | births | players |
 | :----: | ------: |
@@ -30,9 +26,13 @@
 
 
 
-## World Championships 2000 – 2025
+[![update](https://github.com/dreamerminsk/wiki-langs/actions/workflows/update-tables.yml/badge.svg)](https://github.com/dreamerminsk/wiki-langs/actions/workflows/update-tables.yml)
+[![build](https://github.com/dreamerminsk/wiki-langs/actions/workflows/build.yml/badge.svg)](https://github.com/dreamerminsk/wiki-langs/actions/workflows/build.yml)
 
-|Player|MW|ML|FW|FL|FD|Prize Money|
-|:-|:-:|:-:|:-:|:-:|:-:|-:|
-|Ronnie O'Sullivan|68|19|1074|725|+349|0,000,000|
-|John Higgins•|25|10|414|346|+68|0,000,000|
+![commits](https://img.shields.io/github/commit-activity/y/dreamerminsk/wiki-langs)
+![commits](https://img.shields.io/github/commit-activity/m/dreamerminsk/wiki-langs)
+![commits](https://img.shields.io/github/commit-activity/w/dreamerminsk/wiki-langs)
+
+![](https://img.shields.io/github/languages/code-size/dreamerminsk/wiki-langs)
+![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
+
