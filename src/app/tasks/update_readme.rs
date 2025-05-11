@@ -38,7 +38,7 @@ impl UpdateReadMe {
 
     fn content(&self) -> String {
         format!(
-            "{}\r\n{}\r\n",
+            "{}\r\n{}\r\n{}\r\n",
             self.shields().unwrap_or_else(|| "".to_string()),
             self.players().unwrap_or_else(|| "".to_string()),
             self.worlds().unwrap_or_else(|| "".to_string())
