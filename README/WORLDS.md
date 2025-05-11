@@ -1,4 +1,4 @@
-## World Championships
+## World Championships 2000 – 2025
 
 |Player|W – L|FW – FL|FD|
 |:-|:-:|:-:|:-:|
