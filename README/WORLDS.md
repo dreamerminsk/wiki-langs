@@ -3,3 +3,7 @@
 |Player|W – L|FW – FL|FD|
 |:-|:-:|:-:|:-:|
 |Ronnie O'Sullivan|68 – 19|1074 – 725|\+349|
+
+|Player|MW|ML|FW|FL|FD|
+|:-|:-:|:-:|:-:|:-:|:-:|
+|Ronnie O'Sullivan|68|19|1074|725|+349|
