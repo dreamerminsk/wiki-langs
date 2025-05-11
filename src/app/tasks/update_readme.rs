@@ -10,6 +10,8 @@ static README_PATH: &str = "./README.md";
 
 static SHIELDS_PATH: &str = "./README/SHIELDS.md";
 
+static WORLDS_PATH: &str = "./README/WORLDS.md";
+
 static PLAYERS_HEADER: &str = "| births | players |\r\n| :----: | ------: |";
 
 pub struct UpdateReadMe {}
@@ -38,12 +40,17 @@ impl UpdateReadMe {
         format!(
             "{}\r\n{}\r\n",
             self.shields().unwrap_or_else(|| "".to_string()),
-            self.players().unwrap_or_else(|| "".to_string())
+            self.players().unwrap_or_else(|| "".to_string()),
+            self.worlds().unwrap_or_else(|| "".to_string())
         )
     }
 
     fn shields(&self) -> Option<String> {
         fs::read_to_string(SHIELDS_PATH).ok()
+    }
+
+    fn worlds(&self) -> Option<String> {
+        fs::read_to_string(WORLDS_PATH).ok()
     }
 
     fn players(&self) -> Option<String> {
