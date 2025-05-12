@@ -29,7 +29,7 @@ impl UpdateReadMe {
             .open(README_PATH)
             .ok()?;
 
-        let content = format!("## wiki-langs\r\n{}", self.content());
+        let content = format!("{}", self.content());
 
         file.write_all(content.as_bytes()).ok()?;
         file.flush().ok()?;
@@ -38,7 +38,7 @@ impl UpdateReadMe {
 
     fn content(&self) -> String {
         format!(
-            "{}\r\n{}\r\n{}\r\n",
+            "{}\r\n{}\r\n## wiki-langs\r\n{}\r\n",
             self.worlds().unwrap_or_else(|| "".to_string()),
             self.players().unwrap_or_else(|| "".to_string()),
             self.shields().unwrap_or_else(|| "".to_string())
