@@ -1,10 +1,10 @@
-## wiki-langs
 ## World Championships 2000 – 2025
 
 |Player|MW|ML|FW|FL|FD|Prize Money|
 |:-|:-:|:-:|:-:|:-:|:-:|-:|
 |Ronnie O'Sullivan|68|19|1074|725|+349|0,000,000|
-|John Higgins•|25|10|414|346|+68|0,000,000|
+|John Higgins|57|23|934|773|+161|0,000,000|
+
 ## players
 | births | players |
 | :----: | ------: |
@@ -18,14 +18,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 12***
-1977, Graeme Dott, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=52), [CueTracker](http://cuetracker.net/Players/graeme-dott/)</sup></sub>
+#### ***born on May 13***
+1971, Robert Read, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2083), [CueTracker](http://cuetracker.net/Players/robert-read/)</sup></sub>
 
 
-#### ***milleversary on May 12, 2025***
+#### ***milleversary on May 13, 2025***
+1984, Jamie Curtis-Barrett, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=165), [CueTracker](http://cuetracker.net/Players/jamie-barrett/)</sup></sub>
 
 
 
+## wiki-langs
 [![update](https://github.com/dreamerminsk/wiki-langs/actions/workflows/update-tables.yml/badge.svg)](https://github.com/dreamerminsk/wiki-langs/actions/workflows/update-tables.yml)
 [![build](https://github.com/dreamerminsk/wiki-langs/actions/workflows/build.yml/badge.svg)](https://github.com/dreamerminsk/wiki-langs/actions/workflows/build.yml)
 
