@@ -1,9 +1,27 @@
 ## World Championships 2000 – 2025
+### Matches
+|Player|MW|ML|FW|FL|FD|
+|:-|:-:|:-:|:-:|:-:|:-:|
+|Ronnie O'Sullivan|68|19|1074|725|+349|
+|John Higgins|57|23|934|773|+161|
+|Mark Selby|43|17|719|586|+133|
 
-|Player|MW|ML|FW|FL|FD|Prize Money|
-|:-|:-:|:-:|:-:|:-:|:-:|-:|
-|Ronnie O'Sullivan|68|19|1074|725|+349|0,000,000|
-|John Higgins|57|23|934|773|+161|0,000,000|
+### Results
+|Player|Titles|Finals|Money|
+|:-|:-:|:-:|-:|
+|Ronnie O'Sullivan|7|8|£2,375,000|
+|Mark Selby|4|6|£1,805,000|
+|John Higgins|3|7|£1,407,000|
+|Mark Williams|3|4|£1,135,000|
+|Shaun Murphy|1|4|£700,000|
+|Judd Trump|1|3|£825,000|
+|Graeme Dott|1|3|£450,000|
+|Kyren Wilson|1|2|£700,000|
+|Peter Ebdon|1|2|£360,000|
+|Zhao Xintong|1|1|£500,000|
+|Luca Brecel|1|1|£500,000|
+|Stuart Bingham|1|1|£300,000|
+|Neil Robertson|1|1|£250,000|
 
 ## players
 | births | players |
@@ -18,12 +36,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 13***
-1971, Robert Read, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2083), [CueTracker](http://cuetracker.net/Players/robert-read/)</sup></sub>
+#### ***born on May 14***
+1987, Ben Woollaston, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=19), [CueTracker](http://cuetracker.net/Players/ben-woollaston/)</sup></sub>
+
+1990, Stuart Carrington, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=128), [CueTracker](http://cuetracker.net/Players/stuart-carrington/)</sup></sub>
+
+1991, Damian Wilks, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=142), [CueTracker](http://cuetracker.net/Players/damian-wilks/)</sup></sub>
 
 
-#### ***milleversary on May 13, 2025***
-1984, Jamie Curtis-Barrett, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=165), [CueTracker](http://cuetracker.net/Players/jamie-barrett/)</sup></sub>
+#### ***milleversary on May 14, 2025***
 
 
 
