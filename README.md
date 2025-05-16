@@ -36,12 +36,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 15***
-1971, Ferdous Bhuiyan, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1624), [CueTracker](http://cuetracker.net/Players/ferdous-bhuyian/)</sup></sub>
+#### ***born on May 16***
+1974, Bradley Jones, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1167), [CueTracker](http://cuetracker.net/Players/bradley-jones/)</sup></sub>
 
 
-#### ***milleversary on May 15, 2025***
-1973, Dermot McGlinchey, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=162), [CueTracker](http://cuetracker.net/Players/dermot-mcglinchey/)</sup></sub>
+#### ***milleversary on May 16, 2025***
+1976, Stephen Rowlings, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=410), [CueTracker](http://cuetracker.net/Players/stephen-rowlings/)</sup></sub>
+
+1984, Raymond Fry, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=174), [CueTracker](http://cuetracker.net/Players/raymond-fry/)</sup></sub>
 
 
 
