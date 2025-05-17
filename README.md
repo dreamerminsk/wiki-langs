@@ -36,14 +36,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 16***
-1974, Bradley Jones, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1167), [CueTracker](http://cuetracker.net/Players/bradley-jones/)</sup></sub>
+#### ***born on May 17***
+2000, Lewis Parnham, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2478)</sup></sub>
 
 
-#### ***milleversary on May 16, 2025***
-1976, Stephen Rowlings, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=410), [CueTracker](http://cuetracker.net/Players/stephen-rowlings/)</sup></sub>
-
-1984, Raymond Fry, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=174), [CueTracker](http://cuetracker.net/Players/raymond-fry/)</sup></sub>
+#### ***milleversary on May 17, 2025***
 
 
 
