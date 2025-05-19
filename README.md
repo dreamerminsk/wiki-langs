@@ -36,18 +36,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 18***
-1958, Bob Chaperon, 67 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2881)</sup></sub>
-
-1975, John Higgins, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=237), [CueTracker](http://cuetracker.net/Players/john-higgins/)</sup></sub>
-
-1993, Andreas Ploner, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=633), [CueTracker](http://cuetracker.net/Players/andreas-ploner/)</sup></sub>
-
-1996, Lukas Kleckers, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1082), [CueTracker](http://cuetracker.net/Players/lukas-kleckers/)</sup></sub>
+#### ***born on May 19***
+1999, Manasawin Phetmalaikul, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1991), [CueTracker](http://cuetracker.net/Players/manasawin-phetmalaikul/)</sup></sub>
 
 
-#### ***milleversary on May 18, 2025***
-1976, Juan Pedro Durán, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2725)</sup></sub>
+#### ***milleversary on May 19, 2025***
+1987, Khalid Belaied Abumdas, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1292), [CueTracker](http://cuetracker.net/Players/khalid-belaied-abumdas/)</sup></sub>
 
 
 
