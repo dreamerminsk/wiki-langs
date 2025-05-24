@@ -36,14 +36,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 23***
-1981, Jin Long, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=283), [CueTracker](http://cuetracker.net/Players/jin-long/)</sup></sub>
+#### ***born on May 24***
+1982, Ben Hancorn, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2335), [CueTracker](http://cuetracker.net/Players/ben-hancorn/)</sup></sub>
 
 
-#### ***milleversary on May 23, 2025***
-1976, Lee Walker, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=520), [CueTracker](http://cuetracker.net/Players/lee-walker/)</sup></sub>
-
-1989, Li Yuan, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=958), [CueTracker](http://cuetracker.net/Players/li-yuan/)</sup></sub>
+#### ***milleversary on May 24, 2025***
+1978, Ian Glover, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=82), [CueTracker](http://cuetracker.net/Players/ian-glover/)</sup></sub>
 
 
 
