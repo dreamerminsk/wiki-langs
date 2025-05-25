@@ -36,12 +36,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 24***
-1982, Ben Hancorn, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2335), [CueTracker](http://cuetracker.net/Players/ben-hancorn/)</sup></sub>
+#### ***born on May 25***
+1994, Luke Garland, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1303), [CueTracker](http://cuetracker.net/Players/luke-garland/)</sup></sub>
+
+1995, Alex Millington, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2345)</sup></sub>
 
 
-#### ***milleversary on May 24, 2025***
-1978, Ian Glover, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=82), [CueTracker](http://cuetracker.net/Players/ian-glover/)</sup></sub>
+#### ***milleversary on May 25, 2025***
+1978, Levi Meiller, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2502)</sup></sub>
 
 
 
