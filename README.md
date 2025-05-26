@@ -36,14 +36,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 25***
-1994, Luke Garland, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1303), [CueTracker](http://cuetracker.net/Players/luke-garland/)</sup></sub>
-
-1995, Alex Millington, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2345)</sup></sub>
+#### ***born on May 26***
+2003, Josh Symes, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2814)</sup></sub>
 
 
-#### ***milleversary on May 25, 2025***
-1978, Levi Meiller, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2502)</sup></sub>
+#### ***milleversary on May 26, 2025***
 
 
 
