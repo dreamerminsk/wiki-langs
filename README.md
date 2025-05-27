@@ -36,11 +36,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 26***
-2003, Josh Symes, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2814)</sup></sub>
+#### ***born on May 27***
+1967, Danny Connolly, 58 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1985), [CueTracker](http://cuetracker.net/Players/danny-connolly/)</sup></sub>
 
 
-#### ***milleversary on May 26, 2025***
+#### ***milleversary on May 27, 2025***
+2000, Abdul Javed, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2894)</sup></sub>
 
 
 
