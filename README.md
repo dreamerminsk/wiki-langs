@@ -36,14 +36,18 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 28***
-1960, Tony Chappel, 65 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=802), [CueTracker](http://cuetracker.net/Players/tony-chappel/)</sup></sub>
+#### ***born on May 29***
+1976, Stuart Watson, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2044), [CueTracker](http://cuetracker.net/Players/stuart-watson/)</sup></sub>
 
-1979, Omar Alajlani, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2367)</sup></sub>
+1998, Mihai Vladu, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1865), [CueTracker](http://cuetracker.net/Players/mihai-vladu/)</sup></sub>
+
+2000, Yuan Sijun, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1108), [CueTracker](http://cuetracker.net/Players/yuan-sijun/)</sup></sub>
 
 
-#### ***milleversary on May 28, 2025***
-2003, Faizaan Mohammed, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2775)</sup></sub>
+#### ***milleversary on May 29, 2025***
+1970, Peter Ebdon, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=42), [CueTracker](http://cuetracker.net/Players/peter-ebdon/)</sup></sub>
+
+1998, Patrick Whelan, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1812), [CueTracker](http://cuetracker.net/Players/patrick-whelan/)</sup></sub>
 
 
 
