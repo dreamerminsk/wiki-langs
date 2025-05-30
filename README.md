@@ -36,18 +36,22 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 29***
-1976, Stuart Watson, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2044), [CueTracker](http://cuetracker.net/Players/stuart-watson/)</sup></sub>
+#### ***born on May 30***
+1965, Kharazchi Jamshid, 60 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2658)</sup></sub>
 
-1998, Mihai Vladu, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1865), [CueTracker](http://cuetracker.net/Players/mihai-vladu/)</sup></sub>
+1991, Amir Sarkhosh, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1350), [CueTracker](http://cuetracker.net/Players/amir-sarkhosh/)</sup></sub>
 
-2000, Yuan Sijun, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1108), [CueTracker](http://cuetracker.net/Players/yuan-sijun/)</sup></sub>
+2000, Chae Ross, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2204)</sup></sub>
 
 
-#### ***milleversary on May 29, 2025***
-1970, Peter Ebdon, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=42), [CueTracker](http://cuetracker.net/Players/peter-ebdon/)</sup></sub>
+#### ***milleversary on May 30, 2025***
+1976, Lee Adams, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2686)</sup></sub>
 
-1998, Patrick Whelan, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1812), [CueTracker](http://cuetracker.net/Players/patrick-whelan/)</sup></sub>
+1995, Harvey Chandler, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=982), [CueTracker](http://cuetracker.net/Players/harvey-chandler/)</sup></sub>
+
+1998, Chatchapong Nasa, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2887)</sup></sub>
+
+2000, Alfie Davies, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2803)</sup></sub>
 
 
 
