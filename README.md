@@ -36,22 +36,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 30***
-1965, Kharazchi Jamshid, 60 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2658)</sup></sub>
-
-1991, Amir Sarkhosh, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1350), [CueTracker](http://cuetracker.net/Players/amir-sarkhosh/)</sup></sub>
-
-2000, Chae Ross, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2204)</sup></sub>
+#### ***born on May 31***
+2003, Lei Peifan, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2498), [CueTracker](http://cuetracker.net/Players/peifan-lei/)</sup></sub>
 
 
-#### ***milleversary on May 30, 2025***
-1976, Lee Adams, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2686)</sup></sub>
-
-1995, Harvey Chandler, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=982), [CueTracker](http://cuetracker.net/Players/harvey-chandler/)</sup></sub>
-
-1998, Chatchapong Nasa, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2887)</sup></sub>
-
-2000, Alfie Davies, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2803)</sup></sub>
+#### ***milleversary on May 31, 2025***
 
 
 
