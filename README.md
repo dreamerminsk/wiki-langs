@@ -36,11 +36,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on May 31***
-2003, Lei Peifan, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2498), [CueTracker](http://cuetracker.net/Players/peifan-lei/)</sup></sub>
+#### ***born on June  1***
 
 
-#### ***milleversary on May 31, 2025***
+#### ***milleversary on June  1, 2025***
 
 
 
