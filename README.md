@@ -36,12 +36,20 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June  3***
-1967, Philip Williams, 58 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1363), [CueTracker](http://cuetracker.net/Players/philip-williams/)</sup></sub>
+#### ***born on June  4***
+1971, Jamie Bodle, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1283), [CueTracker](http://cuetracker.net/Players/jamie-bodle/)</sup></sub>
+
+1977, Quinten Hann, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2745)</sup></sub>
+
+1985, Matthew Day, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=423), [CueTracker](http://cuetracker.net/Players/matthew-day/)</sup></sub>
+
+1986, Martin O'Donnell, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=120), [CueTracker](http://cuetracker.net/Players/martin-odonnell/)</sup></sub>
+
+1992, Jason Tart, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=540), [CueTracker](http://cuetracker.net/Players/jason-tart/)</sup></sub>
 
 
-#### ***milleversary on June  3, 2025***
-2003, Bai Yulu, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2616)</sup></sub>
+#### ***milleversary on June  4, 2025***
+1981, Marc Shaw, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2900)</sup></sub>
 
 
 
