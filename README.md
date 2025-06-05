@@ -36,20 +36,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June  4***
-1971, Jamie Bodle, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1283), [CueTracker](http://cuetracker.net/Players/jamie-bodle/)</sup></sub>
-
-1977, Quinten Hann, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2745)</sup></sub>
-
-1985, Matthew Day, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=423), [CueTracker](http://cuetracker.net/Players/matthew-day/)</sup></sub>
-
-1986, Martin O'Donnell, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=120), [CueTracker](http://cuetracker.net/Players/martin-odonnell/)</sup></sub>
-
-1992, Jason Tart, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=540), [CueTracker](http://cuetracker.net/Players/jason-tart/)</sup></sub>
+#### ***born on June  5***
+1969, Alex Borg, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=515), [CueTracker](http://cuetracker.net/Players/alex-borg/)</sup></sub>
 
 
-#### ***milleversary on June  4, 2025***
-1981, Marc Shaw, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2900)</sup></sub>
+#### ***milleversary on June  5, 2025***
+1981, Cao Xinlong, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=514), [CueTracker](http://cuetracker.net/Players/cao-xinlong/)</sup></sub>
+
+1989, Michael Tomlinson, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1213), [CueTracker](http://cuetracker.net/Players/michael-tomlinson/)</sup></sub>
 
 
 
