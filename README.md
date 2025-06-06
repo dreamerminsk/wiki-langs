@@ -36,14 +36,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June  5***
-1969, Alex Borg, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=515), [CueTracker](http://cuetracker.net/Players/alex-borg/)</sup></sub>
+#### ***born on June  6***
+1990, Liu Chuang, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=43), [CueTracker](http://cuetracker.net/Players/lyu-chuang/)</sup></sub>
 
 
-#### ***milleversary on June  5, 2025***
-1981, Cao Xinlong, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=514), [CueTracker](http://cuetracker.net/Players/cao-xinlong/)</sup></sub>
+#### ***milleversary on June  6, 2025***
+1965, Andrew Milliard, 22000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=424), [CueTracker](http://cuetracker.net/Players/andrew-milliard/)</sup></sub>
 
-1989, Michael Tomlinson, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1213), [CueTracker](http://cuetracker.net/Players/michael-tomlinson/)</sup></sub>
+2003, Alfie Lee, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2782)</sup></sub>
 
 
 
