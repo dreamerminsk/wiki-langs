@@ -36,14 +36,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June  6***
-1990, Liu Chuang, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=43), [CueTracker](http://cuetracker.net/Players/lyu-chuang/)</sup></sub>
+#### ***born on June  7***
+1963, Nigel Howes, 62 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2213)</sup></sub>
+
+1999, Jed Mann, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2348)</sup></sub>
 
 
-#### ***milleversary on June  6, 2025***
-1965, Andrew Milliard, 22000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=424), [CueTracker](http://cuetracker.net/Players/andrew-milliard/)</sup></sub>
-
-2003, Alfie Lee, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2782)</sup></sub>
+#### ***milleversary on June  7, 2025***
+1998, Shane Castle, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=615), [CueTracker](http://cuetracker.net/Players/shane-castle/)</sup></sub>
 
 
 
