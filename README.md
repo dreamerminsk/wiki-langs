@@ -36,14 +36,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June  7***
-1963, Nigel Howes, 62 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2213)</sup></sub>
+#### ***born on June  8***
+1942, Doug Mountjoy, 83 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=806), [CueTracker](http://cuetracker.net/Players/doug-mountjoy/)</sup></sub>
 
-1999, Jed Mann, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2348)</sup></sub>
+1969, Richard Somauroo, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=136), [CueTracker](http://cuetracker.net/Players/richard-somauroo/)</sup></sub>
+
+1976, Antony Rodriguez, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2709)</sup></sub>
 
 
-#### ***milleversary on June  7, 2025***
-1998, Shane Castle, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=615), [CueTracker](http://cuetracker.net/Players/shane-castle/)</sup></sub>
+#### ***milleversary on June  8, 2025***
+1992, Christopher Keogan, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=416), [CueTracker](http://cuetracker.net/Players/christopher-keogan/)</sup></sub>
 
 
 
