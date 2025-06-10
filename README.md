@@ -36,12 +36,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June  9***
-1978, Wayne Cooper, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=494), [CueTracker](http://cuetracker.net/Players/wayne-cooper/)</sup></sub>
+#### ***born on June 10***
 
 
-#### ***milleversary on June  9, 2025***
-1995, Denys Khmelevskyi, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2784)</sup></sub>
+#### ***milleversary on June 10, 2025***
+1998, Xu Si, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1407), [CueTracker](http://cuetracker.net/Players/xu-si/)</sup></sub>
 
 
 
