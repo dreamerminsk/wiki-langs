@@ -36,11 +36,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 10***
+#### ***born on June 11***
 
 
-#### ***milleversary on June 10, 2025***
-1998, Xu Si, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1407), [CueTracker](http://cuetracker.net/Players/xu-si/)</sup></sub>
+#### ***milleversary on June 11, 2025***
 
 
 
