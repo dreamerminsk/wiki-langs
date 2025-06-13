@@ -36,11 +36,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 12***
-1981, David B Gilbert, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=118), [CueTracker](http://cuetracker.net/Players/david-gilbert/)</sup></sub>
+#### ***born on June 13***
+1955, Tony Knowles, 70 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=181), [CueTracker](http://cuetracker.net/Players/tony-knowles/)</sup></sub>
 
 
-#### ***milleversary on June 12, 2025***
+#### ***milleversary on June 13, 2025***
+1970, Hans Blanckaert, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=191), [CueTracker](http://cuetracker.net/Players/hans-blanckaert/)</sup></sub>
 
 
 
