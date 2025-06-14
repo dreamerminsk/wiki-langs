@@ -36,12 +36,12 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 13***
-1955, Tony Knowles, 70 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=181), [CueTracker](http://cuetracker.net/Players/tony-knowles/)</sup></sub>
+#### ***born on June 14***
+1983, Wendy Jans, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=236), [CueTracker](http://cuetracker.net/Players/wendy-jans/)</sup></sub>
 
 
-#### ***milleversary on June 13, 2025***
-1970, Hans Blanckaert, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=191), [CueTracker](http://cuetracker.net/Players/hans-blanckaert/)</sup></sub>
+#### ***milleversary on June 14, 2025***
+1967, Karl Burrows, 21000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2872)</sup></sub>
 
 
 
