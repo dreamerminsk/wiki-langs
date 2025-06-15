@@ -36,12 +36,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 14***
-1983, Wendy Jans, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=236), [CueTracker](http://cuetracker.net/Players/wendy-jans/)</sup></sub>
+#### ***born on June 15***
+1971, Lee Richardson, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=600), [CueTracker](http://cuetracker.net/Players/lee-richardson/)</sup></sub>
+
+1996, Enes Bakirci, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2401)</sup></sub>
 
 
-#### ***milleversary on June 14, 2025***
-1967, Karl Burrows, 21000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2872)</sup></sub>
+#### ***milleversary on June 15, 2025***
 
 
 
