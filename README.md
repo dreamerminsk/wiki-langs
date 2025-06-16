@@ -36,13 +36,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 15***
-1971, Lee Richardson, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=600), [CueTracker](http://cuetracker.net/Players/lee-richardson/)</sup></sub>
+#### ***born on June 16***
+1979, Matthew Lee, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2779), [CueTracker](http://cuetracker.net/Players/matthew-lee/)</sup></sub>
 
-1996, Enes Bakirci, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2401)</sup></sub>
+1989, Ning Kang, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2357)</sup></sub>
+
+1995, Oliver Lines, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=592), [CueTracker](http://cuetracker.net/Players/oliver-lines/)</sup></sub>
 
 
-#### ***milleversary on June 15, 2025***
+#### ***milleversary on June 16, 2025***
+1976, Robert Milkins, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=92), [CueTracker](http://cuetracker.net/Players/robert-milkins/)</sup></sub>
 
 
 
