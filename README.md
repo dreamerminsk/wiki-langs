@@ -36,16 +36,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 16***
-1979, Matthew Lee, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2779), [CueTracker](http://cuetracker.net/Players/matthew-lee/)</sup></sub>
+#### ***born on June 17***
+1970, Jason Prince, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2871)</sup></sub>
 
-1989, Ning Kang, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2357)</sup></sub>
+1987, Sergey Isaenko, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1558), [CueTracker](http://cuetracker.net/Players/sergey-isaenko/)</sup></sub>
 
-1995, Oliver Lines, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=592), [CueTracker](http://cuetracker.net/Players/oliver-lines/)</sup></sub>
+1988, Sam Baird, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=76), [CueTracker](http://cuetracker.net/Players/sam-baird/)</sup></sub>
 
 
-#### ***milleversary on June 16, 2025***
-1976, Robert Milkins, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=92), [CueTracker](http://cuetracker.net/Players/robert-milkins/)</sup></sub>
+#### ***milleversary on June 17, 2025***
 
 
 
