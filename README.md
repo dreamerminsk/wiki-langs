@@ -36,15 +36,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 17***
-1970, Jason Prince, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2871)</sup></sub>
-
-1987, Sergey Isaenko, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1558), [CueTracker](http://cuetracker.net/Players/sergey-isaenko/)</sup></sub>
-
-1988, Sam Baird, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=76), [CueTracker](http://cuetracker.net/Players/sam-baird/)</sup></sub>
+#### ***born on June 18***
 
 
-#### ***milleversary on June 17, 2025***
+#### ***milleversary on June 18, 2025***
+1959, Tony Meo, 24000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2874)</sup></sub>
 
 
 
