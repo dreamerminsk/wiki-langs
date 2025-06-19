@@ -36,11 +36,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 18***
+#### ***born on June 19***
+1983, Mark Selby, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=17), [CueTracker](http://cuetracker.net/Players/mark-selby/)</sup></sub>
 
 
-#### ***milleversary on June 18, 2025***
-1959, Tony Meo, 24000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2874)</sup></sub>
+#### ***milleversary on June 19, 2025***
 
 
 
