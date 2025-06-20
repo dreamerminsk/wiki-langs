@@ -36,11 +36,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 19***
-1983, Mark Selby, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=17), [CueTracker](http://cuetracker.net/Players/mark-selby/)</sup></sub>
+#### ***born on June 20***
+2001, Alex Clenshaw, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2722)</sup></sub>
 
 
-#### ***milleversary on June 19, 2025***
+#### ***milleversary on June 20, 2025***
+1992, Jake Nicholson, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=138), [CueTracker](http://cuetracker.net/Players/jake-nicholson/)</sup></sub>
+
+1998, Chan Ming Tung, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1376), [CueTracker](http://cuetracker.net/Players/chan-mingtung/)</sup></sub>
 
 
 
