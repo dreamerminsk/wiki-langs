@@ -36,11 +36,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 21***
-2000, Sean McAllister, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2156)</sup></sub>
+#### ***born on June 22***
+1970, Paul Davies, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=173), [CueTracker](http://cuetracker.net/Players/paul-davies/)</sup></sub>
+
+1978, James McBain, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=78), [CueTracker](http://cuetracker.net/Players/james-mcbain/)</sup></sub>
 
 
-#### ***milleversary on June 21, 2025***
+#### ***milleversary on June 22, 2025***
 
 
 
