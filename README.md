@@ -36,11 +36,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 24***
-1989, Charlie Walters, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=135), [CueTracker](http://cuetracker.net/Players/charlie-walters/)</sup></sub>
+#### ***born on June 25***
+1991, Jack Lisowski, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=85), [CueTracker](http://cuetracker.net/Players/jack-lisowski/)</sup></sub>
 
 
-#### ***milleversary on June 24, 2025***
+#### ***milleversary on June 25, 2025***
 
 
 
