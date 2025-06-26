@@ -36,11 +36,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 25***
-1991, Jack Lisowski, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=85), [CueTracker](http://cuetracker.net/Players/jack-lisowski/)</sup></sub>
+#### ***born on June 26***
+1994, Niu Zhuang, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1101), [CueTracker](http://cuetracker.net/Players/niu-zhuang/)</sup></sub>
 
 
-#### ***milleversary on June 25, 2025***
+#### ***milleversary on June 26, 2025***
 
 
 
