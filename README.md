@@ -36,11 +36,18 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 26***
-1994, Niu Zhuang, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1101), [CueTracker](http://cuetracker.net/Players/niu-zhuang/)</sup></sub>
+#### ***born on June 27***
+1967, Paul Burrell, 58 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2001), [CueTracker](http://cuetracker.net/Players/paul-burrell/)</sup></sub>
+
+1980, Andrew Norman, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=60), [CueTracker](http://cuetracker.net/Players/andrew-norman/)</sup></sub>
+
+1992, Nigel Clarke, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2902)</sup></sub>
+
+2005, Aidan Murphy, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2755), [CueTracker](http://cuetracker.net/Players/aidan-murphy-ii/)</sup></sub>
 
 
-#### ***milleversary on June 26, 2025***
+#### ***milleversary on June 27, 2025***
+1989, Mirko Montrasio, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2890)</sup></sub>
 
 
 
