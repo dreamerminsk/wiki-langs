@@ -36,18 +36,15 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on June 27***
-1967, Paul Burrell, 58 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2001), [CueTracker](http://cuetracker.net/Players/paul-burrell/)</sup></sub>
+#### ***born on June 28***
+1963, David Singh, 62 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=385), [CueTracker](http://cuetracker.net/Players/david-singh/)</sup></sub>
 
-1980, Andrew Norman, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=60), [CueTracker](http://cuetracker.net/Players/andrew-norman/)</sup></sub>
+1997, Brandon Sargeant, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=983), [CueTracker](http://cuetracker.net/Players/brandon-sargeant/)</sup></sub>
 
-1992, Nigel Clarke, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2902)</sup></sub>
-
-2005, Aidan Murphy, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2755), [CueTracker](http://cuetracker.net/Players/aidan-murphy-ii/)</sup></sub>
+2006, Liam James Davies, 19 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2438), [CueTracker](http://cuetracker.net/Players/liam-davies/)</sup></sub>
 
 
-#### ***milleversary on June 27, 2025***
-1989, Mirko Montrasio, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2890)</sup></sub>
+#### ***milleversary on June 28, 2025***
 
 
 
