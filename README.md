@@ -36,18 +36,17 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July  2***
-1985, Mark Owens, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=706), [CueTracker](http://cuetracker.net/Players/mark-owens/)</sup></sub>
+#### ***born on July  3***
+1972, Craig MacGillivray, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=222), [CueTracker](http://cuetracker.net/Players/craig-macgillivray/)</sup></sub>
 
-1990, Jamie Tudor, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2774), [CueTracker](http://cuetracker.net/Players/jamie-tudor/)</sup></sub>
+1976, Garry Coulson, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2490)</sup></sub>
 
-1995, Josh Boileau, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=762), [CueTracker](http://cuetracker.net/Players/josh-boileau/)</sup></sub>
+1981, Jason Turnbull, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2042), [CueTracker](http://cuetracker.net/Players/jason-turnbull/)</sup></sub>
 
-1996, Joshua Cooper, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1421), [CueTracker](http://cuetracker.net/Players/joshua-cooper/)</sup></sub>
+1997, Louis Heathcote, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1045), [CueTracker](http://cuetracker.net/Players/louis-heathcote/)</sup></sub>
 
 
-#### ***milleversary on July  2, 2025***
-1987, Liang Wenbo, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=200), [CueTracker](http://cuetracker.net/Players/liang-wenbo/)</sup></sub>
+#### ***milleversary on July  3, 2025***
 
 
 
