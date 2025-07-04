@@ -36,17 +36,18 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July  3***
-1972, Craig MacGillivray, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=222), [CueTracker](http://cuetracker.net/Players/craig-macgillivray/)</sup></sub>
+#### ***born on July  4***
+1983, Rouzi Maimaiti, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=339), [CueTracker](http://cuetracker.net/Players/rouzi-maimaiti/)</sup></sub>
 
-1976, Garry Coulson, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2490)</sup></sub>
+2000, Niel Vincent, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1848), [CueTracker](http://cuetracker.net/Players/niel-vincent/)</sup></sub>
 
-1981, Jason Turnbull, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2042), [CueTracker](http://cuetracker.net/Players/jason-turnbull/)</sup></sub>
-
-1997, Louis Heathcote, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1045), [CueTracker](http://cuetracker.net/Players/louis-heathcote/)</sup></sub>
+2003, Faizaan Mohammed, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2775)</sup></sub>
 
 
-#### ***milleversary on July  3, 2025***
+#### ***milleversary on July  4, 2025***
+1981, Martin Gould, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=27), [CueTracker](http://cuetracker.net/Players/martin-gould/)</sup></sub>
+
+1992, Michael Williams, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1322), [CueTracker](http://cuetracker.net/Players/michael-williams/)</sup></sub>
 
 
 
