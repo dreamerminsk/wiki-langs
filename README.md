@@ -36,18 +36,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July  4***
-1983, Rouzi Maimaiti, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=339), [CueTracker](http://cuetracker.net/Players/rouzi-maimaiti/)</sup></sub>
+#### ***born on July  5***
+1976, Leo Fernandez, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=422), [CueTracker](http://cuetracker.net/Players/leo-fernandez/)</sup></sub>
 
-2000, Niel Vincent, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1848), [CueTracker](http://cuetracker.net/Players/niel-vincent/)</sup></sub>
+1991, Michael White, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=171), [CueTracker](http://cuetracker.net/Players/michael-white/)</sup></sub>
 
-2003, Faizaan Mohammed, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2775)</sup></sub>
+2001, Ross Bulman, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2352)</sup></sub>
 
 
-#### ***milleversary on July  4, 2025***
-1981, Martin Gould, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=27), [CueTracker](http://cuetracker.net/Players/martin-gould/)</sup></sub>
-
-1992, Michael Williams, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1322), [CueTracker](http://cuetracker.net/Players/michael-williams/)</sup></sub>
+#### ***milleversary on July  5, 2025***
+1995, Alex Millington, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2345)</sup></sub>
 
 
 
