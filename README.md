@@ -36,26 +36,19 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 13***
-1963, Neal Foulds, 62 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=668), [CueTracker](http://cuetracker.net/Players/neal-foulds/)</sup></sub>
+#### ***born on July 14***
+1982, Craig Steadman, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=131), [CueTracker](http://cuetracker.net/Players/craig-steadman/)</sup></sub>
 
-1970, Barry Pinches, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=6), [CueTracker](http://cuetracker.net/Players/barry-pinches/)</sup></sub>
+1983, David Nelson, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2336)</sup></sub>
 
-1976, Emma Bonney, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2129), [CueTracker](http://cuetracker.net/Players/emma-bonney/)</sup></sub>
+1989, Peter Geronimo, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2734)</sup></sub>
 
-1977, Stephen Ormerod, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=110), [CueTracker](http://cuetracker.net/Players/stephen-ormerod/)</sup></sub>
+1991, Anthony Jeffers, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1559), [CueTracker](http://cuetracker.net/Players/anthony-jeffers/)</sup></sub>
 
-1984, Yasir Nadeem, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1731), [CueTracker](http://cuetracker.net/Players/yasir-nadeem/)</sup></sub>
-
-1993, Adam Edge, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1041), [CueTracker](http://cuetracker.net/Players/adam-edge/)</sup></sub>
-
-1996, Sam Gates, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2484)</sup></sub>
-
-2003, Alfie Lee, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2782)</sup></sub>
+1992, Billy Joe Castle, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=616), [CueTracker](http://cuetracker.net/Players/billy-joe-castle/)</sup></sub>
 
 
-#### ***milleversary on July 13, 2025***
-1992, Callum Downing, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=159), [CueTracker](http://cuetracker.net/Players/callum-downing/)</sup></sub>
+#### ***milleversary on July 14, 2025***
 
 
 
