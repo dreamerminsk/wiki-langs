@@ -36,14 +36,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 17***
-1995, Ashley Carty, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=724), [CueTracker](http://cuetracker.net/Players/ashley-carty/)</sup></sub>
-
-1997, Mateusz Baranowski, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=680), [CueTracker](http://cuetracker.net/Players/mateusz-baranowski/)</sup></sub>
+#### ***born on July 18***
+1985, Thepchaiya Un-Nooh, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=217)</sup></sub>
 
 
-#### ***milleversary on July 17, 2025***
-1984, Marvin Morgan, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2458)</sup></sub>
+#### ***milleversary on July 18, 2025***
+1968, Surinder Gill, 21000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1190), [CueTracker](http://cuetracker.net/Players/surinder-gill/)</sup></sub>
+
+1987, Daan Leyssen, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=840), [CueTracker](http://cuetracker.net/Players/daan-leyssen/)</sup></sub>
 
 
 
