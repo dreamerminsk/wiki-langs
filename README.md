@@ -36,14 +36,11 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 18***
-1985, Thepchaiya Un-Nooh, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=217)</sup></sub>
+#### ***born on July 19***
+1985, Qiu Yalong, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=953), [CueTracker](http://cuetracker.net/Players/qiu-yalong/)</sup></sub>
 
 
-#### ***milleversary on July 18, 2025***
-1968, Surinder Gill, 21000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1190), [CueTracker](http://cuetracker.net/Players/surinder-gill/)</sup></sub>
-
-1987, Daan Leyssen, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=840), [CueTracker](http://cuetracker.net/Players/daan-leyssen/)</sup></sub>
+#### ***milleversary on July 19, 2025***
 
 
 
