@@ -36,18 +36,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 25***
-1960, Alain Robidoux, 65 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=669), [CueTracker](http://cuetracker.net/Players/alain-robidoux/)</sup></sub>
-
-1972, Mehmet Husnu, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1192), [CueTracker](http://cuetracker.net/Players/mehmet-husnu/)</sup></sub>
-
-1979, Allister Carter, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=158), [CueTracker](http://cuetracker.net/Players/ali-carter/)</sup></sub>
-
-1990, Labeeb Ahmed, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2069)</sup></sub>
+#### ***born on July 26***
 
 
-#### ***milleversary on July 25, 2025***
-1992, Li Yan, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=296), [CueTracker](http://cuetracker.net/Players/li-yan/)</sup></sub>
+#### ***milleversary on July 26, 2025***
 
 
 
