@@ -36,10 +36,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 26***
+#### ***born on July 27***
+1980, Mark Bell, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2785), [CueTracker](http://cuetracker.net/Players/mark-bell/)</sup></sub>
+
+1987, Alex Davies, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=144), [CueTracker](http://cuetracker.net/Players/alex-davies/)</sup></sub>
+
+1991, Ma Tingpeng, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=952), [CueTracker](http://cuetracker.net/Players/ma-tingpeng/)</sup></sub>
 
 
-#### ***milleversary on July 26, 2025***
+#### ***milleversary on July 27, 2025***
+1995, Oliver Lines, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=592), [CueTracker](http://cuetracker.net/Players/oliver-lines/)</sup></sub>
 
 
 
