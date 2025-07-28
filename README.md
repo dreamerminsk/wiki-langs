@@ -36,16 +36,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 27***
-1980, Mark Bell, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2785), [CueTracker](http://cuetracker.net/Players/mark-bell/)</sup></sub>
+#### ***born on July 28***
+1971, Ian McCulloch, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=103), [CueTracker](http://cuetracker.net/Players/ian-mcculloch/)</sup></sub>
 
-1987, Alex Davies, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=144), [CueTracker](http://cuetracker.net/Players/alex-davies/)</sup></sub>
-
-1991, Ma Tingpeng, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=952), [CueTracker](http://cuetracker.net/Players/ma-tingpeng/)</sup></sub>
+1985, Itaro Santos, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=583), [CueTracker](http://cuetracker.net/Players/itaro-santos/)</sup></sub>
 
 
-#### ***milleversary on July 27, 2025***
-1995, Oliver Lines, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=592), [CueTracker](http://cuetracker.net/Players/oliver-lines/)</sup></sub>
+#### ***milleversary on July 28, 2025***
 
 
 
