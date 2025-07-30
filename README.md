@@ -36,16 +36,18 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 29***
-1952, Joe Johnson, 73 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=469), [CueTracker](http://cuetracker.net/Players/joe-johnson/)</sup></sub>
+#### ***born on July 30***
+1975, Steve Crowley, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2684)</sup></sub>
 
-1993, Jak Jones, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=90), [CueTracker](http://cuetracker.net/Players/jak-jones/)</sup></sub>
+1980, Liu Jing, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2988)</sup></sub>
 
-1997, Yana Shut, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1816), [CueTracker](http://cuetracker.net/Players/yana-shut/)</sup></sub>
+1991, Jack Bradford, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=613), [CueTracker](http://cuetracker.net/Players/jack-bradford/)</sup></sub>
+
+1996, Haydon Pinhey, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2061), [CueTracker](http://cuetracker.net/Players/haydon-pinhey/)</sup></sub>
 
 
-#### ***milleversary on July 29, 2025***
-1987, Ding Junhui, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=224), [CueTracker](http://cuetracker.net/Players/ding-junhui/)</sup></sub>
+#### ***milleversary on July 30, 2025***
+1992, Ryan Clark, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=145), [CueTracker](http://cuetracker.net/Players/ryan-clark/)</sup></sub>
 
 
 
