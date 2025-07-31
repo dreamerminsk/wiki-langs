@@ -36,18 +36,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on July 30***
-1975, Steve Crowley, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2684)</sup></sub>
+#### ***born on July 31***
+1971, Sean Coote, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2891)</sup></sub>
 
-1980, Liu Jing, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2988)</sup></sub>
-
-1991, Jack Bradford, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=613), [CueTracker](http://cuetracker.net/Players/jack-bradford/)</sup></sub>
-
-1996, Haydon Pinhey, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2061), [CueTracker](http://cuetracker.net/Players/haydon-pinhey/)</sup></sub>
+1988, Daniel Wells, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=32), [CueTracker](http://cuetracker.net/Players/daniel-wells/)</sup></sub>
 
 
-#### ***milleversary on July 30, 2025***
-1992, Ryan Clark, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=145), [CueTracker](http://cuetracker.net/Players/ryan-clark/)</sup></sub>
+#### ***milleversary on July 31, 2025***
+2006, Leone Crowley, 7000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2888)</sup></sub>
 
 
 
