@@ -36,14 +36,10 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August  2***
-1981, Keith Keldie, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1494), [CueTracker](http://cuetracker.net/Players/keith-keldie/)</sup></sub>
-
-1989, Zsolt Fenyvesi, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2400), [CueTracker](http://cuetracker.net/Players/zsolt-fenyvesi/)</sup></sub>
+#### ***born on August  3***
 
 
-#### ***milleversary on August  2, 2025***
-1992, Phil O'Kane, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=550), [CueTracker](http://cuetracker.net/Players/phil-okane/)</sup></sub>
+#### ***milleversary on August  3, 2025***
 
 
 
