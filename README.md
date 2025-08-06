@@ -36,15 +36,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August  5***
-1970, Leonard Degriffa, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2491)</sup></sub>
+#### ***born on August  6***
+1967, Paul Cavney, 58 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=484), [CueTracker](http://cuetracker.net/Players/paul-cavney/)</sup></sub>
 
-1990, Hu Hao, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1102), [CueTracker](http://cuetracker.net/Players/hu-hao/)</sup></sub>
-
-1997, Wang Yuchen, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=954), [CueTracker](http://cuetracker.net/Players/wang-yuchen/)</sup></sub>
+1982, Gregory Herbrecht, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2269), [CueTracker](http://cuetracker.net/Players/gregory-herbrecht/)</sup></sub>
 
 
-#### ***milleversary on August  5, 2025***
+#### ***milleversary on August  6, 2025***
+1984, Yasir Nadeem, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1731), [CueTracker](http://cuetracker.net/Players/yasir-nadeem/)</sup></sub>
 
 
 
