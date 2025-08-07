@@ -36,14 +36,13 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August  6***
-1967, Paul Cavney, 58 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=484), [CueTracker](http://cuetracker.net/Players/paul-cavney/)</sup></sub>
+#### ***born on August  7***
+1978, Michael Holt, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=125), [CueTracker](http://cuetracker.net/Players/michael-holt/)</sup></sub>
 
-1982, Gregory Herbrecht, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2269), [CueTracker](http://cuetracker.net/Players/gregory-herbrecht/)</sup></sub>
+2001, Luke Pinches, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2081)</sup></sub>
 
 
-#### ***milleversary on August  6, 2025***
-1984, Yasir Nadeem, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1731), [CueTracker](http://cuetracker.net/Players/yasir-nadeem/)</sup></sub>
+#### ***milleversary on August  7, 2025***
 
 
 
