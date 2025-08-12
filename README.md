@@ -36,13 +36,14 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 11***
-1983, Mark Joyce, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=48), [CueTracker](http://cuetracker.net/Players/mark-joyce/)</sup></sub>
-
-1985, Gary Wilson, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=546), [CueTracker](http://cuetracker.net/Players/gary-wilson/)</sup></sub>
+#### ***born on August 12***
+1972, Mark Davis, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=15), [CueTracker](http://cuetracker.net/Players/mark-davis/)</sup></sub>
 
 
-#### ***milleversary on August 11, 2025***
+#### ***milleversary on August 12, 2025***
+1979, Chris Melling, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1168), [CueTracker](http://cuetracker.net/Players/chris-melling/)</sup></sub>
+
+1995, Josh Boileau, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=762), [CueTracker](http://cuetracker.net/Players/josh-boileau/)</sup></sub>
 
 
 
