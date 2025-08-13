@@ -36,14 +36,16 @@
 | 1990s | 218 |
 | 2000s | 86 |
 
-#### ***born on August 12***
-1972, Mark Davis, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=15), [CueTracker](http://cuetracker.net/Players/mark-davis/)</sup></sub>
+#### ***born on August 13***
+1974, Joe Perry, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=168), [CueTracker](http://cuetracker.net/Players/joe-perry/)</sup></sub>
+
+1992, Jake Nicholson, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=138), [CueTracker](http://cuetracker.net/Players/jake-nicholson/)</sup></sub>
+
+1995, Owais Ali, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1724), [CueTracker](http://cuetracker.net/Players/owais-ali/)</sup></sub>
 
 
-#### ***milleversary on August 12, 2025***
-1979, Chris Melling, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1168), [CueTracker](http://cuetracker.net/Players/chris-melling/)</sup></sub>
-
-1995, Josh Boileau, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=762), [CueTracker](http://cuetracker.net/Players/josh-boileau/)</sup></sub>
+#### ***milleversary on August 13, 2025***
+1970, Mark Anthony Taylor, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2756), [CueTracker](http://cuetracker.net/Players/mark-taylor/)</sup></sub>
 
 
 
