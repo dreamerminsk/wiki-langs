@@ -45,6 +45,8 @@ impl NextPlayer {
 async fn main() -> Result<(), Box<dyn Error>> {
     setup_logger()?;
 
+    scan_players().await;
+
     let update_countries = UpdateCountries::new();
     update_countries.execute().await;
 
