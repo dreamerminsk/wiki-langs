@@ -26,7 +26,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2665 |
+| 0000s | 2671 |
 | 1930s | 2 |
 | 1940s | 9 |
 | 1950s | 13 |
@@ -34,7 +34,7 @@
 | 1970s | 144 |
 | 1980s | 175 |
 | 1990s | 218 |
-| 2000s | 86 |
+| 2000s | 87 |
 
 #### ***born on August 13***
 1974, Joe Perry, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=168), [CueTracker](http://cuetracker.net/Players/joe-perry/)</sup></sub>
