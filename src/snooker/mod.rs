@@ -58,7 +58,7 @@ fn extract_team(input: &str) -> Option<String> {
 
 fn extract_nation(input: &str) -> Option<String> {
     lazy_static! {
-        static ref NATION_RE: Regex = Regex::new(r"\s+?\((?P<nation>.*?)\);").unwrap();
+        static ref NATION_RE: Regex = Regex::new(r"\s*?\((?P<nation>.*?)\);").unwrap();
     }
     NATION_RE
         .captures(input)
