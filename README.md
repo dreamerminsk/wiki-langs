@@ -26,15 +26,15 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2671 |
+| 0000s | 2675 |
 | 1930s | 2 |
 | 1940s | 9 |
 | 1950s | 13 |
 | 1960s | 52 |
-| 1970s | 144 |
+| 1970s | 145 |
 | 1980s | 175 |
 | 1990s | 218 |
-| 2000s | 89 |
+| 2000s | 91 |
 
 #### ***born on August 14***
 1986, Chris Norbury, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=69), [CueTracker](http://cuetracker.net/Players/chris-norbury/)</sup></sub>
