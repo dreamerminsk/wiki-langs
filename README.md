@@ -34,18 +34,14 @@
 | 1970s | 144 |
 | 1980s | 175 |
 | 1990s | 218 |
-| 2000s | 87 |
+| 2000s | 89 |
 
-#### ***born on August 13***
-1974, Joe Perry, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=168), [CueTracker](http://cuetracker.net/Players/joe-perry/)</sup></sub>
-
-1992, Jake Nicholson, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=138), [CueTracker](http://cuetracker.net/Players/jake-nicholson/)</sup></sub>
-
-1995, Owais Ali, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1724), [CueTracker](http://cuetracker.net/Players/owais-ali/)</sup></sub>
+#### ***born on August 14***
+1986, Chris Norbury, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=69), [CueTracker](http://cuetracker.net/Players/chris-norbury/)</sup></sub>
 
 
-#### ***milleversary on August 13, 2025***
-1970, Mark Anthony Taylor, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2756), [CueTracker](http://cuetracker.net/Players/mark-taylor/)</sup></sub>
+#### ***milleversary on August 14, 2025***
+1998, Lewis Gillen, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1939), [CueTracker](http://cuetracker.net/Players/lewis-gillen/)</sup></sub>
 
 
 
