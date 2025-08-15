@@ -26,7 +26,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2681 |
+| 0000s | 2687 |
 | 1930s | 2 |
 | 1940s | 9 |
 | 1950s | 13 |
@@ -34,14 +34,16 @@
 | 1970s | 145 |
 | 1980s | 175 |
 | 1990s | 218 |
-| 2000s | 92 |
+| 2000s | 93 |
 
-#### ***born on August 14***
-1986, Chris Norbury, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=69), [CueTracker](http://cuetracker.net/Players/chris-norbury/)</sup></sub>
+#### ***born on August 15***
+1981, Marc Shaw, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2900)</sup></sub>
 
 
-#### ***milleversary on August 14, 2025***
-1998, Lewis Gillen, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1939), [CueTracker](http://cuetracker.net/Players/lewis-gillen/)</sup></sub>
+#### ***milleversary on August 15, 2025***
+1984, Mark Vincent, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=834), [CueTracker](http://cuetracker.net/Players/mark-vincent/)</sup></sub>
+
+1998, Adam Goff, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2781), [CueTracker](http://cuetracker.net/Players/adam-goff/)</sup></sub>
 
 
 
