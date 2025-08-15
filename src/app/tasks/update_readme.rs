@@ -164,3 +164,19 @@ impl UpdateReadMe {
         )
     }
 }
+
+pub struct Decade {
+
+    first_year: u32,
+    years: [u32; 10],
+
+}
+
+impl Decade {
+        pub fn new(first_year: u32) -> Self {
+            Self {
+                first_year,
+                years: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+            }
+        }
+    }
