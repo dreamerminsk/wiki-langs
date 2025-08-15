@@ -55,6 +55,7 @@ impl UpdateReadMe {
 
     fn players(&self) -> Option<String> {
         let segs = Segments::open("./players").ok()?;
+        let mut decades = BTreeMap::<String, usize>::new();
         let mut years = BTreeMap::<String, usize>::new();
         let mut births = BTreeSet::<Player>::new();
         let mut milles = BTreeSet::<Player>::new();
@@ -70,11 +71,16 @@ impl UpdateReadMe {
                     milles.insert(p.clone());
                 }
             }
-            let y = p
+            let year = p
+                .birthday
+                .map(|bd| (bd.year()).to_string())
+                .unwrap_or_else(|| "0000".to_string());
+            years.entry(year).and_modify(|e| *e += 1).or_insert(1);
+            let decade = p
                 .birthday
                 .map(|bd| (10 * (bd.year() / 10)).to_string())
                 .unwrap_or_else(|| "0000".to_string());
-            years.entry(y).and_modify(|e| *e += 1).or_insert(1);
+            decades.entry(decade).and_modify(|e| *e += 1).or_insert(1);
         });
         let mut rows: Vec<String> = years
             .iter()
