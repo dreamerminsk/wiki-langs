@@ -26,7 +26,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2687 |
+| 0000s | 2693 |
 | 1930s | 2 |
 | 1940s | 9 |
 | 1950s | 13 |
@@ -34,7 +34,7 @@
 | 1970s | 145 |
 | 1980s | 175 |
 | 1990s | 218 |
-| 2000s | 93 |
+| 2000s | 94 |
 
 #### ***born on August 15***
 1981, Marc Shaw, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2900)</sup></sub>
