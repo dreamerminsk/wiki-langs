@@ -177,4 +177,7 @@ impl Decade {
             years: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         }
     }
+    pub fn add_year(&mut self, year: u32) {
+        self.years[year - self.first_year] += 1;
+    }
 }
