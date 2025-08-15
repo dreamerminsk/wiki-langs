@@ -178,6 +178,9 @@ impl Decade {
         }
     }
     pub fn add_year(&mut self, year: u32) {
-        self.years[year - self.first_year] += 1;
+        let idx = year - self.first_year;
+        if idx < 10 {
+            self.years[year - self.first_year] += 1;
+        }
     }
 }
