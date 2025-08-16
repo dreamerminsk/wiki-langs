@@ -26,7 +26,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2704 |
+| 0000s | 2706 |
 | 1930s | 2 |
 | 1940s | 9 |
 | 1950s | 13 |
@@ -37,14 +37,16 @@
 | 2000s | 94 |
 | 2010s | 1 |
 
-#### ***born on August 15***
-1981, Marc Shaw, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2900)</sup></sub>
+#### ***born on August 16***
+1974, Robin Hull, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=549), [CueTracker](http://cuetracker.net/Players/robin-hull/)</sup></sub>
+
+1981, Cao Xinlong, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=514), [CueTracker](http://cuetracker.net/Players/cao-xinlong/)</sup></sub>
+
+1987, Tian Pengfei, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=218), [CueTracker](http://cuetracker.net/Players/tian-pengfei/)</sup></sub>
 
 
-#### ***milleversary on August 15, 2025***
-1984, Mark Vincent, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=834), [CueTracker](http://cuetracker.net/Players/mark-vincent/)</sup></sub>
-
-1998, Adam Goff, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2781), [CueTracker](http://cuetracker.net/Players/adam-goff/)</sup></sub>
+#### ***milleversary on August 16, 2025***
+1973, Andy Hicks, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=51), [CueTracker](http://cuetracker.net/Players/andy-hicks/)</sup></sub>
 
 
 
