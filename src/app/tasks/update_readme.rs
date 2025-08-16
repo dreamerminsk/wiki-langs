@@ -183,7 +183,10 @@ impl Decade {
         if idx >= 0 && idx < 10 {
             self.years[idx as usize] += 1;
         } else {
-            println!("Year {} is out of range for the decade starting in {}", year, self.first_year);
+            println!(
+                "Year {} is out of range for the decade starting in {}",
+                year, self.first_year
+            );
         }
     }
 
@@ -191,4 +194,3 @@ impl Decade {
         &self.years
     }
 }
-
