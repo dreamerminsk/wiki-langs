@@ -26,7 +26,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2717 |
+| 0000s | 2723 |
 | 1930s | 2 |
 | 1940s | 9 |
 | 1950s | 13 |
@@ -34,19 +34,20 @@
 | 1970s | 145 |
 | 1980s | 175 |
 | 1990s | 222 |
-| 2000s | 96 |
+| 2000s | 97 |
 | 2010s | 1 |
 
-#### ***born on August 16***
-1974, Robin Hull, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=549), [CueTracker](http://cuetracker.net/Players/robin-hull/)</sup></sub>
+#### ***born on August 17***
+1958, Kirk Stevens, 67 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2870)</sup></sub>
 
-1981, Cao Xinlong, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=514), [CueTracker](http://cuetracker.net/Players/cao-xinlong/)</sup></sub>
+1982, Basem Eltahhan, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2101), [CueTracker](http://cuetracker.net/Players/basem-eltahhan/)</sup></sub>
 
-1987, Tian Pengfei, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=218), [CueTracker](http://cuetracker.net/Players/tian-pengfei/)</sup></sub>
+1983, Tom Ford, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=8), [CueTracker](http://cuetracker.net/Players/tom-ford/)</sup></sub>
+
+1994, Rhys Clark, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=917), [CueTracker](http://cuetracker.net/Players/rhys-clark/)</sup></sub>
 
 
-#### ***milleversary on August 16, 2025***
-1973, Andy Hicks, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=51), [CueTracker](http://cuetracker.net/Players/andy-hicks/)</sup></sub>
+#### ***milleversary on August 17, 2025***
 
 
 
