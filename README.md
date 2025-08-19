@@ -26,22 +26,33 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2755 |
+| 0000s | 2756 |
 | 1930s | 2 |
 | 1940s | 9 |
 | 1950s | 13 |
-| 1960s | 52 |
-| 1970s | 151 |
-| 1980s | 177 |
-| 1990s | 227 |
-| 2000s | 101 |
+| 1960s | 53 |
+| 1970s | 152 |
+| 1980s | 178 |
+| 1990s | 229 |
+| 2000s | 102 |
 | 2010s | 1 |
 
-#### ***born on August 18***
-1994, Oliver Brown, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=146), [CueTracker](http://cuetracker.net/Players/oliver-brown/)</sup></sub>
+#### ***born on August 19***
+1970, Darren Barton, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1726), [CueTracker](http://cuetracker.net/Players/darren-barton/)</sup></sub>
+
+1986, Jamie O'Neill, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=79), [CueTracker](http://cuetracker.net/Players/jamie-oneill/)</sup></sub>
+
+1990, Shi Hanqing, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=508), [CueTracker](http://cuetracker.net/Players/shi-hanqing/)</sup></sub>
+
+1991, Ben Pacan, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3119), [CueTracker](http://cuetracker.net/Players/ben-pacan/)</sup></sub>
 
 
-#### ***milleversary on August 18, 2025***
+#### ***milleversary on August 19, 2025***
+1987, Patrick Einsle, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=91), [CueTracker](http://cuetracker.net/Players/patrick-einsle/)</sup></sub>
+
+1990, Mehran Maneshgar, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2889)</sup></sub>
+
+2000, Keishin Kamihashi, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1803), [CueTracker](http://cuetracker.net/Players/keishin-kamihashi/)</sup></sub>
 
 
 
