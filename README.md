@@ -26,7 +26,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2771 |
+| 0000s | 2777 |
 | 1930s | 2 |
 | 1940s | 9 |
 | 1950s | 13 |
@@ -34,25 +34,18 @@
 | 1970s | 153 |
 | 1980s | 178 |
 | 1990s | 231 |
-| 2000s | 105 |
+| 2000s | 106 |
 | 2010s | 1 |
 
-#### ***born on August 19***
-1970, Darren Barton, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1726), [CueTracker](http://cuetracker.net/Players/darren-barton/)</sup></sub>
+#### ***born on August 20***
+1986, Jaspal Bamotra, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1425), [CueTracker](http://cuetracker.net/Players/jaspal-bamotra/)</sup></sub>
 
-1986, Jamie O'Neill, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=79), [CueTracker](http://cuetracker.net/Players/jamie-oneill/)</sup></sub>
+1989, Judd Trump, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=12), [CueTracker](http://cuetracker.net/Players/judd-trump/)</sup></sub>
 
-1990, Shi Hanqing, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=508), [CueTracker](http://cuetracker.net/Players/shi-hanqing/)</sup></sub>
-
-1991, Ben Pacan, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3119), [CueTracker](http://cuetracker.net/Players/ben-pacan/)</sup></sub>
+2009, Azaan Iqbal, 16 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3067)</sup></sub>
 
 
-#### ***milleversary on August 19, 2025***
-1987, Patrick Einsle, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=91), [CueTracker](http://cuetracker.net/Players/patrick-einsle/)</sup></sub>
-
-1990, Mehran Maneshgar, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2889)</sup></sub>
-
-2000, Keishin Kamihashi, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1803), [CueTracker](http://cuetracker.net/Players/keishin-kamihashi/)</sup></sub>
+#### ***milleversary on August 20, 2025***
 
 
 
