@@ -26,7 +26,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2795 |
+| 0000s | 2800 |
 | 1930s | 2 |
 | 1940s | 9 |
 | 1950s | 13 |
@@ -34,18 +34,17 @@
 | 1970s | 154 |
 | 1980s | 178 |
 | 1990s | 231 |
-| 2000s | 107 |
+| 2000s | 109 |
 | 2010s | 1 |
 
-#### ***born on August 20***
-1986, Jaspal Bamotra, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1425), [CueTracker](http://cuetracker.net/Players/jaspal-bamotra/)</sup></sub>
+#### ***born on August 21***
+1967, Sean Lanigan, 58 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1353), [CueTracker](http://cuetracker.net/Players/sean-lanigan/)</sup></sub>
 
-1989, Judd Trump, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=12), [CueTracker](http://cuetracker.net/Players/judd-trump/)</sup></sub>
-
-2009, Azaan Iqbal, 16 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3067)</sup></sub>
+1986, Hatem Yassin, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1764), [CueTracker](http://cuetracker.net/Players/yassem-hatem/)</sup></sub>
 
 
-#### ***milleversary on August 20, 2025***
+#### ***milleversary on August 21, 2025***
+1979, Neil Jones, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3111), [CueTracker](http://cuetracker.net/Players/neil-jones/)</sup></sub>
 
 
 
