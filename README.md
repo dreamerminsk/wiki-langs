@@ -26,7 +26,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2800 |
+| 0000s | 2804 |
 | 1930s | 2 |
 | 1940s | 9 |
 | 1950s | 13 |
@@ -34,8 +34,8 @@
 | 1970s | 154 |
 | 1980s | 178 |
 | 1990s | 231 |
-| 2000s | 109 |
-| 2010s | 1 |
+| 2000s | 111 |
+| 2010s | 2 |
 
 #### ***born on August 21***
 1967, Sean Lanigan, 58 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1353), [CueTracker](http://cuetracker.net/Players/sean-lanigan/)</sup></sub>
