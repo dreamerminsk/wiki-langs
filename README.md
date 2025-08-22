@@ -26,25 +26,27 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2810 |
+| 0000s | 2812 |
 | 1930s | 2 |
 | 1940s | 9 |
 | 1950s | 13 |
-| 1960s | 54 |
-| 1970s | 158 |
-| 1980s | 178 |
+| 1960s | 55 |
+| 1970s | 161 |
+| 1980s | 179 |
 | 1990s | 232 |
 | 2000s | 113 |
 | 2010s | 3 |
 
-#### ***born on August 21***
-1967, Sean Lanigan, 58 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1353), [CueTracker](http://cuetracker.net/Players/sean-lanigan/)</sup></sub>
+#### ***born on August 22***
+1957, Steve Davis, 68 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=212), [CueTracker](http://cuetracker.net/Players/steve-davis/)</sup></sub>
 
-1986, Hatem Yassin, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1764), [CueTracker](http://cuetracker.net/Players/yassem-hatem/)</sup></sub>
+1977, Fung Kwok Wai, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=581), [CueTracker](http://cuetracker.net/Players/fung-kwok-wai/)</sup></sub>
 
 
-#### ***milleversary on August 21, 2025***
-1979, Neil Jones, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3111), [CueTracker](http://cuetracker.net/Players/neil-jones/)</sup></sub>
+#### ***milleversary on August 22, 2025***
+1965, Kharazchi Jamshid, 22000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2658)</sup></sub>
+
+2001, Callum Beresford, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2392), [CueTracker](http://cuetracker.net/Players/callum-beresford/)</sup></sub>
 
 
 
