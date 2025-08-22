@@ -1,12 +1,4 @@
 ## World Championships 2000 – 2025
-### Matches
-|Player|MW|ML|FW|FL|FD|
-|:-|:-:|:-:|:-:|:-:|:-:|
-|Ronnie O'Sullivan|68|19|1074|725|+349|
-|John Higgins|57|23|934|773|+161|
-|Mark Selby|43|17|719|586|+133|
-
-### Results
 |Player|Titles|Finals|Money|
 |:-|:-:|:-:|-:|
 |Ronnie O'Sullivan|7|8|£2,375,000|
@@ -26,12 +18,12 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2815 |
+| 0000s | 2817 |
 | 1930s | 2 |
 | 1940s | 9 |
 | 1950s | 13 |
 | 1960s | 57 |
-| 1970s | 162 |
+| 1970s | 167 |
 | 1980s | 180 |
 | 1990s | 232 |
 | 2000s | 113 |
@@ -45,6 +37,8 @@
 
 #### ***milleversary on August 22, 2025***
 1965, Kharazchi Jamshid, 22000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2658)</sup></sub>
+
+1973, Mark Gray, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3226)</sup></sub>
 
 2001, Callum Beresford, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2392), [CueTracker](http://cuetracker.net/Players/callum-beresford/)</sup></sub>
 
