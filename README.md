@@ -18,29 +18,30 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2823 |
+| 0000s | 2829 |
 | 1930s | 2 |
 | 1940s | 9 |
 | 1950s | 13 |
 | 1960s | 57 |
-| 1970s | 168 |
+| 1970s | 169 |
 | 1980s | 180 |
 | 1990s | 232 |
 | 2000s | 113 |
 | 2010s | 3 |
 
-#### ***born on August 22***
-1957, Steve Davis, 68 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=212), [CueTracker](http://cuetracker.net/Players/steve-davis/)</sup></sub>
+#### ***born on August 23***
+1963, Gary Filtness, 62 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1357), [CueTracker](http://cuetracker.net/Players/gary-filtness/)</sup></sub>
 
-1977, Fung Kwok Wai, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=581), [CueTracker](http://cuetracker.net/Players/fung-kwok-wai/)</sup></sub>
+1973, Tugba Irten, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1727), [CueTracker](http://cuetracker.net/Players/tugba-irten/)</sup></sub>
+
+1985, Adam Wicheard, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=86), [CueTracker](http://cuetracker.net/Players/adam-wicheard/)</sup></sub>
+
+1998, Richard Wienold, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1903), [CueTracker](http://cuetracker.net/Players/richard-wienold/)</sup></sub>
+
+2002, Kreishh Gurbaxani, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2497)</sup></sub>
 
 
-#### ***milleversary on August 22, 2025***
-1965, Kharazchi Jamshid, 22000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2658)</sup></sub>
-
-1973, Mark Gray, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3226)</sup></sub>
-
-2001, Callum Beresford, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2392), [CueTracker](http://cuetracker.net/Players/callum-beresford/)</sup></sub>
+#### ***milleversary on August 23, 2025***
 
 
 
