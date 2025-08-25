@@ -18,22 +18,25 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2854 |
+| 0000s | 2859 |
 | 1930s | 2 |
 | 1940s | 9 |
 | 1950s | 13 |
-| 1960s | 66 |
-| 1970s | 180 |
+| 1960s | 67 |
+| 1970s | 181 |
 | 1980s | 180 |
 | 1990s | 232 |
 | 2000s | 113 |
 | 2010s | 3 |
 
-#### ***born on August 24***
-1972, Adrian Gunnell, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=55), [CueTracker](http://cuetracker.net/Players/adrian-gunnell/)</sup></sub>
+#### ***born on August 25***
+1972, Steve Mifsud, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=580), [CueTracker](http://cuetracker.net/Players/steve-mifsud/)</sup></sub>
+
+1998, Zhang Jiankang, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2134), [CueTracker](http://cuetracker.net/Players/zhang-jiankang/)</sup></sub>
 
 
-#### ***milleversary on August 24, 2025***
+#### ***milleversary on August 25, 2025***
+1968, David Finbow, 21000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2505)</sup></sub>
 
 
 
