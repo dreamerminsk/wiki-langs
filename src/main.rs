@@ -8,6 +8,8 @@ use std::{
     fs::{read_to_string, write},
     io,
 };
+use std::thread;
+use std::time::Duration;
 
 mod app;
 
@@ -76,6 +78,7 @@ async fn scan_players() -> Result<(), Box<dyn Error>> {
                 //add_country(&country)?;
             }
         }
+    thread::sleep(Duration::from_secs(4));
     }
     let next_id = next_player.get();
     next_player.put(next_id + updated)?;
