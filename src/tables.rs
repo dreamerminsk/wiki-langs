@@ -1,4 +1,4 @@
-use crate::snooker::{entities::Player, EventLink, PlayerLink};
+use crate::snooker::{EventLink, PlayerLink, entities::Player};
 use chrono::{Datelike, NaiveDate};
 use std::{cmp::Ordering, error::Error, fs, path::Path};
 use uuid::Uuid;
