@@ -18,7 +18,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2871 |
+| 0000s | 2878 |
 | 1930s | 2 |
 | 1940s | 9 |
 | 1950s | 13 |
@@ -29,14 +29,12 @@
 | 2000s | 113 |
 | 2010s | 3 |
 
-#### ***born on August 25***
-1972, Steve Mifsud, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=580), [CueTracker](http://cuetracker.net/Players/steve-mifsud/)</sup></sub>
-
-1998, Zhang Jiankang, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2134), [CueTracker](http://cuetracker.net/Players/zhang-jiankang/)</sup></sub>
+#### ***born on August 26***
+2002, Umar Khan, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2899)</sup></sub>
 
 
-#### ***milleversary on August 25, 2025***
-1968, David Finbow, 21000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2505)</sup></sub>
+#### ***milleversary on August 26, 2025***
+2006, Liam James Davies, 7000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2438), [CueTracker](http://cuetracker.net/Players/liam-davies/)</sup></sub>
 
 
 
