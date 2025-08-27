@@ -18,23 +18,31 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2869 |
+| 0000s | 2870 |
 | 1930s | 2 |
 | 1940s | 9 |
 | 1950s | 13 |
-| 1960s | 72 |
-| 1970s | 195 |
+| 1960s | 74 |
+| 1970s | 199 |
 | 1980s | 180 |
 | 1990s | 232 |
 | 2000s | 113 |
 | 2010s | 3 |
 
-#### ***born on August 26***
-2002, Umar Khan, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2899)</sup></sub>
+#### ***born on August 27***
+1970, Peter Ebdon, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=42), [CueTracker](http://cuetracker.net/Players/peter-ebdon/)</sup></sub>
+
+1992, Michael Williams, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1322), [CueTracker](http://cuetracker.net/Players/michael-williams/)</sup></sub>
+
+2003, Zhao Jianbo, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2557), [CueTracker](http://cuetracker.net/Players/jianbo-zhao/)</sup></sub>
+
+2008, Riley Powell, 17 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3062), [CueTracker](http://cuetracker.net/Players/riley-powell/)</sup></sub>
 
 
-#### ***milleversary on August 26, 2025***
-2006, Liam James Davies, 7000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2438), [CueTracker](http://cuetracker.net/Players/liam-davies/)</sup></sub>
+#### ***milleversary on August 27, 2025***
+1976, Grant Conquest, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3264)</sup></sub>
+
+1995, Ashley Carty, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=724), [CueTracker](http://cuetracker.net/Players/ashley-carty/)</sup></sub>
 
 
 
