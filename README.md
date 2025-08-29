@@ -22,19 +22,20 @@
 | 1920s | 2 |
 | 1930s | 2 |
 | 1940s | 9 |
-| 1950s | 14 |
-| 1960s | 89 |
-| 1970s | 237 |
+| 1950s | 15 |
+| 1960s | 90 |
+| 1970s | 246 |
 | 1980s | 180 |
 | 1990s | 232 |
 | 2000s | 113 |
 | 2010s | 3 |
 
-#### ***born on August 28***
-1990, Ryan Causton, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=235), [CueTracker](http://cuetracker.net/Players/ryan-causton/)</sup></sub>
+#### ***born on August 29***
+1969, Joe Swail, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=35), [CueTracker](http://cuetracker.net/Players/joe-swail/)</sup></sub>
 
 
-#### ***milleversary on August 28, 2025***
+#### ***milleversary on August 29, 2025***
+1973, Tugba Irten, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1727), [CueTracker](http://cuetracker.net/Players/tugba-irten/)</sup></sub>
 
 
 
