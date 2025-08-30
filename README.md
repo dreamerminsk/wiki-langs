@@ -18,24 +18,26 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2873 |
-| 1920s | 2 |
-| 1930s | 2 |
-| 1940s | 9 |
-| 1950s | 15 |
-| 1960s | 97 |
-| 1970s | 267 |
+| 0000s | 2875 |
+| 1920s | 3 |
+| 1930s | 3 |
+| 1940s | 10 |
+| 1950s | 17 |
+| 1960s | 100 |
+| 1970s | 268 |
 | 1980s | 180 |
 | 1990s | 232 |
 | 2000s | 113 |
 | 2010s | 3 |
 
-#### ***born on August 29***
-1969, Joe Swail, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=35), [CueTracker](http://cuetracker.net/Players/joe-swail/)</sup></sub>
+#### ***born on August 30***
+1989, Bratislav Krustev, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1126), [CueTracker](http://cuetracker.net/Players/bratislav-krustev/)</sup></sub>
 
 
-#### ***milleversary on August 29, 2025***
-1973, Tugba Irten, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1727), [CueTracker](http://cuetracker.net/Players/tugba-irten/)</sup></sub>
+#### ***milleversary on August 30, 2025***
+1973, Andreas Ahmed, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3427)</sup></sub>
+
+1976, Neal Jones, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=206), [CueTracker](http://cuetracker.net/Players/neal-jones/)</sup></sub>
 
 
 
