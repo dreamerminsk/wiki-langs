@@ -18,17 +18,17 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2875 |
+| 0000s | 2876 |
 | 1920s | 3 |
 | 1930s | 3 |
 | 1940s | 10 |
-| 1950s | 17 |
-| 1960s | 100 |
+| 1950s | 20 |
+| 1960s | 105 |
 | 1970s | 268 |
 | 1980s | 180 |
 | 1990s | 232 |
-| 2000s | 113 |
-| 2010s | 3 |
+| 2000s | 114 |
+| 2010s | 4 |
 
 #### ***born on August 30***
 1989, Bratislav Krustev, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1126), [CueTracker](http://cuetracker.net/Players/bratislav-krustev/)</sup></sub>
