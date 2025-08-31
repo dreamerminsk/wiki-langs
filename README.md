@@ -18,26 +18,25 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2878 |
+| 0000s | 2880 |
 | 1920s | 3 |
-| 1930s | 4 |
-| 1940s | 14 |
-| 1950s | 22 |
-| 1960s | 115 |
-| 1970s | 271 |
+| 1930s | 6 |
+| 1940s | 15 |
+| 1950s | 25 |
+| 1960s | 116 |
+| 1970s | 273 |
 | 1980s | 180 |
 | 1990s | 232 |
 | 2000s | 114 |
 | 2010s | 4 |
 
-#### ***born on August 30***
-1989, Bratislav Krustev, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1126), [CueTracker](http://cuetracker.net/Players/bratislav-krustev/)</sup></sub>
+#### ***born on August 31***
 
 
-#### ***milleversary on August 30, 2025***
-1973, Andreas Ahmed, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3427)</sup></sub>
+#### ***milleversary on August 31, 2025***
+1976, Stuart Bingham, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=30), [CueTracker](http://cuetracker.net/Players/stuart-bingham/)</sup></sub>
 
-1976, Neal Jones, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=206), [CueTracker](http://cuetracker.net/Players/neal-jones/)</sup></sub>
+1995, Zhang Yong, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=947), [CueTracker](http://cuetracker.net/Players/zhang-yong/)</sup></sub>
 
 
 
