@@ -18,25 +18,23 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2896 |
+| 0000s | 2905 |
 | 1920s | 3 |
 | 1930s | 7 |
 | 1940s | 19 |
 | 1950s | 26 |
 | 1960s | 123 |
 | 1970s | 273 |
-| 1980s | 180 |
+| 1980s | 181 |
 | 1990s | 233 |
-| 2000s | 117 |
+| 2000s | 118 |
 | 2010s | 4 |
 
-#### ***born on August 31***
+#### ***born on September  1***
 
 
-#### ***milleversary on August 31, 2025***
-1976, Stuart Bingham, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=30), [CueTracker](http://cuetracker.net/Players/stuart-bingham/)</sup></sub>
-
-1995, Zhang Yong, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=947), [CueTracker](http://cuetracker.net/Players/zhang-yong/)</sup></sub>
+#### ***milleversary on September  1, 2025***
+1979, Gee Crawley, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2683)</sup></sub>
 
 
 
