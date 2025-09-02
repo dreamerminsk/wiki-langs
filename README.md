@@ -18,7 +18,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2938 |
+| 0000s | 2949 |
 | 1920s | 3 |
 | 1930s | 7 |
 | 1940s | 19 |
@@ -30,11 +30,13 @@
 | 2000s | 118 |
 | 2010s | 4 |
 
-#### ***born on September  1***
+#### ***born on September  2***
+1978, Alan Burnett, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3243)</sup></sub>
+
+1982, Irina Gorbataya, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2114), [CueTracker](http://cuetracker.net/Players/irina-gorbataya/)</sup></sub>
 
 
-#### ***milleversary on September  1, 2025***
-1979, Gee Crawley, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2683)</sup></sub>
+#### ***milleversary on September  2, 2025***
 
 
 
