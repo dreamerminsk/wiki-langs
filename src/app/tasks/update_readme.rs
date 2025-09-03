@@ -10,7 +10,7 @@ static README_PATH: &str = "./README.md";
 
 static SHIELDS_PATH: &str = "./README/SHIELDS.md";
 
-static WORLDS_PATH: &str = "./README/WORLDS.md";
+static WORLDS_PATH: &str = "./REPORTS/TITLES–20.md";
 
 static PLAYERS_HEADER: &str = "| births | players |\r\n| :----: | ------: |";
 
@@ -38,7 +38,7 @@ impl UpdateReadMe {
 
     fn content(&self) -> String {
         format!(
-            "{}\r\n{}\r\n## wiki-langs\r\n{}\r\n",
+            "## Current decade\r\n{}\r\n{}\r\n## wiki-langs\r\n{}\r\n",
             self.worlds().unwrap_or_else(|| "".to_string()),
             self.players().unwrap_or_else(|| "".to_string()),
             self.shields().unwrap_or_else(|| "".to_string())
