@@ -60,17 +60,17 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 3043 |
+| 0000s | 3052 |
 | 1920s | 3 |
 | 1930s | 7 |
-| 1940s | 19 |
+| 1940s | 20 |
 | 1950s | 26 |
 | 1960s | 123 |
 | 1970s | 273 |
 | 1980s | 181 |
 | 1990s | 233 |
 | 2000s | 119 |
-| 2010s | 4 |
+| 2010s | 5 |
 
 #### ***born on September  4***
 1976, Bjorn Haneveer, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=64), [CueTracker](http://cuetracker.net/Players/bjorn-haneveer/)</sup></sub>
