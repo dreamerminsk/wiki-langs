@@ -20,9 +20,9 @@
 | **1980–84** | **7** | 7 | 5 | 4 | 4 | 3 | 4 | 0 | 0 | 0 | 0 | 27 |
 | **1975–79** | **7** | 2 | 4 | 2 | 5 | 3 | 2 | 0 | 0 | 0 | 0 | 18 |
 | **1990–94** | **4** | 1 | 0 | 2 | 2 | 3 | 2 | 0 | 0 | 0 | 0 | 10 |
-| **1995–99** | **2** | 0 | 2 | 2 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 06 |
-| **2000–04** | **2** | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 02 |
-| **1970–74** | **1** | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 01 |
+| **1995–99** | **2** | 0 | 2 | 2 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 6 |
+| **2000–04** | **2** | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 |
+| **1970–74** | **1** | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
 ### Titles by players
 
@@ -60,7 +60,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 3022 |
+| 0000s | 3033 |
 | 1920s | 3 |
 | 1930s | 7 |
 | 1940s | 19 |
@@ -72,11 +72,13 @@
 | 2000s | 118 |
 | 2010s | 4 |
 
-#### ***born on September  3***
-1949, Dessie Sheehan, 76 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=594), [CueTracker](http://cuetracker.net/Players/dessie-sheehan/)</sup></sub>
+#### ***born on September  4***
+1976, Bjorn Haneveer, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=64), [CueTracker](http://cuetracker.net/Players/bjorn-haneveer/)</sup></sub>
+
+1992, Jack Culligan, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=139), [CueTracker](http://cuetracker.net/Players/jack-culligan/)</sup></sub>
 
 
-#### ***milleversary on September  3, 2025***
+#### ***milleversary on September  4, 2025***
 
 
 
