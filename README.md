@@ -40,37 +40,21 @@
 | **Luca Brecel,<br>BEL, 1995** | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |
 | **Gary Wilson,<br>ENG, 1985** | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 3 |
 | **Zhao Xintong,<br>CHN, 1997** | 0 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 3 |
-| **Ali Carter,<br>ENG, 1979** | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 2 |
-| **Ryan Day,<br>WAL, 1980** | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
-| **Robert Milkins,<br>ENG, 1976** | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
-| **Stephen Maguire,<br>SCO, 1981** | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 2 |
-| **Xiao Guodong,<br>CHN, 1989** | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 2 |
-| **Ding Junhui,<br>CHN, 1987** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
-| **Barry Hawkins,<br>ENG, 1979** | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
-| **Joe Perry,<br>ENG, 1974** | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
-| **Tom Ford,<br>ENG, 1983** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
-| **Michael Holt,<br>ENG, 1978** | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
-| **Lei Peifan,<br>CHN, 2003** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
-| **Zhang Anda,<br>CHN, 1991** | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
-| **Chris Wakelin,<br>ENG, 1992** | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
-| **David Gilbert,<br>ENG, 1981** | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
-| **Hossein Vafaei,<br>IRN, 1994** | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
-| **Fan Zhengyi,<br>CHN, 2001** | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
-| **Jordan Brown,<br>NIR, 1987** | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 3064 |
-| 1920s | 5 |
+| 0000s | 3070 |
+| 1920s | 6 |
 | 1930s | 13 |
-| 1940s | 30 |
+| 1940s | 31 |
 | 1950s | 33 |
 | 1960s | 124 |
 | 1970s | 277 |
 | 1980s | 183 |
 | 1990s | 233 |
-| 2000s | 119 |
-| 2010s | 5 |
+| 2000s | 120 |
+| 2010s | 6 |
 
 #### ***born on September  5***
 1976, Hussain Ahmed, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2710)</sup></sub>
