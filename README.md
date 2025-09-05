@@ -60,25 +60,31 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 3052 |
+| 0000s | 3056 |
 | 1920s | 3 |
 | 1930s | 12 |
-| 1940s | 22 |
-| 1950s | 29 |
+| 1940s | 24 |
+| 1950s | 31 |
 | 1960s | 124 |
-| 1970s | 273 |
-| 1980s | 181 |
+| 1970s | 275 |
+| 1980s | 182 |
 | 1990s | 233 |
 | 2000s | 119 |
 | 2010s | 5 |
 
-#### ***born on September  4***
-1976, Bjorn Haneveer, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=64), [CueTracker](http://cuetracker.net/Players/bjorn-haneveer/)</sup></sub>
+#### ***born on September  5***
+1976, Hussain Ahmed, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2710)</sup></sub>
 
-1992, Jack Culligan, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=139), [CueTracker](http://cuetracker.net/Players/jack-culligan/)</sup></sub>
+1991, Luke Maddison, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2765), [CueTracker](http://cuetracker.net/Players/luke-maddison/)</sup></sub>
+
+1992, Callum Downing, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=159), [CueTracker](http://cuetracker.net/Players/callum-downing/)</sup></sub>
+
+1996, Brian Cini, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1307), [CueTracker](http://cuetracker.net/Players/brian-cini/)</sup></sub>
+
+2004, Gao Yang, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2607), [CueTracker](http://cuetracker.net/Players/gao-yang/)</sup></sub>
 
 
-#### ***milleversary on September  4, 2025***
+#### ***milleversary on September  5, 2025***
 
 
 
