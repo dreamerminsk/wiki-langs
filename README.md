@@ -44,28 +44,28 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 1317 |
+| 0000s | 1314 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 36 |
 | 1950s | 34 |
 | 1960s | 124 |
-| 1970s | 277 |
+| 1970s | 278 |
 | 1980s | 183 |
 | 1990s | 233 |
 | 2000s | 120 |
 | 2010s | 6 |
 
-#### ***born on September  6***
-1978, Hani Owaidhi, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2455)</sup></sub>
+#### ***born on September  7***
+1970, Oliver King, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3279)</sup></sub>
 
-1991, Himanshu Dinesh Jain, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2341)</sup></sub>
+1975, Chan Kwok Ming, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3000), [CueTracker](http://cuetracker.net/Players/chan-kwok-ming/)</sup></sub>
 
-1999, Daniel Williams, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2243)</sup></sub>
+1977, Gary Thomson, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=225), [CueTracker](http://cuetracker.net/Players/gary-thomson/)</sup></sub>
 
 
-#### ***milleversary on September  6, 2025***
-1981, Daniel Ward, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1003), [CueTracker](http://cuetracker.net/Players/daniel-ward/)</sup></sub>
+#### ***milleversary on September  7, 2025***
+2003, Wu Yize, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2469), [CueTracker](http://cuetracker.net/Players/wu-yize/)</sup></sub>
 
 
 
