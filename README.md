@@ -52,20 +52,24 @@
 | 1960s | 125 |
 | 1970s | 278 |
 | 1980s | 183 |
-| 1990s | 233 |
+| 1990s | 234 |
 | 2000s | 120 |
 | 2010s | 6 |
 
-#### ***born on September  7***
-1970, Oliver King, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3279)</sup></sub>
+#### ***born on September  8***
+1953, Mario Morra, 72 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3498)</sup></sub>
 
-1975, Chan Kwok Ming, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3000), [CueTracker](http://cuetracker.net/Players/chan-kwok-ming/)</sup></sub>
+1976, Darren Shaw, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3351)</sup></sub>
 
-1977, Gary Thomson, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=225), [CueTracker](http://cuetracker.net/Players/gary-thomson/)</sup></sub>
+1992, Simon Blackwell, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2049), [CueTracker](http://cuetracker.net/Players/simon-blackwell/)</sup></sub>
+
+1997, Miao Qin, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3055)</sup></sub>
 
 
-#### ***milleversary on September  7, 2025***
-2003, Wu Yize, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2469), [CueTracker](http://cuetracker.net/Players/wu-yize/)</sup></sub>
+#### ***milleversary on September  8, 2025***
+1976, Stuart Watson, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2044), [CueTracker](http://cuetracker.net/Players/stuart-watson/)</sup></sub>
+
+1990, Ismail Türker, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1394), [CueTracker](http://cuetracker.net/Players/ismail-t252rker/)</sup></sub>
 
 
 
