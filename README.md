@@ -44,32 +44,25 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 1327 |
+| 0000s | 1328 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 36 |
 | 1950s | 34 |
 | 1960s | 125 |
-| 1970s | 278 |
-| 1980s | 183 |
+| 1970s | 279 |
+| 1980s | 184 |
 | 1990s | 235 |
 | 2000s | 120 |
 | 2010s | 6 |
 
-#### ***born on September  8***
-1953, Mario Morra, 72 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3498)</sup></sub>
+#### ***born on September  9***
+1968, Darren Hackeson, 57 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3327)</sup></sub>
 
-1976, Darren Shaw, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3351)</sup></sub>
-
-1992, Simon Blackwell, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2049), [CueTracker](http://cuetracker.net/Players/simon-blackwell/)</sup></sub>
-
-1997, Miao Qin, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3055)</sup></sub>
+1988, Gareth Allen, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=269), [CueTracker](http://cuetracker.net/Players/gareth-allen/)</sup></sub>
 
 
-#### ***milleversary on September  8, 2025***
-1976, Stuart Watson, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2044), [CueTracker](http://cuetracker.net/Players/stuart-watson/)</sup></sub>
-
-1990, Ismail Türker, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1394), [CueTracker](http://cuetracker.net/Players/ismail-t252rker/)</sup></sub>
+#### ***milleversary on September  9, 2025***
 
 
 
