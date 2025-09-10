@@ -44,7 +44,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 1339 |
+| 0000s | 1342 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 36 |
@@ -56,13 +56,18 @@
 | 2000s | 120 |
 | 2010s | 6 |
 
-#### ***born on September  9***
-1968, Darren Hackeson, 57 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3327)</sup></sub>
+#### ***born on September 10***
+1969, Neil Wood, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3387)</sup></sub>
 
-1988, Gareth Allen, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=269), [CueTracker](http://cuetracker.net/Players/gareth-allen/)</sup></sub>
+1995, Akani Songsermsawad, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1763), [CueTracker](http://cuetracker.net/Players/akani-songsermsawad/)</sup></sub>
+
+1998, Adam Lilley, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2472)</sup></sub>
+
+2003, Alexander Widau, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3525), [CueTracker](http://cuetracker.net/Players/alexander-widau/)</sup></sub>
 
 
-#### ***milleversary on September  9, 2025***
+#### ***milleversary on September 10, 2025***
+1987, Ben Woollaston, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=19), [CueTracker](http://cuetracker.net/Players/ben-woollaston/)</sup></sub>
 
 
 
