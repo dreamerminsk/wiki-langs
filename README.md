@@ -56,18 +56,19 @@
 | 2000s | 120 |
 | 2010s | 6 |
 
-#### ***born on September 10***
-1969, Neil Wood, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3387)</sup></sub>
+#### ***born on September 11***
+1959, Francois Ellis, 66 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3711), [CueTracker](http://cuetracker.net/Players/francois-ellis/)</sup></sub>
 
-1995, Akani Songsermsawad, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1763), [CueTracker](http://cuetracker.net/Players/akani-songsermsawad/)</sup></sub>
+1969, Gary Peters, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3465)</sup></sub>
 
-1998, Adam Lilley, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2472)</sup></sub>
+1970, Hans Blanckaert, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=191), [CueTracker](http://cuetracker.net/Players/hans-blanckaert/)</sup></sub>
 
-2003, Alexander Widau, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3525), [CueTracker](http://cuetracker.net/Players/alexander-widau/)</sup></sub>
+1977, Matthew Stevens, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=9), [CueTracker](http://cuetracker.net/Players/matthew-stevens/)</sup></sub>
+
+1982, Adrian Ridley, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=911), [CueTracker](http://cuetracker.net/Players/adrian-ridley/)</sup></sub>
 
 
-#### ***milleversary on September 10, 2025***
-1987, Ben Woollaston, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=19), [CueTracker](http://cuetracker.net/Players/ben-woollaston/)</sup></sub>
+#### ***milleversary on September 11, 2025***
 
 
 
