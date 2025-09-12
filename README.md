@@ -56,19 +56,13 @@
 | 2000s | 120 |
 | 2010s | 6 |
 
-#### ***born on September 11***
-1959, Francois Ellis, 66 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3711), [CueTracker](http://cuetracker.net/Players/francois-ellis/)</sup></sub>
+#### ***born on September 12***
+1985, Jamie Cope, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3), [CueTracker](http://cuetracker.net/Players/jamie-cope/)</sup></sub>
 
-1969, Gary Peters, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3465)</sup></sub>
-
-1970, Hans Blanckaert, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=191), [CueTracker](http://cuetracker.net/Players/hans-blanckaert/)</sup></sub>
-
-1977, Matthew Stevens, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=9), [CueTracker](http://cuetracker.net/Players/matthew-stevens/)</sup></sub>
-
-1982, Adrian Ridley, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=911), [CueTracker](http://cuetracker.net/Players/adrian-ridley/)</sup></sub>
+2004, Liam Graham, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2439), [CueTracker](http://cuetracker.net/Players/liam-graham/)</sup></sub>
 
 
-#### ***milleversary on September 11, 2025***
+#### ***milleversary on September 12, 2025***
 
 
 
