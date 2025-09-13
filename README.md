@@ -56,13 +56,14 @@
 | 2000s | 120 |
 | 2010s | 6 |
 
-#### ***born on September 12***
-1985, Jamie Cope, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3), [CueTracker](http://cuetracker.net/Players/jamie-cope/)</sup></sub>
+#### ***born on September 13***
+1931, Mike Darrington, 94 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3756), [CueTracker](http://cuetracker.net/Players/mike-darrington/)</sup></sub>
 
-2004, Liam Graham, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2439), [CueTracker](http://cuetracker.net/Players/liam-graham/)</sup></sub>
+1993, Jake Keen, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1489), [CueTracker](http://cuetracker.net/Players/jake-keen/)</sup></sub>
 
 
-#### ***milleversary on September 12, 2025***
+#### ***milleversary on September 13, 2025***
+2001, Conor Caniff, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2393), [CueTracker](http://cuetracker.net/Players/conor-caniff/)</sup></sub>
 
 
 
