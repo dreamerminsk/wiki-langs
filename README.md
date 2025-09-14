@@ -44,7 +44,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 1342 |
+| 0000s | 1345 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 36 |
@@ -52,18 +52,19 @@
 | 1960s | 125 |
 | 1970s | 282 |
 | 1980s | 186 |
-| 1990s | 236 |
+| 1990s | 237 |
 | 2000s | 120 |
 | 2010s | 6 |
 
-#### ***born on September 13***
-1931, Mike Darrington, 94 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3756), [CueTracker](http://cuetracker.net/Players/mike-darrington/)</sup></sub>
+#### ***born on September 14***
+1981, Martin Gould, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=27), [CueTracker](http://cuetracker.net/Players/martin-gould/)</sup></sub>
 
-1993, Jake Keen, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1489), [CueTracker](http://cuetracker.net/Players/jake-keen/)</sup></sub>
+1982, Daniel Walker, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2358)</sup></sub>
+
+2006, Stan Moody, 19 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2758), [CueTracker](http://cuetracker.net/Players/stanley-moody/)</sup></sub>
 
 
-#### ***milleversary on September 13, 2025***
-2001, Conor Caniff, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2393), [CueTracker](http://cuetracker.net/Players/conor-caniff/)</sup></sub>
+#### ***milleversary on September 14, 2025***
 
 
 
