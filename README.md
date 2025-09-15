@@ -44,7 +44,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 1357 |
+| 0000s | 1361 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 36 |
@@ -56,15 +56,14 @@
 | 2000s | 120 |
 | 2010s | 6 |
 
-#### ***born on September 14***
-1981, Martin Gould, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=27), [CueTracker](http://cuetracker.net/Players/martin-gould/)</sup></sub>
-
-1982, Daniel Walker, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2358)</sup></sub>
-
-2006, Stan Moody, 19 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2758), [CueTracker](http://cuetracker.net/Players/stanley-moody/)</sup></sub>
+#### ***born on September 15***
+1967, Nick Terry, 58 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3248)</sup></sub>
 
 
-#### ***milleversary on September 14, 2025***
+#### ***milleversary on September 15, 2025***
+1970, Jonathan Bagley, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3336)</sup></sub>
+
+1976, Pommy Kang, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3114), [CueTracker](http://cuetracker.net/Players/pommy-kang/)</sup></sub>
 
 
 
