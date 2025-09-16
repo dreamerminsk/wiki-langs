@@ -44,10 +44,10 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 1374 |
+| 0000s | 1384 |
 | 1920s | 7 |
 | 1930s | 14 |
-| 1940s | 36 |
+| 1940s | 37 |
 | 1950s | 34 |
 | 1960s | 125 |
 | 1970s | 282 |
@@ -56,14 +56,14 @@
 | 2000s | 120 |
 | 2010s | 6 |
 
-#### ***born on September 15***
-1967, Nick Terry, 58 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3248)</sup></sub>
+#### ***born on September 16***
+1975, Jamie Burnett, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=53), [CueTracker](http://cuetracker.net/Players/jamie-burnett/)</sup></sub>
 
 
-#### ***milleversary on September 15, 2025***
-1970, Jonathan Bagley, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3336)</sup></sub>
+#### ***milleversary on September 16, 2025***
+1949, Dennis Taylor, 28000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=468), [CueTracker](http://cuetracker.net/Players/dennis-taylor/)</sup></sub>
 
-1976, Pommy Kang, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3114), [CueTracker](http://cuetracker.net/Players/pommy-kang/)</sup></sub>
+1954, Paul Potier, 26000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3724), [CueTracker](http://cuetracker.net/Players/paul-potier/)</sup></sub>
 
 
 
