@@ -44,7 +44,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 1410 |
+| 0000s | 1419 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 37 |
@@ -56,14 +56,22 @@
 | 2000s | 120 |
 | 2010s | 6 |
 
-#### ***born on September 16***
-1975, Jamie Burnett, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=53), [CueTracker](http://cuetracker.net/Players/jamie-burnett/)</sup></sub>
+#### ***born on September 17***
+1964, Ian Brumby, 61 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=794), [CueTracker](http://cuetracker.net/Players/ian-brumby/)</sup></sub>
+
+1969, Ken Doherty, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=170), [CueTracker](http://cuetracker.net/Players/ken-doherty/)</sup></sub>
+
+1992, Li Yan, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=296), [CueTracker](http://cuetracker.net/Players/li-yan/)</sup></sub>
+
+1995, Chen Zifan, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=933), [CueTracker](http://cuetracker.net/Players/chen-zifan/)</sup></sub>
 
 
-#### ***milleversary on September 16, 2025***
-1949, Dennis Taylor, 28000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=468), [CueTracker](http://cuetracker.net/Players/dennis-taylor/)</sup></sub>
+#### ***milleversary on September 17, 2025***
+1992, Heikki Niva, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2188)</sup></sub>
 
-1954, Paul Potier, 26000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3724), [CueTracker](http://cuetracker.net/Players/paul-potier/)</sup></sub>
+1998, Zhang Zhijie, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1974), [CueTracker](http://cuetracker.net/Players/zhang-zhijie/)</sup></sub>
+
+2001, Fan Zhengyi, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1417), [CueTracker](http://cuetracker.net/Players/fan-zhengyi/)</sup></sub>
 
 
 
