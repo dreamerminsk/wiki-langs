@@ -44,7 +44,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 1450 |
+| 0000s | 1460 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 37 |
@@ -56,22 +56,18 @@
 | 2000s | 120 |
 | 2010s | 6 |
 
-#### ***born on September 17***
-1964, Ian Brumby, 61 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=794), [CueTracker](http://cuetracker.net/Players/ian-brumby/)</sup></sub>
+#### ***born on September 18***
+1973, Nick Spelman, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2331), [CueTracker](http://cuetracker.net/Players/nick-spelman/)</sup></sub>
 
-1969, Ken Doherty, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=170), [CueTracker](http://cuetracker.net/Players/ken-doherty/)</sup></sub>
-
-1992, Li Yan, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=296), [CueTracker](http://cuetracker.net/Players/li-yan/)</sup></sub>
-
-1995, Chen Zifan, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=933), [CueTracker](http://cuetracker.net/Players/chen-zifan/)</sup></sub>
+1983, Ben Judge, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=537), [CueTracker](http://cuetracker.net/Players/ben-judge/)</sup></sub>
 
 
-#### ***milleversary on September 17, 2025***
-1992, Heikki Niva, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2188)</sup></sub>
+#### ***milleversary on September 18, 2025***
+1970, Karl Beare, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3375)</sup></sub>
 
-1998, Zhang Zhijie, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1974), [CueTracker](http://cuetracker.net/Players/zhang-zhijie/)</sup></sub>
+1976, Antony Rodriguez, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2709)</sup></sub>
 
-2001, Fan Zhengyi, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1417), [CueTracker](http://cuetracker.net/Players/fan-zhengyi/)</sup></sub>
+2009, Artem Surzhykov, 6000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3198)</sup></sub>
 
 
 
