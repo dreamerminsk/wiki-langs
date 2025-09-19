@@ -44,7 +44,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 1486 |
+| 0000s | 1496 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 37 |
@@ -56,18 +56,17 @@
 | 2000s | 120 |
 | 2010s | 6 |
 
-#### ***born on September 18***
-1973, Nick Spelman, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2331), [CueTracker](http://cuetracker.net/Players/nick-spelman/)</sup></sub>
+#### ***born on September 19***
+1975, David Craggs, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=111), [CueTracker](http://cuetracker.net/Players/david-craggs/)</sup></sub>
 
-1983, Ben Judge, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=537), [CueTracker](http://cuetracker.net/Players/ben-judge/)</sup></sub>
+1978, James Reynolds, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3223)</sup></sub>
+
+1983, Ju Reti, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1093), [CueTracker](http://cuetracker.net/Players/ju-reti/)</sup></sub>
+
+1984, Danny Brindle, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=619), [CueTracker](http://cuetracker.net/Players/danny-brindle/)</sup></sub>
 
 
-#### ***milleversary on September 18, 2025***
-1970, Karl Beare, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3375)</sup></sub>
-
-1976, Antony Rodriguez, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2709)</sup></sub>
-
-2009, Artem Surzhykov, 6000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3198)</sup></sub>
+#### ***milleversary on September 19, 2025***
 
 
 
