@@ -44,29 +44,25 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 1519 |
+| 0000s | 1525 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 37 |
 | 1950s | 34 |
 | 1960s | 126 |
-| 1970s | 285 |
+| 1970s | 286 |
 | 1980s | 188 |
 | 1990s | 237 |
 | 2000s | 120 |
 | 2010s | 6 |
 
-#### ***born on September 19***
-1975, David Craggs, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=111), [CueTracker](http://cuetracker.net/Players/david-craggs/)</sup></sub>
+#### ***born on September 20***
+1969, Patrick Wallace, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=56), [CueTracker](http://cuetracker.net/Players/patrick-wallace/)</sup></sub>
 
-1978, James Reynolds, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3223)</sup></sub>
-
-1983, Ju Reti, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1093), [CueTracker](http://cuetracker.net/Players/ju-reti/)</sup></sub>
-
-1984, Danny Brindle, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=619), [CueTracker](http://cuetracker.net/Players/danny-brindle/)</sup></sub>
+2000, Adam Stacey, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2998)</sup></sub>
 
 
-#### ***milleversary on September 19, 2025***
+#### ***milleversary on September 20, 2025***
 
 
 
