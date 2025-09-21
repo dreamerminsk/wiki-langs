@@ -44,7 +44,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 1549 |
+| 0000s | 1556 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 37 |
@@ -56,13 +56,11 @@
 | 2000s | 120 |
 | 2010s | 6 |
 
-#### ***born on September 20***
-1969, Patrick Wallace, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=56), [CueTracker](http://cuetracker.net/Players/patrick-wallace/)</sup></sub>
-
-2000, Adam Stacey, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2998)</sup></sub>
+#### ***born on September 21***
+1987, Marc J Davis, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=149), [CueTracker](http://cuetracker.net/Players/marc-davis/)</sup></sub>
 
 
-#### ***milleversary on September 20, 2025***
+#### ***milleversary on September 21, 2025***
 
 
 
