@@ -44,7 +44,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 1576 |
+| 0000s | 1580 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 38 |
@@ -52,15 +52,30 @@
 | 1960s | 127 |
 | 1970s | 286 |
 | 1980s | 188 |
-| 1990s | 237 |
+| 1990s | 238 |
 | 2000s | 120 |
 | 2010s | 6 |
 
-#### ***born on September 21***
-1987, Marc J Davis, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=149), [CueTracker](http://cuetracker.net/Players/marc-davis/)</sup></sub>
+#### ***born on September 22***
+1965, Tony Drago, 60 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=41), [CueTracker](http://cuetracker.net/Players/tony-drago/)</sup></sub>
+
+1970, Barry McNamee, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3409)</sup></sub>
+
+1972, Marcus Campbell, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=11), [CueTracker](http://cuetracker.net/Players/marcus-campbell/)</sup></sub>
+
+1992, Ryan Clark, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=145), [CueTracker](http://cuetracker.net/Players/ryan-clark/)</sup></sub>
+
+1999, Geng Mingqi, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1155), [CueTracker](http://cuetracker.net/Players/geng-mingqi/)</sup></sub>
+
+2005, Iulian Boiko, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1889), [CueTracker](http://cuetracker.net/Players/iulian-boiko/)</sup></sub>
+
+2006, Westley Cooper, 19 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2770), [CueTracker](http://cuetracker.net/Players/westley-cooper/)</sup></sub>
 
 
-#### ***milleversary on September 21, 2025***
+#### ***milleversary on September 22, 2025***
+1970, Kevin Smith, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3350)</sup></sub>
+
+1976, Mohammed Awad, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3713), [CueTracker](http://cuetracker.net/Players/mohammed-awad/)</sup></sub>
 
 
 
