@@ -44,7 +44,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 1594 |
+| 0000s | 1602 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 38 |
@@ -56,26 +56,20 @@
 | 2000s | 120 |
 | 2010s | 6 |
 
-#### ***born on September 22***
-1965, Tony Drago, 60 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=41), [CueTracker](http://cuetracker.net/Players/tony-drago/)</sup></sub>
+#### ***born on September 23***
+1969, Stephen Murphy, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3278)</sup></sub>
 
-1970, Barry McNamee, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3409)</sup></sub>
+1973, Michael Leach, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3339)</sup></sub>
 
-1972, Marcus Campbell, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=11), [CueTracker](http://cuetracker.net/Players/marcus-campbell/)</sup></sub>
+1977, Ahmed Aseeri, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=415), [CueTracker](http://cuetracker.net/Players/ahmed-aseeri/)</sup></sub>
 
-1992, Ryan Clark, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=145), [CueTracker](http://cuetracker.net/Players/ryan-clark/)</sup></sub>
+1985, David Donovan, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2780)</sup></sub>
 
-1999, Geng Mingqi, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1155), [CueTracker](http://cuetracker.net/Players/geng-mingqi/)</sup></sub>
-
-2005, Iulian Boiko, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1889), [CueTracker](http://cuetracker.net/Players/iulian-boiko/)</sup></sub>
-
-2006, Westley Cooper, 19 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2770), [CueTracker](http://cuetracker.net/Players/westley-cooper/)</sup></sub>
+1998, Vladyslav Vyshnevskyy, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=673), [CueTracker](http://cuetracker.net/Players/vladyslav-vyshnevskyy/)</sup></sub>
 
 
-#### ***milleversary on September 22, 2025***
-1970, Kevin Smith, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3350)</sup></sub>
-
-1976, Mohammed Awad, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3713), [CueTracker](http://cuetracker.net/Players/mohammed-awad/)</sup></sub>
+#### ***milleversary on September 23, 2025***
+1995, Owais Ali, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1724), [CueTracker](http://cuetracker.net/Players/owais-ali/)</sup></sub>
 
 
 
