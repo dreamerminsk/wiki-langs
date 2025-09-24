@@ -44,7 +44,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 1624 |
+| 0000s | 1633 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 38 |
@@ -56,20 +56,18 @@
 | 2000s | 120 |
 | 2010s | 6 |
 
-#### ***born on September 23***
-1969, Stephen Murphy, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3278)</sup></sub>
+#### ***born on September 24***
+1966, Duncan Campbell, 59 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3499)</sup></sub>
 
-1973, Michael Leach, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3339)</sup></sub>
-
-1977, Ahmed Aseeri, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=415), [CueTracker](http://cuetracker.net/Players/ahmed-aseeri/)</sup></sub>
-
-1985, David Donovan, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2780)</sup></sub>
-
-1998, Vladyslav Vyshnevskyy, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=673), [CueTracker](http://cuetracker.net/Players/vladyslav-vyshnevskyy/)</sup></sub>
+1999, Noel Landers, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2504)</sup></sub>
 
 
-#### ***milleversary on September 23, 2025***
-1995, Owais Ali, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1724), [CueTracker](http://cuetracker.net/Players/owais-ali/)</sup></sub>
+#### ***milleversary on September 24, 2025***
+1946, Silvino Francisco, 29000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2879)</sup></sub>
+
+1973, Nick Spelman, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2331), [CueTracker](http://cuetracker.net/Players/nick-spelman/)</sup></sub>
+
+2001, Brad Ferguson, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3024), [CueTracker](http://cuetracker.net/Players/brad-ferguson/)</sup></sub>
 
 
 
