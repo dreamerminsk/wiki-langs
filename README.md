@@ -44,30 +44,33 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 1651 |
+| 0000s | 1661 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 38 |
 | 1950s | 34 |
 | 1960s | 127 |
-| 1970s | 288 |
+| 1970s | 289 |
 | 1980s | 189 |
 | 1990s | 238 |
 | 2000s | 120 |
 | 2010s | 6 |
 
-#### ***born on September 24***
-1966, Duncan Campbell, 59 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3499)</sup></sub>
+#### ***born on September 25***
+1970, Mark Cackett, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3412)</sup></sub>
 
-1999, Noel Landers, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2504)</sup></sub>
+1976, Gary Widdecombe, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3116), [CueTracker](http://cuetracker.net/Players/gary-widdecombe/)</sup></sub>
+
+1980, Kuldesh Johal, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=102), [CueTracker](http://cuetracker.net/Players/kuldesh-johal/)</sup></sub>
+
+1985, Lau Ka Lam, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1148), [CueTracker](http://cuetracker.net/Players/lau-ka-lam/)</sup></sub>
+
+1992, Phil O'Kane, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=550), [CueTracker](http://cuetracker.net/Players/phil-okane/)</sup></sub>
+
+2007, Heorhii Petrunko, 18 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3010), [CueTracker](http://cuetracker.net/Players/george-petrunko/)</sup></sub>
 
 
-#### ***milleversary on September 24, 2025***
-1946, Silvino Francisco, 29000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2879)</sup></sub>
-
-1973, Nick Spelman, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2331), [CueTracker](http://cuetracker.net/Players/nick-spelman/)</sup></sub>
-
-2001, Brad Ferguson, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3024), [CueTracker](http://cuetracker.net/Players/brad-ferguson/)</sup></sub>
+#### ***milleversary on September 25, 2025***
 
 
 
