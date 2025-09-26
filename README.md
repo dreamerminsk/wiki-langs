@@ -44,7 +44,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 1685 |
+| 0000s | 1696 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 38 |
@@ -56,21 +56,16 @@
 | 2000s | 120 |
 | 2010s | 6 |
 
-#### ***born on September 25***
-1970, Mark Cackett, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3412)</sup></sub>
+#### ***born on September 26***
+1969, Sean Lynskey, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3505)</sup></sub>
 
-1976, Gary Widdecombe, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3116), [CueTracker](http://cuetracker.net/Players/gary-widdecombe/)</sup></sub>
-
-1980, Kuldesh Johal, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=102), [CueTracker](http://cuetracker.net/Players/kuldesh-johal/)</sup></sub>
-
-1985, Lau Ka Lam, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1148), [CueTracker](http://cuetracker.net/Players/lau-ka-lam/)</sup></sub>
-
-1992, Phil O'Kane, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=550), [CueTracker](http://cuetracker.net/Players/phil-okane/)</sup></sub>
-
-2007, Heorhii Petrunko, 18 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3010), [CueTracker](http://cuetracker.net/Players/george-petrunko/)</sup></sub>
+1973, Chris Small, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2880)</sup></sub>
 
 
-#### ***milleversary on September 25, 2025***
+#### ***milleversary on September 26, 2025***
+1924, Bert Demarco, 37000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3749)</sup></sub>
+
+1990, Michael Wasley, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=34), [CueTracker](http://cuetracker.net/Players/michael-wasley/)</sup></sub>
 
 
 
