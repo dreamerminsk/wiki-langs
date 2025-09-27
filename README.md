@@ -44,7 +44,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 1724 |
+| 0000s | 1734 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 39 |
@@ -56,16 +56,11 @@
 | 2000s | 120 |
 | 2010s | 6 |
 
-#### ***born on September 26***
-1969, Sean Lynskey, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3505)</sup></sub>
-
-1973, Chris Small, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2880)</sup></sub>
+#### ***born on September 27***
+1948, Derek Heaton, 77 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3709), [CueTracker](http://cuetracker.net/Players/derek-heaton/)</sup></sub>
 
 
-#### ***milleversary on September 26, 2025***
-1924, Bert Demarco, 37000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3749)</sup></sub>
-
-1990, Michael Wasley, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=34), [CueTracker](http://cuetracker.net/Players/michael-wasley/)</sup></sub>
+#### ***milleversary on September 27, 2025***
 
 
 
