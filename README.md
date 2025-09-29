@@ -44,7 +44,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 1869 |
+| 0000s | 1876 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 39 |
@@ -56,15 +56,12 @@
 | 2000s | 120 |
 | 2010s | 6 |
 
-#### ***born on September 28***
-1972, Pang Weiguo, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3225)</sup></sub>
-
-1981, Steven Bennie, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3212)</sup></sub>
-
-1994, Ashley Hugill, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1323), [CueTracker](http://cuetracker.net/Players/ashley-hugill/)</sup></sub>
+#### ***born on September 29***
+1988, Matthew Roberts, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2161), [CueTracker](http://cuetracker.net/Players/matthew-roberts/)</sup></sub>
 
 
-#### ***milleversary on September 28, 2025***
+#### ***milleversary on September 29, 2025***
+1973, Michael Leach, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3339)</sup></sub>
 
 
 
