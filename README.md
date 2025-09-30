@@ -44,7 +44,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 1925 |
+| 0000s | 1932 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 39 |
@@ -52,16 +52,14 @@
 | 1960s | 129 |
 | 1970s | 291 |
 | 1980s | 189 |
-| 1990s | 247 |
+| 1990s | 248 |
 | 2000s | 120 |
 | 2010s | 6 |
 
-#### ***born on September 29***
-1988, Matthew Roberts, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2161), [CueTracker](http://cuetracker.net/Players/matthew-roberts/)</sup></sub>
+#### ***born on September 30***
 
 
-#### ***milleversary on September 29, 2025***
-1973, Michael Leach, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3339)</sup></sub>
+#### ***milleversary on September 30, 2025***
 
 
 
