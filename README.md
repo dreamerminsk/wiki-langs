@@ -44,7 +44,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2049 |
+| 0000s | 2058 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 39 |
@@ -56,17 +56,12 @@
 | 2000s | 121 |
 | 2010s | 6 |
 
-#### ***born on October  1***
-1938, Michael Ferreira, 87 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3448), [CueTracker](http://cuetracker.net/Players/michael-ferreira/)</sup></sub>
-
-1971, Paul S Davison, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=23), [CueTracker](http://cuetracker.net/Players/paul-davison/)</sup></sub>
-
-1992, Edward Warr, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3132), [CueTracker](http://cuetracker.net/Players/edward-warr/)</sup></sub>
-
-1994, Ryan Thomerson, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=741), [CueTracker](http://cuetracker.net/Players/ryan-thomerson/)</sup></sub>
+#### ***born on October  2***
+1964, Gary Miller, 61 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=803), [CueTracker](http://cuetracker.net/Players/gary-miller/)</sup></sub>
 
 
-#### ***milleversary on October  1, 2025***
+#### ***milleversary on October  2, 2025***
+1973, Chris Small, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2880)</sup></sub>
 
 
 
