@@ -44,7 +44,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2088 |
+| 0000s | 2097 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 39 |
@@ -56,12 +56,13 @@
 | 2000s | 121 |
 | 2010s | 6 |
 
-#### ***born on October  2***
-1964, Gary Miller, 61 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=803), [CueTracker](http://cuetracker.net/Players/gary-miller/)</sup></sub>
+#### ***born on October  3***
+1983, Aman Goel, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2496)</sup></sub>
+
+2012, Adam Abbas, 13 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3746), [CueTracker](http://cuetracker.net/Players/adam-abbas/)</sup></sub>
 
 
-#### ***milleversary on October  2, 2025***
-1973, Chris Small, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2880)</sup></sub>
+#### ***milleversary on October  3, 2025***
 
 
 
