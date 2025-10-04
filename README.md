@@ -44,7 +44,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2166 |
+| 0000s | 2173 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 39 |
@@ -56,13 +56,30 @@
 | 2000s | 121 |
 | 2010s | 6 |
 
-#### ***born on October  3***
-1983, Aman Goel, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2496)</sup></sub>
+#### ***born on October  4***
+1959, Tony Meo, 66 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2874)</sup></sub>
 
-2012, Adam Abbas, 13 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3746), [CueTracker](http://cuetracker.net/Players/adam-abbas/)</sup></sub>
+1967, Steve Russell, 58 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3376)</sup></sub>
+
+1982, Chen Feilong, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=910), [CueTracker](http://cuetracker.net/Players/chen-feilong/)</sup></sub>
+
+1983, Issara Kachaiwong, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=192), [CueTracker](http://cuetracker.net/Players/issara-kachaiwong/)</sup></sub>
+
+1989, Tomasz Skalski, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=358), [CueTracker](http://cuetracker.net/Players/tomasz-skalski/)</sup></sub>
+
+1990, Li Hang, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=295), [CueTracker](http://cuetracker.net/Players/li-hang/)</sup></sub>
+
+1991, Zak Surety, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=89), [CueTracker](http://cuetracker.net/Players/zak-surety/)</sup></sub>
+
+1999, James Welch, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2366)</sup></sub>
 
 
-#### ***milleversary on October  3, 2025***
+#### ***milleversary on October  4, 2025***
+1971, Jason Pegram, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3340)</sup></sub>
+
+1981, Francisco Domingues, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1004), [CueTracker](http://cuetracker.net/Players/francisco-domingues/)</sup></sub>
+
+1990, Mohamed Ibrahim, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=974), [CueTracker](http://cuetracker.net/Players/mohamed-ibrahim/)</sup></sub>
 
 
 
