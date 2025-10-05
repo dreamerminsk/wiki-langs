@@ -44,7 +44,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2233 |
+| 0000s | 2243 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 39 |
@@ -53,33 +53,17 @@
 | 1970s | 295 |
 | 1980s | 196 |
 | 1990s | 252 |
-| 2000s | 121 |
+| 2000s | 122 |
 | 2010s | 6 |
 
-#### ***born on October  4***
-1959, Tony Meo, 66 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2874)</sup></sub>
+#### ***born on October  5***
+1994, Jamie Clarke, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=106), [CueTracker](http://cuetracker.net/Players/jamie-clarke/)</sup></sub>
 
-1967, Steve Russell, 58 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3376)</sup></sub>
-
-1982, Chen Feilong, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=910), [CueTracker](http://cuetracker.net/Players/chen-feilong/)</sup></sub>
-
-1983, Issara Kachaiwong, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=192), [CueTracker](http://cuetracker.net/Players/issara-kachaiwong/)</sup></sub>
-
-1989, Tomasz Skalski, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=358), [CueTracker](http://cuetracker.net/Players/tomasz-skalski/)</sup></sub>
-
-1990, Li Hang, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=295), [CueTracker](http://cuetracker.net/Players/li-hang/)</sup></sub>
-
-1991, Zak Surety, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=89), [CueTracker](http://cuetracker.net/Players/zak-surety/)</sup></sub>
-
-1999, James Welch, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2366)</sup></sub>
+1995, Boonyarit Keattikun, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1578), [CueTracker](http://cuetracker.net/Players/boonyarit-keattikun/)</sup></sub>
 
 
-#### ***milleversary on October  4, 2025***
-1971, Jason Pegram, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3340)</sup></sub>
-
-1981, Francisco Domingues, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1004), [CueTracker](http://cuetracker.net/Players/francisco-domingues/)</sup></sub>
-
-1990, Mohamed Ibrahim, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=974), [CueTracker](http://cuetracker.net/Players/mohamed-ibrahim/)</sup></sub>
+#### ***milleversary on October  5, 2025***
+2003, Jamie Wilson, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2751), [CueTracker](http://cuetracker.net/Players/jamie-wilson/)</sup></sub>
 
 
 
