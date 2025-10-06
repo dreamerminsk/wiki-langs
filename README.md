@@ -44,26 +44,28 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2311 |
+| 0000s | 2319 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 39 |
 | 1950s | 35 |
 | 1960s | 130 |
 | 1970s | 295 |
-| 1980s | 196 |
+| 1980s | 197 |
 | 1990s | 253 |
 | 2000s | 122 |
 | 2010s | 6 |
 
-#### ***born on October  5***
-1994, Jamie Clarke, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=106), [CueTracker](http://cuetracker.net/Players/jamie-clarke/)</sup></sub>
+#### ***born on October  6***
+1969, Troy Shaw, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3219)</sup></sub>
 
-1995, Boonyarit Keattikun, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1578), [CueTracker](http://cuetracker.net/Players/boonyarit-keattikun/)</sup></sub>
+1995, Ross Muir, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=898), [CueTracker](http://cuetracker.net/Players/ross-muir/)</sup></sub>
+
+2000, Abdul Javed, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2894)</sup></sub>
 
 
-#### ***milleversary on October  5, 2025***
-2003, Jamie Wilson, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2751), [CueTracker](http://cuetracker.net/Players/jamie-wilson/)</sup></sub>
+#### ***milleversary on October  6, 2025***
+2001, Hayden Staniland, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2747)</sup></sub>
 
 
 
