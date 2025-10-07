@@ -44,7 +44,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2381 |
+| 0000s | 2388 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 39 |
@@ -56,16 +56,18 @@
 | 2000s | 122 |
 | 2010s | 6 |
 
-#### ***born on October  6***
-1969, Troy Shaw, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3219)</sup></sub>
+#### ***born on October  7***
+1969, Steven Breward, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2450)</sup></sub>
 
-1995, Ross Muir, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=898), [CueTracker](http://cuetracker.net/Players/ross-muir/)</sup></sub>
+1984, Billy Ginn, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2350)</sup></sub>
 
-2000, Abdul Javed, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2894)</sup></sub>
+1987, Vinnie Calabrese, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=521), [CueTracker](http://cuetracker.net/Players/vinnie-calabrese/)</sup></sub>
+
+1998, Aaron Cook, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1423), [CueTracker](http://cuetracker.net/Players/aaron-cook/)</sup></sub>
 
 
-#### ***milleversary on October  6, 2025***
-2001, Hayden Staniland, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2747)</sup></sub>
+#### ***milleversary on October  7, 2025***
+1968, Anthony Harris, 21000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=927), [CueTracker](http://cuetracker.net/Players/anthony-harris/)</sup></sub>
 
 
 
