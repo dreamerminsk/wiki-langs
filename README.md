@@ -44,30 +44,28 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2453 |
+| 0000s | 2461 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 39 |
 | 1950s | 36 |
-| 1960s | 131 |
-| 1970s | 297 |
+| 1960s | 132 |
+| 1970s | 299 |
 | 1980s | 199 |
 | 1990s | 254 |
 | 2000s | 122 |
 | 2010s | 6 |
 
-#### ***born on October  7***
-1969, Steven Breward, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2450)</sup></sub>
+#### ***born on October  8***
+1932, Ray Reardon, 93 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2875)</sup></sub>
 
-1984, Billy Ginn, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2350)</sup></sub>
+1980, Shafaqut Hussain, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2060), [CueTracker](http://cuetracker.net/Players/shafaqut-hussain/)</sup></sub>
 
-1987, Vinnie Calabrese, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=521), [CueTracker](http://cuetracker.net/Players/vinnie-calabrese/)</sup></sub>
-
-1998, Aaron Cook, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1423), [CueTracker](http://cuetracker.net/Players/aaron-cook/)</sup></sub>
+1982, Mei Xiwen, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=306), [CueTracker](http://cuetracker.net/Players/mei-xiwen/)</sup></sub>
 
 
-#### ***milleversary on October  7, 2025***
-1968, Anthony Harris, 21000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=927), [CueTracker](http://cuetracker.net/Players/anthony-harris/)</sup></sub>
+#### ***milleversary on October  8, 2025***
+1990, Guan Zhen, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=967), [CueTracker](http://cuetracker.net/Players/guan-zhen/)</sup></sub>
 
 
 
