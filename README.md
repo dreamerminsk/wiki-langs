@@ -44,7 +44,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2454 |
+| 0000s | 2457 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 39 |
@@ -56,16 +56,13 @@
 | 2000s | 122 |
 | 2010s | 6 |
 
-#### ***born on October  8***
-1932, Ray Reardon, 93 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2875)</sup></sub>
+#### ***born on October  9***
+1987, Jordan Brown, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=58), [CueTracker](http://cuetracker.net/Players/jordan-brown/)</sup></sub>
 
-1980, Shafaqut Hussain, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2060), [CueTracker](http://cuetracker.net/Players/shafaqut-hussain/)</sup></sub>
-
-1982, Mei Xiwen, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=306), [CueTracker](http://cuetracker.net/Players/mei-xiwen/)</sup></sub>
+2000, Alfie Davies, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2803)</sup></sub>
 
 
-#### ***milleversary on October  8, 2025***
-1990, Guan Zhen, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=967), [CueTracker](http://cuetracker.net/Players/guan-zhen/)</sup></sub>
+#### ***milleversary on October  9, 2025***
 
 
 
