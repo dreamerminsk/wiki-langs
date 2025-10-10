@@ -44,7 +44,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2470 |
+| 0000s | 2472 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 39 |
@@ -52,17 +52,14 @@
 | 1960s | 132 |
 | 1970s | 301 |
 | 1980s | 201 |
-| 1990s | 255 |
+| 1990s | 256 |
 | 2000s | 122 |
 | 2010s | 6 |
 
-#### ***born on October  9***
-1987, Jordan Brown, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=58), [CueTracker](http://cuetracker.net/Players/jordan-brown/)</sup></sub>
-
-2000, Alfie Davies, 25 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2803)</sup></sub>
+#### ***born on October 10***
 
 
-#### ***milleversary on October  9, 2025***
+#### ***milleversary on October 10, 2025***
 
 
 
