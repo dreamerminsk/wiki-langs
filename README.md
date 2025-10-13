@@ -44,25 +44,38 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2479 |
+| 0000s | 2480 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 39 |
 | 1950s | 36 |
 | 1960s | 133 |
-| 1970s | 303 |
-| 1980s | 201 |
+| 1970s | 305 |
+| 1980s | 202 |
 | 1990s | 264 |
 | 2000s | 126 |
 | 2010s | 6 |
 
-#### ***born on October 12***
-1972, Indika Dodangoda, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3400)</sup></sub>
+#### ***born on October 13***
+1963, Stephen Baillie, 62 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1178), [CueTracker](http://cuetracker.net/Players/stephen-baillie/)</sup></sub>
 
-1974, Stephen Lee, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=13), [CueTracker](http://cuetracker.net/Players/stephen-lee/)</sup></sub>
+1968, Steven Thomas, 57 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2454)</sup></sub>
+
+1976, Darren Swinburn, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3362)</sup></sub>
+
+1995, Jack Smithers, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2053), [CueTracker](http://cuetracker.net/Players/jack-smithers/)</sup></sub>
+
+2002, Deng Haohui, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2628)</sup></sub>
+
+2004, Ben Mertens, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1923), [CueTracker](http://cuetracker.net/Players/ben-mertens/)</sup></sub>
 
 
-#### ***milleversary on October 12, 2025***
+#### ***milleversary on October 13, 2025***
+1976, Garry Coulson, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2490)</sup></sub>
+
+1984, Danny Brindle, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=619), [CueTracker](http://cuetracker.net/Players/danny-brindle/)</sup></sub>
+
+1998, Mihai Vladu, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1865), [CueTracker](http://cuetracker.net/Players/mihai-vladu/)</sup></sub>
 
 
 
