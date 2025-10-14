@@ -52,30 +52,30 @@
 | 1960s | 134 |
 | 1970s | 306 |
 | 1980s | 205 |
-| 1990s | 267 |
+| 1990s | 268 |
 | 2000s | 126 |
 | 2010s | 6 |
 
-#### ***born on October 13***
-1963, Stephen Baillie, 62 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1178), [CueTracker](http://cuetracker.net/Players/stephen-baillie/)</sup></sub>
+#### ***born on October 14***
+1940, Perrie Mans, 85 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3728), [CueTracker](http://cuetracker.net/Players/perrie-mans/)</sup></sub>
 
-1968, Steven Thomas, 57 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2454)</sup></sub>
+1975, Gary Hardiman, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3211)</sup></sub>
 
-1976, Darren Swinburn, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3362)</sup></sub>
+1978, Paul Hunter, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1191), [CueTracker](http://cuetracker.net/Players/paul-hunter/)</sup></sub>
 
-1995, Jack Smithers, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2053), [CueTracker](http://cuetracker.net/Players/jack-smithers/)</sup></sub>
+1994, Hossein Vafaei, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=666), [CueTracker](http://cuetracker.net/Players/hossein-vafaei-ayouri/)</sup></sub>
 
-2002, Deng Haohui, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2628)</sup></sub>
+1998, Abdul Raheem, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2487)</sup></sub>
 
-2004, Ben Mertens, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1923), [CueTracker](http://cuetracker.net/Players/ben-mertens/)</sup></sub>
+2003, Wu Yize, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2469), [CueTracker](http://cuetracker.net/Players/wu-yize/)</sup></sub>
 
 
-#### ***milleversary on October 13, 2025***
-1976, Garry Coulson, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2490)</sup></sub>
+#### ***milleversary on October 14, 2025***
+1971, Jason Weston, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1505), [CueTracker](http://cuetracker.net/Players/jason-weston/)</sup></sub>
 
-1984, Danny Brindle, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=619), [CueTracker](http://cuetracker.net/Players/danny-brindle/)</sup></sub>
+1987, Sergey Isaenko, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1558), [CueTracker](http://cuetracker.net/Players/sergey-isaenko/)</sup></sub>
 
-1998, Mihai Vladu, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1865), [CueTracker](http://cuetracker.net/Players/mihai-vladu/)</sup></sub>
+2001, Ryan Roberts, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2760), [CueTracker](http://cuetracker.net/Players/ryan-roberts/)</sup></sub>
 
 
 
