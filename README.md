@@ -52,30 +52,22 @@
 | 1960s | 134 |
 | 1970s | 306 |
 | 1980s | 205 |
-| 1990s | 272 |
+| 1990s | 273 |
 | 2000s | 126 |
 | 2010s | 6 |
 
-#### ***born on October 14***
-1940, Perrie Mans, 85 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3728), [CueTracker](http://cuetracker.net/Players/perrie-mans/)</sup></sub>
+#### ***born on October 15***
+1983, Kevin Van Hove, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=391), [CueTracker](http://cuetracker.net/Players/kevin-van-hove/)</sup></sub>
 
-1975, Gary Hardiman, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3211)</sup></sub>
+1994, Hossein Vafaei, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=666), [CueTracker](http://cuetracker.net/Players/hossein-vafaei/)</sup></sub>
 
-1978, Paul Hunter, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1191), [CueTracker](http://cuetracker.net/Players/paul-hunter/)</sup></sub>
-
-1994, Hossein Vafaei, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=666), [CueTracker](http://cuetracker.net/Players/hossein-vafaei-ayouri/)</sup></sub>
-
-1998, Abdul Raheem, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2487)</sup></sub>
-
-2003, Wu Yize, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2469), [CueTracker](http://cuetracker.net/Players/wu-yize/)</sup></sub>
+1996, Andres Petrov, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1552), [CueTracker](http://cuetracker.net/Players/andres-petrov/)</sup></sub>
 
 
-#### ***milleversary on October 14, 2025***
-1971, Jason Weston, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1505), [CueTracker](http://cuetracker.net/Players/jason-weston/)</sup></sub>
+#### ***milleversary on October 15, 2025***
+1976, Leo Fernandez, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=422), [CueTracker](http://cuetracker.net/Players/leo-fernandez/)</sup></sub>
 
-1987, Sergey Isaenko, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1558), [CueTracker](http://cuetracker.net/Players/sergey-isaenko/)</sup></sub>
-
-2001, Ryan Roberts, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2760), [CueTracker](http://cuetracker.net/Players/ryan-roberts/)</sup></sub>
+1981, Mohamed Khairy, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=931), [CueTracker](http://cuetracker.net/Players/mohamed-khairy/)</sup></sub>
 
 
 
