@@ -44,7 +44,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2478 |
+| 0000s | 2480 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 39 |
@@ -56,18 +56,13 @@
 | 2000s | 126 |
 | 2010s | 6 |
 
-#### ***born on October 15***
-1983, Kevin Van Hove, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=391), [CueTracker](http://cuetracker.net/Players/kevin-van-hove/)</sup></sub>
+#### ***born on October 16***
+1947, Terry Griffiths, 78 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2877)</sup></sub>
 
-1994, Hossein Vafaei, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=666), [CueTracker](http://cuetracker.net/Players/hossein-vafaei/)</sup></sub>
-
-1996, Andres Petrov, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1552), [CueTracker](http://cuetracker.net/Players/andres-petrov/)</sup></sub>
+1984, Steve Martin, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=662), [CueTracker](http://cuetracker.net/Players/steve-martin/)</sup></sub>
 
 
-#### ***milleversary on October 15, 2025***
-1976, Leo Fernandez, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=422), [CueTracker](http://cuetracker.net/Players/leo-fernandez/)</sup></sub>
-
-1981, Mohamed Khairy, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=931), [CueTracker](http://cuetracker.net/Players/mohamed-khairy/)</sup></sub>
+#### ***milleversary on October 16, 2025***
 
 
 
