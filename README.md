@@ -44,25 +44,27 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2458 |
+| 0000s | 2459 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 39 |
 | 1950s | 36 |
-| 1960s | 134 |
+| 1960s | 135 |
 | 1970s | 309 |
 | 1980s | 208 |
 | 1990s | 278 |
 | 2000s | 128 |
 | 2010s | 6 |
 
-#### ***born on October 16***
-1947, Terry Griffiths, 78 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2877)</sup></sub>
+#### ***born on October 17***
+1976, Andrew Turner, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2897)</sup></sub>
 
-1984, Steve Martin, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=662), [CueTracker](http://cuetracker.net/Players/steve-martin/)</sup></sub>
+1995, Lee Daegyu, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1886), [CueTracker](http://cuetracker.net/Players/daegyu-lee/)</sup></sub>
+
+1998, Aran Hetherington, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2456)</sup></sub>
 
 
-#### ***milleversary on October 16, 2025***
+#### ***milleversary on October 17, 2025***
 
 
 
