@@ -44,7 +44,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2459 |
+| 0000s | 2460 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 39 |
@@ -56,18 +56,13 @@
 | 2000s | 135 |
 | 2010s | 6 |
 
-#### ***born on October 19***
-1964, Edwin Depoorter, 61 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=406), [CueTracker](http://cuetracker.net/Players/edwin-depoorter/)</sup></sub>
+#### ***born on October 20***
+1989, Li Yuan, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=958), [CueTracker](http://cuetracker.net/Players/li-yuan/)</sup></sub>
 
-1972, Paul Dawson, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3406)</sup></sub>
-
-1975, David Lilley, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=998), [CueTracker](http://cuetracker.net/Players/david-lilley/)</sup></sub>
-
-1981, Yang Qingtian, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=940), [CueTracker](http://cuetracker.net/Players/yang-qingtian/)</sup></sub>
+1999, Zhao Hanyang, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1231), [CueTracker](http://cuetracker.net/Players/zhao-hanyang/)</sup></sub>
 
 
-#### ***milleversary on October 19, 2025***
-1971, Adrian Rosa, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1659), [CueTracker](http://cuetracker.net/Players/adrian-rosa/)</sup></sub>
+#### ***milleversary on October 20, 2025***
 
 
 
