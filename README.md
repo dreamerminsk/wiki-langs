@@ -53,16 +53,17 @@
 | 1970s | 311 |
 | 1980s | 210 |
 | 1990s | 280 |
-| 2000s | 139 |
+| 2000s | 140 |
 | 2010s | 6 |
 
-#### ***born on October 20***
-1989, Li Yuan, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=958), [CueTracker](http://cuetracker.net/Players/li-yuan/)</sup></sub>
+#### ***born on October 21***
+1969, Wayne Brown, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2004), [CueTracker](http://cuetracker.net/Players/wayne-brown/)</sup></sub>
 
-1999, Zhao Hanyang, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1231), [CueTracker](http://cuetracker.net/Players/zhao-hanyang/)</sup></sub>
+1988, Kriangsak Chiranothai, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3117), [CueTracker](http://cuetracker.net/Players/kriangsak-chiranothai/)</sup></sub>
 
 
-#### ***milleversary on October 20, 2025***
+#### ***milleversary on October 21, 2025***
+1995, Sunny Akani, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1763), [CueTracker](http://cuetracker.net/Players/akani-songsermsawad/)</sup></sub>
 
 
 
