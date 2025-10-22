@@ -44,7 +44,7 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2471 |
+| 0000s | 2472 |
 | 1910s | 1 |
 | 1920s | 7 |
 | 1930s | 14 |
@@ -54,17 +54,13 @@
 | 1970s | 312 |
 | 1980s | 211 |
 | 1990s | 281 |
-| 2000s | 147 |
+| 2000s | 149 |
 | 2010s | 6 |
 
-#### ***born on October 21***
-1969, Wayne Brown, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2004), [CueTracker](http://cuetracker.net/Players/wayne-brown/)</sup></sub>
-
-1988, Kriangsak Chiranothai, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3117), [CueTracker](http://cuetracker.net/Players/kriangsak-chiranothai/)</sup></sub>
+#### ***born on October 22***
 
 
-#### ***milleversary on October 21, 2025***
-1995, Sunny Akani, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1763), [CueTracker](http://cuetracker.net/Players/akani-songsermsawad/)</sup></sub>
+#### ***milleversary on October 22, 2025***
 
 
 
