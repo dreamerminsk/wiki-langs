@@ -44,23 +44,29 @@
 ## players
 | births | players |
 | :----: | ------: |
-| 0000s | 2479 |
+| 0000s | 2483 |
 | 1910s | 1 |
 | 1920s | 7 |
 | 1930s | 14 |
 | 1940s | 39 |
 | 1950s | 37 |
 | 1960s | 137 |
-| 1970s | 312 |
+| 1970s | 313 |
 | 1980s | 211 |
 | 1990s | 284 |
-| 2000s | 152 |
+| 2000s | 155 |
 | 2010s | 6 |
 
-#### ***born on October 22***
+#### ***born on October 23***
+1992, Louis Wakelin, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2254)</sup></sub>
+
+2007, Dylan Smith, 18 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2777)</sup></sub>
 
 
-#### ***milleversary on October 22, 2025***
+#### ***milleversary on October 23, 2025***
+1971, Alan McManus, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=44), [CueTracker](http://cuetracker.net/Players/alan-mcmanus/)</sup></sub>
+
+1976, Emma Bonney, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2129), [CueTracker](http://cuetracker.net/Players/emma-bonney/)</sup></sub>
 
 
 
