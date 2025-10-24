@@ -57,16 +57,11 @@
 | 2000s | 159 |
 | 2010s | 6 |
 
-#### ***born on October 23***
-1992, Louis Wakelin, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2254)</sup></sub>
-
-2007, Dylan Smith, 18 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2777)</sup></sub>
+#### ***born on October 24***
+1968, Tony Corrigan, 57 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1661), [CueTracker](http://cuetracker.net/Players/tony-corrigan/)</sup></sub>
 
 
-#### ***milleversary on October 23, 2025***
-1971, Alan McManus, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=44), [CueTracker](http://cuetracker.net/Players/alan-mcmanus/)</sup></sub>
-
-1976, Emma Bonney, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2129), [CueTracker](http://cuetracker.net/Players/emma-bonney/)</sup></sub>
+#### ***milleversary on October 24, 2025***
 
 
 
