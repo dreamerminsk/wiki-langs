@@ -39,7 +39,7 @@ impl NationStats {
 
     fn nations(&self) -> Option<String> {
         let segs = Segments::open("./players").ok()?;
-        let mut counts: HashMap<i32, usize> = HashMap::new();
+        let mut counts: BTrerMap<String, usize> = BTreeMap::new();
         segs.into_iter().flat_map(|s| s.into_iter()).for_each(|p| {
             if p.birthday.is_some() {
                 let bd = p.birthday.unwrap();
