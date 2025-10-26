@@ -84,4 +84,5 @@ impl NationStats {
             "## players\r\n{}\r\n",
             table,
             ))
+    }
 }
