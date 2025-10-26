@@ -1,7 +1,7 @@
 use crate::{players::tables::Segments, snooker::entities::Player};
 use chrono::{Datelike, Utc};
 use std::{
-    collections::{BTreeMap, BTreeSet},
+    collections::{BTreeMap, BTreeSet, HashMap},
     fs::{self, OpenOptions},
     io::Write,
 };
@@ -55,8 +55,7 @@ impl UpdateReadMe {
 
     fn players(&self) -> Option<String> {
         let segs = Segments::open("./players").ok()?;
-        let mut decades = BTreeMap::<String, usize>::new();
-        let mut years = BTreeMap::<String, usize>::new();
+let mut counts: HashMap<i32, usize> = HashMap::new();
         let mut births = BTreeSet::<Player>::new();
         let mut milles = BTreeSet::<Player>::new();
         let now = Utc::now();
@@ -71,75 +70,31 @@ impl UpdateReadMe {
                     milles.insert(p.clone());
                 }
             }
-            let year = p
-                .birthday
-                .map(|bd| (bd.year()).to_string())
-                .unwrap_or_else(|| "0000".to_string());
-            years.entry(year).and_modify(|e| *e += 1).or_insert(1);
-            let decade = p
-                .birthday
-                .map(|bd| (10 * (bd.year() / 10)).to_string())
-                .unwrap_or_else(|| "0000".to_string());
-            decades.entry(decade).and_modify(|e| *e += 1).or_insert(1);
-        });
-        let mut rows: Vec<String> = years
-            .iter()
-            .map(|(k, v)| format!("| {}s | {} |", k, v))
-            .collect();
-        rows.sort();
 
-        Some(format!(
-            "## players\r\n{}\r\n{}\r\n\r\n{}\r\n{}\r\n",
-            PLAYERS_HEADER,
-            rows.join("\r\n"),
-            self.births(&births),
-            self.milles(&milles)
-        ))
-    }
+            if p.birthday.is_some() {
+                let bd = p.birthday.unwrap();
+                *counts.entry(bd.year()).or_insert(0) += 1;  
+            }
+});
 
-
-use chrono::Datelike;
-use std::collections::HashMap;
-
-#[derive(Debug)]
-struct Person {
-    name: String,
-    birth_year: i32,
-}
-
-fn generate_markdown_table(people: &[Person]) -> String {
-    // Создаем HashMap для хранения количества людей, родившихся в каждом году.
-    let mut counts: HashMap<i32, usize> = HashMap::new();
-
-    // Заполняем HashMap данными из массива people.
-    for person in people {
-        *counts.entry(person.birth_year).or_insert(0) += 1;
-    }
-
-    // Определяем минимальный и максимальный год рождения.
-    let min_year = counts.keys().min().unwrap_or(&1900).clone();
+        let min_year = counts.keys().min().unwrap_or(&1900).clone();
     let max_year = counts.keys().max().unwrap_or(&2020).clone();
-
-    // Определяем минимальное и максимальное десятилетие.
-    let min_decade = min_year - min_year % 10;
+        let min_decade = min_year - min_year % 10;
     let max_decade = max_year - max_year % 10;
 
-    // Создаем заголовок таблицы.
     let mut header = String::from("| Decade ");
     for year in 0..10 {
         header.push_str(&format!("| Year +{} ", year));
     }
     header.push_str("| Decade Total |\n");
 
-    // Создаем разделитель заголовка.
     let mut separator = String::from("|:-------");
     for _ in 0..10 {
         separator.push_str("|:-------:");
     }
     separator.push_str("|:-------------:|\n");
 
-    // Создаем строки таблицы.
-    let mut table = header;
+let mut table = header;
     table.push_str(&separator);
 
     for decade in (min_decade..=max_decade).step_by(10) {
@@ -154,8 +109,13 @@ fn generate_markdown_table(people: &[Person]) -> String {
         table.push_str(&row);
     }
 
-    table
-}
+        Some(format!(
+            "## players\r\n{}\r\n\r\n{}\r\n{}\r\n",
+            table,
+            self.births(&births),
+            self.milles(&milles)
+        ))
+    }
 
     fn births(&self, players: &BTreeSet<Player>) -> String {
         let mut brows: Vec<String> = players.iter().map(|v| self.birth_row(&v)).collect();
