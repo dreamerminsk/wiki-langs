@@ -12,8 +12,6 @@ static SHIELDS_PATH: &str = "./README/SHIELDS.md";
 
 static WORLDS_PATH: &str = "./README/WORLDS.md";
 
-static PLAYERS_HEADER: &str = "| births | players |\r\n| :----: | ------: |";
-
 pub struct UpdateReadMe {}
 
 impl UpdateReadMe {
