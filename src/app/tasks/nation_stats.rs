@@ -40,24 +40,25 @@ impl NationStats {
     fn nations(&self) -> Option<String> {
         let segs = Segments::open("./players").ok()?;
         let mut counts: BTrerMap<String, usize> = BTreeMap::new();
+        let mut min_decade = 3000;
+        let mut max_decade = 1000;
+
         segs.into_iter().flat_map(|s| s.into_iter()).for_each(|p| {
             *counts.entry(p.nation).or_insert(0) += 1;
             if p.birthday.is_some() {
                 let bd = p.birthday.unwrap();
+                let decade = bd.year() - bd.year() % 10;
+                if decade < min_decade { min_decade = decade; }
+                if decade > max_decade { max_decade = decade; }
                 *counts.entry(bd.year()).or_insert(0) += 1;
             }
         });
 
-        let min_year = counts.keys().min().unwrap_or(&1900).clone();
-        let max_year = counts.keys().max().unwrap_or(&2020).clone();
-        let min_decade = min_year - min_year % 10;
-        let max_decade = max_year - max_year % 10;
-
-        let mut header = String::from("| Decade ");
+        let mut header = String::from("| Nation ");
         for year in 0..10 {
             header.push_str(&format!("| Year +{} ", year));
         }
-        header.push_str("| Decade Total |\n");
+        header.push_str("| Total |\n");
 
         let mut separator = String::from("|:-------");
         for _ in 0..10 {
