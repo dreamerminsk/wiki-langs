@@ -182,33 +182,3 @@ impl UpdateReadMe {
         )
     }
 }
-
-pub struct Decade {
-    first_year: u32,
-    years: [u32; 10],
-}
-
-impl Decade {
-    pub fn new(first_year: u32) -> Self {
-        Self {
-            first_year,
-            years: [0; 10],
-        }
-    }
-
-    pub fn add_year(&mut self, year: u32) {
-        let idx = year - self.first_year;
-        if idx >= 0 && idx < 10 {
-            self.years[idx as usize] += 1;
-        } else {
-            println!(
-                "Year {} is out of range for the decade starting in {}",
-                year, self.first_year
-            );
-        }
-    }
-
-    pub fn years_count(&self) -> &[u32; 10] {
-        &self.years
-    }
-}
