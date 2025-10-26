@@ -48,8 +48,12 @@ impl NationStats {
             if p.birthday.is_some() {
                 let bd = p.birthday.unwrap();
                 let decade = bd.year() - bd.year() % 10;
-                if decade < min_decade { min_decade = decade; }
-                if decade > max_decade { max_decade = decade; }
+                if decade < min_decade {
+                    min_decade = decade;
+                }
+                if decade > max_decade {
+                    max_decade = decade;
+                }
                 *counts.entry(bd.year()).or_insert(0) += 1;
             }
         });
