@@ -57,17 +57,19 @@
 | 2000s | 160 |
 | 2010s | 6 |
 
-#### ***born on October 25***
-1977, James Height, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2196)</sup></sub>
+#### ***born on October 26***
+1969, Carl Waters, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3476)</sup></sub>
 
-1985, Reanne Evans, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=175), [CueTracker](http://cuetracker.net/Players/reanne-evans/)</sup></sub>
+1977, Daniel Stevenson, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2045), [CueTracker](http://cuetracker.net/Players/daniel-stevenson/)</sup></sub>
 
-1995, Jamie Jones (1995), 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2787)</sup></sub>
+1979, Jamie Brown, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=152), [CueTracker](http://cuetracker.net/Players/jamie-brown/)</sup></sub>
 
-2004, Paul Deaville, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2749), [CueTracker](http://cuetracker.net/Players/paul-deaville/)</sup></sub>
+1990, Ben Jones, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=920), [CueTracker](http://cuetracker.net/Players/ben-jones/)</sup></sub>
+
+2005, Zac Cosker, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2805), [CueTracker](http://cuetracker.net/Players/zac-cosker/)</sup></sub>
 
 
-#### ***milleversary on October 25, 2025***
+#### ***milleversary on October 26, 2025***
 
 
 
