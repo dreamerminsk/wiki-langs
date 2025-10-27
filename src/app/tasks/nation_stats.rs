@@ -39,7 +39,8 @@ impl NationStats {
 
     fn nations(&self) -> Option<String> {
         let segs = Segments::open("./players").ok()?;
-        let mut counts: BTrerMap<String, usize> = BTreeMap::new();
+        let mut counts: BTreeMap<String, usize> = BTreeMap::new();
+        let mut decades = BTreeMap::new();
         let mut min_decade = 3000;
         let mut max_decade = 1000;
 
@@ -54,18 +55,18 @@ impl NationStats {
                 if decade > max_decade {
                     max_decade = decade;
                 }
-                *counts.entry(bd.year()).or_insert(0) += 1;
+                *decades.entry((p.nation, decade)).or_insert(0) += 1;
             }
         });
 
         let mut header = String::from("| Nation ");
-        for decade in (min_decade..=max_decade).step_by(10) {
+                for decade in (min_decade..=max_decade).step_by(10) {
             header.push_str(&format!("| {} ", decade));
         }
         header.push_str("| Total |\n");
 
         let mut separator = String::from("|:-------");
-        for _ in (min_decade..=max_decade).step_by(10) {
+                for _ in (min_decade..=max_decade).step_by(10) {
             separator.push_str("|:-------:");
         }
         separator.push_str("|:-------------:|\n");
