@@ -8,8 +8,13 @@ use std::{
 
 pub struct SoRanking {}
 
-fn main() -> Result<(), Box<dyn std::error::Error>> {
-    let url = "http://example.com";
+impl SoRanking {
+    pub fn new() -> Self {
+        SoRanking {}
+    }
+
+    pub fn execute(&self) -> Option<()> {
+      let url = "https://www.snooker.org/res/index.asp?template=31";
     let response = get(url)?.text()?;
 
     let document = Html::parse_document(&response);
@@ -28,5 +33,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
                  position, player, player_id, nationality, sum, sum_change);
     }
 
-    Ok(())
+    Some(())
+    }
+
 }
