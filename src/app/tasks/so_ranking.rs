@@ -15,7 +15,7 @@ impl SoRanking {
 
     pub fn execute(&self) -> Option<()> {
         let url = "https://www.snooker.org/res/index.asp?template=31";
-        let response = get(url)?.text()?;
+        let response = get(url).ok()?.text().ok()?;
 
         let document = Html::parse_document(&response);
         let table_selector = Selector::parse("#currentmoneyrankings tbody tr").unwrap();
