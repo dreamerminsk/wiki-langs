@@ -75,7 +75,7 @@ impl NationStats {
         table.push_str(&separator);
 
         let mut sorted_by_value: Vec<(&str, usize)> = map.into_iter().collect();
-    sorted_by_value.sort_by(|a, b| b.1.cmp(&a.1));
+        sorted_by_value.sort_by(|a, b| b.1.cmp(&a.1));
 
         for decade in (min_decade..=max_decade).step_by(10) {
             let mut row = format!("| {}s ", decade);
