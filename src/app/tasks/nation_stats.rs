@@ -17,6 +17,7 @@ impl NationStats {
 
     pub fn execute(&self) -> Option<()> {
         let mut file = OpenOptions::new()
+            .create(true)
             .read(true)
             .write(true)
             .truncate(true)
@@ -32,7 +33,7 @@ impl NationStats {
 
     fn content(&self) -> String {
         format!(
-            "## player by nations\r\n{}\r\n",
+            "{}\r\n",
             self.nations().unwrap_or_else(|| "".to_string()),
         )
     }
@@ -93,6 +94,6 @@ impl NationStats {
             table.push_str(&row);
         }
 
-        Some(format!("## players\r\n{}\r\n", table,))
+        Some(format!("## nations\r\n{}\r\n", table,))
     }
 }
