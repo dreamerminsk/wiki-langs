@@ -1,7 +1,7 @@
 use crate::{players::tables::Segments, snooker::entities::Player};
 use chrono::{Datelike, Utc};
 use std::{
-    collections::{BTreeMap, BTreeSet},
+    collections::{BTreeMap, BTreeSet, HashMap},
     fs::{self, OpenOptions},
     io::Write,
 };
@@ -11,8 +11,6 @@ static README_PATH: &str = "./README.md";
 static SHIELDS_PATH: &str = "./README/SHIELDS.md";
 
 static WORLDS_PATH: &str = "./REPORTS/TITLES–20.md";
-
-static PLAYERS_HEADER: &str = "| births | players |\r\n| :----: | ------: |";
 
 pub struct UpdateReadMe {}
 
@@ -55,7 +53,7 @@ impl UpdateReadMe {
 
     fn players(&self) -> Option<String> {
         let segs = Segments::open("./players").ok()?;
-        let mut years = BTreeMap::<String, usize>::new();
+        let mut counts: HashMap<i32, usize> = HashMap::new();
         let mut births = BTreeSet::<Player>::new();
         let mut milles = BTreeSet::<Player>::new();
         let now = Utc::now();
@@ -70,22 +68,48 @@ impl UpdateReadMe {
                     milles.insert(p.clone());
                 }
             }
-            let y = p
-                .birthday
-                .map(|bd| (10 * (bd.year() / 10)).to_string())
-                .unwrap_or_else(|| "0000".to_string());
-            years.entry(y).and_modify(|e| *e += 1).or_insert(1);
+
+            if p.birthday.is_some() {
+                let bd = p.birthday.unwrap();
+                *counts.entry(bd.year()).or_insert(0) += 1;
+            }
         });
-        let mut rows: Vec<String> = years
-            .iter()
-            .map(|(k, v)| format!("| {}s | {} |", k, v))
-            .collect();
-        rows.sort();
+
+        let min_year = counts.keys().min().unwrap_or(&1900).clone();
+        let max_year = counts.keys().max().unwrap_or(&2020).clone();
+        let min_decade = min_year - min_year % 10;
+        let max_decade = max_year - max_year % 10;
+
+        let mut header = String::from("| Decade ");
+        for year in 0..10 {
+            header.push_str(&format!("| Year +{} ", year));
+        }
+        header.push_str("| Decade Total |\n");
+
+        let mut separator = String::from("|:-------");
+        for _ in 0..10 {
+            separator.push_str("|:-------:");
+        }
+        separator.push_str("|:-------------:|\n");
+
+        let mut table = header;
+        table.push_str(&separator);
+
+        for decade in (min_decade..=max_decade).step_by(10) {
+            let mut row = format!("| {}s ", decade);
+            let mut decade_total = 0;
+            for year in decade..decade + 10 {
+                let count = counts.get(&year).unwrap_or(&0);
+                decade_total += count;
+                row.push_str(&format!("| {} ", count));
+            }
+            row.push_str(&format!("| {} |\n", decade_total));
+            table.push_str(&row);
+        }
 
         Some(format!(
-            "## players\r\n{}\r\n{}\r\n\r\n{}\r\n{}\r\n",
-            PLAYERS_HEADER,
-            rows.join("\r\n"),
+            "## players\r\n{}\r\n\r\n{}\r\n{}\r\n",
+            table,
             self.births(&births),
             self.milles(&milles)
         ))

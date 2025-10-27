@@ -1,9 +1,8 @@
-## Current decade
 ### Titles by nations
 
 | NATION | Players | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2020s |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | 
-| **ENG** | **15** | 12 | 5 | 7 | 13 | 12 | 5 | 0 | 0 | 0 | 0 | 54 |
+| **ENG** | **14** | 12 | 5 | 7 | 13 | 12 | 5 | 0 | 0 | 0 | 0 | 54 |
 | **AUS** | **1** | 3 | 2 | 2 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 10 |
 | **CHN** | **6** | 0 | 1 | 2 | 1 | 3 | 2 | 0 | 0 | 0 | 0 | 9 |
 | **NIR** | **2** | 0 | 2 | 2 | 2 | 1 | 1 | 0 | 0 | 0 | 0 | 8 |
@@ -40,43 +39,21 @@
 | **Luca Brecel,<br>BEL, 1995** | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |
 | **Gary Wilson,<br>ENG, 1985** | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 3 |
 | **Zhao Xintong,<br>CHN, 1997** | 0 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 3 |
-
-## players
-| Decade | Year +0 | Year +1 | Year +2 | Year +3 | Year +4 | Year +5 | Year +6 | Year +7 | Year +8 | Year +9 | Decade Total |
-|:-------|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------------:|
-| 1910s | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 1920s | 0 | 1 | 0 | 1 | 1 | 0 | 0 | 1 | 1 | 2 | 7 |
-| 1930s | 0 | 2 | 2 | 1 | 1 | 1 | 2 | 3 | 2 | 0 | 14 |
-| 1940s | 2 | 1 | 3 | 1 | 6 | 5 | 7 | 5 | 6 | 3 | 39 |
-| 1950s | 1 | 2 | 1 | 3 | 6 | 5 | 3 | 2 | 10 | 4 | 37 |
-| 1960s | 7 | 3 | 5 | 11 | 11 | 10 | 14 | 22 | 20 | 35 | 138 |
-| 1970s | 36 | 46 | 39 | 39 | 26 | 41 | 33 | 23 | 27 | 18 | 328 |
-| 1980s | 23 | 20 | 23 | 20 | 17 | 31 | 18 | 18 | 18 | 24 | 212 |
-| 1990s | 31 | 43 | 28 | 28 | 25 | 34 | 28 | 19 | 25 | 24 | 285 |
-| 2000s | 28 | 23 | 25 | 22 | 16 | 16 | 11 | 8 | 7 | 4 | 160 |
-| 2010s | 3 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 6 |
-
-
-#### ***born on October 27***
-1968, Martin Clark, 57 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3261)</sup></sub>
-
-1990, Cao Yupeng, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=507), [CueTracker](http://cuetracker.net/Players/cao-yupeng/)</sup></sub>
-
-1994, Shubham Arora, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2486)</sup></sub>
-
-
-#### ***milleversary on October 27, 2025***
-
-
-
-## wiki-langs
-[![update](https://github.com/dreamerminsk/wiki-langs/actions/workflows/update-tables.yml/badge.svg)](https://github.com/dreamerminsk/wiki-langs/actions/workflows/update-tables.yml)
-[![build](https://github.com/dreamerminsk/wiki-langs/actions/workflows/build.yml/badge.svg)](https://github.com/dreamerminsk/wiki-langs/actions/workflows/build.yml)
-
-![commits](https://img.shields.io/github/commit-activity/y/dreamerminsk/wiki-langs)
-![commits](https://img.shields.io/github/commit-activity/m/dreamerminsk/wiki-langs)
-![commits](https://img.shields.io/github/commit-activity/w/dreamerminsk/wiki-langs)
-
-![](https://img.shields.io/github/languages/code-size/dreamerminsk/wiki-langs)
-![](https://img.shields.io/github/repo-size/dreamerminsk/wiki-langs)
-
+| **Ali Carter,<br>ENG, 1979** | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 2 |
+| **Ryan Day,<br>WAL, 1980** | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
+| **Robert Milkins,<br>ENG, 1976** | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
+| **Stephen Maguire,<br>SCO, 1981** | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 2 |
+| **Xiao Guodong,<br>CHN, 1989** | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 2 |
+| **Ding Junhui,<br>CHN, 1987** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
+| **Barry Hawkins,<br>ENG, 1979** | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| **Joe Perry,<br>ENG, 1974** | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| **Tom Ford,<br>ENG, 1983** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
+| **Michael Holt,<br>ENG, 1978** | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| **Lei Peifan,<br>CHN, 2003** | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
+| **Zhang Anda,<br>CHN, 1991** | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| **Chris Wakelin,<br>ENG, 1992** | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| **David Gilbert,<br>ENG, 1981** | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| **Hossein Vafaei,<br>IRN, 1994** | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| **Fan Zhengyi,<br>CHN, 2001** | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| **Jordan Brown,<br>NIR, 1987** | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| **Jack Lisowski,<br>ENG, 1991** | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
