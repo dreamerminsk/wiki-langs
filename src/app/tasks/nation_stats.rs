@@ -60,13 +60,13 @@ impl NationStats {
         });
 
         let mut header = String::from("| Nation ");
-                for decade in (min_decade..=max_decade).step_by(10) {
+        for decade in (min_decade..=max_decade).step_by(10) {
             header.push_str(&format!("| {} ", decade));
         }
         header.push_str("| Total |\n");
 
         let mut separator = String::from("|:-------");
-                for _ in (min_decade..=max_decade).step_by(10) {
+        for _ in (min_decade..=max_decade).step_by(10) {
             separator.push_str("|:-------:");
         }
         separator.push_str("|:-------------:|\n");
