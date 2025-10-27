@@ -79,18 +79,11 @@ impl NationStats {
 
         for nation in sorted_by_value.iter() {
             let mut row = format!("| {}s ", nation);
-            for decade in (min_decade..=max_decade).step_by(10) {}
-        }
-
-        for decade in (min_decade..=max_decade).step_by(10) {
-            let mut row = format!("| {}s ", decade);
-            let mut decade_total = 0;
-            for year in decade..decade + 10 {
-                let count = counts.get(&year).unwrap_or(&0);
-                decade_total += count;
+            for decade in (min_decade..=max_decade).step_by(10) {
+                let count = decades.get((nation, decade)).unwrap_or(&0);
                 row.push_str(&format!("| {} ", count));
             }
-            row.push_str(&format!("| {} |\n", decade_total));
+            row.push_str(&format!("| {} |\n", nation 1));
             table.push_str(&row);
         }
 
