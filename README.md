@@ -57,19 +57,15 @@
 | 2010s | 3 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 6 |
 
 
-#### ***born on October 26***
-1969, Carl Waters, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3476)</sup></sub>
+#### ***born on October 27***
+1968, Martin Clark, 57 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3261)</sup></sub>
 
-1977, Daniel Stevenson, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2045), [CueTracker](http://cuetracker.net/Players/daniel-stevenson/)</sup></sub>
+1990, Cao Yupeng, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=507), [CueTracker](http://cuetracker.net/Players/cao-yupeng/)</sup></sub>
 
-1979, Jamie Brown, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=152), [CueTracker](http://cuetracker.net/Players/jamie-brown/)</sup></sub>
-
-1990, Ben Jones, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=920), [CueTracker](http://cuetracker.net/Players/ben-jones/)</sup></sub>
-
-2005, Zac Cosker, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2805), [CueTracker](http://cuetracker.net/Players/zac-cosker/)</sup></sub>
+1994, Shubham Arora, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2486)</sup></sub>
 
 
-#### ***milleversary on October 26, 2025***
+#### ***milleversary on October 27, 2025***
 
 
 
