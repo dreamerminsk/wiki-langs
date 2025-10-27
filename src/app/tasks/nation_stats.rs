@@ -78,13 +78,13 @@ impl NationStats {
         let mut table = header;
         table.push_str(&separator);
 
-        let mut sorted_by_value: Vec<(&String, usize)> = nation_counts.iter().collect();
+        let mut sorted_by_value: Vec<(String, usize)> = nation_counts.iter().collect();
         sorted_by_value.sort_by(|a, b| b.1.cmp(&a.1));
 
         for (nation, total_count) in sorted_by_value.iter() {
             let mut row = format!("| {} ", nation);
             for decade in (min_decade..=max_decade).step_by(10) {
-                let count = decade_counts.get(&(nation.clone(), decade)).unwrap_or(&0); // Use clone to avoid ownership issues
+                let count = decade_counts.get(&(nation.to_string(), decade)).unwrap_or(&0);
                 row.push_str(&format!("| {} ", count));
             }
             row.push_str(&format!("| {} |\n", total_count));
