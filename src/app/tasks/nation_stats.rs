@@ -76,7 +76,7 @@ impl NationStats {
         let mut table = header;
         table.push_str(&separator);
 
-        let mut sorted_by_value: Vec<(String, usize)> = nation_counts.iter().collect();
+        let mut sorted_by_value = nation_counts.iter().collect();
         sorted_by_value.sort_by(|a, b| b.1.cmp(&a.1));
 
         for (nation, total_count) in sorted_by_value.iter() {
