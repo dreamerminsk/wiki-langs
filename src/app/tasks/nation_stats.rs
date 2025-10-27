@@ -32,10 +32,7 @@ impl NationStats {
     }
 
     fn content(&self) -> String {
-        format!(
-            "{}\r\n",
-            self.nations().unwrap_or_else(|| "".to_string()),
-        )
+        format!("{}\r\n", self.nations().unwrap_or_else(|| "".to_string()),)
     }
 
     fn nations(&self) -> Option<String> {
