@@ -1,5 +1,10 @@
 use reqwest::blocking::get;
 use scraper::{Html, Selector};
+use std::{
+    collections::{BTreeMap, BTreeSet},
+    fs::{self, OpenOptions},
+    io::Write,
+};
 
 fn main() -> Result<(), Box<dyn std::error::Error>> {
     let url = "http://example.com";
