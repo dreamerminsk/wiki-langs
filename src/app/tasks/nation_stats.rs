@@ -79,9 +79,7 @@ impl NationStats {
 
         for nation in sorted_by_value.iter() {
             let mut row = format!("| {}s ", nation);
-            for decade in (min_decade..=max_decade).step_by(10) {
-                
-            }
+            for decade in (min_decade..=max_decade).step_by(10) {}
         }
 
         for decade in (min_decade..=max_decade).step_by(10) {
