@@ -57,7 +57,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
     let so_ranking = SoRanking::new();
     so_ranking.execute();
-  
+
     let nation_stats = NationStats::new();
     nation_stats.execute();
 
