@@ -17,7 +17,7 @@ log = "*"
 nanoid = "*"
 rand = "*"
 regex = "*"
-reqwest = "*"
+reqwest = { version = "*", features = ["blocking"] }
 scraper = "*"
 select = "*"
 serde = { version = "1", features = ["derive"] }
