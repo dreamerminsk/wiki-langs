@@ -6,6 +6,8 @@ use std::{
     io::Write,
 };
 
+pub struct SoRanking {}
+
 fn main() -> Result<(), Box<dyn std::error::Error>> {
     let url = "http://example.com";
     let response = get(url)?.text()?;
