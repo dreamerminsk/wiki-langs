@@ -84,7 +84,9 @@ impl NationStats {
         for (nation, total_count) in sorted_by_value.iter() {
             let mut row = format!("| {} ", nation);
             for decade in (min_decade..=max_decade).step_by(10) {
-                let count = decade_counts.get(&(nation.to_string(), decade)).unwrap_or(&0);
+                let count = decade_counts
+                    .get(&(nation.to_string(), decade))
+                    .unwrap_or(&0);
                 row.push_str(&format!("| {} ", count));
             }
             row.push_str(&format!("| {} |\n", total_count));
