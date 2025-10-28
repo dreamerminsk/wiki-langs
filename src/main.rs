@@ -56,7 +56,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
     update_readme.execute();
 
     let so_ranking = SoRanking::new();
-    so_ranking.execute();
+    so_ranking.execute().await?;
 
     let nation_stats = NationStats::new();
     nation_stats.execute();
