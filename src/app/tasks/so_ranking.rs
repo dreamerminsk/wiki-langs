@@ -2,6 +2,9 @@ use reqwest::Client;
 use scraper::{Html, Selector};
 use std::error::Error;
 
+
+static APP_USER_AGENT: &str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33";
+
 pub struct SoRanking {
     client: Client,
 }
@@ -9,7 +12,11 @@ pub struct SoRanking {
 impl SoRanking {
     pub fn new() -> Self {
         SoRanking {
-            client: Client::new(),
+            client: Client = Client::builder()
+        .user_agent(APP_USER_AGENT)
+        .connect_timeout(Duration::from_secs(60))
+        .build()
+        .unwrap();,
         }
     }
 
