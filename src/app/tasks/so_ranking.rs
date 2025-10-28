@@ -1,57 +1,64 @@
-use reqwest::blocking::get;
+use reqwest::Client;
 use scraper::{Html, Selector};
-use std::{
-    collections::{BTreeMap, BTreeSet},
-    fs::{self, OpenOptions},
-    io::Write,
-};
+use std::error::Error;
+use std::time::Duration;
 
-pub struct SoRanking {}
+static APP_USER_AGENT: &str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33";
+
+pub struct SoRanking {
+    client: Client,
+}
 
 impl SoRanking {
     pub fn new() -> Self {
-        SoRanking {}
+        SoRanking {
+            client: Client = Client::builder()
+                .user_agent(APP_USER_AGENT)
+                .connect_timeout(Duration::from_secs(60))
+                .build()
+                .expect("Failed to build HTTP client"),
+        }
     }
 
-    pub fn execute(&self) -> Option<()> {
+    pub async fn execute(&self) -> Result<(), Box<dyn Error>> {
         let url = "https://www.snooker.org/res/index.asp?template=31";
-        let response = get(url).ok()?.text().ok()?;
+        let response = self.client.get(url).send().await?.text().await?;
 
         let document = Html::parse_document(&response);
-        let table_selector = Selector::parse("#currentmoneyrankings tbody tr").unwrap();
+        let table_selector = Selector::parse("#currentmoneyrankings tbody tr")?;
 
         for row in document.select(&table_selector) {
             let position = row
-                .select(&Selector::parse(".position").unwrap())
+                .select(&Selector::parse(".position")?)
                 .next()
-                .unwrap()
+                .ok_or("Position not found")?
                 .inner_html();
             let player_element = row
-                .select(&Selector::parse(".player a").unwrap())
+                .select(&Selector::parse(".player a")?)
                 .next()
-                .unwrap();
+                .ok_or("Player element not found")?;
             let player = player_element.inner_html();
             let player_id = player_element
                 .value()
                 .attr("href")
-                .unwrap()
+                .ok_or("Player ID not found")?
                 .split('=')
                 .last()
-                .unwrap();
+                .ok_or("Invalid Player ID")?;
             let nationality = row
-                .select(&Selector::parse(".nationality").unwrap())
+                .select(&Selector::parse(".nationality")?)
                 .next()
-                .unwrap()
+                .ok_or("Nationality not found")?
                 .inner_html();
             let sum = row
-                .select(&Selector::parse(".sum").unwrap())
+                .select(&Selector::parse(".sum")?)
                 .next()
-                .unwrap()
+                .ok_or("Sum not found")?
                 .inner_html();
             let sum_change = row
-                .select(&Selector::parse(".change").unwrap())
+                .select(&Selector::parse(".change")?)
                 .next()
-                .unwrap()
+                .ok_or("Sum change not found")?
                 .inner_html();
 
             println!(
@@ -60,6 +67,6 @@ impl SoRanking {
             );
         }
 
-        Some(())
+        Ok(())
     }
 }
