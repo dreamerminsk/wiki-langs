@@ -49,23 +49,26 @@
 | 1930s | 0 | 2 | 2 | 1 | 1 | 1 | 2 | 3 | 2 | 0 | 14 |
 | 1940s | 2 | 1 | 3 | 1 | 6 | 5 | 7 | 5 | 6 | 3 | 39 |
 | 1950s | 1 | 2 | 1 | 3 | 6 | 5 | 3 | 2 | 10 | 4 | 37 |
-| 1960s | 7 | 3 | 5 | 11 | 11 | 10 | 14 | 22 | 20 | 35 | 138 |
-| 1970s | 36 | 46 | 39 | 39 | 26 | 41 | 33 | 23 | 27 | 18 | 328 |
+| 1960s | 7 | 3 | 5 | 11 | 11 | 10 | 14 | 22 | 20 | 38 | 141 |
+| 1970s | 37 | 46 | 40 | 39 | 26 | 41 | 33 | 23 | 27 | 18 | 330 |
 | 1980s | 23 | 20 | 23 | 20 | 17 | 31 | 18 | 18 | 18 | 24 | 212 |
 | 1990s | 31 | 43 | 28 | 28 | 25 | 34 | 28 | 19 | 25 | 24 | 285 |
 | 2000s | 28 | 23 | 25 | 22 | 16 | 16 | 11 | 8 | 7 | 4 | 160 |
 | 2010s | 3 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 6 |
 
 
-#### ***born on October 27***
-1968, Martin Clark, 57 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3261)</sup></sub>
+#### ***born on October 28***
+1968, David Athorn, 57 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3411)</sup></sub>
 
-1990, Cao Yupeng, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=507), [CueTracker](http://cuetracker.net/Players/cao-yupeng/)</sup></sub>
+1970, Alfonso Bellusci, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3438)</sup></sub>
 
-1994, Shubham Arora, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2486)</sup></sub>
+1995, Andrei Orzan, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1867), [CueTracker](http://cuetracker.net/Players/andrei-orzan/)</sup></sub>
 
 
-#### ***milleversary on October 27, 2025***
+#### ***milleversary on October 28, 2025***
+1979, Thomas McSorley, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1185), [CueTracker](http://cuetracker.net/Players/thomas-mcsorley/)</sup></sub>
+
+1995, Chen Zifan, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=933), [CueTracker](http://cuetracker.net/Players/chen-zifan/)</sup></sub>
 
 
 
