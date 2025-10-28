@@ -13,10 +13,10 @@ impl SoRanking {
     pub fn new() -> Self {
         SoRanking {
             client: Client = Client::builder()
-        .user_agent(APP_USER_AGENT)
-        .connect_timeout(Duration::from_secs(60))
-        .build()
-        .expect("Failed to build HTTP client"),
+                .user_agent(APP_USER_AGENT)
+                .connect_timeout(Duration::from_secs(60))
+                .build()
+                .expect("Failed to build HTTP client"),
         }
     }
 
