@@ -12,7 +12,7 @@ pub struct SoRanking {
 impl SoRanking {
     pub fn new() -> Self {
         SoRanking {
-            client : Client::builder()
+            client: Client::builder()
                 .user_agent(APP_USER_AGENT)
                 .connect_timeout(Duration::from_secs(60))
                 .build()
