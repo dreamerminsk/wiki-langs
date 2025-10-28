@@ -2,6 +2,7 @@ use reqwest::Client;
 use scraper::{Html, Selector};
 use std::error::Error;
 use std::time::Duration;
+use log::info;
 
 static APP_USER_AGENT: &str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33";
 
@@ -61,7 +62,7 @@ impl SoRanking {
                 .ok_or("Sum change not found")?
                 .inner_html();
 
-            println!(
+            info!(
                 "Position: {}, Player: {}, ID: {}, Nationality: {}, Sum: {}, Sum Change: {}",
                 position, player, player_id, nationality, sum, sum_change
             );
