@@ -22,6 +22,7 @@ impl SoRanking {
     }
 
     pub async fn execute(&self) -> Result<(), Box<dyn Error>> {
+         info!("SoRankingTask");
         let url = "https://www.snooker.org/res/index.asp?template=31";
         let response = self.client.get(url).send().await?.text().await?;
 
