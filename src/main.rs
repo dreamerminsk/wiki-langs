@@ -1,5 +1,5 @@
 use crate::country::{entities::Country, tables::add_country};
-use app::tasks::{DupNames, NationStats, SoRanking, UpdateCountries, UpdateReadMe,  DupBirthdays};
+use app::tasks::{DupBirthdays, DupNames, NationStats, SoRanking, UpdateCountries, UpdateReadMe};
 use fern;
 use log::{debug, error, info, trace, warn};
 use rand::Rng;
