@@ -38,15 +38,17 @@ impl DupBirthdays {
         let mut name_map: BTreeMap<NaiveDate, Vec<Player>> = BTreeMap::new();
 
         for player in segs.into_iter().flat_map(|s| s.into_iter()) {
+         if let Some(birthday) = player.birthday {
             name_map
-                .entry(player.full_name.clone())
+                .entry(birthday.clone())
                 .or_default()
                 .push(player);
+}
         }
 
         let mut table = String::new();
 
-        table.push_str("| Name | Count |\n");
+        table.push_str("| Birthday | Count |\n");
         table.push_str("|------|-------|\n"); // Добавляем разделитель
 
         for (name, group) in name_map {
