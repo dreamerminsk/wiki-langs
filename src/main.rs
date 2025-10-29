@@ -1,5 +1,5 @@
 use crate::country::{entities::Country, tables::add_country};
-use app::tasks::{DupNames, NationStats, SoRanking, UpdateCountries, UpdateReadMe};
+use app::tasks::{DupBirthdays, DupNames, NationStats, SoRanking, UpdateCountries, UpdateReadMe};
 use fern;
 use log::{debug, error, info, trace, warn};
 use rand::Rng;
@@ -57,6 +57,9 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
     let dup_names = DupNames::new();
     dup_names.execute();
+
+    let dup_birthdays = DupBirthdays::new();
+    dup_birthdays.execute();
 
     let so_ranking = SoRanking::new();
     so_ranking.execute().await?;
