@@ -30,6 +30,25 @@ impl Ord for Player {
     }
 }
 
+impl Ord for Player {
+    fn cmp(&self, other: &Self) -> Ordering {
+        let ordering = Ordering::Equal;
+        if let (Some(this), Some(that)) = (self.birthday.as_ref(), other.birthday.as_ref()) {
+            ordering = this.cmp(that);
+        }
+ if ordering == Ordering::Equal && let (Some(this), Some(that)) =
+            (self.cuetracker_id.as_ref(), other.cuetracker_id.as_ref())
+        {
+            ordering = this.cmp(that);
+        } 
+if ordering == Ordering::Equal {
+            ordering = self.snooker_id.cmp(&other.snooker_id);
+        }
+ordering
+    }
+    
+}
+
 impl PartialOrd for Player {
     fn partial_cmp(&self, other: &Self) -> Option<Ordering> {
         Some(self.cmp(other))
