@@ -36,17 +36,17 @@ impl Ord for Player {
         if let (Some(this), Some(that)) = (self.birthday.as_ref(), other.birthday.as_ref()) {
             ordering = this.cmp(that);
         }
- if ordering == Ordering::Equal && let (Some(this), Some(that)) =
-            (self.cuetracker_id.as_ref(), other.cuetracker_id.as_ref())
+        if ordering == Ordering::Equal
+            && let (Some(this), Some(that)) =
+                (self.cuetracker_id.as_ref(), other.cuetracker_id.as_ref())
         {
             ordering = this.cmp(that);
-        } 
-if ordering == Ordering::Equal {
+        }
+        if ordering == Ordering::Equal {
             ordering = self.snooker_id.cmp(&other.snooker_id);
         }
-ordering
+        ordering
     }
-    
 }
 
 impl PartialOrd for Player {
