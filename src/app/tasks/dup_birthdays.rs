@@ -38,12 +38,9 @@ impl DupBirthdays {
         let mut name_map: BTreeMap<NaiveDate, Vec<Player>> = BTreeMap::new();
 
         for player in segs.into_iter().flat_map(|s| s.into_iter()) {
-         if let Some(birthday) = player.birthday {
-            name_map
-                .entry(birthday.clone())
-                .or_default()
-                .push(player);
-}
+            if let Some(birthday) = player.birthday {
+                name_map.entry(birthday.clone()).or_default().push(player);
+            }
         }
 
         let mut table = String::new();
@@ -53,8 +50,13 @@ impl DupBirthdays {
 
         for (name, group) in name_map {
             if group.len() > 1 {
-let ids: Vec<_> = group.iter().map(|&p| p.snooker_id).collect();
-                let row = format!("| {} <br> {:?} | {} |\n", name.format("%Y-%m-%d").to_string(), ids, group.len());
+                let ids: Vec<_> = group.iter().map(|&p| p.snooker_id).collect();
+                let row = format!(
+                    "| {} <br> {:?} | {} |\n",
+                    name.format("%Y-%m-%d").to_string(),
+                    ids,
+                    group.len()
+                );
                 table.push_str(&row);
             }
         }
