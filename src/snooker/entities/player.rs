@@ -18,34 +18,21 @@ pub struct Player {
 
 impl Ord for Player {
     fn cmp(&self, other: &Self) -> Ordering {
-        if let (Some(this), Some(that)) = (self.birthday.as_ref(), other.birthday.as_ref()) {
-            this.cmp(that)
-        } else if let (Some(this), Some(that)) =
-            (self.cuetracker_id.as_ref(), other.cuetracker_id.as_ref())
-        {
-            this.cmp(that)
-        } else {
-            self.snooker_id.cmp(&other.snooker_id)
+        if let (Some(this_birthday), Some(that_birthday)) = (self.birthday.as_ref(), other.birthday.as_ref()) {
+            let birthday_order = this_birthday.cmp(that_birthday);
+            if birthday_order != Ordering::Equal {
+                return birthday_order;
+            }
         }
-    }
-}
 
-impl Ord for Player {
-    fn cmp(&self, other: &Self) -> Ordering {
-        let ordering = Ordering::Equal;
-        if let (Some(this), Some(that)) = (self.birthday.as_ref(), other.birthday.as_ref()) {
-            ordering = this.cmp(that);
+        if let (Some(this_id), Some(that_id)) = (self.cuetracker_id.as_ref(), other.cuetracker_id.as_ref()) {
+            let id_order = this_id.cmp(that_id);
+            if id_order != Ordering::Equal {
+                return id_order;
+            }
         }
-        if ordering == Ordering::Equal
-            && let (Some(this), Some(that)) =
-                (self.cuetracker_id.as_ref(), other.cuetracker_id.as_ref())
-        {
-            ordering = this.cmp(that);
-        }
-        if ordering == Ordering::Equal {
-            ordering = self.snooker_id.cmp(&other.snooker_id);
-        }
-        ordering
+
+        self.snooker_id.cmp(&other.snooker_id)
     }
 }
 
