@@ -39,7 +39,7 @@ impl DupNames {
 
         for player in segs.into_iter().flat_map(|s| s.into_iter()) {
             name_map
-                .entry(player.name.clone())
+                .entry(player.full_name.clone())
                 .or_default()
                 .push(player);
         }
