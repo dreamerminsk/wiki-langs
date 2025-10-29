@@ -51,7 +51,13 @@ impl DupNames {
 
         for (name, group) in name_map {
             if group.len() > 1 {
-                let row = format!("| {} <br> {:?} | {} |\n", name, group, group.len());
+                                  let ids: Vec<_> = group.iter().map(|p| p.snooker_id).collect();
+                let row = format!(
+                    "| {} <br> {:?} | {} |\n",
+                    name,
+                    ids,
+                    group.len()
+                );
                 table.push_str(&row);
             }
         }
