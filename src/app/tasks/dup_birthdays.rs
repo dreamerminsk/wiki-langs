@@ -51,7 +51,7 @@ impl DupBirthdays {
 
         for (name, group) in name_map {
             if group.len() > 1 {
-                let ids: Vec<_> = group.iter().map(|&p| p.snooker_id).collect();
+                let ids: Vec<_> = group.iter().map(|p| p.snooker_id).collect();
                 let row = format!(
                     "| {} <br> {:?} | {} |\n",
                     name.format("%Y-%m-%d").to_string(),
