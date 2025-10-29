@@ -35,7 +35,7 @@ impl DupBirthdays {
 
     fn players(&self) -> Option<String> {
         let segs = Segments::open("./players").ok()?;
-        let mut name_map: BTreeMap<String, Vec<Player>> = BTreeMap::new();
+        let mut name_map: BTreeMap<NaiveDate, Vec<Player>> = BTreeMap::new();
 
         for player in segs.into_iter().flat_map(|s| s.into_iter()) {
             name_map
