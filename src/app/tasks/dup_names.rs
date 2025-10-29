@@ -6,7 +6,7 @@ use std::{
     io::Write,
 };
 
-static WORLDS_PATH: &str = "./REPORTS/TITLES–20.md";
+static DUP_PATH: &str = "./REPORTS/DUP–NAMES.md";
 
 pub struct DupNames {}
 
@@ -20,7 +20,7 @@ impl DupNames {
             .read(true)
             .write(true)
             .truncate(true)
-            .open(README_PATH)
+            .open(DUP_PATH)
             .ok()?;
 
         let content = format!("{}", self.content());
@@ -43,40 +43,27 @@ impl DupNames {
 
     fn players(&self) -> Option<String> {
         let segs = Segments::open("./players").ok()?;
+    let mut name_map: HashMap<String, Vec<Player>> = HashMap::new();
+
+
+    
+    
+}
         
         segs.into_iter().flat_map(|s| s.into_iter()).for_each(|p| {
-            if p.birthday.is_some() {
-                
-            }
+            name_map.entry(p.name.clone()).or_default().push(p);
         });
 
-        let mut header = String::from("| Decade ");
-        for year in 0..10 {
-            header.push_str(&format!("| Year +{} ", year));
+for (name, group) in name_map {
+        if group.len() > 1 {
+            let row = format!("| {} | {} |\n", name, group);
+table.push_str(&row);
         }
-        header.push_str("| Decade Total |\n");
+    }
 
-        let mut separator = String::from("|:-------");
-        for _ in 0..10 {
-            separator.push_str("|:-------:");
-        }
-        separator.push_str("|:-------------:|\n");
+      
 
-        let mut table = header;
-        table.push_str(&separator);
-
-        for decade in (min_decade..=max_decade).step_by(10) {
-            let mut row = format!("| {}s ", decade);
-            let mut decade_total = 0;
-            for year in decade..decade + 10 {
-                let count = counts.get(&year).unwrap_or(&0);
-                decade_total += count;
-                row.push_str(&format!("| {} ", count));
-            }
-            row.push_str(&format!("| {} |\n", decade_total));
-            table.push_str(&row);
-        }
-
+        
         Some(format!(
             "{}\r\n",
             table,
