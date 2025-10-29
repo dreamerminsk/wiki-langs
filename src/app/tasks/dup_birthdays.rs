@@ -2,6 +2,7 @@ use crate::{players::tables::Segments, snooker::entities::Player};
 use std::collections::BTreeMap;
 use std::fs::{self, OpenOptions};
 use std::io::Write;
+use chrono::NaiveDate;
 
 static DUP_PATH: &str = "./REPORTS/DUP–BIRTHDAYS.md";
 
