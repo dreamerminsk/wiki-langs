@@ -18,14 +18,18 @@ pub struct Player {
 
 impl Ord for Player {
     fn cmp(&self, other: &Self) -> Ordering {
-        if let (Some(this_birthday), Some(that_birthday)) = (self.birthday.as_ref(), other.birthday.as_ref()) {
+        if let (Some(this_birthday), Some(that_birthday)) =
+            (self.birthday.as_ref(), other.birthday.as_ref())
+        {
             let birthday_order = this_birthday.cmp(that_birthday);
             if birthday_order != Ordering::Equal {
                 return birthday_order;
             }
         }
 
-        if let (Some(this_id), Some(that_id)) = (self.cuetracker_id.as_ref(), other.cuetracker_id.as_ref()) {
+        if let (Some(this_id), Some(that_id)) =
+            (self.cuetracker_id.as_ref(), other.cuetracker_id.as_ref())
+        {
             let id_order = this_id.cmp(that_id);
             if id_order != Ordering::Equal {
                 return id_order;
