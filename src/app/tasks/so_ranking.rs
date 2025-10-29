@@ -59,7 +59,7 @@ impl SoRanking {
                 .inner_html();
             let sum_change = row
                 .select(&Selector::parse(".change")?)
-                .next()
+                .nth(2)
                 .ok_or("Sum change not found")?
                 .inner_html();
 
