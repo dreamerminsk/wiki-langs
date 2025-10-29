@@ -1,5 +1,5 @@
 use crate::{players::tables::Segments, snooker::entities::Player};
-use std::collections::HashMap;
+use std::collections::BTreeMap;
 use std::fs::{self, OpenOptions};
 use std::io::Write;
 
@@ -35,7 +35,7 @@ impl DupNames {
 
     fn players(&self) -> Option<String> {
         let segs = Segments::open("./players").ok()?;
-        let mut name_map: HashMap<String, Vec<Player>> = HashMap::new();
+        let mut name_map: BTreeMap<String, Vec<Player>> = BTreeMap::new();
 
         for player in segs.into_iter().flat_map(|s| s.into_iter()) {
             name_map
