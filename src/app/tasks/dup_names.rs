@@ -51,7 +51,7 @@ impl DupNames {
 
         for (name, group) in name_map {
             if group.len() > 1 {
-                let row = format!("| {} | {} |\n", name, group.len());
+                let row = format!("| {} <br> {:?} | {} |\n", name, group, group.len());
                 table.push_str(&row);
             }
         }
