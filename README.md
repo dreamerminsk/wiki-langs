@@ -49,26 +49,21 @@
 | 1930s | 0 | 2 | 2 | 1 | 1 | 1 | 2 | 3 | 2 | 0 | 14 |
 | 1940s | 2 | 1 | 3 | 1 | 6 | 5 | 7 | 5 | 6 | 3 | 39 |
 | 1950s | 1 | 2 | 1 | 3 | 6 | 5 | 3 | 2 | 10 | 4 | 37 |
-| 1960s | 7 | 3 | 5 | 11 | 11 | 10 | 14 | 23 | 20 | 39 | 143 |
-| 1970s | 37 | 46 | 42 | 42 | 28 | 41 | 33 | 23 | 27 | 18 | 337 |
+| 1960s | 7 | 3 | 5 | 11 | 11 | 10 | 14 | 23 | 21 | 39 | 144 |
+| 1970s | 37 | 46 | 42 | 43 | 28 | 41 | 33 | 23 | 27 | 18 | 338 |
 | 1980s | 23 | 20 | 23 | 20 | 17 | 31 | 18 | 18 | 18 | 24 | 212 |
 | 1990s | 31 | 43 | 28 | 28 | 25 | 34 | 28 | 19 | 25 | 24 | 285 |
 | 2000s | 28 | 23 | 25 | 22 | 16 | 16 | 11 | 8 | 7 | 4 | 160 |
 | 2010s | 3 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 6 |
 
 
-#### ***born on October 28***
-1968, David Athorn, 57 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3411)</sup></sub>
-
-1970, Alfonso Bellusci, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3438)</sup></sub>
-
-1995, Andrei Orzan, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1867), [CueTracker](http://cuetracker.net/Players/andrei-orzan/)</sup></sub>
+#### ***born on October 29***
 
 
-#### ***milleversary on October 28, 2025***
-1979, Thomas McSorley, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1185), [CueTracker](http://cuetracker.net/Players/thomas-mcsorley/)</sup></sub>
+#### ***milleversary on October 29, 2025***
+1976, Carl Stringer, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3343)</sup></sub>
 
-1995, Chen Zifan, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=933), [CueTracker](http://cuetracker.net/Players/chen-zifan/)</sup></sub>
+1990, Tom Pendlebury, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2503)</sup></sub>
 
 
 
