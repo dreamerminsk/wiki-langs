@@ -53,7 +53,7 @@ impl DupBirthdays {
 
         for (name, group) in name_map {
             if group.len() > 1 {
-                let row = format!("| {} <br> {:?} | {} |\n", name, group, group.len());
+                let row = format!("| {} <br> {:?} | {} |\n", name.format("%Y-%m-%d").to_string(), group, group.len());
                 table.push_str(&row);
             }
         }
