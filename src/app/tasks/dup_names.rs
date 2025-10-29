@@ -32,10 +32,8 @@ impl DupNames {
 
     fn content(&self) -> String {
         format!(
-            "## Current decade\r\n{}\r\n{}\r\n## wiki-langs\r\n{}\r\n",
-            self.worlds().unwrap_or_else(|| "".to_string()),
+            "{}\r\n",
             self.players().unwrap_or_else(|| "".to_string()),
-            self.shields().unwrap_or_else(|| "".to_string())
         )
     }
 
@@ -45,32 +43,12 @@ impl DupNames {
 
     fn players(&self) -> Option<String> {
         let segs = Segments::open("./players").ok()?;
-        let mut counts: HashMap<i32, usize> = HashMap::new();
-        let mut births = BTreeSet::<Player>::new();
-        let mut milles = BTreeSet::<Player>::new();
-        let now = Utc::now();
+        
         segs.into_iter().flat_map(|s| s.into_iter()).for_each(|p| {
             if p.birthday.is_some() {
-                let bd = p.birthday.unwrap();
-                if bd.month().eq(&now.month()) && bd.day().eq(&now.day()) {
-                    births.insert(p.clone());
-                }
-                let d = now.naive_utc().date().signed_duration_since(bd);
-                if (d.num_days() + 1) % 1000 == 0 {
-                    milles.insert(p.clone());
-                }
-            }
-
-            if p.birthday.is_some() {
-                let bd = p.birthday.unwrap();
-                *counts.entry(bd.year()).or_insert(0) += 1;
+                
             }
         });
-
-        let min_year = counts.keys().min().unwrap_or(&1900).clone();
-        let max_year = counts.keys().max().unwrap_or(&2020).clone();
-        let min_decade = min_year - min_year % 10;
-        let max_decade = max_year - max_year % 10;
 
         let mut header = String::from("| Decade ");
         for year in 0..10 {
@@ -100,10 +78,8 @@ impl DupNames {
         }
 
         Some(format!(
-            "## players\r\n{}\r\n\r\n{}\r\n{}\r\n",
+            "{}\r\n",
             table,
-            self.births(&births),
-            self.milles(&milles)
         ))
     }
 }
