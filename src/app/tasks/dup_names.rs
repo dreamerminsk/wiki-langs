@@ -31,37 +31,24 @@ impl DupNames {
     }
 
     fn content(&self) -> String {
-        format!(
-            "{}\r\n",
-            self.players().unwrap_or_else(|| "".to_string()),
-        )
+        format!("{}\r\n", self.players().unwrap_or_else(|| "".to_string()),)
     }
-
-    
-
-    
 
     fn players(&self) -> Option<String> {
         let segs = Segments::open("./players").ok()?;
-    let mut name_map: HashMap<String, Vec<Player>> = HashMap::new();
-        
+        let mut name_map: HashMap<String, Vec<Player>> = HashMap::new();
+
         segs.into_iter().flat_map(|s| s.into_iter()).for_each(|p| {
             name_map.entry(p.name.clone()).or_default().push(p);
         });
 
-for (name, group) in name_map {
-        if group.len() > 1 {
-            let row = format!("| {} | {} |\n", name, group.len());
-table.push_str(&row);
+        for (name, group) in name_map {
+            if group.len() > 1 {
+                let row = format!("| {} | {} |\n", name, group.len());
+                table.push_str(&row);
+            }
         }
-    }
 
-      
-
-        
-        Some(format!(
-            "{}\r\n",
-            table,
-        ))
+        Some(format!("{}\r\n", table,))
     }
 }
