@@ -12,8 +12,7 @@
 | Amedeo Durnez <br> [1838, 1838] | 2 |
 | Amee Kamani <br> [2172, 2172] | 2 |
 | Andrei Orzan <br> [1867, 1867] | 2 |
-| Andrew Alexandrou <br> [3426, 1651, 3426] | 3 |
-| Andrew Atkinson <br> [3457, 3457] | 2 |
+| Andrew Alexandrou <br> [3426, 1651] | 2 |
 | Andrew Hannah <br> [3367, 3367] | 2 |
 | Andrew Photiou <br> [3415, 3415] | 2 |
 | Andrew Robson <br> [2863, 2863] | 2 |
@@ -27,7 +26,6 @@
 | Boris Lazarkov <br> [2162, 2162] | 2 |
 | Brad Ferguson <br> [3024, 3024] | 2 |
 | Brandon Nguyen <br> [3181, 3181] | 2 |
-| Brett Patmore <br> [3386, 3386] | 2 |
 | Bulcsu Revesz <br> [2655, 2655] | 2 |
 | Carl Bennett <br> [2855, 2855] | 2 |
 | Cary Kikis <br> [3480, 3479, 3480, 3479] | 4 |
@@ -38,9 +36,7 @@
 | Damian Wilks <br> [142, 142, 142] | 3 |
 | Daniel Boyes <br> [2865, 2865] | 2 |
 | Daniel Stevenson <br> [2045, 2045] | 2 |
-| Dave Harold <br> [31, 31] | 2 |
 | David Allender <br> [3122, 3122] | 2 |
-| David Finbow <br> [2505, 2505] | 2 |
 | David McLellan <br> [525, 525] | 2 |
 | David Mole <br> [3414, 3414] | 2 |
 | Davut Dikme <br> [2389, 2389] | 2 |
@@ -49,7 +45,6 @@
 | Enes Bakirci <br> [2401, 2401] | 2 |
 | Fabian Haken <br> [2077, 2077] | 2 |
 | Fabian Monnin <br> [2266, 2266] | 2 |
-| Floyd Ziegler <br> [979, 979] | 2 |
 | Fong Mei Mei <br> [2293, 2293] | 2 |
 | Gary Britton <br> [2973, 2973] | 2 |
 | Gert Kempenaers <br> [2087, 2087] | 2 |
@@ -59,7 +54,7 @@
 | Hossein Vafaei <br> [666, 666] | 2 |
 | IIS 10.0 Detailed Error - 404.0 - Not Found <br> [3416, 3422, 3437, 3668, 1795, 3308, 3310, 3311, 3312, 3313, 3319, 3320, 3322, 3325, 3360] | 15 |
 | IIS 10.0 Detailed Error - 500.19 - Internal Server Error <br> [1145, 1146, 1148, 1149, 1150, 1151, 1152, 1153, 1154, 1155] | 10 |
-| Ian Graham <br> [3469, 3468, 3469, 3468] | 4 |
+| Ian Graham <br> [3469, 3468] | 2 |
 | Ian McCulloch <br> [103, 103] | 2 |
 | Ip Wan In Jaique <br> [2115, 2115] | 2 |
 | Jack Borwick <br> [2982, 2982] | 2 |
@@ -67,7 +62,6 @@
 | Jake Crofts <br> [2882, 2882] | 2 |
 | James McBain <br> [78, 78] | 2 |
 | Jamie Bodle <br> [1283, 1283] | 2 |
-| Jamie Moreland <br> [3430, 3430] | 2 |
 | Jasmine Bolsover <br> [2167, 2167] | 2 |
 | Jason Whittaker <br> [3494, 3493, 3494, 3493] | 4 |
 | Jenson Kendrick <br> [2030, 2030] | 2 |
@@ -87,7 +81,6 @@
 | Karl Payne <br> [3281, 3280] | 2 |
 | Khash-Ochir Tuvshinjargal <br> [2947, 2947] | 2 |
 | Kindon Paddon <br> [3365, 3365] | 2 |
-| Kirk Stevens <br> [2870, 2870] | 2 |
 | Kristof De Mulder <br> [3029, 1686, 3029] | 3 |
 | Kwan Poomjang <br> [3210, 3210] | 2 |
 | Kyndon Paddon <br> [3368, 3368] | 2 |
@@ -101,27 +94,22 @@
 | Malta (2017) <br> [2231, 2232] | 2 |
 | Mario-Zeljo Milosevic <br> [2276, 2276] | 2 |
 | Mark Flowerdew <br> [3302, 3302] | 2 |
-| Mark Winsor <br> [2448, 2448] | 2 |
 | Mateusz Baranowski <br> [680, 680] | 2 |
 | Matt Bailey <br> [3305, 3305] | 2 |
 | Mehmet Husnu <br> [1192, 1192] | 2 |
 | Mick Fisher <br> [3754, 3732] | 2 |
-| Mike Nixon <br> [3392, 3392] | 2 |
 | Mitchell Mann <br> [49, 49] | 2 |
 | Mohammed Al Joker <br> [3402, 3402] | 2 |
 | Muhammad Naseem Akhtar <br> [2905, 2905] | 2 |
 | Muhammad Sajjad <br> [2291, 3738] | 2 |
 | Myles Deleuse <br> [3356, 3356] | 2 |
-| Neil Wood <br> [3387, 3387] | 2 |
 | Nezar Asseri <br> [2468, 2468] | 2 |
 | Nicolas Mortreux <br> [2977, 2977] | 2 |
 | Oliver Sykes <br> [2797, 2797] | 2 |
 | Paul Cavney <br> [484, 484] | 2 |
 | Paul Davison (1973) <br> [3439, 3439] | 2 |
 | Paul Deaville <br> [2749, 2749] | 2 |
-| Paul Tanner <br> [3482, 3482] | 2 |
 | Pedro Chacon <br> [1919, 1919] | 2 |
-| Peter Daubney <br> [3443, 3443] | 2 |
 | Peter Delaney <br> [1648, 1648] | 2 |
 | Peter Roscoe <br> [3216, 3217] | 2 |
 | Petro Sydorenko <br> [2858, 2858] | 2 |
@@ -142,9 +130,6 @@
 | Sourav Kothari <br> [2095, 2095] | 2 |
 | Stephen Groves <br> [141, 141] | 2 |
 | Stephen Waldron <br> [3348, 3348] | 2 |
-| Steve Duggan <br> [3463, 3463] | 2 |
-| Steve Rendle <br> [3459, 3459] | 2 |
-| Steve Russell <br> [3376, 3376] | 2 |
 | Steven McMillan <br> [3374, 3374] | 2 |
 | Steven Wardropper <br> [2974, 2974] | 2 |
 | Stuart Hinton <br> [2501, 2501] | 2 |
@@ -160,7 +145,6 @@
 | Vladislav Gradinari <br> [2807, 2807] | 2 |
 | Waratthanun Sukritthanes <br> [2182, 2182] | 2 |
 | Wayne Brown <br> [2004, 2004] | 2 |
-| Wayne Rendle <br> [3458, 3458] | 2 |
 | Westley Cooper <br> [2770, 2770] | 2 |
 | Will Jerram <br> [3388, 3388] | 2 |
 | Wiphu Phuthisabodi <br> [2718, 2718] | 2 |
