@@ -57,13 +57,12 @@
 | 2010s | 3 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 6 |
 
 
-#### ***born on October 29***
+#### ***born on October 30***
+1969, Bash Maqsood, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=532), [CueTracker](http://cuetracker.net/Players/bash-maqsood/)</sup></sub>
 
 
-#### ***milleversary on October 29, 2025***
-1976, Carl Stringer, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3343)</sup></sub>
-
-1990, Tom Pendlebury, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2503)</sup></sub>
+#### ***milleversary on October 30, 2025***
+2003, Aidan Gallagher, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3130), [CueTracker](http://cuetracker.net/Players/aidan-gallagher/)</sup></sub>
 
 
 
