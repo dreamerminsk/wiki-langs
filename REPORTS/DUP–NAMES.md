@@ -24,8 +24,6 @@
 | Barry Lee <br> [1181, 1181] | 2 |
 | Barry McNamee <br> [3409, 3410, 3410] | 3 |
 | Ben Robinson <br> [2036, 2036] | 2 |
-| Bill Kelly <br> [485, 485] | 2 |
-| Bill Werbeniuk <br> [3509, 3509] | 2 |
 | Boris Lazarkov <br> [2162, 2162] | 2 |
 | Brad Ferguson <br> [3024, 3024] | 2 |
 | Brandon Nguyen <br> [3181, 3181] | 2 |
