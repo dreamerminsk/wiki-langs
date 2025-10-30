@@ -43,7 +43,6 @@
 | Gregory Herbrecht <br> [2269, 2269] | 2 |
 | Haris Tahir <br> [2931, 2931] | 2 |
 | Hossein Vafaei <br> [666, 666] | 2 |
-| IIS 10.0 Detailed Error - 404.0 - Not Found <br> [3416, 3422, 3437, 3668, 3599, 1795, 3308, 3310, 3311, 3312, 3313, 3319, 3320, 3322, 3325, 3360] | 16 |
 | IIS 10.0 Detailed Error - 500.19 - Internal Server Error <br> [1145, 1146, 1148, 1149, 1150, 1151, 1152, 1153, 1154, 1155] | 10 |
 | Ian Graham <br> [3469, 3468] | 2 |
 | Ip Wan In Jaique <br> [2115, 2115] | 2 |
