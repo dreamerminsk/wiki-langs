@@ -57,12 +57,20 @@
 | 2010s | 3 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 6 |
 
 
-#### ***born on October 30***
-1969, Bash Maqsood, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=532), [CueTracker](http://cuetracker.net/Players/bash-maqsood/)</sup></sub>
+#### ***born on October 31***
+1929, Eddie Charlton, 96 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3449)</sup></sub>
+
+1976, John Gillard, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2279)</sup></sub>
+
+1985, Aditya Mehta, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=108), [CueTracker](http://cuetracker.net/Players/aditya-mehta/)</sup></sub>
+
+1985, John Parkin, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1020), [CueTracker](http://cuetracker.net/Players/john-parkin/)</sup></sub>
+
+1999, Mark Lloyd, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2595), [CueTracker](http://cuetracker.net/Players/mark-lloyd/)</sup></sub>
 
 
-#### ***milleversary on October 30, 2025***
-2003, Aidan Gallagher, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3130), [CueTracker](http://cuetracker.net/Players/aidan-gallagher/)</sup></sub>
+#### ***milleversary on October 31, 2025***
+1984, Billy Ginn, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2350)</sup></sub>
 
 
 
