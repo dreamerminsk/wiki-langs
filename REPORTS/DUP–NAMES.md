@@ -1,7 +1,6 @@
 | Name | Count |
 |------|-------|
 | Ali Al Obaidly <br> [2958, 157] | 2 |
-| Andrei Orzan <br> [1867, 1867] | 2 |
 | Andrew Alexandrou <br> [3426, 1651] | 2 |
 | Andrew Robson <br> [2863, 2863] | 2 |
 | Anthony Krysa <br> [2978, 2978] | 2 |
@@ -35,7 +34,6 @@
 | Jack Borwick <br> [2982, 2982] | 2 |
 | Jacob Boyle <br> [3005, 3005] | 2 |
 | Jake Crofts <br> [2882, 2882] | 2 |
-| Jamie Bodle <br> [1283, 1283] | 2 |
 | Jasmine Bolsover <br> [2167, 2167] | 2 |
 | Jason Whittaker <br> [3494, 3493] | 2 |
 | Jeremiah Connors <br> [2205, 2205] | 2 |
@@ -50,12 +48,9 @@
 | Khash-Ochir Tuvshinjargal <br> [2947, 2947] | 2 |
 | Kristof De Mulder <br> [3029, 1686, 3029] | 3 |
 | Liang Xiaolong <br> [2610, 2610] | 2 |
-| Lim Kok Leong <br> [2911, 2911] | 2 |
-| Ma Hailong <br> [2608, 2608] | 2 |
 | Mahmoud El Hareedy <br> [3071, 3071] | 2 |
 | Malta (2017) <br> [2231, 2232] | 2 |
 | Mario-Zeljo Milosevic <br> [2276, 2276] | 2 |
-| Mark Flowerdew <br> [3302, 3302] | 2 |
 | Mateusz Baranowski <br> [680, 680] | 2 |
 | Mick Fisher <br> [3754, 3732] | 2 |
 | Muhammad Naseem Akhtar <br> [2905, 2905] | 2 |
@@ -76,7 +71,7 @@
 | Ronnie Sullivan <br> [2972, 2972] | 2 |
 | Sam McKay <br> [2816, 2816] | 2 |
 | Scott Rogan <br> [2861, 2861] | 2 |
-| Shrikrishna Suryanarayanan <br> [3141, 1849, 3141, 1849] | 4 |
+| Shrikrishna Suryanarayanan <br> [3141, 1849] | 2 |
 | So Man Yan <br> [2125, 2125] | 2 |
 | Sourav Kothari <br> [2095, 2095] | 2 |
 | Steven Wardropper <br> [2974, 2974] | 2 |
@@ -91,10 +86,4 @@
 | Vladislav Gradinari <br> [2807, 2807] | 2 |
 | Waratthanun Sukritthanes <br> [2182, 2182] | 2 |
 | Wayne Brown <br> [2004, 2004] | 2 |
-| Wiphu Phuthisabodi <br> [2718, 2718] | 2 |
-| Xing Zihao <br> [2630, 2630] | 2 |
-| Xu Yichen <br> [2103, 2103] | 2 |
-| Yassine Bellamine <br> [2735, 2735] | 2 |
-| Zac Cosker <br> [2805, 2805] | 2 |
-| Zhao Yiran <br> [3136, 3136] | 2 |
 
