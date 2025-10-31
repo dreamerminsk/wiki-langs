@@ -1,10 +1,6 @@
 | Name | Count |
 |------|-------|
-| Abdulraouf Sayegh <br> [2466, 2466] | 2 |
-| Ales Herout <br> [1842, 1842] | 2 |
 | Ali Al Obaidly <br> [2958, 157] | 2 |
-| Amedeo Durnez <br> [1838, 1838] | 2 |
-| Amee Kamani <br> [2172, 2172] | 2 |
 | Andrei Orzan <br> [1867, 1867] | 2 |
 | Andrew Alexandrou <br> [3426, 1651] | 2 |
 | Andrew Robson <br> [2863, 2863] | 2 |
@@ -15,7 +11,6 @@
 | Barry McNamee <br> [3409, 3410] | 2 |
 | Ben Robinson <br> [2036, 2036] | 2 |
 | Boris Lazarkov <br> [2162, 2162] | 2 |
-| Brad Ferguson <br> [3024, 3024] | 2 |
 | Bulcsu Revesz <br> [2655, 2655] | 2 |
 | Carl Bennett <br> [2855, 2855] | 2 |
 | Cary Kikis <br> [3480, 3479] | 2 |
@@ -96,7 +91,6 @@
 | Vladislav Gradinari <br> [2807, 2807] | 2 |
 | Waratthanun Sukritthanes <br> [2182, 2182] | 2 |
 | Wayne Brown <br> [2004, 2004] | 2 |
-| Westley Cooper <br> [2770, 2770] | 2 |
 | Wiphu Phuthisabodi <br> [2718, 2718] | 2 |
 | Xing Zihao <br> [2630, 2630] | 2 |
 | Xu Yichen <br> [2103, 2103] | 2 |
