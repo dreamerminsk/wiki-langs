@@ -38,8 +38,8 @@
 | Jason Whittaker <br> [3494, 3493] | 2 |
 | Jeremiah Connors <br> [2205, 2205] | 2 |
 | Jiang Jun <br> [2640, 2640] | 2 |
-| Jim Donnelly <br> [3708, 3736, 3708] | 3 |
-| Jim Meadowcroft <br> [3733, 3734, 3733] | 3 |
+| Jim Donnelly <br> [3708, 3736] | 2 |
+| Jim Meadowcroft <br> [3733, 3734] | 2 |
 | Joe Jogia <br> [3229, 7] | 2 |
 | Joel Connolly <br> [2963, 2963] | 2 |
 | John Gillard <br> [2279, 2279] | 2 |
@@ -52,7 +52,7 @@
 | Malta (2017) <br> [2231, 2232] | 2 |
 | Mario-Zeljo Milosevic <br> [2276, 2276] | 2 |
 | Mateusz Baranowski <br> [680, 680] | 2 |
-| Mick Fisher <br> [3732, 3754, 3732] | 3 |
+| Mick Fisher <br> [3732, 3754] | 2 |
 | Muhammad Naseem Akhtar <br> [2905, 2905] | 2 |
 | Muhammad Sajjad <br> [2291, 3738] | 2 |
 | Nicolas Mortreux <br> [2977, 2977] | 2 |
