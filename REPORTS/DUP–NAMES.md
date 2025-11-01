@@ -25,7 +25,7 @@
 | Gregory Herbrecht <br> [2269, 2269] | 2 |
 | Haris Tahir <br> [2931, 2931] | 2 |
 | Hossein Vafaei <br> [666, 666] | 2 |
-| IIS 10.0 Detailed Error - 404.0 - Not Found <br> [3615, 3668, 3774, 3776, 1795] | 5 |
+| IIS 10.0 Detailed Error - 404.0 - Not Found <br> [3781, 1795] | 2 |
 | IIS 10.0 Detailed Error - 500.19 - Internal Server Error <br> [1145, 1146, 1148, 1149, 1150, 1151, 1152, 1153, 1154, 1155] | 10 |
 | Ian Graham <br> [3469, 3468] | 2 |
 | Jack Borwick <br> [2982, 2982] | 2 |
@@ -61,17 +61,7 @@
 | Petro Sydorenko <br> [2858, 2858] | 2 |
 | Philip Blackburn <br> [3178, 2828, 2828] | 3 |
 | Philip Ciantar <br> [2398, 2398] | 2 |
-| Ploychompoo Laokiatphong <br> [2411, 2411] | 2 |
-| Pongsakron Chongjairak <br> [2916, 2916] | 2 |
-| Putthakarn Kimsuk <br> [2909, 2909] | 2 |
-| Robert Cloherty <br> [1760, 1760] | 2 |
-| Ronnie Sullivan <br> [2972, 2972] | 2 |
-| Sam McKay <br> [2816, 2816] | 2 |
-| Scott Rogan <br> [2861, 2861] | 2 |
 | Shrikrishna Suryanarayanan <br> [3141, 1849] | 2 |
-| So Man Yan <br> [2125, 2125] | 2 |
-| Sourav Kothari <br> [2095, 2095] | 2 |
-| Steven Wardropper <br> [2974, 2974] | 2 |
 | Sybren Sokolowski <br> [3036, 1006] | 2 |
 | Umer Naeem Memon <br> [3158, 2951] | 2 |
 
