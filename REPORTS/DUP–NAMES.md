@@ -2,9 +2,6 @@
 |------|-------|
 | Ali Al Obaidly <br> [2958, 157] | 2 |
 | Andrew Alexandrou <br> [3426, 1651] | 2 |
-| Andrew Robson <br> [2863, 2863] | 2 |
-| Anthony Krysa <br> [2978, 2978] | 2 |
-| Antonis Poullos <br> [1798, 1798] | 2 |
 | Asutosh Padhy <br> [2298, 2298] | 2 |
 | Ayaan Iqbal <br> [2975, 2975] | 2 |
 | Barry McNamee <br> [3409, 3410] | 2 |
@@ -75,15 +72,6 @@
 | So Man Yan <br> [2125, 2125] | 2 |
 | Sourav Kothari <br> [2095, 2095] | 2 |
 | Steven Wardropper <br> [2974, 2974] | 2 |
-| Suchakree Poomjang <br> [2096, 2096] | 2 |
 | Sybren Sokolowski <br> [3036, 1006] | 2 |
-| Tan Wang Chooi <br> [2402, 2402] | 2 |
-| Tessa Davidson <br> [2824, 2824] | 2 |
-| Thepchaiya Un-Nooh <br> [217, 217] | 2 |
-| Thomas Lancastle <br> [2080, 2080] | 2 |
-| Tudor Popescu <br> [1868, 1868] | 2 |
 | Umer Naeem Memon <br> [3158, 2951] | 2 |
-| Vladislav Gradinari <br> [2807, 2807] | 2 |
-| Waratthanun Sukritthanes <br> [2182, 2182] | 2 |
-| Wayne Brown <br> [2004, 2004] | 2 |
 
