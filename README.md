@@ -47,7 +47,7 @@
 | 1910s | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 | 1920s | 0 | 1 | 0 | 1 | 1 | 0 | 0 | 1 | 1 | 2 | 7 |
 | 1930s | 0 | 2 | 2 | 1 | 1 | 1 | 2 | 3 | 2 | 0 | 14 |
-| 1940s | 2 | 1 | 3 | 1 | 6 | 4 | 7 | 5 | 6 | 3 | 38 |
+| 1940s | 2 | 1 | 3 | 1 | 6 | 4 | 8 | 5 | 6 | 3 | 39 |
 | 1950s | 1 | 2 | 1 | 3 | 6 | 5 | 3 | 2 | 8 | 4 | 35 |
 | 1960s | 7 | 3 | 5 | 11 | 11 | 10 | 13 | 20 | 19 | 35 | 134 |
 | 1970s | 33 | 40 | 35 | 34 | 26 | 36 | 33 | 21 | 25 | 18 | 301 |
@@ -57,20 +57,13 @@
 | 2010s | 3 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 6 |
 
 
-#### ***born on October 31***
-1929, Eddie Charlton, 96 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3449)</sup></sub>
-
-1976, John Gillard, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2279)</sup></sub>
-
-1985, Aditya Mehta, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=108), [CueTracker](http://cuetracker.net/Players/aditya-mehta/)</sup></sub>
-
-1985, John Parkin, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1020), [CueTracker](http://cuetracker.net/Players/john-parkin/)</sup></sub>
-
-1999, Mark Lloyd, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2595), [CueTracker](http://cuetracker.net/Players/mark-lloyd/)</sup></sub>
+#### ***born on November  1***
 
 
-#### ***milleversary on October 31, 2025***
-1984, Billy Ginn, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2350)</sup></sub>
+#### ***milleversary on November  1, 2025***
+1992, Wu Shengguang, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1705), [CueTracker](http://cuetracker.net/Players/wu-shengguang/)</sup></sub>
+
+2003, Liu Wenwei, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3151)</sup></sub>
 
 
 
