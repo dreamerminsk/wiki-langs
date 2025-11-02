@@ -21,7 +21,7 @@ pub struct RankingItem {
     player_id: String,
     nation: String,
     sum: usize,
-    sum_change: isize,
+    change: isize,
 }
 
 impl SoRanking {
