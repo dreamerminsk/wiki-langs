@@ -14,7 +14,7 @@ pub struct SoRanking {
     client: Client,
 }
 
-#[derive(Debug)]
+#[derive(Debug, Copy)]
 pub struct RankingItem {
     position: String,
     player: String,
