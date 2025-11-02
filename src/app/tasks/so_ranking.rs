@@ -64,57 +64,62 @@ impl SoRanking {
         Ok(())
     }
 
-    fn parse_rank_item(&self, row: &ElementRef) {
-        let position = row
-            .select(&Selector::parse(".position")?)
-            .next()
-            .ok_or("Position not found")?
-            .inner_html();
-        let player_element = row
-            .select(&Selector::parse(".player a")?)
-            .next()
-            .ok_or("Player element not found")?;
-        let player = player_element.inner_html();
-        let player_id = player_element
-            .value()
-            .attr("href")
-            .ok_or("Player ID not found")?
-            .split('=')
-            .last()
-            .ok_or("Invalid Player ID")?;
-        let nation = row
-            .select(&Selector::parse(".nationality")?)
-            .next()
-            .ok_or("Nationality not found")?
-            .inner_html();
-        let sum_text_node = row
-            .select(&Selector::parse(".sum")?)
-            .next()
-            .ok_or("Sum not found")?
-            .inner_html();
-        let sum = sum_text_node
-            .trim()
-            .parse::<usize>()
-            .ok_or("Failed to parse sum value");
-        let change_text_node = row
-            .select(&Selector::parse(".change")?)
-            .nth(2)
-            .ok_or("Sum change not found")?
-            .inner_html();
-        let change = change_text_node
-            .trim()
-            .parse::<isize>()
-            .ok_or("Failed to parse change value");
+    fn parse_rank_item(&self, row: &ElementRef) -> Result<RankingItem, Box<dyn Error>> {
+    let position = row
+        .select(&Selector::parse(".position")?)
+        .next()
+        .ok_or("Position not found")?
+        .inner_html();
 
-        RankingItem {
-            position,
-            player,
-            player_id: player_id.to_string(),
-            nation,
-            sum,
-            change,
-        }
-    }
+    let player_element = row
+        .select(&Selector::parse(".player a")?)
+        .next()
+        .ok_or("Player element not found")?;
+    let player = player_element.inner_html();
+    let player_id = player_element
+        .value()
+        .attr("href")
+        .ok_or("Player ID not found")?
+        .split('=')
+        .last()
+        .ok_or("Invalid Player ID")?
+        .to_string();
+
+    let nation = row
+        .select(&Selector::parse(".nationality")?)
+        .next()
+        .ok_or("Nationality not found")?
+        .inner_html();
+
+    let sum_text_node = row
+        .select(&Selector::parse(".sum")?)
+        .next()
+        .ok_or("Sum not found")?
+        .inner_html();
+    let sum = sum_text_node
+        .trim()
+        .parse::<usize>()
+        .map_err(|_| "Failed to parse sum value")?;
+
+    let change_text_node = row
+        .select(&Selector::parse(".change")?)
+        .nth(2)
+        .ok_or("Sum change not found")?
+        .inner_html();
+    let change = change_text_node
+        .trim()
+        .parse::<isize>()
+        .map_err(|_| "Failed to parse change value")?;
+
+    Ok(RankingItem {
+        position,
+        player,
+        player_id,
+        nation,
+        sum,
+        change,
+    })
+}
 
     fn save_nation_report(
         &self,
