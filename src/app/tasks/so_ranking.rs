@@ -44,13 +44,13 @@ impl SoRanking {
         let table_selector = Selector::parse("#currentmoneyrankings tbody tr")?;
 
         let mut ranking_items: Vec<RankingItem> = Vec::new();
-        let mut nationality_count: HashMap<String, usize> = HashMap::new();
+        let mut nation_ranking: HashMap<String, u64> = HashMap::new();
 
         for row in document.select(&table_selector) {
             let ranking_item = self.parse_rank_item(row);
             ranking_items.push(ranking_item);
 
-            *nationality_count.entry(nationality).or_insert(0) += 1;
+            *nation_ranking.entry(nationality).or_insert(0) += 1;
         }
 
         for item in &ranking_items {
@@ -64,7 +64,7 @@ impl SoRanking {
                 item.sum_change
             );
         }
-        self.save_nationality_report(&nationality_count)?;
+        self.save_nation_report(&nation_ranking)?;
 
         Ok(())
     }
@@ -121,7 +121,7 @@ impl SoRanking {
         }
     }
 
-    fn save_nationality_report(
+    fn save_nation_report(
         &self,
         nationality_count: &HashMap<String, usize>,
     ) -> Result<(), Box<dyn Error>> {
