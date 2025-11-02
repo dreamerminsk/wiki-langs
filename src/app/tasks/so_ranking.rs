@@ -19,7 +19,7 @@ pub struct RankingItem {
     position: String,
     player: String,
     player_id: String,
-    nationality: String,
+    nation: String,
     sum: u64,
     sum_change: i64,
 }
@@ -50,7 +50,7 @@ impl SoRanking {
             let ranking_item = self.parse_rank_item(row);
             ranking_items.push(ranking_item);
 
-            *nation_ranking.entry(nationality).or_insert(0) += 1;
+            *nation_ranking.entry(ranking_item.nation).or_insert(0) += ranking_item.sum;
         }
 
         for item in &ranking_items {
@@ -59,7 +59,7 @@ impl SoRanking {
                 item.position,
                 item.player,
                 item.player_id,
-                item.nationality,
+                item.nation,
                 item.sum,
                 item.sum_change
             );
@@ -87,7 +87,7 @@ impl SoRanking {
             .split('=')
             .last()
             .ok_or("Invalid Player ID")?;
-        let nationality = row
+        let nation = row
             .select(&Selector::parse(".nationality")?)
             .next()
             .ok_or("Nationality not found")?
@@ -115,7 +115,7 @@ impl SoRanking {
             position,
             player,
             player_id: player_id.to_string(),
-            nationality,
+            nation,
             sum,
             change,
         }
