@@ -125,7 +125,7 @@ impl SoRanking {
         &self,
         nation_ranking: &HashMap<String, usize>,
     ) -> Result<(), Box<dyn Error>> {
-                let mut file = OpenOptions::new()
+        let mut file = OpenOptions::new()
             .create(true)
             .read(true)
             .write(true)
@@ -145,7 +145,6 @@ impl SoRanking {
         for (nation, sum) in sorted_nation_ranking {
             content.push_str(&format!("{}, {}", nation, sum));
         }
-        
 
         file.write_all(content.as_bytes()).ok()?;
         file.flush().ok()?;
