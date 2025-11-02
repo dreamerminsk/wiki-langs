@@ -8,7 +8,7 @@ use std::io::{BufWriter, Write};
 use std::time::Duration;
 
 const APP_USER_AGENT: &str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33";
-const NATIONALITY_REPORT_PATH: &str = "./nationality_report.txt";
+const NATION_REPORT_PATH: &str = "./REPORTS/RANKING/CURRENT_NATION.MD";
 
 pub struct SoRanking {
     client: Client,
@@ -20,8 +20,8 @@ pub struct RankingItem {
     player: String,
     player_id: String,
     nation: String,
-    sum: u64,
-    sum_change: i64,
+    sum: usize,
+    sum_change: isize,
 }
 
 impl SoRanking {
@@ -44,7 +44,7 @@ impl SoRanking {
         let table_selector = Selector::parse("#currentmoneyrankings tbody tr")?;
 
         let mut ranking_items: Vec<RankingItem> = Vec::new();
-        let mut nation_ranking: HashMap<String, u64> = HashMap::new();
+        let mut nation_ranking: HashMap<String, usize> = HashMap::new();
 
         for row in document.select(&table_selector) {
             let ranking_item = self.parse_rank_item(row);
@@ -94,7 +94,7 @@ impl SoRanking {
             .inner_html();
         let sum = sum_text_node
             .trim()
-            .parse::<u64>()
+            .parse::<usize>()
             .ok_or("Failed to parse sum value");
         let change_text_node = row
             .select(&Selector::parse(".change")?)
@@ -103,7 +103,7 @@ impl SoRanking {
             .inner_html();
         let change = change_text_node
             .trim()
-            .parse::<i64>()
+            .parse::<isize>()
             .ok_or("Failed to parse change value");
 
         RankingItem {
@@ -120,7 +120,7 @@ impl SoRanking {
         &self,
         nationality_count: &HashMap<String, usize>,
     ) -> Result<(), Box<dyn Error>> {
-        let file = File::create(NATIONALITY_REPORT_PATH)?;
+        let file = File::create(NATION_REPORT_PATH)?;
         let mut writer = BufWriter::new(file);
 
         writeln!(writer, "Nationality, Count")?;
