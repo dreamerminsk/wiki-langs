@@ -50,6 +50,7 @@
 | Mario-Zeljo Milosevic <br> [2276, 2276] | 2 |
 | Mateusz Baranowski <br> [680, 680] | 2 |
 | Mick Fisher <br> [3732, 3754] | 2 |
+| Mohamed Abdelkader <br> [2579, 3793] | 2 |
 | Muhammad Naseem Akhtar <br> [2905, 2905] | 2 |
 | Muhammad Sajjad <br> [2291, 3738] | 2 |
 | Nicolas Mortreux <br> [2977, 2977] | 2 |
