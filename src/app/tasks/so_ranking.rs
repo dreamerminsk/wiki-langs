@@ -4,6 +4,7 @@ use scraper::{ElementRef, Html, Selector};
 use std::collections::HashMap;
 use std::error::Error;
 use std::fs::File;
+use std::fs::OpenOptions;
 use std::io::{BufWriter, Write};
 use std::time::Duration;
 
@@ -125,10 +126,14 @@ impl SoRanking {
         &self,
         nation_ranking: &HashMap<String, usize>,
     ) -> Result<(), Box<dyn Error>> {
-        let file = File::create(NATION_REPORT_PATH)?;
-        let mut writer = BufWriter::new(file);
+        let mut file = OpenOptions::new()
+            .create(true)
+            .read(true)
+            .write(true)
+            .truncate(true)
+            .open(NATION_REPORT_PATH)?;
 
-        writeln!(writer, "Nation, Sum")?;
+        let mut content = String::from("Nation, Sum\n");
 
         let mut sorted_nation_ranking: Vec<(String, usize)> = nation_ranking
             .iter()
@@ -138,8 +143,11 @@ impl SoRanking {
         sorted_nation_ranking.sort_by(|a, b| b.1.cmp(&a.1));
 
         for (nation, sum) in sorted_nation_ranking {
-            writeln!(writer, "{}, {}", nation, sum)?;
+            content.push_str(&format!("{}, {}\n", nation, sum));
         }
+
+        file.write_all(content.as_bytes())?;
+        file.flush()?;
 
         Ok(())
     }
