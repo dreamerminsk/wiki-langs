@@ -25,7 +25,7 @@
 | Gregory Herbrecht <br> [2269, 2269] | 2 |
 | Haris Tahir <br> [2931, 2931] | 2 |
 | Hossein Vafaei <br> [666, 666] | 2 |
-| IIS 10.0 Detailed Error - 404.0 - Not Found <br> [3781, 1795, 3839, 3840] | 4 |
+| IIS 10.0 Detailed Error - 404.0 - Not Found <br> [3781, 1795, 3839, 3840, 3849, 3850] | 6 |
 | IIS 10.0 Detailed Error - 500.19 - Internal Server Error <br> [1145, 1146, 1148, 1149, 1150, 1151, 1152, 1153, 1154, 1155] | 10 |
 | Ian Graham <br> [3469, 3468] | 2 |
 | Jack Borwick <br> [2982, 2982] | 2 |
@@ -55,6 +55,7 @@
 | Muhammad Sajjad <br> [2291, 3738] | 2 |
 | Nicolas Mortreux <br> [2977, 2977] | 2 |
 | Oliver Sykes <br> [2797, 2797] | 2 |
+| Omar Alhaji <br> [3787, 3851] | 2 |
 | Paul Cavney <br> [484, 484] | 2 |
 | Paul Deaville <br> [2749, 2749] | 2 |
 | Pedro Chacon <br> [1919, 1919] | 2 |
