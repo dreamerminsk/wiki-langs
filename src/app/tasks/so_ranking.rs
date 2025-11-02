@@ -14,7 +14,7 @@ pub struct SoRanking {
     client: Client,
 }
 
-#[derive(Debug)]
+#[derive(Debug, Clone)]
 pub struct RankingItem {
     position: String,
     player: String,
@@ -43,12 +43,12 @@ impl SoRanking {
         let document = Html::parse_document(&response);
         let table_selector = Selector::parse("#currentmoneyrankings tbody tr")?;
 
-        let mut ranking_items: Vec<&RankingItem> = Vec::new();
+        let mut ranking_items: Vec<RankingItem> = Vec::new();
         let mut nation_ranking: HashMap<String, usize> = HashMap::new();
 
         for row in document.select(&table_selector) {
             let ranking_item = self.parse_rank_item(&row)?;
-            ranking_items.push(&ranking_item);
+            ranking_items.push(ranking_item.clone());
 
             *nation_ranking.entry(ranking_item.nation).or_insert(0) += ranking_item.sum;
         }
