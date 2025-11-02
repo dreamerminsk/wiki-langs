@@ -47,7 +47,30 @@ impl SoRanking {
         let mut nationality_count: HashMap<String, usize> = HashMap::new();
 
         for row in document.select(&table_selector) {
-            let position = row
+            let ranking_item = self parse_rank_item(row);
+            ranking_items.push(ranking_item);
+
+            *nationality_count.entry(nationality).or_insert(0) += 1;
+        }
+
+        for item in &ranking_items {
+            info!(
+                "Position: {}, Player: {}, ID: {}, Nationality: {}, Sum: {}, Sum Change: {}",
+                item.position,
+                item.player,
+                item.player_id,
+                item.nationality,
+                item.sum,
+                item.sum_change
+            );
+        }
+        self.save_nationality_report(&nationality_count)?;
+
+        Ok(())
+    }
+
+    fn parse_rank_item(&self, row: &ElementRef) {
+let position = row
                 .select(&Selector::parse(".position")?)
                 .next()
                 .ok_or("Position not found")?
@@ -80,34 +103,15 @@ impl SoRanking {
                 .ok_or("Sum change not found")?
                 .inner_html();
 
-            let ranking_item = RankingItem {
+            RankingItem {
                 position,
                 player,
                 player_id: player_id.to_string(),
                 nationality,
                 sum,
                 sum_change,
-            };
-            ranking_items.push(ranking_item);
-
-            *nationality_count.entry(nationality).or_insert(0) += 1;
-        }
-
-        for item in &ranking_items {
-            info!(
-                "Position: {}, Player: {}, ID: {}, Nationality: {}, Sum: {}, Sum Change: {}",
-                item.position,
-                item.player,
-                item.player_id,
-                item.nationality,
-                item.sum,
-                item.sum_change
-            );
-        }
-        self.save_nationality_report(&nationality_count)?;
-
-        Ok(())
-    }
+            }
+}
 
     fn save_nationality_report(
         &self,
