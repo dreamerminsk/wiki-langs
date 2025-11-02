@@ -20,8 +20,8 @@ pub struct RankingItem {
     player: String,
     player_id: String,
     nationality: String,
-    sum: String,
-    sum_change: String,
+    sum: u64,
+    sum_change: i64,
 }
 
 impl SoRanking {
@@ -92,16 +92,18 @@ impl SoRanking {
             .next()
             .ok_or("Nationality not found")?
             .inner_html();
-        let sum = row
+        let sum_text_node = row
             .select(&Selector::parse(".sum")?)
             .next()
             .ok_or("Sum not found")?
             .inner_html();
-        let sum_change = row
+        let sum = sum_text_node.trim().parse::<u64>().ok_or("Failed to parse sum value");
+        let change_text_node = row
             .select(&Selector::parse(".change")?)
             .nth(2)
             .ok_or("Sum change not found")?
             .inner_html();
+            let change = change_text_node.trim().parse::<i64>().ok_or("Failed to parse change value");
 
         RankingItem {
             position,
@@ -109,7 +111,7 @@ impl SoRanking {
             player_id: player_id.to_string(),
             nationality,
             sum,
-            sum_change,
+            change,
         }
     }
 
