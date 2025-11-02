@@ -47,7 +47,7 @@ impl SoRanking {
         let mut nation_ranking: HashMap<String, usize> = HashMap::new();
 
         for row in document.select(&table_selector) {
-            let ranking_item = self.parse_rank_item(row);
+            let ranking_item = self.parse_rank_item(row)?;
             ranking_items.push(ranking_item);
 
             *nation_ranking.entry(ranking_item.nation).or_insert(0) += ranking_item.sum;
