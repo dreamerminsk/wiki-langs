@@ -4,6 +4,7 @@ use scraper::{ElementRef, Html, Selector};
 use std::collections::HashMap;
 use std::error::Error;
 use std::fs::File;
+use std::fs::OpenOptions;
 use std::io::{BufWriter, Write};
 use std::time::Duration;
 
