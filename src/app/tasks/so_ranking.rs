@@ -1,6 +1,6 @@
 use log::info;
 use reqwest::Client;
-use scraper::{Html, Selector, ElementRef};
+use scraper::{ElementRef, Html, Selector};
 use std::collections::HashMap;
 use std::error::Error;
 use std::fs::File;
