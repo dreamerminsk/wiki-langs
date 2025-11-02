@@ -55,8 +55,8 @@ impl SoRanking {
 
         for item in &ranking_items {
             info!(
-                "Position: {}, Player: {}, ID: {}, Nationality: {}, Sum: {}, Sum Change: {}",
-                item.position, item.player, item.player_id, item.nation, item.sum, item.sum_change
+                "Position: {}, Player: {}, ID: {}, Nationality: {}, Sum: {}, Change: {}",
+                item.position, item.player, item.player_id, item.nation, item.sum, item.change
             );
         }
         self.save_nation_report(&nation_ranking)?;
