@@ -118,15 +118,15 @@ impl SoRanking {
 
     fn save_nation_report(
         &self,
-        nationality_count: &HashMap<String, usize>,
+        nation_ranking: &HashMap<String, usize>,
     ) -> Result<(), Box<dyn Error>> {
         let file = File::create(NATION_REPORT_PATH)?;
         let mut writer = BufWriter::new(file);
 
-        writeln!(writer, "Nationality, Count")?;
+        writeln!(writer, "Nationality, Sum")?;
 
-        for (nationality, count) in nationality_count {
-            writeln!(writer, "{}, {}", nationality, count)?;
+        for (nation, sum) in nation_ranking {
+            writeln!(writer, "{}, {}", nation, sum)?;
         }
 
         Ok(())
