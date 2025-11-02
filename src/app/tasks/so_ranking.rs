@@ -97,13 +97,19 @@ impl SoRanking {
             .next()
             .ok_or("Sum not found")?
             .inner_html();
-        let sum = sum_text_node.trim().parse::<u64>().ok_or("Failed to parse sum value");
+        let sum = sum_text_node
+            .trim()
+            .parse::<u64>()
+            .ok_or("Failed to parse sum value");
         let change_text_node = row
             .select(&Selector::parse(".change")?)
             .nth(2)
             .ok_or("Sum change not found")?
             .inner_html();
-            let change = change_text_node.trim().parse::<i64>().ok_or("Failed to parse change value");
+        let change = change_text_node
+            .trim()
+            .parse::<i64>()
+            .ok_or("Failed to parse change value");
 
         RankingItem {
             position,
