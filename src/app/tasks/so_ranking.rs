@@ -130,10 +130,9 @@ impl SoRanking {
             .read(true)
             .write(true)
             .truncate(true)
-            .open(NATION_REPORT_PATH)
-            .ok()?;
+            .open(NATION_REPORT_PATH)?;
 
-        let mut content = String::from("Nation, Sum");
+        let mut content = String::from("Nation, Sum\n");
 
         let mut sorted_nation_ranking: Vec<(String, usize)> = nation_ranking
             .iter()
@@ -143,11 +142,11 @@ impl SoRanking {
         sorted_nation_ranking.sort_by(|a, b| b.1.cmp(&a.1));
 
         for (nation, sum) in sorted_nation_ranking {
-            content.push_str(&format!("{}, {}", nation, sum));
+            content.push_str(&format!("{}, {}\n", nation, sum));
         }
 
-        file.write_all(content.as_bytes()).ok()?;
-        file.flush().ok()?;
+        file.write_all(content.as_bytes())?;
+        file.flush()?;
 
         Ok(())
     }
