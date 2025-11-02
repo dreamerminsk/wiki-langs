@@ -1,6 +1,6 @@
 use log::info;
 use reqwest::Client;
-use scraper::{Html, Selector};
+use scraper::{ElementRef, Html, Selector};
 use std::collections::HashMap;
 use std::error::Error;
 use std::fs::File;
@@ -14,14 +14,14 @@ pub struct SoRanking {
     client: Client,
 }
 
-#[derive(Debug)]
+#[derive(Debug, Clone)]
 pub struct RankingItem {
     position: String,
     player: String,
     player_id: String,
     nation: String,
     sum: usize,
-    sum_change: isize,
+    change: isize,
 }
 
 impl SoRanking {
@@ -47,16 +47,16 @@ impl SoRanking {
         let mut nation_ranking: HashMap<String, usize> = HashMap::new();
 
         for row in document.select(&table_selector) {
-            let ranking_item = self.parse_rank_item(row);
-            ranking_items.push(ranking_item);
+            let ranking_item = self.parse_rank_item(&row)?;
+            ranking_items.push(ranking_item.clone());
 
             *nation_ranking.entry(ranking_item.nation).or_insert(0) += ranking_item.sum;
         }
 
         for item in &ranking_items {
             info!(
-                "Position: {}, Player: {}, ID: {}, Nationality: {}, Sum: {}, Sum Change: {}",
-                item.position, item.player, item.player_id, item.nation, item.sum, item.sum_change
+                "Position: {}, Player: {}, ID: {}, Nationality: {}, Sum: {}, Change: {}",
+                item.position, item.player, item.player_id, item.nation, item.sum, item.change
             );
         }
         self.save_nation_report(&nation_ranking)?;
