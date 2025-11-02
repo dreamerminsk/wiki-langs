@@ -1,11 +1,11 @@
+use log::info;
 use reqwest::Client;
 use scraper::{Html, Selector};
 use std::collections::HashMap;
 use std::error::Error;
 use std::fs::File;
-use std::io::{Write, BufWriter};
+use std::io::{BufWriter, Write};
 use std::time::Duration;
-use log::info;
 
 const APP_USER_AGENT: &str = "Your User Agent Here";
 const NATIONALITY_REPORT_PATH: &str = "./nationality_report.txt";
@@ -96,7 +96,12 @@ impl SoRanking {
         for item in &ranking_items {
             info!(
                 "Position: {}, Player: {}, ID: {}, Nationality: {}, Sum: {}, Sum Change: {}",
-                item.position, item.player, item.player_id, item.nationality, item.sum, item.sum_change
+                item.position,
+                item.player,
+                item.player_id,
+                item.nationality,
+                item.sum,
+                item.sum_change
             );
         }
         self.save_nationality_report(&nationality_count)?;
@@ -104,7 +109,10 @@ impl SoRanking {
         Ok(())
     }
 
-    fn save_nationality_report(&self, nationality_count: &HashMap<String, usize>) -> Result<(), Box<dyn Error>> {
+    fn save_nationality_report(
+        &self,
+        nationality_count: &HashMap<String, usize>,
+    ) -> Result<(), Box<dyn Error>> {
         let file = File::create(NATIONALITY_REPORT_PATH)?;
         let mut writer = BufWriter::new(file);
 
