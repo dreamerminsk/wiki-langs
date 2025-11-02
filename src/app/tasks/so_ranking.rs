@@ -117,18 +117,25 @@ impl SoRanking {
     }
 
     fn save_nation_report(
-        &self,
-        nation_ranking: &HashMap<String, usize>,
-    ) -> Result<(), Box<dyn Error>> {
-        let file = File::create(NATION_REPORT_PATH)?;
-        let mut writer = BufWriter::new(file);
+    &self,
+    nation_ranking: &HashMap<String, usize>,
+) -> Result<(), Box<dyn Error>> {
+    let file = File::create(NATION_REPORT_PATH)?;
+    let mut writer = BufWriter::new(file);
 
-        writeln!(writer, "Nationality, Sum")?;
+    writeln!(writer, "Nation, Sum")?;
 
-        for (nation, sum) in nation_ranking {
-            writeln!(writer, "{}, {}", nation, sum)?;
-        }
+    let mut sorted_nation_ranking: Vec<(String, usize)> = nation_ranking
+        .iter()
+        .map(|(nation, sum)| (nation.clone(), *sum))
+        .collect();
 
-        Ok(())
+    sorted_nation_ranking.sort_by(|a, b| b.1.cmp(&a.1));
+
+    for (nation, sum) in sorted_nation_ranking {
+        writeln!(writer, "{}, {}", nation, sum)?;
     }
+
+    Ok(())
+}
 }
