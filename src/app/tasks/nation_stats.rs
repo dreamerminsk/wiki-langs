@@ -1,9 +1,8 @@
 use crate::{players::tables::Segments, snooker::entities::Player};
-use chrono::{Datelike, Utc};
+use chrono::{Datelike};
 use std::{
-    collections::{BTreeMap, BTreeSet, HashMap},
-    fs::{self, OpenOptions},
-    io::Write,
+    collections::{BTreeMap},
+    fs::{OpenOptions},
 };
 
 static NATION_PATH: &str = "./REPORTS/NATIONS.md";
