@@ -1,7 +1,7 @@
 use crate::{players::tables::Segments, snooker::entities::Player};
 use chrono::{Datelike, Utc};
 use std::{
-    collections::{BTreeMap, BTreeSet, HashMap},
+    collections::{BTreeSet, HashMap},
     fs::{self, OpenOptions},
     io::Write,
 };

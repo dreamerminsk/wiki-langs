@@ -15,7 +15,7 @@ html5ever = "*"
 lazy_static = "*"
 log = "*"
 nanoid = "*"
-rand = "*"
+rand = { version = "*", features = ["thread_rng"] }
 regex = "*"
 reqwest = { version = "*", features = ["blocking"] }
 scraper = "*"

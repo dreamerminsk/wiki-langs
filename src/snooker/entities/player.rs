@@ -1,4 +1,4 @@
-use chrono::{NaiveDate, naive::MIN_DATE};
+use chrono::NaiveDate;
 use serde::{Deserialize, Serialize};
 use std::{
     cmp::Ordering,
