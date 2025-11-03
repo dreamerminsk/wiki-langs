@@ -1,6 +1,7 @@
 use crate::{players::tables::Segments, snooker::entities::Player};
 use std::collections::BTreeMap;
 use std::fs::OpenOptions;
+use std::io::Write;
 
 static DUP_PATH: &str = "./REPORTS/DUP–NAMES.md";
 
