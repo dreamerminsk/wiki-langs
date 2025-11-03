@@ -51,19 +51,17 @@
 | 1950s | 1 | 2 | 1 | 3 | 6 | 5 | 3 | 2 | 8 | 4 | 35 |
 | 1960s | 7 | 3 | 5 | 11 | 11 | 10 | 13 | 20 | 19 | 35 | 134 |
 | 1970s | 33 | 40 | 35 | 34 | 26 | 36 | 33 | 21 | 25 | 18 | 301 |
-| 1980s | 20 | 20 | 23 | 20 | 17 | 28 | 18 | 18 | 18 | 25 | 207 |
+| 1980s | 20 | 20 | 23 | 20 | 17 | 28 | 18 | 18 | 19 | 25 | 208 |
 | 1990s | 30 | 36 | 28 | 30 | 25 | 34 | 26 | 19 | 23 | 23 | 274 |
 | 2000s | 28 | 21 | 25 | 22 | 17 | 14 | 9 | 8 | 7 | 4 | 155 |
 | 2010s | 3 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 6 |
 
 
-#### ***born on November  2***
-1975, Darren Limburg, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3300)</sup></sub>
-
-1989, Michael Tomlinson, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1213), [CueTracker](http://cuetracker.net/Players/michael-tomlinson/)</sup></sub>
+#### ***born on November  3***
+1972, Anthony Bolsover, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3218)</sup></sub>
 
 
-#### ***milleversary on November  2, 2025***
+#### ***milleversary on November  3, 2025***
 
 
 
