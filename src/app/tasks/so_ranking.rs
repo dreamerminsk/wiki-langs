@@ -150,7 +150,7 @@ impl SoRanking {
 
         let mut sorted_nation_stats: Vec<(String, NationStats)> = nation_stats
             .iter()
-            .map(|(nation, stats)| (nation.clone(), *stats))
+            .map(|(nation, stats)| (nation.clone(), stats.clone()))
             .collect();
 
         sorted_nation_stats.sort_by(|a, b| b.1.sum.cmp(&a.1.sum));
