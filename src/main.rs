@@ -72,7 +72,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
 async fn scan_players() -> Result<(), Box<dyn Error>> {
     let mut next_player = NextPlayer(0);
-    let mut rng = rand::thread_rng();
+    let mut rng = rand::rng();
     let mut updated = 0;
     for i in 0..11 {
         let random_id: u32 = rng.gen_range(std::ops::Range {
