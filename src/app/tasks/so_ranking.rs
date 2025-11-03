@@ -42,36 +42,38 @@ impl SoRanking {
     }
 
     pub async fn execute(&self) -> Result<(), Box<dyn Error>> {
-    info!("SoRankingTask");
-    let url = "https://www.snooker.org/res/index.asp?template=31";
-    let response = self.client.get(url).send().await?.text().await?;
+        info!("SoRankingTask");
+        let url = "https://www.snooker.org/res/index.asp?template=31";
+        let response = self.client.get(url).send().await?.text().await?;
 
-    let document = Html::parse_document(&response);
-    let table_selector = Selector::parse("#currentmoneyrankings tbody tr")?;
+        let document = Html::parse_document(&response);
+        let table_selector = Selector::parse("#currentmoneyrankings tbody tr")?;
 
-    let mut ranking_items: Vec<RankingItem> = Vec::new();
-    let mut nation_stats: HashMap<String, NationStats> = HashMap::new();
+        let mut ranking_items: Vec<RankingItem> = Vec::new();
+        let mut nation_stats: HashMap<String, NationStats> = HashMap::new();
 
-    for row in document.select(&table_selector) {
-        let ranking_item = self.parse_rank_item(&row)?;
-        ranking_items.push(ranking_item.clone());
+        for row in document.select(&table_selector) {
+            let ranking_item = self.parse_rank_item(&row)?;
+            ranking_items.push(ranking_item.clone());
 
-        let stats = nation_stats.entry(ranking_item.nation.clone()).or_insert(NationStats { sum: 0, change: 0 });
-        stats.sum += ranking_item.sum;
-        stats.change += ranking_item.change;
+            let stats = nation_stats
+                .entry(ranking_item.nation.clone())
+                .or_insert(NationStats { sum: 0, change: 0 });
+            stats.sum += ranking_item.sum;
+            stats.change += ranking_item.change;
+        }
+
+        for item in &ranking_items {
+            info!(
+                "Position: {}, Player: {}, ID: {}, Nationality: {}, Sum: {}, Change: {}",
+                item.position, item.player, item.player_id, item.nation, item.sum, item.change
+            );
+        }
+
+        self.save_nation_report(&nation_stats)?;
+
+        Ok(())
     }
-
-    for item in &ranking_items {
-        info!(
-            "Position: {}, Player: {}, ID: {}, Nationality: {}, Sum: {}, Change: {}",
-            item.position, item.player, item.player_id, item.nation, item.sum, item.change
-        );
-    }
-
-    self.save_nation_report(&nation_stats)?;
-
-    Ok(())
-}
 
     fn parse_rank_item(&self, row: &ElementRef) -> Result<RankingItem, Box<dyn Error>> {
         let position = row
