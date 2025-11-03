@@ -90,7 +90,7 @@ impl SoRanking {
             .select(&Selector::parse(".nationality")?)
             .next()
             .ok_or("Nationality not found")?
-            .inner_html();
+              .text().collect::<Vec<_>>().join("");
 
         let sum_text_node = row
             .select(&Selector::parse(".sum")?)
