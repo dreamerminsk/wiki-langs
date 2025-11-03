@@ -5,6 +5,7 @@ use std::collections::HashMap;
 use std::error::Error;
 use std::fs::OpenOptions;
 use std::time::Duration;
+use std::io::Write;
 
 const APP_USER_AGENT: &str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33";
 const NATION_REPORT_PATH: &str = "./REPORTS/RANKING/CURRENT_NATION.csv";
