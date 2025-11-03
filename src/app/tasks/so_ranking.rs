@@ -3,9 +3,7 @@ use reqwest::Client;
 use scraper::{ElementRef, Html, Selector};
 use std::collections::HashMap;
 use std::error::Error;
-use std::fs::File;
 use std::fs::OpenOptions;
-use std::io::{BufWriter, Write};
 use std::time::Duration;
 
 const APP_USER_AGENT: &str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33";
