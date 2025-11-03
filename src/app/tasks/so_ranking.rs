@@ -138,7 +138,7 @@ impl SoRanking {
         &self,
         nation_stats: &HashMap<String, NationStats>,
     ) -> Result<(), Box<dyn Error>> {
-        fs.create_dir_all("./RANKING/")?;
+        fs::create_dir_all("./RANKING/")?;
         let mut file = OpenOptions::new()
             .create(true)
             .read(true)
@@ -153,7 +153,7 @@ impl SoRanking {
             .map(|(nation, stats)| (nation.clone(), *stats))
             .collect();
 
-        sorted_nation_ranking.sort_by(|a, b| b.1.sum.cmp(&a.1.sum));
+        sorted_nation_stats.sort_by(|a, b| b.1.sum.cmp(&a.1.sum));
 
         for (nation, stats) in sorted_nation_stats {
             content.push_str(&format!("{}, {}, {}\n", nation, stats.sum, stats.change));
