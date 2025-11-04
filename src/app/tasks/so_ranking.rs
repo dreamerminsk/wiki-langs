@@ -28,6 +28,7 @@ pub struct RankingItem {
 pub struct NationStats {
     sum: usize,
     change: isize,
+    players: usize,
 }
 
 impl SoRanking {
@@ -58,9 +59,10 @@ impl SoRanking {
 
             let stats = nation_stats
                 .entry(ranking_item.nation.clone())
-                .or_insert(NationStats { sum: 0, change: 0 });
+                .or_insert(NationStats { sum: 0, change: 0, players: 0 });
             stats.sum += ranking_item.sum;
             stats.change += ranking_item.change;
+             stats.players += 1;
         }
 
         for item in &ranking_items {
@@ -146,7 +148,7 @@ impl SoRanking {
             .truncate(true)
             .open(NATION_REPORT_PATH)?;
 
-        let mut content = String::from("Nation, Sum, Change\n");
+        let mut content = String::from("Nation, Sum, Change, Players\n");
 
         let mut sorted_nation_stats: Vec<(String, NationStats)> = nation_stats
             .iter()
@@ -156,7 +158,7 @@ impl SoRanking {
         sorted_nation_stats.sort_by(|a, b| b.1.sum.cmp(&a.1.sum));
 
         for (nation, stats) in sorted_nation_stats {
-            content.push_str(&format!("{}, {}, {}\n", nation, stats.sum, stats.change));
+            content.push_str(&format!("{}, {}, {}, {}\n", nation, stats.sum, stats.change, stats.players));
         }
 
         file.write_all(content.as_bytes())?;
