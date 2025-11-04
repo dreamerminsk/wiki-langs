@@ -3,12 +3,12 @@ use reqwest::Client;
 use scraper::{ElementRef, Html, Selector};
 use std::collections::HashMap;
 use std::error::Error;
-use std::fs::OpenOptions;
+use std::fs::{self, OpenOptions};
 use std::io::Write;
 use std::time::Duration;
 
 const APP_USER_AGENT: &str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33";
-const NATION_REPORT_PATH: &str = "./REPORTS/RANKING/CURRENT_NATION.csv";
+const NATION_REPORT_PATH: &str = "./RANKING/CURRENT.NATION.csv";
 
 pub struct SoRanking {
     client: Client,
@@ -20,6 +20,12 @@ pub struct RankingItem {
     player: String,
     player_id: String,
     nation: String,
+    sum: usize,
+    change: isize,
+}
+
+#[derive(Debug, Clone)]
+pub struct NationStats {
     sum: usize,
     change: isize,
 }
@@ -44,13 +50,17 @@ impl SoRanking {
         let table_selector = Selector::parse("#currentmoneyrankings tbody tr")?;
 
         let mut ranking_items: Vec<RankingItem> = Vec::new();
-        let mut nation_ranking: HashMap<String, usize> = HashMap::new();
+        let mut nation_stats: HashMap<String, NationStats> = HashMap::new();
 
         for row in document.select(&table_selector) {
             let ranking_item = self.parse_rank_item(&row)?;
             ranking_items.push(ranking_item.clone());
 
-            *nation_ranking.entry(ranking_item.nation).or_insert(0) += ranking_item.sum;
+            let stats = nation_stats
+                .entry(ranking_item.nation.clone())
+                .or_insert(NationStats { sum: 0, change: 0 });
+            stats.sum += ranking_item.sum;
+            stats.change += ranking_item.change;
         }
 
         for item in &ranking_items {
@@ -59,7 +69,8 @@ impl SoRanking {
                 item.position, item.player, item.player_id, item.nation, item.sum, item.change
             );
         }
-        self.save_nation_report(&nation_ranking)?;
+
+        self.save_nation_report(&nation_stats)?;
 
         Ok(())
     }
@@ -125,8 +136,9 @@ impl SoRanking {
 
     fn save_nation_report(
         &self,
-        nation_ranking: &HashMap<String, usize>,
+        nation_stats: &HashMap<String, NationStats>,
     ) -> Result<(), Box<dyn Error>> {
+        fs::create_dir_all("./RANKING/")?;
         let mut file = OpenOptions::new()
             .create(true)
             .read(true)
@@ -134,17 +146,17 @@ impl SoRanking {
             .truncate(true)
             .open(NATION_REPORT_PATH)?;
 
-        let mut content = String::from("Nation, Sum\n");
+        let mut content = String::from("Nation, Sum, Change\n");
 
-        let mut sorted_nation_ranking: Vec<(String, usize)> = nation_ranking
+        let mut sorted_nation_stats: Vec<(String, NationStats)> = nation_stats
             .iter()
-            .map(|(nation, sum)| (nation.clone(), *sum))
+            .map(|(nation, stats)| (nation.clone(), stats.clone()))
             .collect();
 
-        sorted_nation_ranking.sort_by(|a, b| b.1.cmp(&a.1));
+        sorted_nation_stats.sort_by(|a, b| b.1.sum.cmp(&a.1.sum));
 
-        for (nation, sum) in sorted_nation_ranking {
-            content.push_str(&format!("{}, {}\n", nation, sum));
+        for (nation, stats) in sorted_nation_stats {
+            content.push_str(&format!("{}, {}, {}\n", nation, stats.sum, stats.change));
         }
 
         file.write_all(content.as_bytes())?;
