@@ -57,11 +57,14 @@
 | 2010s | 3 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 6 |
 
 
-#### ***born on November  3***
-1972, Anthony Bolsover, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3218)</sup></sub>
+#### ***born on November  4***
+1973, Ronda Sheldreck, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2122), [CueTracker](http://cuetracker.net/Players/ronda-sheldreck/)</sup></sub>
 
 
-#### ***milleversary on November  3, 2025***
+#### ***milleversary on November  4, 2025***
+1946, Jim Donnelly, 29000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3708), [CueTracker](http://cuetracker.net/Players/jim-donnelly/)</sup></sub>
+
+1946, Jim Donnelly, 29000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3736), [CueTracker](http://cuetracker.net/Players/jim-donnelly/)</sup></sub>
 
 
 
