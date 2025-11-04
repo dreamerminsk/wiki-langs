@@ -59,10 +59,14 @@ impl SoRanking {
 
             let stats = nation_stats
                 .entry(ranking_item.nation.clone())
-                .or_insert(NationStats { sum: 0, change: 0, players: 0 });
+                .or_insert(NationStats {
+                    sum: 0,
+                    change: 0,
+                    players: 0,
+                });
             stats.sum += ranking_item.sum;
             stats.change += ranking_item.change;
-             stats.players += 1;
+            stats.players += 1;
         }
 
         for item in &ranking_items {
@@ -158,7 +162,10 @@ impl SoRanking {
         sorted_nation_stats.sort_by(|a, b| b.1.sum.cmp(&a.1.sum));
 
         for (nation, stats) in sorted_nation_stats {
-            content.push_str(&format!("{}, {}, {}, {}\n", nation, stats.sum, stats.change, stats.players));
+            content.push_str(&format!(
+                "{}, {}, {}, {}\n",
+                nation, stats.sum, stats.change, stats.players
+            ));
         }
 
         file.write_all(content.as_bytes())?;
