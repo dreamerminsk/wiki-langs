@@ -55,7 +55,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
     let today = Utc::now();
 
-    if today.day() % 2 = 0 {
+    if today.day() % 2 == 0 {
         let dup_names = DupNames::new();
         dup_names.execute();
 
@@ -66,7 +66,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
         nation_stats.execute();
     }
 
-    if today.day() % 3 = 0 {
+    if today.day() % 3 == 0 {
         let so_ranking = SoRanking::new();
         so_ranking.execute().await?;
     }
