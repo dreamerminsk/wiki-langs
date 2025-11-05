@@ -55,17 +55,23 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
     let today = Utc::now();
 
+    if today.day() % 2 = 0 {
+
     let dup_names = DupNames::new();
     dup_names.execute();
 
     let dup_birthdays = DupBirthdays::new();
     dup_birthdays.execute();
 
+let nation_stats = NationStats::new();
+    nation_stats.execute();
+    }
+
+if today.day() % 3 = 0 {
+
     let so_ranking = SoRanking::new();
     so_ranking.execute().await?;
-
-    let nation_stats = NationStats::new();
-    nation_stats.execute();
+}
 
     Ok(())
 }
