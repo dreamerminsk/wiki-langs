@@ -52,19 +52,23 @@
 | 1960s | 7 | 3 | 5 | 11 | 11 | 10 | 13 | 20 | 19 | 35 | 134 |
 | 1970s | 33 | 40 | 36 | 34 | 26 | 36 | 33 | 21 | 25 | 19 | 303 |
 | 1980s | 21 | 21 | 23 | 20 | 17 | 29 | 18 | 18 | 19 | 27 | 213 |
-| 1990s | 30 | 36 | 28 | 30 | 25 | 34 | 26 | 19 | 23 | 23 | 274 |
-| 2000s | 28 | 21 | 26 | 23 | 17 | 18 | 9 | 8 | 10 | 4 | 164 |
+| 1990s | 30 | 36 | 28 | 31 | 25 | 34 | 26 | 19 | 23 | 23 | 275 |
+| 2000s | 28 | 21 | 26 | 23 | 18 | 18 | 9 | 8 | 10 | 4 | 165 |
 | 2010s | 3 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 7 |
 
 
-#### ***born on November  4***
-1973, Ronda Sheldreck, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2122), [CueTracker](http://cuetracker.net/Players/ronda-sheldreck/)</sup></sub>
+#### ***born on November  5***
+1971, Jamie Trump, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2339)</sup></sub>
+
+1980, Andrew Tapper, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2786), [CueTracker](http://cuetracker.net/Players/andrew-tapper/)</sup></sub>
+
+1996, Asutosh Padhy, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2298), [CueTracker](http://cuetracker.net/Players/asutosh-padhy/)</sup></sub>
+
+2010, Matvei Lagodzinschii, 15 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3028), [CueTracker](http://cuetracker.net/Players/matvei-lagodzinschii/)</sup></sub>
 
 
-#### ***milleversary on November  4, 2025***
-1946, Jim Donnelly, 29000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3708), [CueTracker](http://cuetracker.net/Players/jim-donnelly/)</sup></sub>
-
-1946, Jim Donnelly, 29000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3736), [CueTracker](http://cuetracker.net/Players/jim-donnelly/)</sup></sub>
+#### ***milleversary on November  5, 2025***
+1951, John Rea, 27000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=710), [CueTracker](http://cuetracker.net/Players/john-rea/)</sup></sub>
 
 
 
