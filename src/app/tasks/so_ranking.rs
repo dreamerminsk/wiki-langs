@@ -164,7 +164,11 @@ impl SoRanking {
         for (index, (nation, stats)) in sorted_nation_stats.iter().enumerate() {
             content.push_str(&format!(
                 "{}, {}, {}, {}, {}\n",
-                index+1,nation, stats.sum, stats.change, stats.players
+                index + 1,
+                nation,
+                stats.sum,
+                stats.change,
+                stats.players
             ));
         }
 
