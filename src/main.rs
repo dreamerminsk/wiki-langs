@@ -1,5 +1,6 @@
 use crate::country::{entities::Country, tables::add_country};
 use app::tasks::{DupBirthdays, DupNames, NationStats, SoRanking, UpdateCountries, UpdateReadMe};
+use chrono::{Datelike, Utc};
 use fern;
 use log::{debug, error, info, trace, warn};
 use rand::Rng;
@@ -10,7 +11,6 @@ use std::{
     fs::{read_to_string, write},
     io,
 };
-use chrono::{Utc, Datelike};
 
 mod app;
 
