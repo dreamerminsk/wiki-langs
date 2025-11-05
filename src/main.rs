@@ -10,6 +10,7 @@ use std::{
     fs::{read_to_string, write},
     io,
 };
+use chrono::{Utc, Datelike};
 
 mod app;
 
@@ -49,11 +50,10 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
     scan_players().await;
 
-    let update_countries = UpdateCountries::new();
-    update_countries.execute().await;
-
     let update_readme = UpdateReadMe::new();
     update_readme.execute();
+
+    let today = Utc::now();
 
     let dup_names = DupNames::new();
     dup_names.execute();
