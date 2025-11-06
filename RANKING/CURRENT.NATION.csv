@@ -1,25 +1,25 @@
-Nation, Sum, Change, Players
-England, 11240350, 61400, 43
-China, 5196600, 49000, 28
-Wales, 2341900, 5500, 10
-Scotland, 1454750, 8300, 8
-Australia, 1061850, -3000, 1
-N.Ireland, 820950, 27700, 4
-Thailand, 435100, 2500, 5
-Iran, 316750, -4500, 2
-Belgium, 280600, 4600, 3
-Ireland, 175450, 2500, 3
-Hong Kong, 114100, 7200, 4
-India, 95850, 0, 2
-Poland, 79950, 2000, 3
-Pakistan, 78050, 4600, 2
-Latvia, 42550, 1000, 1
-Hungary, 30050, 0, 1
-Ukraine, 27000, 0, 1
-Brazil, 9000, 1000, 1
-Egypt, 7500, 0, 2
-United Arab Emirates, 6500, 0, 1
-Switzerland, 6000, 1000, 1
-Canada, 4000, 0, 1
-Malaysia, 3000, 0, 1
-Austria, 1000, 0, 1
+Rank, Nation, Sum, Change, Players
+1, England, 11240350, 61400, 43
+2, China, 5196600, 49000, 28
+3, Wales, 2341900, 5500, 10
+4, Scotland, 1454750, 8300, 8
+5, Australia, 1061850, -3000, 1
+6, N.Ireland, 820950, 27700, 4
+7, Thailand, 435100, 2500, 5
+8, Iran, 316750, -4500, 2
+9, Belgium, 280600, 4600, 3
+10, Ireland, 175450, 2500, 3
+11, Hong Kong, 114100, 7200, 4
+12, India, 95850, 0, 2
+13, Poland, 79950, 2000, 3
+14, Pakistan, 78050, 4600, 2
+15, Latvia, 42550, 1000, 1
+16, Hungary, 30050, 0, 1
+17, Ukraine, 27000, 0, 1
+18, Brazil, 9000, 1000, 1
+19, Egypt, 7500, 0, 2
+20, United Arab Emirates, 6500, 0, 1
+21, Switzerland, 6000, 1000, 1
+22, Canada, 4000, 0, 1
+23, Malaysia, 3000, 0, 1
+24, Austria, 1000, 0, 1
