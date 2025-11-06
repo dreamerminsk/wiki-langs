@@ -57,18 +57,20 @@
 | 2010s | 3 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 7 |
 
 
-#### ***born on November  5***
-1971, Jamie Trump, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2339)</sup></sub>
+#### ***born on November  6***
+1970, Paul Radin, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3390)</sup></sub>
 
-1980, Andrew Tapper, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2786), [CueTracker](http://cuetracker.net/Players/andrew-tapper/)</sup></sub>
+1973, Gary Clarke, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3421)</sup></sub>
 
-1996, Asutosh Padhy, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2298), [CueTracker](http://cuetracker.net/Players/asutosh-padhy/)</sup></sub>
+1986, Babar Masih, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2094)</sup></sub>
 
-2010, Matvei Lagodzinschii, 15 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3028), [CueTracker](http://cuetracker.net/Players/matvei-lagodzinschii/)</sup></sub>
+1987, Lee Page, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=197), [CueTracker](http://cuetracker.net/Players/lee-page/)</sup></sub>
+
+2004, Xing Zihao, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2630)</sup></sub>
 
 
-#### ***milleversary on November  5, 2025***
-1951, John Rea, 27000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=710), [CueTracker](http://cuetracker.net/Players/john-rea/)</sup></sub>
+#### ***milleversary on November  6, 2025***
+1979, Barry Hawkins, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=16), [CueTracker](http://cuetracker.net/Players/barry-hawkins/)</sup></sub>
 
 
 
