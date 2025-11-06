@@ -47,7 +47,7 @@
 | Karl Payne <br> [3281, 3280] | 2 |
 | Khash-Ochir Tuvshinjargal <br> [2947, 2947] | 2 |
 | Kristof De Mulder <br> [3029, 1686, 3029] | 3 |
-| Liang Xiaolong <br> [2610, 2610] | 2 |
+| Liang Xiaolong <br> [2610, 2610, 4169] | 3 |
 | Mahmoud El Hareedy <br> [3071, 3071] | 2 |
 | Malta (2017) <br> [2231, 2232] | 2 |
 | Mario-Zeljo Milosevic <br> [2276, 2276] | 2 |
