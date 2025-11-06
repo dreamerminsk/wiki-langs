@@ -47,25 +47,15 @@
 | Karl Payne <br> [3281, 3280] | 2 |
 | Khash-Ochir Tuvshinjargal <br> [2947, 2947] | 2 |
 | Kristof De Mulder <br> [3029, 1686, 3029] | 3 |
-| Liang Xiaolong <br> [2610, 2610, 4169] | 3 |
+| Liang Xiaolong <br> [2610, 4169] | 2 |
 | Mahmoud El Hareedy <br> [3071, 3071] | 2 |
 | Malta (2017) <br> [2231, 2232] | 2 |
-| Mario-Zeljo Milosevic <br> [2276, 2276] | 2 |
-| Mateusz Baranowski <br> [680, 680] | 2 |
 | Mick Fisher <br> [3732, 3754] | 2 |
 | Mohamed Abdelkader <br> [2579, 3793] | 2 |
-| Muhammad Naseem Akhtar <br> [2905, 2905] | 2 |
 | Muhammad Sajjad <br> [2291, 3738] | 2 |
-| Nicolas Mortreux <br> [2977, 2977] | 2 |
-| Oliver Sykes <br> [2797, 2797] | 2 |
 | Omar Alhaji <br> [3787, 3851] | 2 |
-| Paul Cavney <br> [484, 484] | 2 |
-| Paul Deaville <br> [2749, 2749] | 2 |
-| Pedro Chacon <br> [1919, 1919] | 2 |
 | Peter Roscoe <br> [3216, 3217] | 2 |
-| Petro Sydorenko <br> [2858, 2858] | 2 |
-| Philip Blackburn <br> [3178, 2828, 2828] | 3 |
-| Philip Ciantar <br> [2398, 2398] | 2 |
+| Philip Blackburn <br> [3178, 2828] | 2 |
 | Shrikrishna Suryanarayanan <br> [3141, 1849] | 2 |
 | Stephen Brownless <br> [3938, 3962] | 2 |
 | Sybren Sokolowski <br> [3036, 1006] | 2 |
