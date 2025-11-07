@@ -51,26 +51,24 @@
 | 1950s | 1 | 2 | 1 | 3 | 6 | 5 | 3 | 2 | 8 | 4 | 35 |
 | 1960s | 7 | 3 | 5 | 11 | 11 | 10 | 13 | 21 | 19 | 35 | 135 |
 | 1970s | 34 | 40 | 36 | 34 | 27 | 36 | 34 | 21 | 25 | 19 | 306 |
-| 1980s | 21 | 21 | 25 | 20 | 17 | 30 | 19 | 18 | 19 | 29 | 219 |
+| 1980s | 21 | 21 | 26 | 20 | 17 | 30 | 19 | 18 | 19 | 29 | 220 |
 | 1990s | 32 | 36 | 29 | 31 | 25 | 37 | 27 | 18 | 23 | 24 | 282 |
 | 2000s | 29 | 22 | 26 | 23 | 18 | 20 | 11 | 9 | 12 | 4 | 174 |
 | 2010s | 3 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 7 |
 
 
-#### ***born on November  6***
-1970, Paul Radin, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3390)</sup></sub>
+#### ***born on November  7***
+1929, Pat Houlihan, 96 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3737)</sup></sub>
 
-1973, Gary Clarke, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3421)</sup></sub>
+1942, Ian Barry Stark, 83 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=480), [CueTracker](http://cuetracker.net/Players/ian-barry-stark/)</sup></sub>
 
-1986, Babar Masih, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2094)</sup></sub>
+1977, John Whitty, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=195), [CueTracker](http://cuetracker.net/Players/john-whitty/)</sup></sub>
 
-1987, Lee Page, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=197), [CueTracker](http://cuetracker.net/Players/lee-page/)</sup></sub>
-
-2004, Xing Zihao, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2630)</sup></sub>
+1999, Mink Nutcharut, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1829), [CueTracker](http://cuetracker.net/Players/nutcharat-wongharuthai/)</sup></sub>
 
 
-#### ***milleversary on November  6, 2025***
-1979, Barry Hawkins, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=16), [CueTracker](http://cuetracker.net/Players/barry-hawkins/)</sup></sub>
+#### ***milleversary on November  7, 2025***
+1990, Sydney Wilson, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=523), [CueTracker](http://cuetracker.net/Players/sydney-wilson/)</sup></sub>
 
 
 
