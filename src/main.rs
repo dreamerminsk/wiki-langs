@@ -57,6 +57,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
     match get_file_last_modified(README_PATH) {
         Ok(timediff) => {
+             info!("README.md timediff: {}", timediff);
             if timediff >= 86400 {
                 let update_readme = UpdateReadMe::new();
                 update_readme.execute();
@@ -95,7 +96,6 @@ fn get_file_last_modified(path: &str) -> Result<u64, Box<dyn Error>> {
     let duration = if now >= modified_time {
         now.duration_since(modified_time)?.as_secs()
     } else {
-        // Modification time is in the future; handle gracefully
         0
     };
     Ok(duration)
