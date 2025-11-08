@@ -24,6 +24,7 @@
 | Gert Kempenaers <br> [2087, 2087] | 2 |
 | Gong Chenzhi <br> [2634, 2634] | 2 |
 | Gregory Herbrecht <br> [2269, 2269] | 2 |
+| Habib Subah Humood <br> [226, 4208] | 2 |
 | Haris Tahir <br> [2931, 2931] | 2 |
 | Ho Yee Ki <br> [4145, 2171] | 2 |
 | Hossein Vafaei <br> [666, 666] | 2 |
@@ -43,6 +44,7 @@
 | Joel Connolly <br> [2963, 2963] | 2 |
 | John Gillard <br> [2279, 2279] | 2 |
 | John Nicholson <br> [2390, 2390] | 2 |
+| Jonas Luz <br> [4267, 4153] | 2 |
 | Jonathan Fulcher <br> [645, 4102] | 2 |
 | Karl Payne <br> [3281, 3280] | 2 |
 | Khash-Ochir Tuvshinjargal <br> [2947, 2947] | 2 |
@@ -52,6 +54,7 @@
 | Malta (2017) <br> [2231, 2232] | 2 |
 | Mick Fisher <br> [3732, 3754] | 2 |
 | Mohamed Abdelkader <br> [2579, 3793] | 2 |
+| Mohammed Al Saqer <br> [4201, 4231] | 2 |
 | Muhammad Sajjad <br> [2291, 3738] | 2 |
 | Omar Alhaji <br> [3787, 3851] | 2 |
 | Peter Roscoe <br> [3216, 3217] | 2 |
