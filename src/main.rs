@@ -7,13 +7,13 @@ use rand::Rng;
 use std::fs;
 use std::thread;
 use std::time::Duration;
+use std::time::SystemTime;
 use std::time::UNIX_EPOCH;
 use std::{
     error::Error,
     fs::{read_to_string, write},
     io,
 };
-use std::time::SystemTime;
 
 mod app;
 
