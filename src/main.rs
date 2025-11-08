@@ -4,8 +4,11 @@ use chrono::{Datelike, Utc};
 use fern;
 use log::{debug, error, info, trace, warn};
 use rand::Rng;
+use std::fs;
 use std::thread;
 use std::time::Duration;
+use std::time::SystemTime;
+use std::time::UNIX_EPOCH;
 use std::{
     error::Error,
     fs::{read_to_string, write},
@@ -44,14 +47,25 @@ impl NextPlayer {
     }
 }
 
+static README_PATH: &str = "./README.md";
+
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
     setup_logger()?;
 
     scan_players().await;
 
-    let update_readme = UpdateReadMe::new();
-    update_readme.execute();
+    match get_file_last_modified(README_PATH) {
+        Ok(timediff) => {
+            if timediff >= 86400 {
+                let update_readme = UpdateReadMe::new();
+                update_readme.execute();
+            }
+        }
+        Err(e) => {
+            eprintln!("Error getting last modified time: {}", e);
+        }
+    }
 
     let today = Utc::now();
 
@@ -72,6 +86,19 @@ async fn main() -> Result<(), Box<dyn Error>> {
     }
 
     Ok(())
+}
+
+fn get_file_last_modified(path: &str) -> Result<u64, Box<dyn Error>> {
+    let metadata = fs::metadata(path)?;
+    let modified_time = metadata.modified()?;
+    let now = SystemTime::now();
+    let duration = if now >= modified_time {
+        now.duration_since(modified_time)?.as_secs()
+    } else {
+        // Modification time is in the future; handle gracefully
+        0
+    };
+    Ok(duration)
 }
 
 async fn scan_players() -> Result<(), Box<dyn Error>> {
