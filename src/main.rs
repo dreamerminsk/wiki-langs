@@ -11,6 +11,8 @@ use std::{
     fs::{read_to_string, write},
     io,
 };
+use std::fs;
+use std::time::UNIX_EPOCH;
 
 mod app;
 
@@ -44,14 +46,27 @@ impl NextPlayer {
     }
 }
 
+static README_PATH = "";
+
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
     setup_logger()?;
 
     scan_players().await;
-
-    let update_readme = UpdateReadMe::new();
+     
+    match get_file_last_modified(file_path) {
+        Ok(timediff) => {
+            if timediff >= 86400 {
+               let update_readme = UpdateReadMe::new();
     update_readme.execute();
+             }
+        }
+        Err(e) => {
+            eprintln!("Error getting last modified time: {}", e);
+        }
+    }
+
+    
 
     let today = Utc::now();
 
@@ -72,6 +87,16 @@ async fn main() -> Result<(), Box<dyn Error>> {
     }
 
     Ok(())
+}
+
+
+
+fn get_file_last_modified(path: &str) -> Result<u64, Box<dyn Error>> {
+    let metadata = fs::metadata(path)?;
+    let modified_time = metadata.modified()?;
+    let now = SystemTime::now();
+    let duration = now.duration_since(modified_time)?;
+    Ok(duration.as_secs())
 }
 
 async fn scan_players() -> Result<(), Box<dyn Error>> {
