@@ -46,7 +46,7 @@ impl NextPlayer {
     }
 }
 
-static README_PATH = "";
+static README_PATH: &str = "./README.md";
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
@@ -54,7 +54,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
     scan_players().await;
      
-    match get_file_last_modified(file_path) {
+    match get_file_last_modified(README_PATH) {
         Ok(timediff) => {
             if timediff >= 86400 {
                let update_readme = UpdateReadMe::new();
