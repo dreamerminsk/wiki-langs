@@ -91,8 +91,13 @@ fn get_file_last_modified(path: &str) -> Result<u64, Box<dyn Error>> {
     let metadata = fs::metadata(path)?;
     let modified_time = metadata.modified()?;
     let now = SystemTime::now();
-    let duration = now.duration_since(modified_time)?;
-    Ok(duration.as_secs())
+    let duration = if now >= modified_time {
+        now.duration_since(modified_time)?.as_secs()
+    } else {
+        // Modification time is in the future; handle gracefully
+        0
+    };
+    Ok(duration)
 }
 
 async fn scan_players() -> Result<(), Box<dyn Error>> {
