@@ -5,7 +5,7 @@
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | 
 | **ENG** | 12 | 5 | 7 | 13 | 12 | 5 | 0 | 0 | 0 | 0 | 54 |
 | **AUS** | 3 | 2 | 2 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 10 |
-| **CHN** | 0 | 1 | 2 | 1 | 3 | 2 | 0 | 0 | 0 | 0 | 9 |
+| **CHN** | 0 | 1 | 2 | 1 | 3 | 3 | 0 | 0 | 0 | 0 | 10 |
 | **NIR** | 0 | 2 | 2 | 2 | 1 | 1 | 0 | 0 | 0 | 0 | 8 |
 | **WAL** | 0 | 3 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 7 |
 | **SCO** | 1 | 1 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 | 5 |
@@ -21,7 +21,7 @@
 | **1975–79** | 2 | 4 | 2 | 5 | 3 | 3 | 0 | 0 | 0 | 0 | 19 |
 | **1990–94** | 1 | 0 | 2 | 2 | 3 | 3 | 0 | 0 | 0 | 0 | 11 |
 | **1995–99** | 0 | 2 | 2 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 6 |
-| **2000–04** | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 2 |
+| **2000–04** | 0 | 0 | 1 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 3 |
 | **1970–74** | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
 
 ### Titles by players
@@ -50,29 +50,21 @@
 | 1940s | 2 | 1 | 3 | 1 | 6 | 4 | 8 | 5 | 7 | 4 | 41 |
 | 1950s | 2 | 2 | 3 | 3 | 7 | 6 | 3 | 3 | 8 | 4 | 41 |
 | 1960s | 7 | 3 | 5 | 11 | 11 | 10 | 13 | 21 | 19 | 35 | 135 |
-| 1970s | 34 | 40 | 36 | 34 | 27 | 36 | 34 | 21 | 25 | 19 | 306 |
-| 1980s | 21 | 21 | 27 | 20 | 17 | 30 | 19 | 18 | 19 | 29 | 221 |
-| 1990s | 32 | 37 | 29 | 32 | 25 | 37 | 27 | 18 | 23 | 24 | 284 |
-| 2000s | 29 | 22 | 26 | 23 | 18 | 20 | 11 | 9 | 12 | 4 | 174 |
+| 1970s | 34 | 40 | 36 | 35 | 27 | 37 | 34 | 21 | 25 | 19 | 308 |
+| 1980s | 21 | 21 | 27 | 20 | 19 | 31 | 20 | 19 | 19 | 29 | 226 |
+| 1990s | 32 | 37 | 30 | 34 | 25 | 38 | 28 | 18 | 23 | 24 | 289 |
+| 2000s | 29 | 22 | 26 | 23 | 18 | 20 | 11 | 9 | 12 | 5 | 175 |
 | 2010s | 3 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 7 |
 
 
-#### ***born on November  8***
-1978, Ian Glover, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=82), [CueTracker](http://cuetracker.net/Players/ian-glover/)</sup></sub>
+#### ***born on November  9***
+1978, Levi Meiller, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2502), [CueTracker](http://cuetracker.net/Players/levi-meiller/)</sup></sub>
 
-1985, Fraser Patrick, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=534), [CueTracker](http://cuetracker.net/Players/fraser-patrick/)</sup></sub>
-
-1995, Joe O'Connor, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1038), [CueTracker](http://cuetracker.net/Players/joe-oconnor/)</sup></sub>
-
-2004, Anton Kazakov, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2767), [CueTracker](http://cuetracker.net/Players/anton-kazakov/)</sup></sub>
-
-2006, Sebastian Milewski, 19 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3196)</sup></sub>
+1985, Jamie McArdle, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1310), [CueTracker](http://cuetracker.net/Players/jamie-mcardle/)</sup></sub>
 
 
-#### ***milleversary on November  8, 2025***
-1927, John Dunning, 36000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3385)</sup></sub>
-
-1932, Ray Reardon, 34000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2875), [CueTracker](http://cuetracker.net/Players/ray-reardon/)</sup></sub>
+#### ***milleversary on November  9, 2025***
+1984, Steve Martin, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=662), [CueTracker](http://cuetracker.net/Players/steve-martin/)</sup></sub>
 
 
 
