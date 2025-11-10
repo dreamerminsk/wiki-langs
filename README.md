@@ -57,14 +57,18 @@
 | 2010s | 3 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 7 |
 
 
-#### ***born on November  9***
-1978, Levi Meiller, 47 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2502), [CueTracker](http://cuetracker.net/Players/levi-meiller/)</sup></sub>
+#### ***born on November 10***
+1969, Karen Corr, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3174)</sup></sub>
 
-1985, Jamie McArdle, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1310), [CueTracker](http://cuetracker.net/Players/jamie-mcardle/)</sup></sub>
+1992, Heikki Niva, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2188)</sup></sub>
 
 
-#### ***milleversary on November  9, 2025***
-1984, Steve Martin, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=662), [CueTracker](http://cuetracker.net/Players/steve-martin/)</sup></sub>
+#### ***milleversary on November 10, 2025***
+1968, Paul Tanner, 21000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3482)</sup></sub>
+
+1968, Peter Daubney, 21000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3443)</sup></sub>
+
+1973, Ronda Sheldreck, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2122), [CueTracker](http://cuetracker.net/Players/ronda-sheldreck/)</sup></sub>
 
 
 
