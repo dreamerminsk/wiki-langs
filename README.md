@@ -57,18 +57,16 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on November 10***
-1969, Karen Corr, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3174)</sup></sub>
+#### ***born on November 11***
+1970, Mark Anthony Taylor, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2756), [CueTracker](http://cuetracker.net/Players/mark-taylor/)</sup></sub>
 
-1992, Heikki Niva, 33 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2188)</sup></sub>
+1982, Ricky Walden, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=62), [CueTracker](http://cuetracker.net/Players/ricky-walden/)</sup></sub>
+
+2003, Jamie Wilson, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2751), [CueTracker](http://cuetracker.net/Players/jamie-wilson/)</sup></sub>
 
 
-#### ***milleversary on November 10, 2025***
-1968, Paul Tanner, 21000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3482)</sup></sub>
-
-1968, Peter Daubney, 21000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3443)</sup></sub>
-
-1973, Ronda Sheldreck, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2122), [CueTracker](http://cuetracker.net/Players/ronda-sheldreck/)</sup></sub>
+#### ***milleversary on November 11, 2025***
+1982, Carlo Giagnacovo, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3214), [CueTracker](http://cuetracker.net/Players/carlo-giagnacovo/)</sup></sub>
 
 
 
