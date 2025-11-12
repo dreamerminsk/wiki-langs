@@ -53,20 +53,22 @@
 | 1970s | 34 | 40 | 36 | 35 | 27 | 37 | 34 | 21 | 26 | 19 | 309 |
 | 1980s | 21 | 21 | 27 | 20 | 19 | 31 | 20 | 19 | 19 | 29 | 226 |
 | 1990s | 32 | 37 | 30 | 34 | 25 | 38 | 28 | 18 | 23 | 24 | 289 |
-| 2000s | 29 | 22 | 26 | 24 | 18 | 20 | 11 | 9 | 12 | 5 | 176 |
+| 2000s | 29 | 22 | 26 | 24 | 18 | 20 | 11 | 10 | 12 | 5 | 177 |
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on November 11***
-1970, Mark Anthony Taylor, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2756), [CueTracker](http://cuetracker.net/Players/mark-taylor/)</sup></sub>
+#### ***born on November 12***
+1973, Gerard Greene, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=38), [CueTracker](http://cuetracker.net/Players/gerard-greene/)</sup></sub>
 
-1982, Ricky Walden, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=62), [CueTracker](http://cuetracker.net/Players/ricky-walden/)</sup></sub>
+1993, Hamza Akbar, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1762), [CueTracker](http://cuetracker.net/Players/hamza-akbar/)</sup></sub>
 
-2003, Jamie Wilson, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2751), [CueTracker](http://cuetracker.net/Players/jamie-wilson/)</sup></sub>
+2005, Dong Zihao, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3182)</sup></sub>
 
 
-#### ***milleversary on November 11, 2025***
-1982, Carlo Giagnacovo, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3214), [CueTracker](http://cuetracker.net/Players/carlo-giagnacovo/)</sup></sub>
+#### ***milleversary on November 12, 2025***
+1973, Gary Clarke, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3421)</sup></sub>
+
+2006, Stan Moody, 7000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2758), [CueTracker](http://cuetracker.net/Players/stan-moody/)</sup></sub>
 
 
 
