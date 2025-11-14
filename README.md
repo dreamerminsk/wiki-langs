@@ -57,20 +57,14 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on November 13***
-1975, Joe Jogia, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3229), [CueTracker](http://cuetracker.net/Players/joe-jogia/)</sup></sub>
+#### ***born on November 14***
+1944, Paul Medati, 81 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3512)</sup></sub>
 
-1975, Joe Jogia, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=7), [CueTracker](http://cuetracker.net/Players/joe-jogia/)</sup></sub>
-
-2001, Peng Yisong, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2620), [CueTracker](http://cuetracker.net/Players/yisong-peng/)</sup></sub>
+1970, Han Fang, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4132)</sup></sub>
 
 
-#### ***milleversary on November 13, 2025***
-1913, Fred Davis, 41000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2834), [CueTracker](http://cuetracker.net/Players/fred-davis/)</sup></sub>
-
-1949, Alex Higgins, 28000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2878)</sup></sub>
-
-1993, Kengo Suzuki, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2494)</sup></sub>
+#### ***milleversary on November 14, 2025***
+1968, Boris Lazarkov, 21000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2162), [CueTracker](http://cuetracker.net/Players/boris-lazarkov/)</sup></sub>
 
 
 
