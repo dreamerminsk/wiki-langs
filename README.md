@@ -49,7 +49,7 @@
 | 1930s | 0 | 3 | 2 | 2 | 1 | 2 | 2 | 4 | 2 | 1 | 19 |
 | 1940s | 2 | 1 | 3 | 1 | 6 | 5 | 8 | 5 | 7 | 4 | 42 |
 | 1950s | 2 | 2 | 4 | 3 | 7 | 6 | 3 | 3 | 8 | 4 | 42 |
-| 1960s | 7 | 3 | 6 | 11 | 11 | 10 | 13 | 21 | 20 | 35 | 137 |
+| 1960s | 7 | 3 | 6 | 11 | 11 | 10 | 14 | 21 | 20 | 35 | 138 |
 | 1970s | 34 | 40 | 36 | 35 | 28 | 37 | 34 | 21 | 26 | 19 | 310 |
 | 1980s | 21 | 22 | 27 | 20 | 19 | 31 | 20 | 19 | 20 | 31 | 230 |
 | 1990s | 32 | 37 | 30 | 34 | 27 | 38 | 28 | 18 | 23 | 24 | 291 |
@@ -57,16 +57,14 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on November 15***
-1965, Nigel Bond, 60 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=14), [CueTracker](http://cuetracker.net/Players/nigel-bond/)</sup></sub>
+#### ***born on November 16***
+1984, Sourav Kothari, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2095)</sup></sub>
 
-1979, Wayne Townsend, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=897), [CueTracker](http://cuetracker.net/Players/wayne-townsend/)</sup></sub>
-
-1991, Asjad Iqbal, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1935), [CueTracker](http://cuetracker.net/Players/asjad-iqbal/)</sup></sub>
+1988, Ryan Mears, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1042), [CueTracker](http://cuetracker.net/Players/ryan-mears/)</sup></sub>
 
 
-#### ***milleversary on November 15, 2025***
-1995, Boonyarit Keattikun, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1578), [CueTracker](http://cuetracker.net/Players/boonyarit-keattikun/)</sup></sub>
+#### ***milleversary on November 16, 2025***
+1995, Ross Muir, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=898), [CueTracker](http://cuetracker.net/Players/ross-muir/)</sup></sub>
 
 
 

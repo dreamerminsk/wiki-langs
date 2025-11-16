@@ -23,6 +23,7 @@
 | Dale Prime <br> [2395, 2395] | 2 |
 | Daniel Boyes <br> [2865, 2865] | 2 |
 | Daniel Stevenson <br> [2045, 2045] | 2 |
+| Dave Harold <br> [31, 31] | 2 |
 | Davut Dikme <br> [2389, 2389] | 2 |
 | Elias Martin-Beris <br> [2856, 2856] | 2 |
 | Emma Parker <br> [2169, 2169] | 2 |
@@ -37,7 +38,7 @@
 | Haris Tahir <br> [2931, 2931] | 2 |
 | Ho Yee Ki <br> [4145, 2171] | 2 |
 | Hossein Vafaei <br> [666, 666] | 2 |
-| IIS 10.0 Detailed Error - 404.0 - Not Found <br> [4406, 4413, 4425, 4437, 4337, 4341, 4027, 4042, 1795] | 9 |
+| IIS 10.0 Detailed Error - 404.0 - Not Found <br> [4406, 4413, 4425, 4437, 4337, 4341, 4027, 4042, 1795, 4951, 4962, 4963, 4964, 4965, 4966, 4967] | 16 |
 | IIS 10.0 Detailed Error - 500.19 - Internal Server Error <br> [1145, 1146, 1148, 1149, 1150, 1151, 1152, 1153, 1154, 1155] | 10 |
 | Ian Graham <br> [3469, 3468] | 2 |
 | Jack Borwick <br> [2982, 2982] | 2 |
