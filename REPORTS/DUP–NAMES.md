@@ -23,7 +23,6 @@
 | Dale Prime <br> [2395, 2395] | 2 |
 | Daniel Boyes <br> [2865, 2865] | 2 |
 | Daniel Stevenson <br> [2045, 2045] | 2 |
-| Dave Harold <br> [31, 31] | 2 |
 | Davut Dikme <br> [2389, 2389] | 2 |
 | Elias Martin-Beris <br> [2856, 2856] | 2 |
 | Emma Parker <br> [2169, 2169] | 2 |
@@ -64,6 +63,7 @@
 | Mahmoud El Hareedy <br> [3071, 3071] | 2 |
 | Malta (2017) <br> [2231, 2232] | 2 |
 | Mick Fisher <br> [3732, 3754] | 2 |
+| Mitchell Mann <br> [49, 49] | 2 |
 | Mohamed Abdelkader <br> [2579, 3793] | 2 |
 | Mohamed Aljoakar <br> [425, 4339] | 2 |
 | Mohammed Al Saqer <br> [4201, 4231] | 2 |
