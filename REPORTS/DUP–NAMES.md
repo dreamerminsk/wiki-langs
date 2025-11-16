@@ -43,7 +43,6 @@
 | Jack Borwick <br> [2982, 2982] | 2 |
 | Jacob Boyle <br> [3005, 3005] | 2 |
 | Jake Crofts <br> [2882, 2882] | 2 |
-| James McBain <br> [78, 78] | 2 |
 | Jasmine Bolsover <br> [2167, 2167] | 2 |
 | Jason Whittaker <br> [3494, 3493] | 2 |
 | Jeremiah Connors <br> [2205, 2205] | 2 |
