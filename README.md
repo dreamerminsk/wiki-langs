@@ -57,14 +57,17 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on November 16***
-1984, Sourav Kothari, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2095)</sup></sub>
+#### ***born on November 17***
+1970, Micky Roughan, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3277)</sup></sub>
 
-1988, Ryan Mears, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1042), [CueTracker](http://cuetracker.net/Players/ryan-mears/)</sup></sub>
+1981, Daniel Ward, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1003), [CueTracker](http://cuetracker.net/Players/daniel-ward/)</sup></sub>
+
+1990, Ng On Yee, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1485), [CueTracker](http://cuetracker.net/Players/ng-on-yee/)</sup></sub>
+
+1991, Rees Carter, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=739), [CueTracker](http://cuetracker.net/Players/rees-carter/)</sup></sub>
 
 
-#### ***milleversary on November 16, 2025***
-1995, Ross Muir, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=898), [CueTracker](http://cuetracker.net/Players/ross-muir/)</sup></sub>
+#### ***milleversary on November 17, 2025***
 
 
 
