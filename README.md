@@ -57,17 +57,20 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on November 17***
-1970, Micky Roughan, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3277)</sup></sub>
+#### ***born on November 18***
+1974, Darren Burns, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2038), [CueTracker](http://cuetracker.net/Players/darren-burns/)</sup></sub>
 
-1981, Daniel Ward, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1003), [CueTracker](http://cuetracker.net/Players/daniel-ward/)</sup></sub>
+1975, David Allender, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3122), [CueTracker](http://cuetracker.net/Players/david-allender/)</sup></sub>
 
-1990, Ng On Yee, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1485), [CueTracker](http://cuetracker.net/Players/ng-on-yee/)</sup></sub>
+1975, Stuart Hinton, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2501)</sup></sub>
 
-1991, Rees Carter, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=739), [CueTracker](http://cuetracker.net/Players/rees-carter/)</sup></sub>
+1982, Arun Mehta, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1300), [CueTracker](http://cuetracker.net/Players/arun-mehta/)</sup></sub>
+
+2008, Edward Jones, 17 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2995), [CueTracker](http://cuetracker.net/Players/edward-jones/)</sup></sub>
 
 
-#### ***milleversary on November 17, 2025***
+#### ***milleversary on November 18, 2025***
+1973, Gerard Greene, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=38), [CueTracker](http://cuetracker.net/Players/gerard-greene/)</sup></sub>
 
 
 

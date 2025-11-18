@@ -3,9 +3,8 @@
 | Abdulaziz Shetail <br> [4203, 4318] | 2 |
 | Abdullah Alotayyani <br> [4812, 4408] | 2 |
 | Adeel Aqdus <br> [4811, 4410] | 2 |
-| Aditya Mehta <br> [108, 108] | 2 |
 | Ahmed Alhashmi <br> [3767, 4324] | 2 |
-| Ali Al Obaidly <br> [2958, 157] | 2 |
+| Ali Al Obaidly <br> [157, 2958] | 2 |
 | Ali Albahadra <br> [4327, 3770] | 2 |
 | Ali Ali <br> [3791, 4328] | 2 |
 | Ali Gharahgozlou <br> [4031, 4329] | 2 |
@@ -39,9 +38,7 @@
 | Ho Yee Ki <br> [4145, 2171] | 2 |
 | Hossein Vafaei <br> [666, 666] | 2 |
 | IIS 10.0 Detailed Error - 404.0 - Not Found <br> [4406, 4413, 4425, 4437, 4337, 4341, 4027, 4042, 1795, 4951, 4962, 4963, 4964, 4965, 4966, 4967] | 16 |
-| IIS 10.0 Detailed Error - 500.19 - Internal Server Error <br> [1145, 1146, 1148, 1149, 1150, 1151, 1152, 1153, 1154, 1155] | 10 |
 | Ian Graham <br> [3469, 3468] | 2 |
-| Ian McCulloch <br> [103, 103] | 2 |
 | Jack Borwick <br> [2982, 2982] | 2 |
 | Jacob Boyle <br> [3005, 3005] | 2 |
 | Jake Crofts <br> [2882, 2882] | 2 |
