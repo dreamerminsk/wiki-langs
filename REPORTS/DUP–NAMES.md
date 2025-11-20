@@ -4,6 +4,7 @@
 | Abdullah Alotayyani <br> [4812, 4408] | 2 |
 | Adeel Aqdus <br> [4811, 4410] | 2 |
 | Ahmed Alhashmi <br> [3767, 4324] | 2 |
+| Ahmed Aseeri <br> [415, 415] | 2 |
 | Ali Al Obaidly <br> [157, 2958] | 2 |
 | Ali Albahadra <br> [4327, 3770] | 2 |
 | Ali Ali <br> [3791, 4328] | 2 |
@@ -63,7 +64,7 @@
 | Malta (2017) <br> [2231, 2232] | 2 |
 | Mick Fisher <br> [3732, 3754] | 2 |
 | Mohamed Abdelkader <br> [2579, 3793] | 2 |
-| Mohamed Aljoakar <br> [425, 4339] | 2 |
+| Mohamed Aljoakar <br> [425, 425, 4339] | 3 |
 | Mohammed Al Saqer <br> [4201, 4231] | 2 |
 | Muhammad Sajjad <br> [2291, 3738] | 2 |
 | Omar Alhaji <br> [3787, 3851] | 2 |
