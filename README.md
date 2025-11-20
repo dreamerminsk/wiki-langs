@@ -57,20 +57,22 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on November 19***
-1969, Au Chi Wai, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=511), [CueTracker](http://cuetracker.net/Players/au-chi-wai/)</sup></sub>
+#### ***born on November 20***
+1939, Geoff Foulds, 86 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4303), [CueTracker](http://cuetracker.net/Players/geoff-foulds/)</sup></sub>
 
-1974, Dharminder Singh Lilly, 51 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1368), [CueTracker](http://cuetracker.net/Players/dharminder-singh-lilly/)</sup></sub>
+1971, Mike Dunn, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=54), [CueTracker](http://cuetracker.net/Players/mike-dunn/)</sup></sub>
 
-1990, Ehsan Heydari Nezhad, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1189), [CueTracker](http://cuetracker.net/Players/ehsan-heydarinezhad/)</sup></sub>
+1977, Corey Deuel, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1497), [CueTracker](http://cuetracker.net/Players/corey-deuel/)</sup></sub>
 
-1995, Kacper Filipiak, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=588), [CueTracker](http://cuetracker.net/Players/kacper-filipiak/)</sup></sub>
+1995, Jeff Jacobs, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=835), [CueTracker](http://cuetracker.net/Players/jeff-jacobs/)</sup></sub>
 
 
-#### ***milleversary on November 19, 2025***
-1960, Joe O'Boye, 24000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3288)</sup></sub>
+#### ***milleversary on November 20, 2025***
+1960, Ali Bassiri, 24000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=486), [CueTracker](http://cuetracker.net/Players/ali-bassiri/)</sup></sub>
 
-2001, Dylan Emery, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2320), [CueTracker](http://cuetracker.net/Players/dylan-emery/)</sup></sub>
+2006, Gong Chenzhi, 7000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2634)</sup></sub>
+
+2006, Westley Cooper, 7000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2770), [CueTracker](http://cuetracker.net/Players/westley-cooper/)</sup></sub>
 
 
 
