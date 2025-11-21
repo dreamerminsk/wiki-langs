@@ -57,22 +57,14 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on November 20***
-1939, Geoff Foulds, 86 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4303), [CueTracker](http://cuetracker.net/Players/geoff-foulds/)</sup></sub>
+#### ***born on November 21***
+1986, Xu Yichen, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2103), [CueTracker](http://cuetracker.net/Players/yi-chen-xu/)</sup></sub>
 
-1971, Mike Dunn, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=54), [CueTracker](http://cuetracker.net/Players/mike-dunn/)</sup></sub>
-
-1977, Corey Deuel, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1497), [CueTracker](http://cuetracker.net/Players/corey-deuel/)</sup></sub>
-
-1995, Jeff Jacobs, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=835), [CueTracker](http://cuetracker.net/Players/jeff-jacobs/)</sup></sub>
+1989, Tiago Silva, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1638), [CueTracker](http://cuetracker.net/Players/tiago-silva/)</sup></sub>
 
 
-#### ***milleversary on November 20, 2025***
-1960, Ali Bassiri, 24000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=486), [CueTracker](http://cuetracker.net/Players/ali-bassiri/)</sup></sub>
-
-2006, Gong Chenzhi, 7000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2634)</sup></sub>
-
-2006, Westley Cooper, 7000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2770), [CueTracker](http://cuetracker.net/Players/westley-cooper/)</sup></sub>
+#### ***milleversary on November 21, 2025***
+1998, Lynn Shi, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2826), [CueTracker](http://cuetracker.net/Players/lynn-shi/)</sup></sub>
 
 
 
