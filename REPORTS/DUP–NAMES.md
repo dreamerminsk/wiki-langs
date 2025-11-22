@@ -23,7 +23,6 @@
 | Dale Prime <br> [2395, 2395] | 2 |
 | Daniel Boyes <br> [2865, 2865] | 2 |
 | Daniel Stevenson <br> [2045, 2045] | 2 |
-| David McLellan <br> [525, 525] | 2 |
 | Davut Dikme <br> [2389, 2389] | 2 |
 | Elias Martin-Beris <br> [2856, 2856] | 2 |
 | Emma Parker <br> [2169, 2169] | 2 |
