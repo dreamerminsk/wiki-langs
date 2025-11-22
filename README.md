@@ -57,14 +57,10 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on November 21***
-1986, Xu Yichen, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2103), [CueTracker](http://cuetracker.net/Players/yi-chen-xu/)</sup></sub>
-
-1989, Tiago Silva, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1638), [CueTracker](http://cuetracker.net/Players/tiago-silva/)</sup></sub>
+#### ***born on November 22***
 
 
-#### ***milleversary on November 21, 2025***
-1998, Lynn Shi, 10000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2826), [CueTracker](http://cuetracker.net/Players/lynn-shi/)</sup></sub>
+#### ***milleversary on November 22, 2025***
 
 
 
