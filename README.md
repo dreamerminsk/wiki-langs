@@ -57,10 +57,18 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on November 22***
+#### ***born on November 23***
+1993, Ali Gharahgozlou, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4031), [CueTracker](http://cuetracker.net/Players/ali-gharaghouzlo/)</sup></sub>
+
+1993, Ali Gharahgozlou, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4329), [CueTracker](http://cuetracker.net/Players/ali-gharaghouzlo/)</sup></sub>
+
+2002, Adam Williams, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3134), [CueTracker](http://cuetracker.net/Players/adam-williams/)</sup></sub>
 
 
-#### ***milleversary on November 22, 2025***
+#### ***milleversary on November 23, 2025***
+1987, Alex Davies, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=144), [CueTracker](http://cuetracker.net/Players/alex-davies/)</sup></sub>
+
+1995, Jack Smithers, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2053), [CueTracker](http://cuetracker.net/Players/jack-smithers/)</sup></sub>
 
 
 
