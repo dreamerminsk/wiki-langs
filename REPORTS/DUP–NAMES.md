@@ -37,7 +37,7 @@
 | Haris Tahir <br> [2931, 2931] | 2 |
 | Ho Yee Ki <br> [4145, 2171] | 2 |
 | Hossein Vafaei <br> [666, 666] | 2 |
-| IIS 10.0 Detailed Error - 404.0 - Not Found <br> [4406, 4413, 4425, 4437, 4337, 4341, 503, 4027, 4042, 402, 426, 432, 481, 482, 314, 315, 316, 347, 375, 1795, 251, 274, 275, 285, 299, 664, 4951, 4962, 4963, 4964, 4965, 4966, 4967] | 33 |
+| IIS 10.0 Detailed Error - 404.0 - Not Found <br> [4406, 4413, 4425, 4437, 4337, 4341, 503, 4027, 4042, 402, 426, 432, 481, 482, 314, 315, 316, 347, 375, 1795, 251, 274, 275, 285, 299, 737, 664, 4951, 4962, 4963, 4964, 4965, 4966, 4967] | 34 |
 | Ian Graham <br> [3469, 3468] | 2 |
 | Jack Borwick <br> [2982, 2982] | 2 |
 | Jacob Boyle <br> [3005, 3005] | 2 |
@@ -61,13 +61,11 @@
 | Liang Xiaolong <br> [2610, 4169] | 2 |
 | Mahmoud El Hareedy <br> [3071, 3071] | 2 |
 | Malta (2017) <br> [2231, 2232] | 2 |
-| Mateusz Baranowski <br> [680, 680] | 2 |
 | Mick Fisher <br> [3732, 3754] | 2 |
 | Mohamed Abdelkader <br> [2579, 3793] | 2 |
 | Mohamed Aljoakar <br> [425, 4339] | 2 |
 | Mohammed Al Saqer <br> [4201, 4231] | 2 |
 | Muhammad Sajjad <br> [2291, 3738] | 2 |
-| Murdo MacLeod <br> [712, 712] | 2 |
 | Omar Alhaji <br> [3787, 3851] | 2 |
 | Omar Ramy <br> [4230, 4526] | 2 |
 | Paul Cavney <br> [484, 484] | 2 |
