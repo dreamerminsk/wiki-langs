@@ -57,18 +57,23 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on November 23***
-1993, Ali Gharahgozlou, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4031), [CueTracker](http://cuetracker.net/Players/ali-gharaghouzlo/)</sup></sub>
+#### ***born on November 24***
+1981, So Man Yan, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2125), [CueTracker](http://cuetracker.net/Players/so-man-yan/)</sup></sub>
 
-1993, Ali Gharahgozlou, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4329), [CueTracker](http://cuetracker.net/Players/ali-gharaghouzlo/)</sup></sub>
+1984, David John, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1737), [CueTracker](http://cuetracker.net/Players/david-john/)</sup></sub>
 
-2002, Adam Williams, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3134), [CueTracker](http://cuetracker.net/Players/adam-williams/)</sup></sub>
+1985, Yassine Bellamine, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2735)</sup></sub>
+
+1986, Rupesh Thakkar, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=210), [CueTracker](http://cuetracker.net/Players/rupesh-thakkar/)</sup></sub>
+
+1989, Mirko Montrasio, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2890)</sup></sub>
+
+1999, Mark Magi, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4037), [CueTracker](http://cuetracker.net/Players/mark-magi/)</sup></sub>
+
+2004, Ronnie Sullivan, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2972), [CueTracker](http://cuetracker.net/Players/ronnie-sullivan/)</sup></sub>
 
 
-#### ***milleversary on November 23, 2025***
-1987, Alex Davies, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=144), [CueTracker](http://cuetracker.net/Players/alex-davies/)</sup></sub>
-
-1995, Jack Smithers, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2053), [CueTracker](http://cuetracker.net/Players/jack-smithers/)</sup></sub>
+#### ***milleversary on November 24, 2025***
 
 
 
