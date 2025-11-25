@@ -57,23 +57,20 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on November 24***
-1981, So Man Yan, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2125), [CueTracker](http://cuetracker.net/Players/so-man-yan/)</sup></sub>
+#### ***born on November 25***
+1969, Spencer Dunn, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3470)</sup></sub>
 
-1984, David John, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1737), [CueTracker](http://cuetracker.net/Players/david-john/)</sup></sub>
+1987, Ross Vallance, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1498), [CueTracker](http://cuetracker.net/Players/ross-vallance/)</sup></sub>
 
-1985, Yassine Bellamine, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2735)</sup></sub>
+1991, James Kirk, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3120), [CueTracker](http://cuetracker.net/Players/james-kirk/)</sup></sub>
 
-1986, Rupesh Thakkar, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=210), [CueTracker](http://cuetracker.net/Players/rupesh-thakkar/)</sup></sub>
-
-1989, Mirko Montrasio, 36 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2890)</sup></sub>
-
-1999, Mark Magi, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4037), [CueTracker](http://cuetracker.net/Players/mark-magi/)</sup></sub>
-
-2004, Ronnie Sullivan, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2972), [CueTracker](http://cuetracker.net/Players/ronnie-sullivan/)</sup></sub>
+1995, Ala Eltarhone, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4326), [CueTracker](http://cuetracker.net/Players/alaa-el-tarhoum/)</sup></sub>
 
 
-#### ***milleversary on November 24, 2025***
+#### ***milleversary on November 25, 2025***
+1971, Jason Greaves, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3330)</sup></sub>
+
+1987, Mohamed Elkhayat, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4412), [CueTracker](http://cuetracker.net/Players/mohamed-elkhayat/)</sup></sub>
 
 
 
