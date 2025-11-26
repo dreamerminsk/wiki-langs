@@ -57,20 +57,10 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on November 25***
-1969, Spencer Dunn, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3470)</sup></sub>
-
-1987, Ross Vallance, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1498), [CueTracker](http://cuetracker.net/Players/ross-vallance/)</sup></sub>
-
-1991, James Kirk, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3120), [CueTracker](http://cuetracker.net/Players/james-kirk/)</sup></sub>
-
-1995, Ala Eltarhone, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4326), [CueTracker](http://cuetracker.net/Players/alaa-el-tarhoum/)</sup></sub>
+#### ***born on November 26***
 
 
-#### ***milleversary on November 25, 2025***
-1971, Jason Greaves, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3330)</sup></sub>
-
-1987, Mohamed Elkhayat, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4412), [CueTracker](http://cuetracker.net/Players/mohamed-elkhayat/)</sup></sub>
+#### ***milleversary on November 26, 2025***
 
 
 
