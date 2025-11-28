@@ -57,20 +57,14 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on November 27***
-1969, Iwan Jones, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3379)</sup></sub>
+#### ***born on November 28***
+1984, Allan Taylor, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=26), [CueTracker](http://cuetracker.net/Players/allan-taylor/)</sup></sub>
 
-1975, Marlon Manalo, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3723), [CueTracker](http://cuetracker.net/Players/marlon-manalo/)</sup></sub>
-
-1976, Gaurang Vyas, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2764)</sup></sub>
-
-1980, Andy Lee, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=123), [CueTracker](http://cuetracker.net/Players/andy-lee/)</sup></sub>
-
-1988, David Morris, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=190), [CueTracker](http://cuetracker.net/Players/david-morris/)</sup></sub>
+2002, Ayman Alamri, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2459), [CueTracker](http://cuetracker.net/Players/ayman-alamri/)</sup></sub>
 
 
-#### ***milleversary on November 27, 2025***
-1995, Lee Daegyu, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1886), [CueTracker](http://cuetracker.net/Players/daegyu-lee/)</sup></sub>
+#### ***milleversary on November 28, 2025***
+1971, Matthew McGrotty, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3329)</sup></sub>
 
 
 
