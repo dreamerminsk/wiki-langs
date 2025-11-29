@@ -57,14 +57,15 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on November 28***
-1984, Allan Taylor, 41 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=26), [CueTracker](http://cuetracker.net/Players/allan-taylor/)</sup></sub>
+#### ***born on November 29***
+1985, Jonas Luz, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4153), [CueTracker](http://cuetracker.net/Players/jonas-luz/)</sup></sub>
 
-2002, Ayman Alamri, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2459), [CueTracker](http://cuetracker.net/Players/ayman-alamri/)</sup></sub>
+1987, Ron Florax, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=632), [CueTracker](http://cuetracker.net/Players/ron-florax/)</sup></sub>
+
+1997, Lyu Haotian, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=905), [CueTracker](http://cuetracker.net/Players/lyu-haotian/)</sup></sub>
 
 
-#### ***milleversary on November 28, 2025***
-1971, Matthew McGrotty, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3329)</sup></sub>
+#### ***milleversary on November 29, 2025***
 
 
 
