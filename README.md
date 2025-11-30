@@ -57,15 +57,12 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on November 29***
-1985, Jonas Luz, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4153), [CueTracker](http://cuetracker.net/Players/jonas-luz/)</sup></sub>
-
-1987, Ron Florax, 38 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=632), [CueTracker](http://cuetracker.net/Players/ron-florax/)</sup></sub>
-
-1997, Lyu Haotian, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=905), [CueTracker](http://cuetracker.net/Players/lyu-haotian/)</sup></sub>
+#### ***born on November 30***
+1983, Daniel Kandi, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1170), [CueTracker](http://cuetracker.net/Players/daniel-kandi/)</sup></sub>
 
 
-#### ***milleversary on November 29, 2025***
+#### ***milleversary on November 30, 2025***
+2001, Hamim Hussain, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2074)</sup></sub>
 
 
 
