@@ -57,12 +57,22 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on November 30***
-1983, Daniel Kandi, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1170), [CueTracker](http://cuetracker.net/Players/daniel-kandi/)</sup></sub>
+#### ***born on December  1***
+1958, Ian Williamson, 67 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3495)</sup></sub>
+
+1980, Philip Ciantar, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2398)</sup></sub>
+
+1990, Liam Highfield, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=45), [CueTracker](http://cuetracker.net/Players/liam-highfield/)</sup></sub>
+
+1995, Steven Hallworth, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=605), [CueTracker](http://cuetracker.net/Players/steven-hallworth/)</sup></sub>
+
+2004, Nils Ritenius Manjer, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3188)</sup></sub>
 
 
-#### ***milleversary on November 30, 2025***
-2001, Hamim Hussain, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2074)</sup></sub>
+#### ***milleversary on December  1, 2025***
+1938, Roy Andrewartha, 32000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3731), [CueTracker](http://cuetracker.net/Players/roy-andrewartha/)</sup></sub>
+
+1982, Neil Robertson, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=154), [CueTracker](http://cuetracker.net/Players/neil-robertson/)</sup></sub>
 
 
 
