@@ -57,22 +57,15 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on December  1***
-1958, Ian Williamson, 67 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3495)</sup></sub>
+#### ***born on December  2***
+1945, John Hargreaves, 80 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4890), [CueTracker](http://cuetracker.net/Players/john-hargreaves/)</sup></sub>
 
-1980, Philip Ciantar, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2398)</sup></sub>
+1957, Frank Jonik, 68 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4305), [CueTracker](http://cuetracker.net/Players/frank-jonik/)</sup></sub>
 
-1990, Liam Highfield, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=45), [CueTracker](http://cuetracker.net/Players/liam-highfield/)</sup></sub>
-
-1995, Steven Hallworth, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=605), [CueTracker](http://cuetracker.net/Players/steven-hallworth/)</sup></sub>
-
-2004, Nils Ritenius Manjer, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3188)</sup></sub>
+1995, William Lemons, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=886), [CueTracker](http://cuetracker.net/Players/william-lemons/)</sup></sub>
 
 
-#### ***milleversary on December  1, 2025***
-1938, Roy Andrewartha, 32000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3731), [CueTracker](http://cuetracker.net/Players/roy-andrewartha/)</sup></sub>
-
-1982, Neil Robertson, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=154), [CueTracker](http://cuetracker.net/Players/neil-robertson/)</sup></sub>
+#### ***milleversary on December  2, 2025***
 
 
 
