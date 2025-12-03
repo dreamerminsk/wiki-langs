@@ -57,15 +57,13 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on December  2***
-1945, John Hargreaves, 80 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4890), [CueTracker](http://cuetracker.net/Players/john-hargreaves/)</sup></sub>
+#### ***born on December  3***
+1990, Heidi De Gruchy, 35 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2144)</sup></sub>
 
-1957, Frank Jonik, 68 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4305), [CueTracker](http://cuetracker.net/Players/frank-jonik/)</sup></sub>
-
-1995, William Lemons, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=886), [CueTracker](http://cuetracker.net/Players/william-lemons/)</sup></sub>
+2007, Daniel Boyes, 18 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2865), [CueTracker](http://cuetracker.net/Players/daniel-boyes/)</sup></sub>
 
 
-#### ***milleversary on December  2, 2025***
+#### ***milleversary on December  3, 2025***
 
 
 
