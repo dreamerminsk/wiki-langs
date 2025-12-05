@@ -48,7 +48,7 @@
 | 1920s | 0 | 1 | 0 | 1 | 1 | 0 | 0 | 1 | 1 | 2 | 7 |
 | 1930s | 0 | 3 | 2 | 2 | 1 | 2 | 2 | 4 | 2 | 1 | 19 |
 | 1940s | 2 | 1 | 3 | 1 | 6 | 5 | 8 | 5 | 7 | 4 | 42 |
-| 1950s | 2 | 2 | 4 | 3 | 7 | 6 | 3 | 3 | 9 | 4 | 43 |
+| 1950s | 2 | 2 | 4 | 3 | 7 | 6 | 3 | 4 | 9 | 4 | 44 |
 | 1960s | 7 | 3 | 6 | 11 | 11 | 10 | 13 | 22 | 20 | 35 | 138 |
 | 1970s | 35 | 42 | 37 | 35 | 28 | 37 | 34 | 21 | 26 | 19 | 314 |
 | 1980s | 22 | 22 | 27 | 20 | 19 | 31 | 20 | 19 | 20 | 31 | 231 |
@@ -57,11 +57,28 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on December  4***
+#### ***born on December  5***
+1951, John Rea, 74 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=710), [CueTracker](http://cuetracker.net/Players/john-rea/)</sup></sub>
+
+1975, Ronnie O'Sullivan, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=5), [CueTracker](http://cuetracker.net/Players/ronnie-osullivan/)</sup></sub>
+
+1986, Zack Richardson, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1201), [CueTracker](http://cuetracker.net/Players/zack-richardson/)</sup></sub>
+
+1993, Waratthanun Sukritthanes, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2182), [CueTracker](http://cuetracker.net/Players/waratthanun-sukritthanes/)</sup></sub>
+
+1998, Chris Totten, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1186), [CueTracker](http://cuetracker.net/Players/chris-totten/)</sup></sub>
+
+2004, Miguel Ruivo, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4030), [CueTracker](http://cuetracker.net/Players/miguel-ruivo/)</sup></sub>
 
 
-#### ***milleversary on December  4, 2025***
-1993, Conor McCormack, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1593), [CueTracker](http://cuetracker.net/Players/conor-mccormack/)</sup></sub>
+#### ***milleversary on December  5, 2025***
+1987, Abdulraouf Sayegh, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2466), [CueTracker](http://cuetracker.net/Players/abdulraouf-sayegh/)</sup></sub>
+
+1993, Michael Leslie, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=528), [CueTracker](http://cuetracker.net/Players/michael-leslie/)</sup></sub>
+
+1995, Jamie Jones (1995), 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2787)</sup></sub>
+
+2006, Ronan McGuirk, 7000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4149), [CueTracker](http://cuetracker.net/Players/ronan-mcguirk/)</sup></sub>
 
 
 
