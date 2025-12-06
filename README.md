@@ -57,28 +57,15 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on December  5***
-1951, John Rea, 74 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=710), [CueTracker](http://cuetracker.net/Players/john-rea/)</sup></sub>
+#### ***born on December  6***
+1991, Kurt Dunham, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2064), [CueTracker](http://cuetracker.net/Players/kurt-dunham/)</sup></sub>
 
-1975, Ronnie O'Sullivan, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=5), [CueTracker](http://cuetracker.net/Players/ronnie-osullivan/)</sup></sub>
+1994, Chan Chi Chun, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4701), [CueTracker](http://cuetracker.net/Players/chi-chun-chan/)</sup></sub>
 
-1986, Zack Richardson, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1201), [CueTracker](http://cuetracker.net/Players/zack-richardson/)</sup></sub>
-
-1993, Waratthanun Sukritthanes, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2182), [CueTracker](http://cuetracker.net/Players/waratthanun-sukritthanes/)</sup></sub>
-
-1998, Chris Totten, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1186), [CueTracker](http://cuetracker.net/Players/chris-totten/)</sup></sub>
-
-2004, Miguel Ruivo, 21 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4030), [CueTracker](http://cuetracker.net/Players/miguel-ruivo/)</sup></sub>
+2003, Aidan Gallagher, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3130), [CueTracker](http://cuetracker.net/Players/aidan-gallagher/)</sup></sub>
 
 
-#### ***milleversary on December  5, 2025***
-1987, Abdulraouf Sayegh, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2466), [CueTracker](http://cuetracker.net/Players/abdulraouf-sayegh/)</sup></sub>
-
-1993, Michael Leslie, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=528), [CueTracker](http://cuetracker.net/Players/michael-leslie/)</sup></sub>
-
-1995, Jamie Jones (1995), 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2787)</sup></sub>
-
-2006, Ronan McGuirk, 7000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4149), [CueTracker](http://cuetracker.net/Players/ronan-mcguirk/)</sup></sub>
+#### ***milleversary on December  6, 2025***
 
 
 
