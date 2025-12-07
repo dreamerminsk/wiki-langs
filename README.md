@@ -57,15 +57,12 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on December  6***
-1991, Kurt Dunham, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2064), [CueTracker](http://cuetracker.net/Players/kurt-dunham/)</sup></sub>
-
-1994, Chan Chi Chun, 31 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4701), [CueTracker](http://cuetracker.net/Players/chi-chun-chan/)</sup></sub>
-
-2003, Aidan Gallagher, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3130), [CueTracker](http://cuetracker.net/Players/aidan-gallagher/)</sup></sub>
+#### ***born on December  7***
+1979, Luke Simmonds, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=519), [CueTracker](http://cuetracker.net/Players/luke-simmonds/)</sup></sub>
 
 
-#### ***milleversary on December  6, 2025***
+#### ***milleversary on December  7, 2025***
+1987, Chau Hon Man, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1090), [CueTracker](http://cuetracker.net/Players/chau-hon-man/)</sup></sub>
 
 
 
