@@ -57,12 +57,24 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on December  7***
-1979, Luke Simmonds, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=519), [CueTracker](http://cuetracker.net/Players/luke-simmonds/)</sup></sub>
+#### ***born on December  8***
+1954, Graham Cripsey, 71 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3699), [CueTracker](http://cuetracker.net/Players/graham-cripsey/)</sup></sub>
+
+1975, Rhydian Richards, 50 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2310), [CueTracker](http://cuetracker.net/Players/rhydian-richards/)</sup></sub>
+
+1977, Jon Wibberley, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3361)</sup></sub>
+
+1983, Liu Song, 42 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=46), [CueTracker](http://cuetracker.net/Players/liu-song/)</sup></sub>
+
+1991, Mitchell Travis, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=132), [CueTracker](http://cuetracker.net/Players/mitchell-travis/)</sup></sub>
+
+1996, Liu Jiaming, 29 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1159), [CueTracker](http://cuetracker.net/Players/liu-jiaming/)</sup></sub>
+
+2003, Liu Wenwei, 22 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3151)</sup></sub>
 
 
-#### ***milleversary on December  7, 2025***
-1987, Chau Hon Man, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1090), [CueTracker](http://cuetracker.net/Players/chau-hon-man/)</sup></sub>
+#### ***milleversary on December  8, 2025***
+1995, Andrei Orzan, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1867), [CueTracker](http://cuetracker.net/Players/andrei-orzan/)</sup></sub>
 
 
 
