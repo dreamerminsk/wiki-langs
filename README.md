@@ -57,19 +57,12 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on December  9***
-1966, Dave Harold, 59 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=31), [CueTracker](http://cuetracker.net/Players/dave-harold/)</sup></sub>
-
-1966, Wayne Rendle, 59 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3458), [CueTracker](http://cuetracker.net/Players/wayne-rendle/)</sup></sub>
-
-1972, Colin Donaldson, 53 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3419)</sup></sub>
-
-1997, Peter Butler, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2763), [CueTracker](http://cuetracker.net/Players/peter-butler/)</sup></sub>
-
-2008, O'Shay Scott, 17 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3989), [CueTracker](http://cuetracker.net/Players/oshay-scott/)</sup></sub>
+#### ***born on December 10***
+1991, Kyle Holland, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3060), [CueTracker](http://cuetracker.net/Players/kyle-holland/)</sup></sub>
 
 
-#### ***milleversary on December  9, 2025***
+#### ***milleversary on December 10, 2025***
+1984, Sourav Kothari, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2095)</sup></sub>
 
 
 
