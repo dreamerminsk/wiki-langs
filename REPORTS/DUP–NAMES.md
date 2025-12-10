@@ -30,7 +30,7 @@
 | Daniel Stevenson <br> [2045, 2045] | 2 |
 | Davut Dikme <br> [2389, 2389] | 2 |
 | Elias Martin-Beris <br> [2856, 2856] | 2 |
-| Emma Parker <br> [2169, 2169] | 2 |
+| Emma Parker <br> [2169, 2169, 2169] | 3 |
 | Fabian Haken <br> [2077, 2077] | 2 |
 | Fabian Monnin <br> [2266, 2266] | 2 |
 | Floyd Ziegler <br> [979, 979] | 2 |
