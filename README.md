@@ -57,12 +57,20 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on December 10***
-1991, Kyle Holland, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3060), [CueTracker](http://cuetracker.net/Players/kyle-holland/)</sup></sub>
+#### ***born on December 11***
+1954, Ian Black, 71 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3705), [CueTracker](http://cuetracker.net/Players/ian-black/)</sup></sub>
+
+1969, Peter Lines, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=37), [CueTracker](http://cuetracker.net/Players/peter-lines/)</sup></sub>
+
+1971, Spencer Donnelly, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3335)</sup></sub>
+
+1976, Mohammed Shehab, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=418), [CueTracker](http://cuetracker.net/Players/mohammed-shehab/)</sup></sub>
 
 
-#### ***milleversary on December 10, 2025***
-1984, Sourav Kothari, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2095)</sup></sub>
+#### ***milleversary on December 11, 2025***
+1979, Omar Alajlani, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2367)</sup></sub>
+
+2001, Sybren Sokolowski, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1006), [CueTracker](http://cuetracker.net/Players/sybren-sokolowski/)</sup></sub>
 
 
 
