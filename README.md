@@ -52,25 +52,18 @@
 | 1960s | 7 | 3 | 6 | 11 | 11 | 10 | 13 | 22 | 20 | 35 | 138 |
 | 1970s | 35 | 42 | 37 | 37 | 28 | 38 | 34 | 21 | 26 | 19 | 317 |
 | 1980s | 22 | 22 | 27 | 20 | 19 | 31 | 20 | 19 | 20 | 31 | 231 |
-| 1990s | 32 | 38 | 31 | 34 | 27 | 38 | 29 | 18 | 23 | 25 | 295 |
+| 1990s | 32 | 38 | 31 | 34 | 27 | 39 | 29 | 18 | 23 | 25 | 296 |
 | 2000s | 29 | 22 | 27 | 24 | 18 | 20 | 11 | 11 | 12 | 5 | 179 |
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on December 11***
-1954, Ian Black, 71 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3705), [CueTracker](http://cuetracker.net/Players/ian-black/)</sup></sub>
+#### ***born on December 12***
+1923, John Pulman, 102 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3729), [CueTracker](http://cuetracker.net/Players/john-pulman/)</sup></sub>
 
-1969, Peter Lines, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=37), [CueTracker](http://cuetracker.net/Players/peter-lines/)</sup></sub>
-
-1971, Spencer Donnelly, 54 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3335)</sup></sub>
-
-1976, Mohammed Shehab, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=418), [CueTracker](http://cuetracker.net/Players/mohammed-shehab/)</sup></sub>
+2005, Oliver Sykes, 20 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2797), [CueTracker](http://cuetracker.net/Players/oliver-sykes/)</sup></sub>
 
 
-#### ***milleversary on December 11, 2025***
-1979, Omar Alajlani, 17000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2367)</sup></sub>
-
-2001, Sybren Sokolowski, 9000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1006), [CueTracker](http://cuetracker.net/Players/sybren-sokolowski/)</sup></sub>
+#### ***milleversary on December 12, 2025***
 
 
 
