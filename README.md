@@ -57,20 +57,27 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on December 13***
-1977, Andrew Higginson, 48 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=25), [CueTracker](http://cuetracker.net/Players/andrew-higginson/)</sup></sub>
+#### ***born on December 14***
+1970, Johnathan Bagley, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1655), [CueTracker](http://cuetracker.net/Players/jonathan-bagley/)</sup></sub>
 
-1986, Adeel Aqdus, 39 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4410), [CueTracker](http://cuetracker.net/Players/adeel-aqdus/)</sup></sub>
+1970, Jonathan Bagley, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3336)</sup></sub>
 
-1995, Ratchayothin Yotharuck, 30 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1263), [CueTracker](http://cuetracker.net/Players/ratchayothin-yotharuck/)</sup></sub>
+1976, Alfie Burden, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=21), [CueTracker](http://cuetracker.net/Players/alfie-burden/)</sup></sub>
 
-2009, Ziyad Alqabbani, 16 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4409), [CueTracker](http://cuetracker.net/Players/ziyad-alqabbani/)</sup></sub>
+1979, Ahmed Aly Elsayed, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2346), [CueTracker](http://cuetracker.net/Players/ahmed-aly-elsayed/)</sup></sub>
+
+1982, Habib Subah Humood, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=226), [CueTracker](http://cuetracker.net/Players/habib-subah/)</sup></sub>
+
+1982, Habib Subah Humood, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4208), [CueTracker](http://cuetracker.net/Players/habib-subah/)</sup></sub>
+
+1993, Thanawat Tirapongpaiboon, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=216), [CueTracker](http://cuetracker.net/Players/thanawat-thirapongpaiboon/)</sup></sub>
+
+2002, Digvijay Kadian, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2441)</sup></sub>
+
+2007, Ethan Llewellyn, 18 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4643), [CueTracker](http://cuetracker.net/Players/ethan-llewellyn/)</sup></sub>
 
 
-#### ***milleversary on December 13, 2025***
-1971, Richard Batty, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3355)</sup></sub>
-
-1987, Tian Pengfei, 14000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=218), [CueTracker](http://cuetracker.net/Players/tian-pengfei/)</sup></sub>
+#### ***milleversary on December 14, 2025***
 
 
 
