@@ -57,27 +57,30 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on December 14***
-1970, Johnathan Bagley, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1655), [CueTracker](http://cuetracker.net/Players/jonathan-bagley/)</sup></sub>
+#### ***born on December 15***
+1946, Jim Meadowcroft, 79 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3733), [CueTracker](http://cuetracker.net/Players/mick-fisher/)</sup></sub>
 
-1970, Jonathan Bagley, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3336)</sup></sub>
+1946, Jim Meadowcroft, 79 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3734), [CueTracker](http://cuetracker.net/Players/mick-fisher/)</sup></sub>
 
-1976, Alfie Burden, 49 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=21), [CueTracker](http://cuetracker.net/Players/alfie-burden/)</sup></sub>
+1981, Francisco Domingues, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1004), [CueTracker](http://cuetracker.net/Players/francisco-domingues/)</sup></sub>
 
-1979, Ahmed Aly Elsayed, 46 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2346), [CueTracker](http://cuetracker.net/Players/ahmed-aly-elsayed/)</sup></sub>
+1982, Brendan O'Donoghue, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=473), [CueTracker](http://cuetracker.net/Players/brendan-odonoghue/)</sup></sub>
 
-1982, Habib Subah Humood, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=226), [CueTracker](http://cuetracker.net/Players/habib-subah/)</sup></sub>
+1997, Simon Lichtenberg, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1567), [CueTracker](http://cuetracker.net/Players/simon-lichtenberg/)</sup></sub>
 
-1982, Habib Subah Humood, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4208), [CueTracker](http://cuetracker.net/Players/habib-subah/)</sup></sub>
+1998, Mario-Zeljo Milosevic, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2276)</sup></sub>
 
-1993, Thanawat Tirapongpaiboon, 32 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=216), [CueTracker](http://cuetracker.net/Players/thanawat-thirapongpaiboon/)</sup></sub>
-
-2002, Digvijay Kadian, 23 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2441)</sup></sub>
-
-2007, Ethan Llewellyn, 18 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4643), [CueTracker](http://cuetracker.net/Players/ethan-llewellyn/)</sup></sub>
+1999, Jasmine Bolsover, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2167), [CueTracker](http://cuetracker.net/Players/jasmine-bolsover/)</sup></sub>
 
 
-#### ***milleversary on December 14, 2025***
+#### ***milleversary on December 15, 2025***
+1965, Tony Drago, 22000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=41), [CueTracker](http://cuetracker.net/Players/tony-drago/)</sup></sub>
+
+1976, Bjorn Haneveer, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=64), [CueTracker](http://cuetracker.net/Players/bjorn-haneveer/)</sup></sub>
+
+1990, Stuart Carrington, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=128), [CueTracker](http://cuetracker.net/Players/stuart-carrington/)</sup></sub>
+
+2004, Dhruv Jatan Patel, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3166), [CueTracker](http://cuetracker.net/Players/dhruv-patel/)</sup></sub>
 
 
 
