@@ -57,30 +57,16 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on December 15***
-1946, Jim Meadowcroft, 79 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3733), [CueTracker](http://cuetracker.net/Players/mick-fisher/)</sup></sub>
+#### ***born on December 16***
+1973, Andrew Radford, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3370)</sup></sub>
 
-1946, Jim Meadowcroft, 79 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3734), [CueTracker](http://cuetracker.net/Players/mick-fisher/)</sup></sub>
-
-1981, Francisco Domingues, 44 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1004), [CueTracker](http://cuetracker.net/Players/francisco-domingues/)</sup></sub>
-
-1982, Brendan O'Donoghue, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=473), [CueTracker](http://cuetracker.net/Players/brendan-odonoghue/)</sup></sub>
-
-1997, Simon Lichtenberg, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1567), [CueTracker](http://cuetracker.net/Players/simon-lichtenberg/)</sup></sub>
-
-1998, Mario-Zeljo Milosevic, 27 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2276)</sup></sub>
-
-1999, Jasmine Bolsover, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2167), [CueTracker](http://cuetracker.net/Players/jasmine-bolsover/)</sup></sub>
+1988, Kritsanut Lertsattayatthorn, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1577), [CueTracker](http://cuetracker.net/Players/kritsanut-lertsattayathorn/)</sup></sub>
 
 
-#### ***milleversary on December 15, 2025***
-1965, Tony Drago, 22000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=41), [CueTracker](http://cuetracker.net/Players/tony-drago/)</sup></sub>
+#### ***milleversary on December 16, 2025***
+1971, Stephen Delaney, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3420)</sup></sub>
 
-1976, Bjorn Haneveer, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=64), [CueTracker](http://cuetracker.net/Players/bjorn-haneveer/)</sup></sub>
-
-1990, Stuart Carrington, 13000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=128), [CueTracker](http://cuetracker.net/Players/stuart-carrington/)</sup></sub>
-
-2004, Dhruv Jatan Patel, 8000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3166), [CueTracker](http://cuetracker.net/Players/dhruv-patel/)</sup></sub>
+1976, Hussain Ahmed, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2710)</sup></sub>
 
 
 
