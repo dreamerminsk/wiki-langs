@@ -57,16 +57,22 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on December 16***
-1973, Andrew Radford, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3370)</sup></sub>
+#### ***born on December 17***
+1966, Yasin Merchant, 59 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3297)</sup></sub>
 
-1988, Kritsanut Lertsattayatthorn, 37 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1577), [CueTracker](http://cuetracker.net/Players/kritsanut-lertsattayathorn/)</sup></sub>
+1967, Karl Burrows, 58 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2872)</sup></sub>
+
+1968, Munier Cassim, 57 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3396)</sup></sub>
+
+1970, Karl Beare, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3375)</sup></sub>
+
+1991, Laxman Rawat, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1351), [CueTracker](http://cuetracker.net/Players/laxman-rawat/)</sup></sub>
+
+2010, Wang Xinzhong, 15 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3462)</sup></sub>
 
 
-#### ***milleversary on December 16, 2025***
-1971, Stephen Delaney, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3420)</sup></sub>
-
-1976, Hussain Ahmed, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2710)</sup></sub>
+#### ***milleversary on December 17, 2025***
+1982, Maria Catalano, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2119), [CueTracker](http://cuetracker.net/Players/maria-catalano/)</sup></sub>
 
 
 
