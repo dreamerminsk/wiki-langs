@@ -57,22 +57,22 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on December 17***
-1966, Yasin Merchant, 59 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3297)</sup></sub>
+#### ***born on December 18***
+1973, Chris Barnard, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3334)</sup></sub>
 
-1967, Karl Burrows, 58 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2872)</sup></sub>
+1973, Damian Massey, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3263)</sup></sub>
 
-1968, Munier Cassim, 57 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3396)</sup></sub>
+1985, Mike Finn, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=233), [CueTracker](http://cuetracker.net/Players/mike-finn/)</sup></sub>
 
-1970, Karl Beare, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3375)</sup></sub>
+1997, Daniel Gorton, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2208)</sup></sub>
 
-1991, Laxman Rawat, 34 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1351), [CueTracker](http://cuetracker.net/Players/laxman-rawat/)</sup></sub>
-
-2010, Wang Xinzhong, 15 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3462)</sup></sub>
+2001, Florian Nüßle, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1835), [CueTracker](http://cuetracker.net/Players/florian-nusle/)</sup></sub>
 
 
-#### ***milleversary on December 17, 2025***
-1982, Maria Catalano, 16000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2119), [CueTracker](http://cuetracker.net/Players/maria-catalano/)</sup></sub>
+#### ***milleversary on December 18, 2025***
+1984, David John, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1737), [CueTracker](http://cuetracker.net/Players/david-john/)</sup></sub>
+
+1993, Saqib Nasir, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=522), [CueTracker](http://cuetracker.net/Players/saqib-nasir/)</sup></sub>
 
 
 
