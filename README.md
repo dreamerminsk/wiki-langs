@@ -57,22 +57,14 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on December 18***
-1973, Chris Barnard, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3334)</sup></sub>
-
-1973, Damian Massey, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3263)</sup></sub>
-
-1985, Mike Finn, 40 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=233), [CueTracker](http://cuetracker.net/Players/mike-finn/)</sup></sub>
-
-1997, Daniel Gorton, 28 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2208)</sup></sub>
-
-2001, Florian Nüßle, 24 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1835), [CueTracker](http://cuetracker.net/Players/florian-nusle/)</sup></sub>
+#### ***born on December 19***
+1969, Nick Dyson, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=922), [CueTracker](http://cuetracker.net/Players/nick-dyson/)</sup></sub>
 
 
-#### ***milleversary on December 18, 2025***
-1984, David John, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1737), [CueTracker](http://cuetracker.net/Players/david-john/)</sup></sub>
+#### ***milleversary on December 19, 2025***
+1976, Darren Shaw, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3351)</sup></sub>
 
-1993, Saqib Nasir, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=522), [CueTracker](http://cuetracker.net/Players/saqib-nasir/)</sup></sub>
+1995, Joe O'Connor, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1038), [CueTracker](http://cuetracker.net/Players/joe-oconnor/)</sup></sub>
 
 
 
