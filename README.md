@@ -57,14 +57,11 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on December 19***
-1969, Nick Dyson, 56 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=922), [CueTracker](http://cuetracker.net/Players/nick-dyson/)</sup></sub>
+#### ***born on December 20***
+1980, Gary Challis, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2051), [CueTracker](http://cuetracker.net/Players/gary-challis/)</sup></sub>
 
 
-#### ***milleversary on December 19, 2025***
-1976, Darren Shaw, 18000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3351)</sup></sub>
-
-1995, Joe O'Connor, 11000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=1038), [CueTracker](http://cuetracker.net/Players/joe-oconnor/)</sup></sub>
+#### ***milleversary on December 20, 2025***
 
 
 
