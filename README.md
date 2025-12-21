@@ -57,11 +57,11 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on December 20***
-1980, Gary Challis, 45 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2051), [CueTracker](http://cuetracker.net/Players/gary-challis/)</sup></sub>
+#### ***born on December 21***
+1970, Kevin Smith, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3350)</sup></sub>
 
 
-#### ***milleversary on December 20, 2025***
+#### ***milleversary on December 21, 2025***
 
 
 
