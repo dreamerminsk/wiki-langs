@@ -3,7 +3,7 @@
 
 | NATION | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 | 2020s |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | 
-| **ENG** | 12 | 5 | 7 | 13 | 12 | 7 | 0 | 0 | 0 | 0 | 56 |
+| **ENG** | 12 | 5 | 7 | 13 | 12 | 8 | 0 | 0 | 0 | 0 | 57 |
 | **AUS** | 3 | 2 | 2 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 10 |
 | **CHN** | 0 | 1 | 2 | 1 | 3 | 3 | 0 | 0 | 0 | 0 | 10 |
 | **NIR** | 0 | 2 | 2 | 2 | 1 | 1 | 0 | 0 | 0 | 0 | 8 |
@@ -19,7 +19,7 @@
 | **1985–89** | 6 | 4 | 4 | 6 | 8 | 2 | 0 | 0 | 0 | 0 | 30 |
 | **1980–84** | 7 | 5 | 4 | 4 | 3 | 6 | 0 | 0 | 0 | 0 | 29 |
 | **1975–79** | 2 | 4 | 2 | 5 | 3 | 4 | 0 | 0 | 0 | 0 | 20 |
-| **1990–94** | 1 | 0 | 2 | 2 | 3 | 3 | 0 | 0 | 0 | 0 | 11 |
+| **1990–94** | 1 | 0 | 2 | 2 | 3 | 4 | 0 | 0 | 0 | 0 | 12 |
 | **1995–99** | 0 | 2 | 2 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 6 |
 | **2000–04** | 0 | 0 | 1 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 3 |
 | **1970–74** | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
@@ -57,11 +57,22 @@
 | 2010s | 4 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 8 |
 
 
-#### ***born on December 21***
-1970, Kevin Smith, 55 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3350)</sup></sub>
+#### ***born on December 22***
+1973, Eddie Barker, 52 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3236)</sup></sub>
+
+1982, Qiu Lei, 43 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=4316)</sup></sub>
+
+1999, Harry Farrell, 26 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2488)</sup></sub>
 
 
-#### ***milleversary on December 21, 2025***
+#### ***milleversary on December 22, 2025***
+1971, Pat Kenny, 20000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3478)</sup></sub>
+
+1973, Andrew Radford, 19000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=3370)</sup></sub>
+
+1984, Allan Taylor, 15000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=26), [CueTracker](http://cuetracker.net/Players/allan-taylor/)</sup></sub>
+
+1993, Andrew Smith, 12000 <sub><sup>[Snooker](http://www.snooker.org/res/index.asp?player=2351)</sup></sub>
 
 
 
